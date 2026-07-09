@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-07",
+  "editionTitle": "IB ACIO Daily News",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक समाचार",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Government Schemes",
+      "category_hi": "सरकारी योजनाएं",
+      "title": "PM SVANidhi Scheme Crosses 50 Lakh Beneficiaries",
+      "title_hi": "पीएम स्वनिधि योजना 50 लाख लाभार्थियों को पार कर गई",
+      "image": null,
+      "summary": "The PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi) scheme has provided micro-credit to over 50 lakh street vendors across India.",
+      "summary_hi": "पीएम स्ट्रीट वेंडर आत्मनिर्भर निधि (पीएम स्वनिधि) योजना ने पूरे भारत में 50 लाख से अधिक स्ट्रीट वेंडर्स को सूक्ष्म ऋण प्रदान किया है।",
+      "content": "Launched on June 1, 2020, PM SVANidhi is a special micro-credit facility for street vendors to help them resume business post-COVID-19.\n\nVendors can avail a working capital loan of up to ₹10,000, repayable in monthly instalments. On timely repayment, they become eligible for an enhanced credit of ₹20,000 and later ₹50,000.\n\nThe scheme is implemented by the Ministry of Housing and Urban Affairs. Connect this with PM Vishwakarma — both target informal sector workers.",
+      "content_hi": "1 जून 2020 को शुरू की गई पीएम स्वनिधि COVID-19 के बाद स्ट्रीट वेंडर्स को व्यापार फिर से शुरू करने में मदद के लिए एक विशेष सूक्ष्म ऋण सुविधा है।\n\nवेंडर्स ₹10,000 तक का कार्यशील पूंजी ऋण प्राप्त कर सकते हैं। समय पर भुगतान पर ₹20,000 और बाद में ₹50,000 का ऋण मिल सकता है।\n\nयह योजना आवास और शहरी मामलों के मंत्रालय द्वारा लागू की जाती है।",
+      "question": "Under which ministry is PM SVANidhi implemented?",
+      "question_hi": "पीएम स्वनिधि किस मंत्रालय के अंतर्गत लागू है?",
+      "options": ["Ministry of MSME", "Ministry of Housing and Urban Affairs", "Ministry of Finance", "Ministry of Labour"],
+      "options_hi": ["MSME मंत्रालय", "आवास और शहरी मामलों का मंत्रालय", "वित्त मंत्रालय", "श्रम मंत्रालय"],
+      "correctAnswer": 1,
+      "explanation": "PM SVANidhi is implemented by the Ministry of Housing and Urban Affairs (MoHUA).",
+      "explanation_hi": "पीएम स्वनिधि आवास और शहरी मामलों के मंत्रालय (MoHUA) द्वारा लागू की जाती है।",
+      "moreInfo": "Connected to PM Vishwakarma (artisans). PM SVANidhi initial loan: ₹10,000. Launched during COVID-19 pandemic for urban street vendors.",
+      "moreInfo_hi": "पीएम विश्वकर्मा (कारीगरों) से जुड़ा। प्रारंभिक ऋण: ₹10,000। COVID-19 के दौरान शहरी स्ट्रीट वेंडर्स के लिए शुरू।",
+      "relatedDate": "2026-07-09"
+    }
+  ]
+}
