@@ -1,1 +1,328 @@
+{
+  "date": "2026-07-25",
+  "editionTitle": "IB ACIO Daily Current Affairs — 25 July 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 25 जुलाई 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "World Drowning Prevention Day — 25 July",
+      "title_hi": "विश्व डूबने से बचाव दिवस — 25 जुलाई",
+      "image": null,
+      "summary": "World Drowning Prevention Day (25 July) is a UN observance highlighting drowning as a preventable public health challenge.",
+      "summary_hi": "विश्व डूबने से बचाव दिवस (25 जुलाई) डूबने को रोके जा सकने वाली सार्वजनिक स्वास्थ्य चुनौती बताता है।",
+      "content": "World Drowning Prevention Day is observed on 25 July, designated by the UN General Assembly. Drowning is a major cause of unintentional injury deaths worldwide, especially among children.\n\nWHO promotes swim skills, supervision, barriers, and flood preparedness. In India, monsoon and flood seasons raise drowning risks — linking the day to disaster awareness.\n\nFor IB ACIO: date (25 July), UN day, WHO prevention focus.",
+      "content_hi": "25 जुलाई — UN दिवस। WHO बचाव रणनीति। मानसून/बाढ़ में भारत में जोखिम।\n\nIB ACIO: 25 July — याद रखें।",
+      "question": "World Drowning Prevention Day is observed on:",
+      "question_hi": "विश्व डूबने से बचाव दिवस कब मनाया जाता है?",
+      "options": [
+        "5 June",
+        "25 July",
+        "29 July",
+        "10 November"
+      ],
+      "options_hi": [
+        "5 जून",
+        "25 जुलाई",
+        "29 जुलाई",
+        "10 नवंबर"
+      ],
+      "correctAnswer": 1,
+      "explanation": "It is observed annually on 25 July as a UN day.",
+      "explanation_hi": "यह हर वर्ष 25 जुलाई को UN दिवस के रूप में मनाया जाता है।",
+      "moreInfo": "Related: NDMA disaster framework in next article.",
+      "moreInfo_hi": "संबंधित: अगला लेख NDMA।",
+      "relatedDate": null
+    },
+    {
+      "id": "2",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "NDMA — National Disaster Management Authority",
+      "title_hi": "NDMA — राष्ट्रीय आपदा प्रबंधन प्राधिकरण",
+      "image": null,
+      "summary": "NDMA is India’s apex disaster management body under the DM Act 2005, chaired by the Prime Minister.",
+      "summary_hi": "NDMA आपदा प्रबंधन अधिनियम 2005 के तहत शीर्ष निकाय, प्रधानमंत्री अध्यक्ष।",
+      "content": "NDMA was constituted under the Disaster Management Act, 2005. The Prime Minister is Chairperson. SDMAs are headed by Chief Ministers. NDRF is the specialised response force.\n\nIndia’s approach emphasises prevention, mitigation, and preparedness — not only post-disaster relief.\n\nFor IB ACIO: DM Act 2005, PM Chairperson, NDRF.",
+      "content_hi": "NDMA: 2005, PM अध्यक्ष। SDMA: CM। NDRF प्रतिक्रिया बल।\n\nIB ACIO: 2005, PM — याद रखें।",
+      "question": "Who chairs the NDMA?",
+      "question_hi": "NDMA की अध्यक्षता कौन करता है?",
+      "options": [
+        "Home Minister",
+        "Prime Minister",
+        "President",
+        "Cabinet Secretary"
+      ],
+      "options_hi": [
+        "गृह मंत्री",
+        "प्रधानमंत्री",
+        "राष्ट्रपति",
+        "कैबिनेट सचिव"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Prime Minister is the Chairperson of NDMA.",
+      "explanation_hi": "प्रधानमंत्री NDMA के अध्यक्ष होते हैं।",
+      "moreInfo": "Related: today’s drowning prevention day.",
+      "moreInfo_hi": "संबंधित: आज का drowning prevention दिवस।",
+      "relatedDate": "2026-07-25"
+    },
+    {
+      "id": "3",
+      "category": "Government Schemes",
+      "category_hi": "सरकारी योजनाएं",
+      "title": "PM SVANidhi — Loans for Street Vendors",
+      "title_hi": "पीएम स्वनिधि — स्ट्रीट वेंडर्स के लिए ऋण",
+      "image": null,
+      "summary": "PM SVANidhi provides affordable working-capital loans to street vendors under MoHUA.",
+      "summary_hi": "पीएम स्वनिधि स्ट्रीट वेंडर्स को किफायती कार्यशील पूंजी ऋण — MoHUA।",
+      "content": "PM Street Vendor’s AtmaNirbhar Nidhi (PM SVANidhi) supports street vendors with collateral-free working capital loans and incentives for timely repayment and digital payments.\n\nImplemented by the Ministry of Housing and Urban Affairs, it aids livelihood recovery and formalisation of urban informal workers.\n\nFor IB ACIO: MoHUA, street vendors, collateral-free loans.",
+      "content_hi": "PM SVANidhi: आवास एवं शहरी कार्य मंत्रालय। बिना गारंटी ऋण।\n\nIB ACIO: MoHUA — याद रखें।",
+      "question": "PM SVANidhi is implemented by which Ministry?",
+      "question_hi": "पीएम स्वनिधि किस मंत्रालय द्वारा लागू होती है?",
+      "options": [
+        "Ministry of Finance",
+        "Ministry of Housing and Urban Affairs",
+        "Ministry of Labour",
+        "Ministry of Rural Development"
+      ],
+      "options_hi": [
+        "वित्त मंत्रालय",
+        "आवास एवं शहरी कार्य मंत्रालय",
+        "श्रम मंत्रालय",
+        "ग्रामीण विकास मंत्रालय"
+      ],
+      "correctAnswer": 1,
+      "explanation": "PM SVANidhi is under the Ministry of Housing and Urban Affairs.",
+      "explanation_hi": "पीएम स्वनिधि आवास एवं शहरी कार्य मंत्रालय के तहत है।",
+      "moreInfo": "Earlier editions also noted SVANidhi beneficiary milestones.",
+      "moreInfo_hi": "पहले संस्करणों में भी स्वनिधि कवर।",
+      "relatedDate": null
+    },
+    {
+      "id": "4",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "Repo Corridor — LAF and Liquidity Management",
+      "title_hi": "रेपो कॉरिडोर — LAF और तरलता प्रबंधन",
+      "image": null,
+      "summary": "RBI manages liquidity through the Liquidity Adjustment Facility using repo, reverse repo/SDF, and related tools.",
+      "summary_hi": "RBI तरलता समायोजन सुविधा के जरिए repo, reverse repo/SDF आदि से तरलता प्रबंधित करता है।",
+      "content": "The Liquidity Adjustment Facility (LAF) is RBI’s framework to inject or absorb liquidity. Repo injects liquidity; reverse repo/Standing Deposit Facility absorbs surplus.\n\nThese tools work with CRR/SLR and are guided by MPC’s policy rate decisions. Understanding the liquidity corridor is core banking GK.\n\nFor IB ACIO: LAF, repo (inject), reverse repo/SDF (absorb).",
+      "content_hi": "LAF: तरलता समायोजन। Repo = इंजेक्शन; Reverse repo/SDF = अवशोषण।\n\nIB ACIO: LAF basics — याद रखें।",
+      "question": "Which tool typically injects liquidity into the banking system?",
+      "question_hi": "कौन सा उपकरण सामान्यतः बैंकिंग प्रणाली में तरलता डालता है?",
+      "options": [
+        "CRR hike",
+        "Repo operations",
+        "SLR hike",
+        "Import duty hike"
+      ],
+      "options_hi": [
+        "CRR वृद्धि",
+        "Repo परिचालन",
+        "SLR वृद्धि",
+        "आयात शुल्क वृद्धि"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Repo operations inject liquidity by lending to banks against securities.",
+      "explanation_hi": "Repo परिचालन प्रतिभूतियों के बदले बैंकों को उधार देकर तरलता डालता है।",
+      "moreInfo": "Related: Repo vs Reverse Repo (20 July), CRR/SLR (22 July).",
+      "moreInfo_hi": "संबंधित: Repo/Reverse Repo, CRR/SLR।",
+      "relatedDate": "2026-07-22"
+    },
+    {
+      "id": "5",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "Border Security Force (BSF) — India’s Border Guarding Force",
+      "title_hi": "सीमा सुरक्षा बल (BSF) — भारत का सीमा रक्षक बल",
+      "image": null,
+      "summary": "BSF is India’s primary border guarding force for Pakistan and Bangladesh borders, under the Ministry of Home Affairs.",
+      "summary_hi": "BSF पाकिस्तान और बांग्लादेश सीमाओं का प्रमुख रक्षक बल — गृह मंत्रालय।",
+      "content": "The Border Security Force was raised in 1965 after the India–Pakistan war. It guards India’s borders with Pakistan and Bangladesh and is the world’s largest border guarding force.\n\nBSF functions under the Ministry of Home Affairs as a Central Armed Police Force (CAPF). Other CAPFs include CRPF, ITBP, SSB, CISF, and Assam Rifles (special status).\n\nFor IB ACIO: raised 1965, Pak/Bangladesh borders, MHA/CAPF.",
+      "content_hi": "BSF 1965। पाक व बांग्लादेश सीमा। गृह मंत्रालय, CAPF।\n\nIB ACIO: 1965, MHA — याद रखें।",
+      "question": "BSF was raised in which year?",
+      "question_hi": "BSF किस वर्ष स्थापित हुआ?",
+      "options": [
+        "1947",
+        "1962",
+        "1965",
+        "1971"
+      ],
+      "options_hi": [
+        "1947",
+        "1962",
+        "1965",
+        "1971"
+      ],
+      "correctAnswer": 2,
+      "explanation": "BSF was raised in 1965.",
+      "explanation_hi": "BSF वर्ष 1965 में स्थापित हुआ।",
+      "moreInfo": "Upcoming: CRPF Foundation Day on 27 July.",
+      "moreInfo_hi": "आगामी: 27 जुलाई CRPF स्थापना दिवस।",
+      "relatedDate": null
+    },
+    {
+      "id": "6",
+      "category": "Science & Tech",
+      "category_hi": "विज्ञान और तकनीक",
+      "title": "Gaganyaan — Human Spaceflight Programme Update Focus",
+      "title_hi": "गगनयान — मानव अंतरिक्ष उड़ान कार्यक्रम",
+      "image": null,
+      "summary": "Gaganyaan aims to send Indian astronauts (Vyomanauts) to Low Earth Orbit using LVM3 — ISRO’s first human spaceflight mission.",
+      "summary_hi": "गगनयान LVM3 से भारतीय अंतरिक्ष यात्रियों को LEO में भेजने का लक्ष्य — ISRO का प्रथम मानव मिशन।",
+      "content": "Gaganyaan is ISRO’s human spaceflight programme to demonstrate crewed LEO capability. LVM3 is the designated launch vehicle. Crew module and escape systems are critical technologies.\n\nAstronaut training has involved international cooperation. Success would place India among nations with independent human spaceflight capability.\n\nFor IB ACIO: ISRO, LVM3 launcher, LEO human mission.",
+      "content_hi": "गगनयान: ISRO, LVM3, LEO। Vyomanaut शब्द प्रचलित।\n\nIB ACIO: Gaganyaan, LVM3 — याद रखें।",
+      "question": "Which launch vehicle is designated for Gaganyaan?",
+      "question_hi": "गगनयान के लिए कौन सा प्रक्षेपण यान निर्धारित है?",
+      "options": [
+        "PSLV",
+        "SSLV",
+        "LVM3",
+        "ASLV"
+      ],
+      "options_hi": [
+        "PSLV",
+        "SSLV",
+        "LVM3",
+        "ASLV"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gaganyaan is planned on ISRO’s LVM3 launcher.",
+      "explanation_hi": "गगनयान ISRO के LVM3 प्रक्षेपण यान पर नियोजित है।",
+      "moreInfo": "Related: LVM3 (22 July), Chandrayaan-3 (20 July).",
+      "moreInfo_hi": "संबंधित: LVM3, Chandrayaan-3।",
+      "relatedDate": "2026-07-22"
+    },
+    {
+      "id": "7",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "UN Security Council — Structure and India’s Bid",
+      "title_hi": "UN सुरक्षा परिषद — संरचना और भारत की दावेदारी",
+      "image": null,
+      "summary": "UNSC has 5 permanent members with veto and 10 non-permanent members. India seeks permanent membership via G4.",
+      "summary_hi": "UNSC में 5 स्थायी सदस्य (वीटो) और 10 अस्थायी। भारत G4 के जरिए स्थायी सदस्यता चाहता है।",
+      "content": "The UN Security Council has 15 members: P5 (China, France, Russia, UK, USA) with veto, and 10 non-permanent members elected for two-year terms.\n\nIndia has been a non-permanent member multiple times and campaigns for permanent seat through the G4 (India, Germany, Japan, Brazil), citing population, democracy, and peacekeeping contributions.\n\nFor IB ACIO: P5+veto, 10 non-permanent, G4 reform agenda.",
+      "content_hi": "UNSC: 15 सदस्य, P5 वीटो। G4: India, Germany, Japan, Brazil।\n\nIB ACIO: P5, G4 — याद रखें।",
+      "question": "How many permanent members does the UN Security Council have?",
+      "question_hi": "UN सुरक्षा परिषद के कितने स्थायी सदस्य हैं?",
+      "options": [
+        "5",
+        "7",
+        "10",
+        "15"
+      ],
+      "options_hi": [
+        "5",
+        "7",
+        "10",
+        "15"
+      ],
+      "correctAnswer": 0,
+      "explanation": "There are five permanent members (P5) with veto power.",
+      "explanation_hi": "वीटो शक्ति वाले पांच स्थायी सदस्य (P5) हैं।",
+      "moreInfo": "Related: United Nations structure (12 July).",
+      "moreInfo_hi": "संबंधित: संयुक्त राष्ट्र संरचना (12 जुलाई)।",
+      "relatedDate": "2026-07-12"
+    },
+    {
+      "id": "8",
+      "category": "Environment",
+      "category_hi": "पर्यावरण",
+      "title": "Mangrove Ecosystems — Coastal Shields (Preview 26 July)",
+      "title_hi": "मैंग्रोव पारिस्थितिकी — तटीय ढाल (26 जुलाई पूर्वावलोकन)",
+      "image": null,
+      "summary": "Mangroves protect coasts from storms and erosion. UNESCO marks International Day for Conservation of Mangrove Ecosystem on 26 July.",
+      "summary_hi": "मैंग्रोव तूफान और कटाव से तट बचाते हैं। UNESCO 26 जुलाई को मैंग्रोव संरक्षण दिवस मनाता है।",
+      "content": "Mangroves are salt-tolerant coastal forests that act as bioshields against cyclones, tsunamis, and erosion, and support fisheries and carbon storage.\n\nIndia’s major mangrove areas include the Sundarbans (West Bengal), Bhitarkanika (Odisha), and coastal Gujarat/Andaman regions. Sundarbans is also a UNESCO World Heritage Site.\n\nInternational Day for the Conservation of the Mangrove Ecosystem is observed on 26 July (UNESCO).\n\nFor IB ACIO: 26 July mangrove day, Sundarbans, bioshield role.",
+      "content_hi": "मैंग्रोव: तटीय सुरक्षा, मत्स्य, कार्बन। सुंदरबन प्रसिद्ध।\n\n26 जुलाई — UNESCO मैंग्रोव दिवस।\n\nIB ACIO: 26 July, Sundarbans — याद रखें।",
+      "question": "International Day for Conservation of Mangrove Ecosystem is on:",
+      "question_hi": "मैंग्रोव पारिस्थितिकी संरक्षण अंतर्राष्ट्रीय दिवस कब है?",
+      "options": [
+        "5 June",
+        "22 April",
+        "26 July",
+        "29 July"
+      ],
+      "options_hi": [
+        "5 जून",
+        "22 अप्रैल",
+        "26 जुलाई",
+        "29 जुलाई"
+      ],
+      "correctAnswer": 2,
+      "explanation": "UNESCO observes the mangrove conservation day on 26 July.",
+      "explanation_hi": "UNESCO 26 जुलाई को मैंग्रोव संरक्षण दिवस मनाता है।",
+      "moreInfo": "Tomorrow also: Kargil Vijay Diwas.",
+      "moreInfo_hi": "कल: कारगिल विजय दिवस भी।",
+      "relatedDate": null
+    },
+    {
+      "id": "9",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Governor of a State — Constitutional Position",
+      "title_hi": "राज्यपाल — संवैधानिक स्थिति",
+      "image": null,
+      "summary": "The Governor is the constitutional head of a state, appointed by the President for a term of five years (Article 153 onwards).",
+      "summary_hi": "राज्यपाल राज्य के संवैधानिक अध्यक्ष, राष्ट्रपति द्वारा 5 वर्ष के लिए नियुक्त (धारा 153 से)।",
+      "content": "Article 153 provides for a Governor for each state. Appointed by the President, the Governor holds office during the pleasure of the President; normal term is five years.\n\nKey powers: assent to bills, ordinance (Art. 213), recommending President’s Rule (Art. 356), and discretionary powers in limited situations. Nominates members to Legislative Council where applicable.\n\nFor IB ACIO: appointed by President, 5-year term, Articles 153/213/356 links.",
+      "content_hi": "धारा 153 — राज्यपाल। राष्ट्रपति नियुक्त, 5 वर्ष। अध्यादेश 213।\n\nIB ACIO: President appoints — याद रखें।",
+      "question": "Who appoints the Governor of a state in India?",
+      "question_hi": "भारत में राज्य के राज्यपाल की नियुक्ति कौन करता है?",
+      "options": [
+        "Chief Minister",
+        "President",
+        "Prime Minister directly",
+        "Supreme Court"
+      ],
+      "options_hi": [
+        "मुख्यमंत्री",
+        "राष्ट्रपति",
+        "प्रत्यक्ष प्रधानमंत्री",
+        "सुप्रीम कोर्ट"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Governor is appointed by the President of India.",
+      "explanation_hi": "राज्यपाल की नियुक्ति भारत के राष्ट्रपति करते हैं।",
+      "moreInfo": "Related: Ordinance powers Art. 123/213 (24 July).",
+      "moreInfo_hi": "संबंधित: अध्यादेश धारा 123/213।",
+      "relatedDate": "2026-07-24"
+    },
+    {
+      "id": "10",
+      "category": "Sports",
+      "category_hi": "खेल",
+      "title": "FIFA — World Football Governing Body",
+      "title_hi": "फीफा — विश्व फुटबॉल शासी निकाय",
+      "image": null,
+      "summary": "FIFA governs world football, headquartered in Zurich; organises the FIFA World Cup every four years.",
+      "summary_hi": "फीफा विश्व फुटबॉल का शासी निकाय, मुख्यालय ज्यूरिख — हर चार वर्ष विश्व कप।",
+      "content": "FIFA (Fédération Internationale de Football Association) is the international governing body of football. Headquarters: Zurich, Switzerland.\n\nIt organises the FIFA World Cup (men’s and women’s). Qatar hosted 2022; 2026 will be co-hosted by USA, Canada, and Mexico.\n\nFor IB ACIO: HQ Zurich, World Cup cycle, 2026 hosts.",
+      "content_hi": "FIFA HQ: Zurich। WC 2022 Qatar; 2026 USA-Canada-Mexico।\n\nIB ACIO: Zurich, 2026 hosts — याद रखें।",
+      "question": "Where is FIFA headquartered?",
+      "question_hi": "FIFA का मुख्यालय कहाँ है?",
+      "options": [
+        "London",
+        "Paris",
+        "Zurich",
+        "Madrid"
+      ],
+      "options_hi": [
+        "लंदन",
+        "पेरिस",
+        "ज्यूरिख",
+        "मैड्रिड"
+      ],
+      "correctAnswer": 2,
+      "explanation": "FIFA headquarters is in Zurich, Switzerland.",
+      "explanation_hi": "FIFA का मुख्यालय ज्यूरिख, स्विट्ज़रलैंड में है।",
+      "moreInfo": "Related: FIFA WC 2022 facts (19 July).",
+      "moreInfo_hi": "संबंधित: FIFA WC 2022 (19 जुलाई)।",
+      "relatedDate": "2026-07-19"
+    }
+  ]
+}
 
