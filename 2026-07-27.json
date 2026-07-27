@@ -1,1 +1,328 @@
+{
+  "date": "2026-07-27",
+  "editionTitle": "IB ACIO Daily Current Affairs — 27 July 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 27 जुलाई 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Dr. A.P.J. Abdul Kalam — Remembrance Day (27 July)",
+      "title_hi": "डॉ. ए.पी.जे. अब्दुल कलाम — स्मृति दिवस (27 जुलाई)",
+      "image": null,
+      "summary": "27 July marks the death anniversary of former President and ‘Missile Man’ Dr. A.P.J. Abdul Kalam (2015).",
+      "summary_hi": "27 जुलाई पूर्व राष्ट्रपति और ‘मिसाइल मैन’ डॉ. ए.पी.जे. अब्दुल कलाम की पुण्यतिथि (2015) है।",
+      "content": "Dr. Avul Pakir Jainulabdeen Abdul Kalam, the 11th President of India (2002–2007), passed away on 27 July 2015 while delivering a lecture at IIM Shillong.\n\nKnown as the Missile Man of India, he played a leading role in India’s missile and space launch programmes at DRDO/ISRO and was a key figure in Pokhran-II (1998) scientific leadership narratives.\n\nHe received Bharat Ratna (1997). His books include Wings of Fire and Ignited Minds.\n\nFor IB ACIO: 11th President, Missile Man, Bharat Ratna 1997, death 27 July 2015.",
+      "content_hi": "11वें राष्ट्रपति (2002–2007)। मिसाइल मैन। भारत रत्न 1997।\n\nनिधन: 27 जुलाई 2015, IIM शिलांग।\n\nIB ACIO: 27 July, Missile Man — याद रखें।",
+      "question": "Dr. A.P.J. Abdul Kalam was the __ President of India:",
+      "question_hi": "डॉ. ए.पी.जे. अब्दुल कलाम भारत के ___ राष्ट्रपति थे:",
+      "options": [
+        "9th",
+        "10th",
+        "11th",
+        "12th"
+      ],
+      "options_hi": [
+        "9वें",
+        "10वें",
+        "11वें",
+        "12वें"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dr. Kalam served as the 11th President of India (2002–2007).",
+      "explanation_hi": "डॉ. कलाम भारत के 11वें राष्ट्रपति थे (2002–2007)।",
+      "moreInfo": "Related: DRDO/Agni editions; Bharat Ratna (11 July).",
+      "moreInfo_hi": "संबंधित: DRDO/अग्नि; भारत रत्न।",
+      "relatedDate": "2026-07-23"
+    },
+    {
+      "id": "2",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "CRPF Raising Day — 27 July",
+      "title_hi": "सीआरपीएफ स्थापना दिवस — 27 जुलाई",
+      "image": null,
+      "summary": "The Central Reserve Police Force observes its Raising Day on 27 July — India’s largest Central Armed Police Force.",
+      "summary_hi": "केंद्रीय रिजर्व पुलिस बल 27 जुलाई को स्थापना दिवस मनाता है — भारत का सबसे बड़ा CAPF।",
+      "content": "CRPF Raising Day is observed on 27 July. The force traces origins to the Crown Representative’s Police (1939) and was renamed CRPF after Independence.\n\nCRPF is the largest Central Armed Police Force under the Ministry of Home Affairs, deployed for internal security, counter-insurgency, and election duties. Specialist units include COBRA and RAF.\n\nFor IB ACIO: Raising Day 27 July, largest CAPF, MHA.",
+      "content_hi": "CRPF: 27 जुलाई Raising Day। सबसे बड़ा CAPF, गृह मंत्रालय।\n\nCOBRA, RAF इकाइयां।\n\nIB ACIO: 27 July, CRPF — याद रखें।",
+      "question": "CRPF Raising Day is observed on:",
+      "question_hi": "सीआरपीएफ स्थापना दिवस कब मनाया जाता है?",
+      "options": [
+        "15 August",
+        "26 July",
+        "27 July",
+        "1 October"
+      ],
+      "options_hi": [
+        "15 अगस्त",
+        "26 जुलाई",
+        "27 जुलाई",
+        "1 अक्टूबर"
+      ],
+      "correctAnswer": 2,
+      "explanation": "CRPF Raising Day is observed on 27 July.",
+      "explanation_hi": "सीआरपीएफ स्थापना दिवस 27 जुलाई को मनाया जाता है।",
+      "moreInfo": "Related: BSF raised 1965 (25 July edition).",
+      "moreInfo_hi": "संबंधित: BSF 1965 (25 जुलाई)।",
+      "relatedDate": "2026-07-25"
+    },
+    {
+      "id": "3",
+      "category": "Science & Tech",
+      "category_hi": "विज्ञान और तकनीक",
+      "title": "Pokhran-II and India’s Nuclear Doctrine Basics",
+      "title_hi": "पोखरण-II और भारत के परमाणु सिद्धांत की मूल बातें",
+      "image": null,
+      "summary": "Pokhran-II (1998) nuclear tests strengthened India’s strategic capability; doctrine emphasises credible minimum deterrence and NFU.",
+      "summary_hi": "पोखरण-II (1998) परमाणु परीक्षणों ने रणनीतिक क्षमता मजबूत की — विश्वसनीय न्यूनतम निवारण और NFU।",
+      "content": "India conducted Pokhran-II nuclear tests in May 1998 (Operation Shakti). Dr. Kalam was a prominent scientific face of the programme era.\n\nIndia’s nuclear doctrine typically highlights credible minimum deterrence and No First Use (NFU) of nuclear weapons. Command and control rests with the political leadership via the Nuclear Command Authority.\n\nFor IB ACIO: Pokhran-II 1998, NFU, credible minimum deterrence.",
+      "content_hi": "पोखरण-II: मई 1998। NFU, credible minimum deterrence।\n\nIB ACIO: 1998, NFU — याद रखें।",
+      "question": "Pokhran-II nuclear tests were conducted in which year?",
+      "question_hi": "पोखरण-II परमाणु परीक्षण किस वर्ष हुए?",
+      "options": [
+        "1974",
+        "1998",
+        "2002",
+        "2008"
+      ],
+      "options_hi": [
+        "1974",
+        "1998",
+        "2002",
+        "2008"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pokhran-II (Operation Shakti) was conducted in May 1998.",
+      "explanation_hi": "पोखरण-II (ऑपरेशन शक्ति) मई 1998 में हुआ।",
+      "moreInfo": "Pokhran-I was in 1974 (Smiling Buddha).",
+      "moreInfo_hi": "पोखरण-I: 1974 (स्माइलिंग बुद्धा)।",
+      "relatedDate": null
+    },
+    {
+      "id": "4",
+      "category": "Government Schemes",
+      "category_hi": "सरकारी योजनाएं",
+      "title": "PM-KISAN — Income Support to Farmers",
+      "title_hi": "पीएम-किसान — किसानों को आय समर्थन",
+      "image": null,
+      "summary": "PM-KISAN provides ₹6,000 per year to eligible farmer families in three instalments of ₹2,000.",
+      "summary_hi": "पीएम-किसान पात्र किसान परिवारों को वर्ष में ₹6,000 — तीन किस्तों में ₹2,000।",
+      "content": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a Central Sector Scheme giving income support of ₹6,000 per year to eligible landholding farmer families, paid in three equal instalments via DBT.\n\nIt is implemented by the Ministry of Agriculture and Farmers Welfare. The scheme aims to supplement financial needs for inputs and domestic requirements.\n\nFor IB ACIO: ₹6,000/year, 3 instalments, Agriculture Ministry, DBT.",
+      "content_hi": "PM-KISAN: ₹6,000/वर्ष, 3 किस्तें, DBT। कृषि मंत्रालय।\n\nIB ACIO: 6000, DBT — याद रखें।",
+      "question": "Under PM-KISAN, eligible farmers receive how much per year?",
+      "question_hi": "पीएम-किसान के तहत पात्र किसानों को प्रति वर्ष कितना मिलता है?",
+      "options": [
+        "₹2,000",
+        "₹4,000",
+        "₹6,000",
+        "₹12,000"
+      ],
+      "options_hi": [
+        "₹2,000",
+        "₹4,000",
+        "₹6,000",
+        "₹12,000"
+      ],
+      "correctAnswer": 2,
+      "explanation": "PM-KISAN provides ₹6,000 per year in three instalments of ₹2,000.",
+      "explanation_hi": "पीएम-किसान प्रति वर्ष ₹6,000 देता है — तीन किस्तें ₹2,000।",
+      "moreInfo": "Related: JAM/DBT (26 July).",
+      "moreInfo_hi": "संबंधित: JAM/DBT (26 जुलाई)।",
+      "relatedDate": "2026-07-26"
+    },
+    {
+      "id": "5",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "Budget Documents — Finance Bill and Appropriation Bill",
+      "title_hi": "बजट दस्तावेज — वित्त विधेयक और विनियोग विधेयक",
+      "image": null,
+      "summary": "Finance Bill proposes tax changes; Appropriation Bill authorises withdrawal of money from the Consolidated Fund.",
+      "summary_hi": "वित्त विधेयक कर परिवर्तन प्रस्तावित करता है; विनियोग विधेयक संचित निधि से धन निकासी अधिकृत करता है।",
+      "content": "In the Union Budget process, the Finance Bill contains taxation proposals and is a Money Bill. The Appropriation Bill authorises the government to draw funds from the Consolidated Fund of India for voted expenditure.\n\nArticle 112 deals with the Annual Financial Statement (Budget). No money can be withdrawn from the Consolidated Fund without parliamentary appropriation (Article 114).\n\nFor IB ACIO: Finance Bill (taxes), Appropriation Bill (spending authority).",
+      "content_hi": "Finance Bill: कर। Appropriation Bill: व्यय प्राधिकार।\n\nIB ACIO: दोनों बिल का अंतर — याद रखें।",
+      "question": "Which bill mainly contains the government’s tax proposals?",
+      "question_hi": "कौन सा विधेयक मुख्यतः सरकार के कर प्रस्ताव रखता है?",
+      "options": [
+        "Appropriation Bill",
+        "Finance Bill",
+        "Ordinary Civil Bill",
+        "Constitution Amendment only"
+      ],
+      "options_hi": [
+        "विनियोग विधेयक",
+        "वित्त विधेयक",
+        "साधारण सिविल बिल",
+        "केवल संविधान संशोधन"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Finance Bill contains tax proposals and related financial provisions.",
+      "explanation_hi": "वित्त विधेयक में कर प्रस्ताव और संबंधित वित्तीय प्रावधान होते हैं।",
+      "moreInfo": "Related: Income Tax Day (24 July).",
+      "moreInfo_hi": "संबंधित: आयकर दिवस (24 जुलाई)।",
+      "relatedDate": "2026-07-24"
+    },
+    {
+      "id": "6",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "ITBP — Indo-Tibetan Border Police",
+      "title_hi": "आईटीबीपी — भारत-तिब्बत सीमा पुलिस",
+      "image": null,
+      "summary": "ITBP guards the India–China border (LAC stretches) and is a CAPF under the Ministry of Home Affairs.",
+      "summary_hi": "आईटीबीपी भारत–चीन सीमा (LAC) की रखवाली करता है — गृह मंत्रालय के अधीन CAPF।",
+      "content": "The Indo-Tibetan Border Police was raised in 1962 in the wake of the China conflict. It is deployed along the India–China border and specialised in high-altitude mountain operations.\n\nITBP is a Central Armed Police Force under MHA. Compare: BSF (Pak/Bangladesh), SSB (Nepal/Bhutan), CRPF (internal security).\n\nFor IB ACIO: raised 1962, China border, high-altitude specialization.",
+      "content_hi": "ITBP 1962, भारत–चीन सीमा, उच्च हिमालय।\n\nIB ACIO: 1962, LAC — याद रखें।",
+      "question": "ITBP was raised in which year?",
+      "question_hi": "आईटीबीपी किस वर्ष स्थापित हुआ?",
+      "options": [
+        "1947",
+        "1962",
+        "1965",
+        "1999"
+      ],
+      "options_hi": [
+        "1947",
+        "1962",
+        "1965",
+        "1999"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ITBP was raised in 1962 after the India–China war.",
+      "explanation_hi": "आईटीबीपी 1962 भारत–चीन युद्ध के बाद स्थापित हुआ।",
+      "moreInfo": "Related: LoC vs LAC (26 July), BSF (25 July), CRPF (today).",
+      "moreInfo_hi": "संबंधित: LoC/LAC, BSF, CRPF।",
+      "relatedDate": "2026-07-26"
+    },
+    {
+      "id": "7",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "G4 Nations — UNSC Reform Group",
+      "title_hi": "G4 राष्ट्र — UNSC सुधार समूह",
+      "image": null,
+      "summary": "G4 comprises India, Germany, Japan, and Brazil — supporting each other for permanent UNSC seats.",
+      "summary_hi": "G4 में भारत, जर्मनी, जापान और ब्राज़ील — UNSC स्थायी सीटों के लिए पारस्परिक समर्थन।",
+      "content": "The G4 nations — India, Germany, Japan, and Brazil — lobby for expansion of the UN Security Council permanent membership to reflect contemporary realities.\n\nIndia cites population, democracy, economy, and peacekeeping contributions. Opposition exists from certain regional rivals and from those cautious about veto expansion.\n\nFor IB ACIO: G4 members exactly, UNSC reform goal.",
+      "content_hi": "G4: India, Germany, Japan, Brazil। लक्ष्य: UNSC स्थायी सदस्यता।\n\nIB ACIO: 4 सदस्य नाम — याद रखें।",
+      "question": "Which country is NOT a G4 member?",
+      "question_hi": "कौन सा देश G4 सदस्य नहीं है?",
+      "options": [
+        "India",
+        "Japan",
+        "South Africa",
+        "Brazil"
+      ],
+      "options_hi": [
+        "भारत",
+        "जापान",
+        "दक्षिण अफ्रीका",
+        "ब्राज़ील"
+      ],
+      "correctAnswer": 2,
+      "explanation": "G4 members are India, Germany, Japan, and Brazil — not South Africa.",
+      "explanation_hi": "G4: भारत, जर्मनी, जापान, ब्राज़ील — दक्षिण अफ्रीका नहीं।",
+      "moreInfo": "Related: UNSC structure (25 July).",
+      "moreInfo_hi": "संबंधित: UNSC संरचना (25 जुलाई)।",
+      "relatedDate": "2026-07-25"
+    },
+    {
+      "id": "8",
+      "category": "Environment",
+      "category_hi": "पर्यावरण",
+      "title": "World Hepatitis Day — 28 July (Preview)",
+      "title_hi": "विश्व हेपेटाइटिस दिवस — 28 जुलाई (पूर्वावलोकन)",
+      "image": null,
+      "summary": "World Hepatitis Day (28 July) is a WHO-led day for awareness and elimination of viral hepatitis.",
+      "summary_hi": "विश्व हेपेटाइटिस दिवस (28 जुलाई) वायरल हेपेटाइटिस जागरूकता और उन्मूलन के लिए WHO दिवस।",
+      "content": "World Hepatitis Day is observed on 28 July to honour Baruch Blumberg (discoverer of Hepatitis B virus) and to mobilise action against hepatitis B and C, major causes of liver disease.\n\nWHO aims to eliminate viral hepatitis as a public health threat. Vaccination (Hep B), testing, and treatment access are key pillars. Same date also sees World Nature Conservation Day in some calendars — do not confuse themes.\n\nFor IB ACIO: 28 July, WHO, Hep B/C focus.",
+      "content_hi": "28 जुलाई — विश्व हेपेटाइटिस दिवस (WHO)। Hep B वैक्सीन महत्वपूर्ण।\n\nIB ACIO: 28 July — याद रखें।",
+      "question": "World Hepatitis Day is observed on:",
+      "question_hi": "विश्व हेपेटाइटिस दिवस कब मनाया जाता है?",
+      "options": [
+        "25 July",
+        "26 July",
+        "28 July",
+        "29 July"
+      ],
+      "options_hi": [
+        "25 जुलाई",
+        "26 जुलाई",
+        "28 जुलाई",
+        "29 जुलाई"
+      ],
+      "correctAnswer": 2,
+      "explanation": "World Hepatitis Day is observed on 28 July each year.",
+      "explanation_hi": "विश्व हेपेटाइटिस दिवस हर वर्ष 28 जुलाई को मनाया जाता है।",
+      "moreInfo": "Related: WHO basics (24 July).",
+      "moreInfo_hi": "संबंधित: WHO मूल बातें (24 जुलाई)।",
+      "relatedDate": "2026-07-24"
+    },
+    {
+      "id": "9",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Bharat Ratna — India’s Highest Civilian Award Recap",
+      "title_hi": "भारत रत्न — भारत का सर्वोच्च नागरिक सम्मान",
+      "image": null,
+      "summary": "Bharat Ratna is India’s highest civilian award for exceptional service in any field of human endeavour.",
+      "summary_hi": "भारत रत्न किसी भी क्षेत्र में असाधारण सेवा के लिए भारत का सर्वोच्च नागरिक सम्मान है।",
+      "content": "Bharat Ratna, instituted in 1954, is the highest civilian award of India. Originally limited to arts, literature, science, and public services; criteria later expanded to any field of human endeavour.\n\nDr. A.P.J. Abdul Kalam received Bharat Ratna in 1997. The award is conferred by the President. Recommendations are processed by the Prime Minister’s Office.\n\nFor IB ACIO: instituted 1954, highest civilian award, Kalam 1997.",
+      "content_hi": "भारत रत्न 1954। सर्वोच्च नागरिक सम्मान। कलाम: 1997।\n\nIB ACIO: 1954, 1997 Kalam — याद रखें।",
+      "question": "In which year was Bharat Ratna instituted?",
+      "question_hi": "भारत रत्न किस वर्ष संस्थापित हुआ?",
+      "options": [
+        "1947",
+        "1950",
+        "1954",
+        "1962"
+      ],
+      "options_hi": [
+        "1947",
+        "1950",
+        "1954",
+        "1962"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bharat Ratna was instituted in 1954.",
+      "explanation_hi": "भारत रत्न वर्ष 1954 में संस्थापित हुआ।",
+      "moreInfo": "Related: today’s Kalam remembrance.",
+      "moreInfo_hi": "संबंधित: आज की कलाम स्मृति।",
+      "relatedDate": "2026-07-27"
+    },
+    {
+      "id": "10",
+      "category": "Sports",
+      "category_hi": "खेल",
+      "title": "Olympic Games — Host Cities and IOC Basics",
+      "title_hi": "ओलंपिक खेल — मेज़बान शहर और IOC",
+      "image": null,
+      "summary": "The Olympic Games are governed by the IOC (Lausanne). Paris hosted 2024; next Summer Games cycle continues every four years.",
+      "summary_hi": "ओलंपिक IOC (लॉज़ेन) द्वारा शासित। पेरिस 2024 मेज़बान; ग्रीष्मकालीन खेल हर चार वर्ष।",
+      "content": "The International Olympic Committee (IOC) governs the Olympic Movement; headquarters: Lausanne, Switzerland.\n\nParis hosted the 2024 Summer Olympics where India achieved its best-ever medal tally in recent memory. The Games promote Olympism and are a staple of sports current affairs.\n\nFor IB ACIO: IOC Lausanne, Paris 2024, four-year cycle.",
+      "content_hi": "IOC HQ: Lausanne। Paris 2024।\n\nIB ACIO: IOC, Paris 2024 — याद रखें।",
+      "question": "Where is the headquarters of the International Olympic Committee?",
+      "question_hi": "अंतर्राष्ट्रीय ओलंपिक समिति का मुख्यालय कहाँ है?",
+      "options": [
+        "Geneva",
+        "Lausanne",
+        "Zurich",
+        "Montreal"
+      ],
+      "options_hi": [
+        "जेनेवा",
+        "लॉज़ेन",
+        "ज्यूरिख",
+        "मॉन्ट्रियल"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The IOC is headquartered in Lausanne, Switzerland.",
+      "explanation_hi": "IOC का मुख्यालय लॉज़ेन, स्विट्ज़रलैंड में है।",
+      "moreInfo": "Related: Olympics 2024 medal haul (10 July).",
+      "moreInfo_hi": "संबंधित: Paris Olympics 2024 (10 जुलाई)।",
+      "relatedDate": "2026-07-10"
+    }
+  ]
+}
 
