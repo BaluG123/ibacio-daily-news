@@ -1,1 +1,328 @@
+{
+  "date": "2026-07-24",
+  "editionTitle": "IB ACIO Daily Current Affairs — 24 July 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 24 जुलाई 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "Income Tax Day (Aaykar Diwas) — 24 July",
+      "title_hi": "आयकर दिवस (Aaykar Diwas) — 24 जुलाई",
+      "image": null,
+      "summary": "Income Tax Day marks the introduction of income tax in India on 24 July 1860 by Sir James Wilson.",
+      "summary_hi": "आयकर दिवस भारत में 24 जुलाई 1860 को सर जेम्स विल्सन द्वारा आयकर शुरू होने को चिह्नित करता है।",
+      "content": "Income Tax Day (Aaykar Diwas) is observed in India on 24 July every year. It commemorates the introduction of income tax in 1860 by Sir James Wilson after the 1857 revolt strained finances.\n\nThe Income Tax Department began observing Aaykar Diwas in 2010 (150 years of income tax). Direct taxes are administered by the Central Board of Direct Taxes (CBDT) under the Department of Revenue, Ministry of Finance.\n\nThe day promotes tax awareness, voluntary compliance, and taxpayer services.\n\nFor IB ACIO: date (24 July), year (1860), Sir James Wilson, and CBDT.",
+      "content_hi": "24 जुलाई — आयकर दिवस। 1860 में Sir James Wilson।\n\n2010 से Aaykar Diwas। CBDT, वित्त मंत्रालय।\n\nIB ACIO: 24 July, 1860 — याद रखें।",
+      "question": "Income Tax Day in India is observed on:",
+      "question_hi": "भारत में आयकर दिवस कब मनाया जाता है?",
+      "options": [
+        "1 April",
+        "24 July",
+        "15 September",
+        "10 November"
+      ],
+      "options_hi": [
+        "1 अप्रैल",
+        "24 जुलाई",
+        "15 सितंबर",
+        "10 नवंबर"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Income Tax Day is observed on 24 July to mark the 1860 introduction of income tax.",
+      "explanation_hi": "आयकर दिवस 1860 में आयकर शुरू होने की याद में 24 जुलाई को मनाया जाता है।",
+      "moreInfo": "Related preview: 23 July edition. Income-tax Act, 1961 is the principal modern statute.",
+      "moreInfo_hi": "संबंधित: 23 जुलाई पूर्वावलोकन। Income-tax Act 1961 मुख्य कानून।",
+      "relatedDate": "2026-07-23"
+    },
+    {
+      "id": "2",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "CBDT vs CBIC — Direct and Indirect Tax Bodies",
+      "title_hi": "CBDT बनाम CBIC — प्रत्यक्ष और अप्रत्यक्ष कर निकाय",
+      "image": null,
+      "summary": "CBDT administers direct taxes; CBIC administers GST and customs — both under the Ministry of Finance.",
+      "summary_hi": "CBDT प्रत्यक्ष कर; CBIC जीएसटी और सीमा शुल्क — दोनों वित्त मंत्रालय के तहत।",
+      "content": "The Central Board of Direct Taxes (CBDT) administers income tax and other direct taxes. The Central Board of Indirect Taxes and Customs (CBIC) administers GST (Central), customs, and central excise legacy matters.\n\nBoth function under the Department of Revenue, Ministry of Finance. Understanding CBDT vs CBIC is a frequent competitive-exam distinction.\n\nDigital compliance tools (e-filing, e-way bill, Faceless Assessment) support modern tax administration.\n\nFor IB ACIO: CBDT = direct taxes; CBIC = GST/customs.",
+      "content_hi": "CBDT: आयकर। CBIC: GST/कस्टम। दोनों राजस्व विभाग।\n\nIB ACIO: CBDT vs CBIC — याद रखें।",
+      "question": "Which body administers GST and Customs at the Centre?",
+      "question_hi": "केंद्र में GST और सीमा शुल्क कौन प्रशासित करता है?",
+      "options": [
+        "CBDT",
+        "CBIC",
+        "SEBI",
+        "NITI Aayog"
+      ],
+      "options_hi": [
+        "CBDT",
+        "CBIC",
+        "SEBI",
+        "NITI Aayog"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CBIC administers indirect taxes including GST (Centre) and customs.",
+      "explanation_hi": "CBIC अप्रत्यक्ष करों — GST (केंद्र) और सीमा शुल्क — का प्रशासन करता है।",
+      "moreInfo": "Related: today’s Income Tax Day and GST Council (19 July).",
+      "moreInfo_hi": "संबंधित: आज का आयकर दिवस और GST परिषद।",
+      "relatedDate": "2026-07-19"
+    },
+    {
+      "id": "3",
+      "category": "Government Schemes",
+      "category_hi": "सरकारी योजनाएं",
+      "title": "e-Shram Portal — Database of Unorganised Workers",
+      "title_hi": "ई-श्रम पोर्टल — असंगठित कर्मियों का डेटाबेस",
+      "image": null,
+      "summary": "e-Shram creates a national database of unorganised workers to deliver social security and welfare benefits.",
+      "summary_hi": "ई-श्रम असंगठित कर्मियों का राष्ट्रीय डेटाबेस बनाता है — सामाजिक सुरक्षा और कल्याण लाभ के लिए।",
+      "content": "The e-Shram portal was launched by the Ministry of Labour and Employment to register unorganised workers including migrant, construction, and gig/platform workers.\n\nRegistration is Aadhaar-seeded and provides a Universal Account Number (UAN). The database helps target social security schemes and emergency assistance.\n\nFor IB ACIO: Ministry of Labour & Employment, UAN, and unorganised workers focus.",
+      "content_hi": "e-Shram: श्रम एवं रोजगार मंत्रालय। UAN। असंगठित/प्रवासी कर्मी।\n\nIB ACIO: e-Shram, UAN — याद रखें।",
+      "question": "e-Shram portal is implemented by which Ministry?",
+      "question_hi": "ई-श्रम पोर्टल किस मंत्रालय द्वारा लागू होता है?",
+      "options": [
+        "Ministry of Finance",
+        "Ministry of Labour and Employment",
+        "Ministry of Home Affairs",
+        "NITI Aayog"
+      ],
+      "options_hi": [
+        "वित्त मंत्रालय",
+        "श्रम एवं रोजगार मंत्रालय",
+        "गृह मंत्रालय",
+        "NITI Aayog"
+      ],
+      "correctAnswer": 1,
+      "explanation": "e-Shram is under the Ministry of Labour and Employment.",
+      "explanation_hi": "ई-श्रम श्रम एवं रोजगार मंत्रालय के तहत है।",
+      "moreInfo": "Related: Atal Pension Yojana (23 July).",
+      "moreInfo_hi": "संबंधित: अटल पेंशन योजना (23 जुलाई)।",
+      "relatedDate": "2026-07-23"
+    },
+    {
+      "id": "4",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "WHO — World Health Organization Basics",
+      "title_hi": "WHO — विश्व स्वास्थ्य संगठन",
+      "image": null,
+      "summary": "WHO is a UN specialised agency for international public health, headquartered in Geneva, Switzerland.",
+      "summary_hi": "WHO अंतर्राष्ट्रीय सार्वजनिक स्वास्थ्य की UN विशेष एजेंसी है, मुख्यालय जेनेवा।",
+      "content": "The World Health Organization was established in 1948. Headquarters: Geneva, Switzerland.\n\nWHO coordinates pandemic response, sets health standards, and can declare a Public Health Emergency of International Concern (PHEIC). World Health Day is on 7 April.\n\nWHO South-East Asia Regional Office (SEARO) is in New Delhi.\n\nFor IB ACIO: founded 1948, HQ Geneva, SEARO New Delhi.",
+      "content_hi": "WHO 1948, HQ Geneva। SEARO: नई दिल्ली। World Health Day: 7 अप्रैल।\n\nIB ACIO: 1948, Geneva — याद रखें।",
+      "question": "Where is the headquarters of WHO?",
+      "question_hi": "WHO का मुख्यालय कहाँ है?",
+      "options": [
+        "New York",
+        "Geneva",
+        "Paris",
+        "Vienna"
+      ],
+      "options_hi": [
+        "न्यूयॉर्क",
+        "जेनेवा",
+        "पेरिस",
+        "विएना"
+      ],
+      "correctAnswer": 1,
+      "explanation": "WHO is headquartered in Geneva, Switzerland.",
+      "explanation_hi": "WHO का मुख्यालय जेनेवा, स्विट्ज़रलैंड में है।",
+      "moreInfo": "Upcoming: World Hepatitis Day on 28 July.",
+      "moreInfo_hi": "आगामी: 28 जुलाई विश्व हेपेटाइटिस दिवस।",
+      "relatedDate": null
+    },
+    {
+      "id": "5",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "Param Vir Chakra — Highest Wartime Gallantry Award",
+      "title_hi": "परम वीर चक्र — सर्वोच्च युद्धकालीन वीरता पुरस्कार",
+      "image": null,
+      "summary": "Param Vir Chakra is India’s highest military decoration for valour in the presence of the enemy.",
+      "summary_hi": "परम वीर चक्र शत्रु की उपस्थिति में वीरता के लिए भारत का सर्वोच्च सैन्य सम्मान है।",
+      "content": "Param Vir Chakra (PVC) is India’s highest wartime gallantry award, instituted on 26 January 1950 (effective 15 August 1947).\n\nFirst recipient: Major Somnath Sharma. Kargil heroes include Capt. Vikram Batra and Capt. Manoj Pandey. Ashoka Chakra is the highest peacetime gallantry award.\n\nFor IB ACIO: PVC (wartime), Ashoka Chakra (peacetime), instituted 1950.",
+      "content_hi": "PVC: सर्वोच्च युद्धकालीन। अशोक चक्र: शांतिकालीन। प्रथम: मेजर सोमनाथ शर्मा।\n\nIB ACIO: PVC vs Ashoka Chakra — याद रखें।",
+      "question": "Which is India’s highest wartime gallantry award?",
+      "question_hi": "भारत का सर्वोच्च युद्धकालीन वीरता पुरस्कार कौन सा है?",
+      "options": [
+        "Ashoka Chakra",
+        "Param Vir Chakra",
+        "Bharat Ratna",
+        "Padma Vibhushan"
+      ],
+      "options_hi": [
+        "अशोक चक्र",
+        "परम वीर चक्र",
+        "भारत रत्न",
+        "पद्म विभूषण"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Param Vir Chakra is the highest wartime gallantry award.",
+      "explanation_hi": "परम वीर चक्र सर्वोच्च युद्धकालीन वीरता पुरस्कार है।",
+      "moreInfo": "Related: Kargil Vijay Diwas on 26 July.",
+      "moreInfo_hi": "संबंधित: 26 जुलाई कारगिल विजय दिवस।",
+      "relatedDate": "2026-07-22"
+    },
+    {
+      "id": "6",
+      "category": "Science & Tech",
+      "category_hi": "विज्ञान और तकनीक",
+      "title": "5G Rollout in India — DoT and TRAI",
+      "title_hi": "भारत में 5G रोलआउट — DoT और TRAI",
+      "image": null,
+      "summary": "India’s 5G services followed spectrum auctions, enabling high-speed and low-latency applications.",
+      "summary_hi": "भारत की 5G सेवाएं स्पेक्ट्रम नीलामी के बाद — उच्च गति और कम लेटेंसी अनुप्रयोग।",
+      "content": "5G offers higher speed, capacity, and ultra-reliable low latency. Spectrum auctions are conducted under the Department of Telecommunications (DoT). TRAI advises on tariffs and telecom policy.\n\nUse cases include IoT, telemedicine, smart manufacturing, and secure communications under Atmanirbhar goals.\n\nFor IB ACIO: 5G benefits, DoT auctions, TRAI advisory role.",
+      "content_hi": "5G: गति + कम लेटेंसी। DoT नीलामी, TRAI सलाह।\n\nIB ACIO: 5G, DoT — याद रखें।",
+      "question": "Spectrum auctions for mobile services fall under which department?",
+      "question_hi": "मोबाइल स्पेक्ट्रम नीलामी किस विभाग के तहत होती है?",
+      "options": [
+        "RBI",
+        "Department of Telecommunications",
+        "ISRO",
+        "NITI Aayog"
+      ],
+      "options_hi": [
+        "RBI",
+        "दूरसंचार विभाग",
+        "ISRO",
+        "NITI Aayog"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Spectrum auctions are under the Department of Telecommunications.",
+      "explanation_hi": "स्पेक्ट्रम नीलामी दूरसंचार विभाग के तहत होती है।",
+      "moreInfo": "Related: Digital India (13 July).",
+      "moreInfo_hi": "संबंधित: Digital India (13 जुलाई)।",
+      "relatedDate": "2026-07-13"
+    },
+    {
+      "id": "7",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Ordinance-Making Power — Article 123",
+      "title_hi": "अध्यादेश बनाने की शक्ति — धारा 123",
+      "image": null,
+      "summary": "Article 123 allows the President to promulgate ordinances when Parliament is not in session.",
+      "summary_hi": "धारा 123 संसद सत्र न होने पर राष्ट्रपति को अध्यादेश जारी करने देती है।",
+      "content": "Under Article 123, the President may promulgate an Ordinance when Parliament is not in session and immediate action is required. It has the force of law.\n\nIt must be laid before Parliament and generally ceases six weeks after reassembly unless approved. Article 213 gives similar power to Governors.\n\nFor IB ACIO: Article 123 (President), Article 213 (Governor), 6-week rule.",
+      "content_hi": "धारा 123 — राष्ट्रपति। धारा 213 — राज्यपाल। 6 सप्ताह नियम।\n\nIB ACIO: 123, 213 — याद रखें।",
+      "question": "President’s ordinance-making power is under which Article?",
+      "question_hi": "राष्ट्रपति की अध्यादेश शक्ति किस धारा में है?",
+      "options": [
+        "Article 72",
+        "Article 123",
+        "Article 356",
+        "Article 370"
+      ],
+      "options_hi": [
+        "धारा 72",
+        "धारा 123",
+        "धारा 356",
+        "धारा 370"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Article 123 empowers the President to issue ordinances.",
+      "explanation_hi": "धारा 123 राष्ट्रपति को अध्यादेश जारी करने का अधिकार देती है।",
+      "moreInfo": "Related: President’s powers (21 July).",
+      "moreInfo_hi": "संबंधित: राष्ट्रपति शक्तियां (21 जुलाई)।",
+      "relatedDate": "2026-07-21"
+    },
+    {
+      "id": "8",
+      "category": "Environment",
+      "category_hi": "पर्यावरण",
+      "title": "National Parks vs Wildlife Sanctuaries",
+      "title_hi": "राष्ट्रीय उद्यान बनाम वन्यजीव अभयारण्य",
+      "image": null,
+      "summary": "National Parks have stricter protection than Wildlife Sanctuaries under the Wildlife Protection Act, 1972.",
+      "summary_hi": "वन्यजीव संरक्षण अधिनियम 1972 के तहत राष्ट्रीय उद्यानों में अभयारण्यों से सख्त संरक्षण।",
+      "content": "Protected Areas under WPA 1972 include National Parks, Wildlife Sanctuaries, Conservation Reserves, and Community Reserves.\n\nNational Parks have tighter restrictions; grazing is generally not allowed. Sanctuaries may permit certain local rights with conditions. Jim Corbett is India’s oldest National Park.\n\nFor IB ACIO: Park stricter than Sanctuary; Corbett oldest NP.",
+      "content_hi": "National Park > Sanctuary सख्ती। Corbett सबसे पुराना NP।\n\nIB ACIO: Park vs Sanctuary — याद रखें।",
+      "question": "Which generally has stricter protection norms?",
+      "question_hi": "किसमें सामान्यतः अधिक कठोर संरक्षण होता है?",
+      "options": [
+        "Wildlife Sanctuary",
+        "National Park",
+        "Zoo only",
+        "Community hall"
+      ],
+      "options_hi": [
+        "वन्यजीव अभयारण्य",
+        "राष्ट्रीय उद्यान",
+        "केवल चिड़ियाघर",
+        "सामुदायिक भवन"
+      ],
+      "correctAnswer": 1,
+      "explanation": "National Parks have more stringent restrictions than Sanctuaries.",
+      "explanation_hi": "राष्ट्रीय उद्यानों में अभयारण्यों से अधिक कठोर प्रतिबंध होते हैं।",
+      "moreInfo": "Related: Wildlife Protection Act (21 July).",
+      "moreInfo_hi": "संबंधित: वन्यजीव अधिनियम (21 जुलाई)।",
+      "relatedDate": "2026-07-21"
+    },
+    {
+      "id": "9",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "IAEA — International Atomic Energy Agency",
+      "title_hi": "IAEA — अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी",
+      "image": null,
+      "summary": "IAEA promotes peaceful nuclear energy and nuclear safeguards; headquarters in Vienna, Austria.",
+      "summary_hi": "IAEA शांतिपूर्ण परमाणु ऊर्जा और safeguards — मुख्यालय विएना, ऑस्ट्रिया।",
+      "content": "The International Atomic Energy Agency (IAEA) was established in 1957. HQ: Vienna, Austria.\n\nIt supports peaceful nuclear applications and implements safeguards against proliferation, working with the NPT framework. India engages IAEA on safeguards for designated civilian facilities.\n\nFor IB ACIO: 1957, Vienna, peaceful uses + safeguards.",
+      "content_hi": "IAEA 1957, HQ Vienna।\n\nIB ACIO: 1957, Vienna — याद रखें।",
+      "question": "Where is the headquarters of the IAEA?",
+      "question_hi": "IAEA का मुख्यालय कहाँ है?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Vienna",
+        "The Hague"
+      ],
+      "options_hi": [
+        "जेनेवा",
+        "न्यूयॉर्क",
+        "विएना",
+        "हेग"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The IAEA is headquartered in Vienna, Austria.",
+      "explanation_hi": "IAEA का मुख्यालय विएना, ऑस्ट्रिया में है।",
+      "moreInfo": "Compare: WHO Geneva, ICJ The Hague.",
+      "moreInfo_hi": "तुलना: WHO जेनेवा, ICJ हेग।",
+      "relatedDate": null
+    },
+    {
+      "id": "10",
+      "category": "Sports",
+      "category_hi": "खेल",
+      "title": "Khel Ratna and National Sports Awards — Basics",
+      "title_hi": "खेल रत्न और राष्ट्रीय खेल पुरस्कार — मूल बातें",
+      "image": null,
+      "summary": "Major Dhyan Chand Khel Ratna is India’s highest sporting honour; awards are often linked to National Sports Day (29 August).",
+      "summary_hi": "मेजर ध्यान चंद खेल रत्न भारत का सर्वोच्च खेल सम्मान — प्रायः 29 अगस्त राष्ट्रीय खेल दिवस से जुड़ा।",
+      "content": "The Major Dhyan Chand Khel Ratna Award is the highest sporting honour in India. Other awards include Arjuna, Dronacharya, and Dhyan Chand Award for lifetime achievement.\n\nThese are commonly conferred around National Sports Day (29 August), Major Dhyan Chand’s birthday.\n\nFor IB ACIO: Khel Ratna highest, 29 August National Sports Day.",
+      "content_hi": "Khel Ratna सर्वोच्च। अर्जुन, द्रोणाचार्य। National Sports Day: 29 अगस्त।\n\nIB ACIO: Khel Ratna, 29 August — याद रखें।",
+      "question": "What is India’s highest sporting honour called?",
+      "question_hi": "भारत का सर्वोच्च खेल सम्मान क्या कहलाता है?",
+      "options": [
+        "Arjuna Award",
+        "Major Dhyan Chand Khel Ratna",
+        "Padma Shri only",
+        "Param Vir Chakra"
+      ],
+      "options_hi": [
+        "अर्जुन पुरस्कार",
+        "मेजर ध्यान चंद खेल रत्न",
+        "केवल पद्म श्री",
+        "परम वीर चक्र"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Major Dhyan Chand Khel Ratna is India’s highest sporting honour.",
+      "explanation_hi": "मेजर ध्यान चंद खेल रत्न भारत का सर्वोच्च खेल सम्मान है।",
+      "moreInfo": "Related: Hockey legacy (21 July).",
+      "moreInfo_hi": "संबंधित: हॉकी विरासत (21 जुलाई)।",
+      "relatedDate": "2026-07-21"
+    }
+  ]
+}
 
