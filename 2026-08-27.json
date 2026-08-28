@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-27",
+  "editionTitle": "IB ACIO Daily Current Affairs — 27 August 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 27 अगस्त 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "India-China Reset Ahead of SCO and BRICS Summits",
+      "title_hi": "India-China Reset SCO BRICS",
+      "image": null,
+      "summary": "India-China 8-point consensus signals reset ahead of SCO Bishkek and BRICS New Delhi summits.",
+      "summary_hi": "India-China reset SCO BRICS summits Aug 27।",
+      "content": "India-China 8-point consensus signals reset ahead of SCO Bishkek and BRICS New Delhi summits.\n\nFor IB ACIO: 25th SR talks Beijing.",
+      "content_hi": "India-China reset SCO BRICS summits Aug 27।\n\nIB ACIO: SR talks — याद रखें।",
+      "question": "8-point consensus from:",
+      "question_hi": "8-point consensus from:",
+      "options": [
+        "25th SR talks",
+        "WTO meeting",
+        "UNGA only",
+        "G20 only"
+      ],
+      "options_hi": [
+        "25th SR",
+        "WTO",
+        "UNGA",
+        "G20"
+      ],
+      "correctAnswer": 0,
+      "explanation": "25th SR talks",
+      "explanation_hi": "25th SR",
+      "moreInfo": "2026-08-06",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "2",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "PM Central Asia Visit Preview",
+      "title_hi": "PM Central Asia Visit",
+      "image": null,
+      "summary": "PM Modi Central Asia engagement previewed ahead of SCO summit multilateral diplomacy.",
+      "summary_hi": "PM Central Asia visit preview Aug 2026।",
+      "content": "PM Modi Central Asia engagement previewed ahead of SCO summit multilateral diplomacy.\n\nFor IB ACIO: Bishkek Kyrgyzstan.",
+      "content_hi": "PM Central Asia visit preview Aug 2026।\n\nIB ACIO: Bishkek — याद रखें।",
+      "question": "SCO summit in:",
+      "question_hi": "SCO summit in:",
+      "options": [
+        "New Delhi",
+        "Bishkek",
+        "Beijing",
+        "Moscow"
+      ],
+      "options_hi": [
+        "Delhi",
+        "Bishkek",
+        "Beijing",
+        "Moscow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bishkek",
+      "explanation_hi": "Bishkek",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "3",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "Early Harvest in Boundary Delimitation — SR Outcome",
+      "title_hi": "Early Harvest Boundary",
+      "image": null,
+      "summary": "India-China agreed to advance Early and Substantial Harvest in boundary delimitation talks.",
+      "summary_hi": "Early Harvest boundary delimitation SR outcome।",
+      "content": "India-China agreed to advance Early and Substantial Harvest in boundary delimitation talks.\n\nFor IB ACIO: 2005 Political Parameters Agreement.",
+      "content_hi": "Early Harvest boundary delimitation SR outcome।\n\nIB ACIO: 2005 — याद रखें।",
+      "question": "Framework agreement year:",
+      "question_hi": "Framework agreement year:",
+      "options": [
+        "2005",
+        "1947",
+        "2010",
+        "1991"
+      ],
+      "options_hi": [
+        "2005",
+        "1947",
+        "2010",
+        "1991"
+      ],
+      "correctAnswer": 0,
+      "explanation": "2005",
+      "explanation_hi": "2005",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "4",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "Kailash Manasarovar Yatra Batches Increased",
+      "title_hi": "Kailash Yatra",
+      "image": null,
+      "summary": "India welcomed China increasing Kailash Manasarovar Yatra batches as part of SR consensus.",
+      "summary_hi": "Kailash Manasarovar yatra batches increased।",
+      "content": "India welcomed China increasing Kailash Manasarovar Yatra batches as part of SR consensus.\n\nFor IB ACIO: China Tibet region.",
+      "content_hi": "Kailash Manasarovar yatra batches increased।\n\nIB ACIO: Tibet — याद रखें।",
+      "question": "Yatra in:",
+      "question_hi": "Yatra in:",
+      "options": [
+        "Tibet Autonomous Region",
+        "Nepal only",
+        "Bhutan",
+        "Sikkim only"
+      ],
+      "options_hi": [
+        "Tibet",
+        "Nepal",
+        "Bhutan",
+        "Sikkim"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tibet Autonomous Region",
+      "explanation_hi": "Tibet",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "5",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "WMCC — Working Mechanism for Consultation and Coordination",
+      "title_hi": "WMCC Mechanism",
+      "image": null,
+      "summary": "WMCC on India-China Border Affairs coordinates LAC management under SR framework.",
+      "summary_hi": "WMCC border affairs coordination LAC।",
+      "content": "WMCC on India-China Border Affairs coordinates LAC management under SR framework.\n\nFor IB ACIO: India-China border affairs.",
+      "content_hi": "WMCC border affairs coordination LAC।\n\nIB ACIO: WMCC — याद रखें।",
+      "question": "WMCC handles:",
+      "question_hi": "WMCC handles:",
+      "options": [
+        "India-China border affairs",
+        "Trade only",
+        "Maritime only",
+        "Space only"
+      ],
+      "options_hi": [
+        "Border",
+        "Trade",
+        "Maritime",
+        "Space"
+      ],
+      "correctAnswer": 0,
+      "explanation": "India-China border affairs",
+      "explanation_hi": "Border",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "6",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "MEA Spokesperson on 8-Point Operationalisation",
+      "title_hi": "MEA 8-Point Ops",
+      "image": null,
+      "summary": "MEA spokesperson Randhir Jaiswal said both sides will operationalise 8-point border agenda.",
+      "summary_hi": "MEA Jaiswal 8-point operationalisation Aug 27।",
+      "content": "MEA spokesperson Randhir Jaiswal said both sides will operationalise 8-point border agenda.\n\nFor IB ACIO: Doval and Wang Yi.",
+      "content_hi": "MEA Jaiswal 8-point operationalisation Aug 27।\n\nIB ACIO: Doval-Wang Yi — याद रखें।",
+      "question": "SR talks co-chairs:",
+      "question_hi": "SR talks co-chairs:",
+      "options": [
+        "Doval-Wang Yi",
+        "Modi-Xi only",
+        "Shah-Lavrov",
+        "Rajnath-Wei"
+      ],
+      "options_hi": [
+        "Doval-Wang Yi",
+        "Modi-Xi",
+        "Shah-Lavrov",
+        "Rajnath-Wei"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Doval-Wang Yi",
+      "explanation_hi": "Doval-Wang Yi",
+      "moreInfo": "2026-08-06",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "7",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "Three Border Trade Points Reopened",
+      "title_hi": "Border Trade Points",
+      "image": null,
+      "summary": "India-China welcomed reopening of three designated border trading points per SR consensus.",
+      "summary_hi": "3 border trade points reopened SR consensus।",
+      "content": "India-China welcomed reopening of three designated border trading points per SR consensus.\n\nFor IB ACIO: India-China border trade.",
+      "content_hi": "3 border trade points reopened SR consensus।\n\nIB ACIO: Border trade — याद रखें।",
+      "question": "Points relate to:",
+      "question_hi": "Points relate to:",
+      "options": [
+        "India-China border trade",
+        "Maritime only",
+        "Aviation only",
+        "None"
+      ],
+      "options_hi": [
+        "Border trade",
+        "Maritime",
+        "Aviation",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "India-China border trade",
+      "explanation_hi": "Border trade",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "8",
+      "category": "Economy",
+      "category_hi": "अर्थवyवस्था",
+      "title": "BRICS Summit New Delhi September Preview",
+      "title_hi": "BRICS Preview",
+      "image": null,
+      "summary": "BRICS leaders summit expected in New Delhi September; Xi Jinping anticipated visit.",
+      "summary_hi": "BRICS New Delhi Sep 2026 preview Xi visit।",
+      "content": "BRICS leaders summit expected in New Delhi September; Xi Jinping anticipated visit.\n\nFor IB ACIO: New Delhi.",
+      "content_hi": "BRICS New Delhi Sep 2026 preview Xi visit।\n\nIB ACIO: New Delhi — याद रखें।",
+      "question": "After SCO, BRICS in:",
+      "question_hi": "After SCO, BRICS in:",
+      "options": [
+        "Moscow",
+        "New Delhi",
+        "Beijing",
+        "Brazil"
+      ],
+      "options_hi": [
+        "Moscow",
+        "New Delhi",
+        "Beijing",
+        "Brazil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "New Delhi",
+      "explanation_hi": "New Delhi",
+      "moreInfo": "2026-08-24",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "9",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "SHMC Additional Meeting Points",
+      "title_hi": "SHMC Meeting Points",
+      "image": null,
+      "summary": "Two additional SHMC (Senior Highest Military Commander) meeting points agreed at SR talks.",
+      "summary_hi": "2 additional SHMC meeting points LAC।",
+      "content": "Two additional SHMC (Senior Highest Military Commander) meeting points agreed at SR talks.\n\nFor IB ACIO: Senior Highest Military Commander.",
+      "content_hi": "2 additional SHMC meeting points LAC।\n\nIB ACIO: SHMC — याद रखें।",
+      "question": "SHMC stands for:",
+      "question_hi": "SHMC stands for:",
+      "options": [
+        "Senior Highest Military Commander meetings",
+        "Trade council",
+        "Naval exercise",
+        "Air drill"
+      ],
+      "options_hi": [
+        "SHMC military",
+        "Trade",
+        "Naval",
+        "Air"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Senior Highest Military Commander meetings",
+      "explanation_hi": "SHMC military",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "10",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "LAC Length Cited as 3,488 km",
+      "title_hi": "LAC 3488 km",
+      "image": null,
+      "summary": "Official statements in August 2026 cited India-China LAC length as approximately 3,488 km.",
+      "summary_hi": "LAC length 3,488 km cited Aug 2026।",
+      "content": "Official statements in August 2026 cited India-China LAC length as approximately 3,488 km.\n\nFor IB ACIO: 3,488 km.",
+      "content_hi": "LAC length 3,488 km cited Aug 2026।\n\nIB ACIO: 3488 km — याद रखें।",
+      "question": "LAC approximate length:",
+      "question_hi": "LAC approximate length:",
+      "options": [
+        "2,000 km",
+        "3,488 km",
+        "5,000 km",
+        "500 km"
+      ],
+      "options_hi": [
+        "2000",
+        "3488",
+        "5000",
+        "500"
+      ],
+      "correctAnswer": 1,
+      "explanation": "3,488 km",
+      "explanation_hi": "3488",
+      "moreInfo": "2026-08-06",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    }
+  ]
+}

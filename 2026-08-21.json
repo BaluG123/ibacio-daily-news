@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-21",
+  "editionTitle": "IB ACIO Daily Current Affairs — 21 August 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 21 अगस्त 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "World Senior Citizens Day — 21 August",
+      "title_hi": "विश्व वरिष्ठ नागरिक दिवस — 21 अगस्त",
+      "image": null,
+      "summary": "UN World Senior Citizens Day 21 August recognises contributions of elderly to society.",
+      "summary_hi": "21 Aug World Senior Citizens Day UN।",
+      "content": "UN World Senior Citizens Day 21 August recognises contributions of elderly to society.\n\nFor IB ACIO: 21 August.",
+      "content_hi": "21 Aug World Senior Citizens Day UN।\n\nIB ACIO: 21 Aug — याद रखें।",
+      "question": "Observed on:",
+      "question_hi": "Observed on:",
+      "options": [
+        "19 Aug",
+        "21 Aug",
+        "24 Aug",
+        "28 Aug"
+      ],
+      "options_hi": [
+        "19",
+        "21",
+        "24",
+        "28"
+      ],
+      "correctAnswer": 1,
+      "explanation": "21 Aug",
+      "explanation_hi": "21",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "2",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Monsoon Session 2026 — Legislative Summary",
+      "title_hi": "Monsoon Session Summary",
+      "image": null,
+      "summary": "PRS summary: 12 bills introduced, 11 passed; ISI Bill pending; none referred to committees.",
+      "summary_hi": "Monsoon 2026 legislative summary PRS।",
+      "content": "PRS summary: 12 bills introduced, 11 passed; ISI Bill pending; none referred to committees.\n\nFor IB ACIO: ISI Bill pending.",
+      "content_hi": "Monsoon 2026 legislative summary PRS।\n\nIB ACIO: ISI Bill — याद रखें।",
+      "question": "Pending bill:",
+      "question_hi": "Pending bill:",
+      "options": [
+        "Mines Bill",
+        "Indian Statistical Institute Bill",
+        "UPI Bill only",
+        "None"
+      ],
+      "options_hi": [
+        "Mines",
+        "ISI Bill",
+        "UPI only",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Indian Statistical Institute Bill",
+      "explanation_hi": "ISI Bill",
+      "moreInfo": "2026-08-13",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "3",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "National Programme for Health Care of Elderly",
+      "title_hi": "NPHCE Elderly",
+      "image": null,
+      "summary": "Ministry of Health runs NPHCE for geriatric care linked to Senior Citizens Day observance.",
+      "summary_hi": "NPHCE geriatric care Senior Citizens Day।",
+      "content": "Ministry of Health runs NPHCE for geriatric care linked to Senior Citizens Day observance.\n\nFor IB ACIO: 21 August.",
+      "content_hi": "NPHCE geriatric care Senior Citizens Day।\n\nIB ACIO: 21 Aug — याद रखें।",
+      "question": "Senior Citizens Day:",
+      "question_hi": "Senior Citizens Day:",
+      "options": [
+        "21 Aug",
+        "28 Aug",
+        "15 Aug",
+        "26 Jan"
+      ],
+      "options_hi": [
+        "21",
+        "28",
+        "15",
+        "26 Jan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "21 Aug",
+      "explanation_hi": "21",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "4",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "Pension and Social Security for Elderly",
+      "title_hi": "Pension Elderly",
+      "image": null,
+      "summary": "EPFO and National Social Assistance Programme support elderly social security.",
+      "summary_hi": "EPFO NSAP elderly social security।",
+      "content": "EPFO and National Social Assistance Programme support elderly social security.\n\nFor IB ACIO: Labour Ministry.",
+      "content_hi": "EPFO NSAP elderly social security।\n\nIB ACIO: EPFO — याद रखें।",
+      "question": "EPFO under:",
+      "question_hi": "EPFO under:",
+      "options": [
+        "Ministry of Labour and Employment",
+        "RBI",
+        "SEBI",
+        "Defence"
+      ],
+      "options_hi": [
+        "Labour",
+        "RBI",
+        "SEBI",
+        "Defence"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ministry of Labour and Employment",
+      "explanation_hi": "Labour",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "5",
+      "category": "Government Schemes",
+      "category_hi": "सरकारी yोजnाएं",
+      "title": "Atal Vayo Abhyuday Yojana for Senior Citizens",
+      "title_hi": "Atal Vayo Abhyuday",
+      "image": null,
+      "summary": "Atal Vayo Abhyuday Yojana supports senior citizen wellness and recreation centres.",
+      "summary_hi": "Atal Vayo Abhyuday senior citizens।",
+      "content": "Atal Vayo Abhyuday Yojana supports senior citizen wellness and recreation centres.\n\nFor IB ACIO: Senior citizens.",
+      "content_hi": "Atal Vayo Abhyuday senior citizens।\n\nIB ACIO: Seniors — याद रखें।",
+      "question": "Targets:",
+      "question_hi": "Targets:",
+      "options": [
+        "Senior citizens",
+        "Youth only",
+        "Farmers only",
+        "MSME only"
+      ],
+      "options_hi": [
+        "Seniors",
+        "Youth",
+        "Farmers",
+        "MSME"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Senior citizens",
+      "explanation_hi": "Seniors",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "6",
+      "category": "Science & Tech",
+      "category_hi": "विज्ञान और tकनीk",
+      "title": "Digital Literacy for Elderly — PMGDISHA",
+      "title_hi": "Digital Literacy Elderly",
+      "image": null,
+      "summary": "PMGDISHA digital literacy programme includes elderly citizens in rural areas.",
+      "summary_hi": "PMGDISHA elderly digital literacy।",
+      "content": "PMGDISHA digital literacy programme includes elderly citizens in rural areas.\n\nFor IB ACIO: Digital literacy.",
+      "content_hi": "PMGDISHA elderly digital literacy।\n\nIB ACIO: PMGDISHA — याद रखें।",
+      "question": "PMGDISHA for:",
+      "question_hi": "PMGDISHA for:",
+      "options": [
+        "Digital literacy",
+        "Defence",
+        "Mining",
+        "Ports"
+      ],
+      "options_hi": [
+        "Digital literacy",
+        "Defence",
+        "Mining",
+        "Ports"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Digital literacy",
+      "explanation_hi": "Digital literacy",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "7",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Maintenance and Welfare of Parents Act",
+      "title_hi": "Parents Act",
+      "image": null,
+      "summary": "Maintenance and Welfare of Parents and Senior Citizens Act 2007 protects elderly rights.",
+      "summary_hi": "Parents and Senior Citizens Act 2007।",
+      "content": "Maintenance and Welfare of Parents and Senior Citizens Act 2007 protects elderly rights.\n\nFor IB ACIO: 2007 Act.",
+      "content_hi": "Parents and Senior Citizens Act 2007।\n\nIB ACIO: 2007 — याद रखें।",
+      "question": "Act year:",
+      "question_hi": "Act year:",
+      "options": [
+        "2005",
+        "2007",
+        "2010",
+        "2014"
+      ],
+      "options_hi": [
+        "2005",
+        "2007",
+        "2010",
+        "2014"
+      ],
+      "correctAnswer": 1,
+      "explanation": "2007",
+      "explanation_hi": "2007",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "8",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "India Ageing Population — Demographic Shift",
+      "title_hi": "India Ageing",
+      "image": null,
+      "summary": "India's ageing population grows; World Senior Citizens Day highlights policy needs.",
+      "summary_hi": "India ageing demographic Aug 2026।",
+      "content": "India's ageing population grows; World Senior Citizens Day highlights policy needs.\n\nFor IB ACIO: United Nations.",
+      "content_hi": "India ageing demographic Aug 2026।\n\nIB ACIO: UN — याद रखें।",
+      "question": "World Senior Citizens Day by:",
+      "question_hi": "World Senior Citizens Day by:",
+      "options": [
+        "UN",
+        "WTO",
+        "IMF",
+        "NATO"
+      ],
+      "options_hi": [
+        "UN",
+        "WTO",
+        "IMF",
+        "NATO"
+      ],
+      "correctAnswer": 0,
+      "explanation": "UN",
+      "explanation_hi": "UN",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "9",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "Ex-Servicemen Welfare on Senior Citizens Day",
+      "title_hi": "Ex-Servicemen Welfare",
+      "image": null,
+      "summary": "Kendriya Sainik Board welfare programmes for veteran elderly highlighted on 21 August.",
+      "summary_hi": "Ex-servicemen welfare Senior Citizens Day।",
+      "content": "Kendriya Sainik Board welfare programmes for veteran elderly highlighted on 21 August.\n\nFor IB ACIO: Ministry of Defence.",
+      "content_hi": "Ex-servicemen welfare Senior Citizens Day।\n\nIB ACIO: Defence — याद रखें।",
+      "question": "Kendriya Sainik Board under:",
+      "question_hi": "Kendriya Sainik Board under:",
+      "options": [
+        "Ministry of Defence",
+        "Finance",
+        "Home only",
+        "Railways"
+      ],
+      "options_hi": [
+        "Defence",
+        "Finance",
+        "Home",
+        "Railways"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ministry of Defence",
+      "explanation_hi": "Defence",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "10",
+      "category": "Sports",
+      "category_hi": "खेल",
+      "title": "Senior Citizens Sports Meets",
+      "title_hi": "Senior Sports",
+      "image": null,
+      "summary": "National senior citizens sports meets organised in several states on 21 August 2026.",
+      "summary_hi": "Senior citizens sports meets Aug 2026।",
+      "content": "National senior citizens sports meets organised in several states on 21 August 2026.\n\nFor IB ACIO: 21 August.",
+      "content_hi": "Senior citizens sports meets Aug 2026।\n\nIB ACIO: 21 Aug — याद रखें।",
+      "question": "World Senior Citizens Day:",
+      "question_hi": "World Senior Citizens Day:",
+      "options": [
+        "21 Aug",
+        "28 Aug",
+        "19 Aug",
+        "15 Aug"
+      ],
+      "options_hi": [
+        "21",
+        "28",
+        "19",
+        "15"
+      ],
+      "correctAnswer": 0,
+      "explanation": "21 Aug",
+      "explanation_hi": "21",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    }
+  ]
+}

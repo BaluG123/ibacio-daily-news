@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-08",
+  "editionTitle": "IB ACIO Daily Current Affairs — 8 August 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 8 अगस्त 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Quit India Movement Day — 8 August 1942",
+      "title_hi": "भारत छोड़ो दिवस — 8 अगस्त 1942",
+      "image": null,
+      "summary": "8 August marks Gandhi's Quit India Movement with 'Do or Die' call at Mumbai's August Kranti Maidan.",
+      "summary_hi": "8 अगस्त Mumbai August Kranti Maidan — Do or Die call।",
+      "content": "8 August marks Gandhi's Quit India Movement with 'Do or Die' call at Mumbai's August Kranti Maidan.\n\nCongress leaders were mass arrested after launch.\n\nFor IB ACIO: 8 Aug 1942, Do or Die.",
+      "content_hi": "8 अगस्त Mumbai August Kranti Maidan — Do or Die call।\nCongress leaders गिरफ्तार।\n\nIB ACIO: 8 Aug 1942 — याद रखें।",
+      "question": "Quit India was launched on:",
+      "question_hi": "कब?",
+      "options": [
+        "8 Aug 1942",
+        "15 Aug 1947",
+        "9 Aug 1942",
+        "26 Jan 1950"
+      ],
+      "options_hi": [
+        "8 Aug 1942",
+        "15 Aug 1947",
+        "9 Aug 1942",
+        "26 Jan 1950"
+      ],
+      "correctAnswer": 0,
+      "explanation": "8 Aug 1942",
+      "explanation_hi": "8 Aug 1942",
+      "moreInfo": "Nagasaki 9 Aug",
+      "moreInfo_hi": "9 Aug",
+      "relatedDate": "2026-08-09"
+    },
+    {
+      "id": "2",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "MHA Border RE Guidelines — 1 km Ban Issued",
+      "title_hi": "MHA Guidelines — 1 km Ban",
+      "image": null,
+      "summary": "On 8 August 2026 MHA barred solar/wind within 1 km of LoC, LAC, IB.",
+      "summary_hi": "8 Aug 2026: 1 km RE ban LoC/LAC/IB।",
+      "content": "On 8 August 2026 MHA barred solar/wind within 1 km of LoC, LAC, IB.\n\nSecurity clearance 1-50 km; MoD NOC 1-20 km from IB.\n\nFor IB ACIO: 1 km ban Aug 8.",
+      "content_hi": "8 Aug 2026: 1 km RE ban LoC/LAC/IB।\n1-50 km clearance।\n\nIB ACIO: 1 km — याद रखें।",
+      "question": "Ban within:",
+      "question_hi": "Ban?",
+      "options": [
+        "500m",
+        "1 km",
+        "5 km",
+        "25 km"
+      ],
+      "options_hi": [
+        "500m",
+        "1 km",
+        "5 km",
+        "25 km"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1 km",
+      "explanation_hi": "1 km",
+      "moreInfo": "Aug 6 preview",
+      "moreInfo_hi": "6 Aug",
+      "relatedDate": "2026-08-06"
+    },
+    {
+      "id": "3",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "August Kranti Maidan — Mumbai",
+      "title_hi": "August Kranti Maidan",
+      "image": null,
+      "summary": "Historic Quit India launch site in Mumbai formerly Gowalia Tank Maidan.",
+      "summary_hi": "Mumbai August Kranti Maidan — 1942 site।",
+      "content": "Historic Quit India launch site in Mumbai formerly Gowalia Tank Maidan.\n\nFor IB ACIO: Mumbai.",
+      "content_hi": "Mumbai August Kranti Maidan — 1942 site।\n\nIB ACIO: Mumbai — याद रखें।",
+      "question": "Launched from:",
+      "question_hi": "कहाँ?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "options_hi": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mumbai",
+      "explanation_hi": "Mumbai",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "4",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "'Do or Die' — Mahatma Gandhi 1942",
+      "title_hi": "Do or Die — Gandhi",
+      "image": null,
+      "summary": "Gandhi's Do or Die call launched final mass phase of freedom struggle on 8 August 1942.",
+      "summary_hi": "Gandhi Do or Die 8 Aug 1942।",
+      "content": "Gandhi's Do or Die call launched final mass phase of freedom struggle on 8 August 1942.\n\nFor IB ACIO: Gandhi.",
+      "content_hi": "Gandhi Do or Die 8 Aug 1942।\n\nIB ACIO: Gandhi — याद रखें।",
+      "question": "Call by:",
+      "question_hi": "किसने?",
+      "options": [
+        "Bose",
+        "Gandhi",
+        "Nehru",
+        "Patel"
+      ],
+      "options_hi": [
+        "Bose",
+        "Gandhi",
+        "Nehru",
+        "Patel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gandhi",
+      "explanation_hi": "Gandhi",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "5",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "LoC, LAC, IB in MHA Guidelines",
+      "title_hi": "LoC LAC IB",
+      "image": null,
+      "summary": "MHA guidelines cover LoC (Pakistan), LAC (China) and International Border sectors.",
+      "summary_hi": "LoC-Pak, LAC-China, IB।",
+      "content": "MHA guidelines cover LoC (Pakistan), LAC (China) and International Border sectors.\n\nFor IB ACIO: LAC-China.",
+      "content_hi": "LoC-Pak, LAC-China, IB।\n\nIB ACIO: LAC-China — याद रखें।",
+      "question": "LAC with:",
+      "question_hi": "LAC?",
+      "options": [
+        "Pakistan",
+        "China",
+        "Nepal",
+        "Maldives"
+      ],
+      "options_hi": [
+        "Pak",
+        "China",
+        "Nepal",
+        "Maldives"
+      ],
+      "correctAnswer": 1,
+      "explanation": "China",
+      "explanation_hi": "China",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "6",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "MNRE Routes Border RE to MHA",
+      "title_hi": "MNRE to MHA",
+      "image": null,
+      "summary": "Border renewable proposals routed MNRE to MHA under August 2026 rules.",
+      "summary_hi": "MNRE → MHA routing।",
+      "content": "Border renewable proposals routed MNRE to MHA under August 2026 rules.\n\nFor IB ACIO: MNRE-MHA.",
+      "content_hi": "MNRE → MHA routing।\n\nIB ACIO: MNRE-MHA — याद रखें।",
+      "question": "Routed via:",
+      "question_hi": "Via?",
+      "options": [
+        "RBI",
+        "MNRE-MHA",
+        "SEBI",
+        "TRAI"
+      ],
+      "options_hi": [
+        "RBI",
+        "MNRE-MHA",
+        "SEBI",
+        "TRAI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "MNRE-MHA",
+      "explanation_hi": "MNRE-MHA",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "7",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "World Biofuel Day Preview — 10 August",
+      "title_hi": "Biofuel Day Preview",
+      "image": null,
+      "summary": "World Biofuel Day 10 August; India E20 ethanol blending target.",
+      "summary_hi": "10 Aug Biofuel Day, E20।",
+      "content": "World Biofuel Day 10 August; India E20 ethanol blending target.\n\nFor IB ACIO: 10 Aug.",
+      "content_hi": "10 Aug Biofuel Day, E20।\n\nIB ACIO: 10 Aug — याद रखें।",
+      "question": "Biofuel Day:",
+      "question_hi": "कब?",
+      "options": [
+        "8 Aug",
+        "10 Aug",
+        "15 Aug",
+        "20 Aug"
+      ],
+      "options_hi": [
+        "8",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctAnswer": 1,
+      "explanation": "10 Aug",
+      "explanation_hi": "10",
+      "moreInfo": "2026-08-20",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "8",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Monsoon Session NEET Protests",
+      "title_hi": "NEET Protests",
+      "image": null,
+      "summary": "Monsoon Session 2026 disrupted over alleged NEET leak; LS productivity ~19%.",
+      "summary_hi": "NEET protests, LS ~19%।",
+      "content": "Monsoon Session 2026 disrupted over alleged NEET leak; LS productivity ~19%.\n\nFor IB ACIO: 13 Aug sine die.",
+      "content_hi": "NEET protests, LS ~19%।\n\nIB ACIO: 13 Aug — याद रखें।",
+      "question": "Session ended:",
+      "question_hi": "समाप्त?",
+      "options": [
+        "8 Aug",
+        "13 Aug",
+        "15 Aug",
+        "20 Jul"
+      ],
+      "options_hi": [
+        "8",
+        "13",
+        "15",
+        "20 Jul"
+      ],
+      "correctAnswer": 1,
+      "explanation": "13 Aug",
+      "explanation_hi": "13",
+      "moreInfo": "2026-08-13",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "9",
+      "category": "Government Schemes",
+      "category_hi": "सरकारी योजनाएं",
+      "title": "Meri Mati Mera Desh 2.0 Active",
+      "title_hi": "Meri Mati 2.0",
+      "image": null,
+      "summary": "Campaign 9-15 Aug under Culture Ministry: Amrit Kalash yatras.",
+      "summary_hi": "9-15 Aug Culture Ministry।",
+      "content": "Campaign 9-15 Aug under Culture Ministry: Amrit Kalash yatras.\n\nFor IB ACIO: Culture.",
+      "content_hi": "9-15 Aug Culture Ministry।\n\nIB ACIO: Culture — याद रखें।",
+      "question": "Ministry:",
+      "question_hi": "मंत्रालय?",
+      "options": [
+        "Defence",
+        "Culture",
+        "Home",
+        "Rail"
+      ],
+      "options_hi": [
+        "Defence",
+        "Culture",
+        "Home",
+        "Rail"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Culture",
+      "explanation_hi": "Culture",
+      "moreInfo": "2026-08-15",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "10",
+      "category": "Sports",
+      "category_hi": "खेल",
+      "title": "National Sports Day Preview — 29 August",
+      "title_hi": "Sports Day Preview",
+      "image": null,
+      "summary": "29 August Major Dhyan Chand birth anniversary.",
+      "summary_hi": "29 Aug Dhyan Chand jayanti।",
+      "content": "29 August Major Dhyan Chand birth anniversary.\n\nFor IB ACIO: 29 Aug.",
+      "content_hi": "29 Aug Dhyan Chand jayanti।\n\nIB ACIO: 29 Aug — याद रखें।",
+      "question": "Sports Day:",
+      "question_hi": "कब?",
+      "options": [
+        "15 Aug",
+        "29 Aug",
+        "26 Jan",
+        "2 Oct"
+      ],
+      "options_hi": [
+        "15",
+        "29",
+        "26 Jan",
+        "2 Oct"
+      ],
+      "correctAnswer": 1,
+      "explanation": "29 Aug",
+      "explanation_hi": "29",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    }
+  ]
+}

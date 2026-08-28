@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-19",
+  "editionTitle": "IB ACIO Daily Current Affairs — 19 August 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 19 अगस्त 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "World Humanitarian Day — 19 August",
+      "title_hi": "विश्व मानवीय दिवस — 19 अगस्त",
+      "image": null,
+      "summary": "UN observes 19 August as World Humanitarian Day honouring aid workers; theme focuses on crisis response.",
+      "summary_hi": "UN 19 Aug World Humanitarian Day aid workers।",
+      "content": "UN observes 19 August as World Humanitarian Day honouring aid workers; theme focuses on crisis response.\n\nFor IB ACIO: 19 August.",
+      "content_hi": "UN 19 Aug World Humanitarian Day aid workers।\n\nIB ACIO: 19 Aug — याद रखें।",
+      "question": "Observed on:",
+      "question_hi": "Observed on:",
+      "options": [
+        "15 Aug",
+        "19 Aug",
+        "21 Aug",
+        "24 Aug"
+      ],
+      "options_hi": [
+        "15",
+        "19",
+        "21",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "explanation": "19 Aug",
+      "explanation_hi": "19",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "2",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "World Photography Day — 19 August",
+      "title_hi": "विश्व फोटोग्राफी दिवस — 19 अगस्त",
+      "image": null,
+      "summary": "World Photography Day on 19 August celebrates art and science of photography globally.",
+      "summary_hi": "19 Aug World Photography Day।",
+      "content": "World Photography Day on 19 August celebrates art and science of photography globally.\n\nFor IB ACIO: 19 August.",
+      "content_hi": "19 Aug World Photography Day।\n\nIB ACIO: 19 Aug — याद रखें।",
+      "question": "Photography Day:",
+      "question_hi": "Photography Day:",
+      "options": [
+        "15 Aug",
+        "19 Aug",
+        "26 Aug",
+        "28 Aug"
+      ],
+      "options_hi": [
+        "15",
+        "19",
+        "26",
+        "28"
+      ],
+      "correctAnswer": 1,
+      "explanation": "19 Aug",
+      "explanation_hi": "19",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "3",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "UN Humanitarian Day — India Relief Operations",
+      "title_hi": "India Humanitarian Relief",
+      "image": null,
+      "summary": "India conducts humanitarian relief in flood and disaster zones; NDRF deployed in monsoon season.",
+      "summary_hi": "India NDRF monsoon relief Aug 2026।",
+      "content": "India conducts humanitarian relief in flood and disaster zones; NDRF deployed in monsoon season.\n\nFor IB ACIO: MHA.",
+      "content_hi": "India NDRF monsoon relief Aug 2026।\n\nIB ACIO: MHA — याद रखें।",
+      "question": "NDRF under:",
+      "question_hi": "NDRF under:",
+      "options": [
+        "Ministry of Home Affairs",
+        "Ministry of Defence only",
+        "RBI",
+        "ECI"
+      ],
+      "options_hi": [
+        "MHA",
+        "Defence only",
+        "RBI",
+        "ECI"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ministry of Home Affairs",
+      "explanation_hi": "MHA",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "4",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "Disaster Response During Monsoon 2026",
+      "title_hi": "Monsoon Disaster Response",
+      "image": null,
+      "summary": "Armed forces and NDRF conducted rescue operations in flood-affected states during August monsoon.",
+      "summary_hi": "Armed forces NDRF flood rescue Aug 2026।",
+      "content": "Armed forces and NDRF conducted rescue operations in flood-affected states during August monsoon.\n\nFor IB ACIO: National Disaster Response Force.",
+      "content_hi": "Armed forces NDRF flood rescue Aug 2026।\n\nIB ACIO: NDRF — याद रखें।",
+      "question": "NDRF stands for:",
+      "question_hi": "NDRF stands for:",
+      "options": [
+        "National Disaster Response Force",
+        "National Defence Reserve Force",
+        "None",
+        "Naval Force"
+      ],
+      "options_hi": [
+        "NDRF correct",
+        "NDRF wrong",
+        "None",
+        "Naval"
+      ],
+      "correctAnswer": 0,
+      "explanation": "National Disaster Response Force",
+      "explanation_hi": "NDRF correct",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "5",
+      "category": "Science & Tech",
+      "category_hi": "विज्ञान और tकनीक",
+      "title": "Photography in Digital India — DigiLocker and Archives",
+      "title_hi": "Digital Photography",
+      "image": null,
+      "summary": "Digital India enables photo ID via DigiLocker; photography day highlights digital documentation.",
+      "summary_hi": "DigiLocker digital photo ID।",
+      "content": "Digital India enables photo ID via DigiLocker; photography day highlights digital documentation.\n\nFor IB ACIO: MeitY.",
+      "content_hi": "DigiLocker digital photo ID।\n\nIB ACIO: MeitY — याद रखें।",
+      "question": "DigiLocker under:",
+      "question_hi": "DigiLocker under:",
+      "options": [
+        "MeitY",
+        "RBI",
+        "SEBI",
+        "TRAI"
+      ],
+      "options_hi": [
+        "MeitY",
+        "RBI",
+        "SEBI",
+        "TRAI"
+      ],
+      "correctAnswer": 0,
+      "explanation": "MeitY",
+      "explanation_hi": "MeitY",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "6",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "OCHA — UN Office for Coordination of Humanitarian Affairs",
+      "title_hi": "OCHA UN",
+      "image": null,
+      "summary": "OCHA coordinates international humanitarian response; World Humanitarian Day led by UN.",
+      "summary_hi": "OCHA coordinates humanitarian response।",
+      "content": "OCHA coordinates international humanitarian response; World Humanitarian Day led by UN.\n\nFor IB ACIO: United Nations.",
+      "content_hi": "OCHA coordinates humanitarian response।\n\nIB ACIO: UN — याद रखें।",
+      "question": "Humanitarian Day led by:",
+      "question_hi": "Humanitarian Day led by:",
+      "options": [
+        "WTO",
+        "United Nations",
+        "IMF",
+        "NATO"
+      ],
+      "options_hi": [
+        "WTO",
+        "UN",
+        "IMF",
+        "NATO"
+      ],
+      "correctAnswer": 1,
+      "explanation": "United Nations",
+      "explanation_hi": "UN",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "7",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Ayushman Bharat Health Camps in Flood Areas",
+      "title_hi": "Ayushman Flood Camps",
+      "image": null,
+      "summary": "Health Ministry deployed Ayushman Bharat services in flood-affected districts during August.",
+      "summary_hi": "Ayushman Bharat flood area camps।",
+      "content": "Health Ministry deployed Ayushman Bharat services in flood-affected districts during August.\n\nFor IB ACIO: Health insurance scheme.",
+      "content_hi": "Ayushman Bharat flood area camps।\n\nIB ACIO: Ayushman — याद रखें।",
+      "question": "Ayushman Bharat is:",
+      "question_hi": "Ayushman Bharat is:",
+      "options": [
+        "Health insurance scheme",
+        "Defence scheme",
+        "Farm scheme",
+        "Space scheme"
+      ],
+      "options_hi": [
+        "Health insurance",
+        "Defence",
+        "Farm",
+        "Space"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Health insurance scheme",
+      "explanation_hi": "Health insurance",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "8",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "Humanitarian Logistics — Supply Chain in Disasters",
+      "title_hi": "Humanitarian Logistics",
+      "image": null,
+      "summary": "Efficient supply chains critical in humanitarian crises; India improves disaster logistics hubs.",
+      "summary_hi": "Disaster logistics supply chain Aug 2026।",
+      "content": "Efficient supply chains critical in humanitarian crises; India improves disaster logistics hubs.\n\nFor IB ACIO: National Disaster Management Authority.",
+      "content_hi": "Disaster logistics supply chain Aug 2026।\n\nIB ACIO: NDMA — याद रखें।",
+      "question": "NDMA stands for:",
+      "question_hi": "NDMA stands for:",
+      "options": [
+        "National Disaster Management Authority",
+        "National Defence Management Agency",
+        "None",
+        "Naval Authority"
+      ],
+      "options_hi": [
+        "NDMA",
+        "Defence",
+        "None",
+        "Naval"
+      ],
+      "correctAnswer": 0,
+      "explanation": "National Disaster Management Authority",
+      "explanation_hi": "NDMA",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "9",
+      "category": "Environment",
+      "category_hi": "पर्यावरण",
+      "title": "Monsoon Floods — Climate Resilience Focus",
+      "title_hi": "Monsoon Floods Climate",
+      "image": null,
+      "summary": "Heavy monsoon floods in August 2026 underscore climate resilience in Saptadhara green economy pillar.",
+      "summary_hi": "Monsoon floods climate resilience।",
+      "content": "Heavy monsoon floods in August 2026 underscore climate resilience in Saptadhara green economy pillar.\n\nFor IB ACIO: Sixth pillar green-blue.",
+      "content_hi": "Monsoon floods climate resilience।\n\nIB ACIO: Sixth — याद रखें।",
+      "question": "Green economy is Saptadhara pillar:",
+      "question_hi": "Green economy is Saptadhara pillar:",
+      "options": [
+        "2nd",
+        "6th",
+        "7th",
+        "1st"
+      ],
+      "options_hi": [
+        "2nd",
+        "6th",
+        "7th",
+        "1st"
+      ],
+      "correctAnswer": 1,
+      "explanation": "6th",
+      "explanation_hi": "6th",
+      "moreInfo": "2026-08-15",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "10",
+      "category": "Sports",
+      "category_hi": "खेल",
+      "title": "Sports Aid Workers Recognition on Humanitarian Day",
+      "title_hi": "Sports Humanitarian",
+      "image": null,
+      "summary": "Sports federations honoured community coaches contributing to disaster relief on Humanitarian Day.",
+      "summary_hi": "Sports community disaster relief recognition।",
+      "content": "Sports federations honoured community coaches contributing to disaster relief on Humanitarian Day.\n\nFor IB ACIO: 19 August.",
+      "content_hi": "Sports community disaster relief recognition।\n\nIB ACIO: 19 Aug — याद रखें।",
+      "question": "World Humanitarian Day date:",
+      "question_hi": "World Humanitarian Day date:",
+      "options": [
+        "19 Aug",
+        "28 Aug",
+        "15 Aug",
+        "26 Jan"
+      ],
+      "options_hi": [
+        "19",
+        "28",
+        "15",
+        "26 Jan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "19 Aug",
+      "explanation_hi": "19",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-17",
+  "editionTitle": "IB ACIO Daily Current Affairs — 17 August 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 17 अगस्त 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Vande Mataram Act in Force After Assent",
+      "title_hi": "Vande Mataram Act",
+      "image": null,
+      "summary": "Vande Mataram Act now in force after Presidential assent on 14 August granting anthem-level protection.",
+      "summary_hi": "Vande Mataram Act in force post-assent।",
+      "content": "Vande Mataram Act now in force after Presidential assent on 14 August granting anthem-level protection.\n\nFor IB ACIO: 14 August.",
+      "content_hi": "Vande Mataram Act in force post-assent।\n\nIB ACIO: 14 Aug — याद रखें।",
+      "question": "Assented:",
+      "question_hi": "Assented:",
+      "options": [
+        "13 Aug",
+        "14 Aug",
+        "15 Aug",
+        "16 Aug"
+      ],
+      "options_hi": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "14 Aug",
+      "explanation_hi": "14",
+      "moreInfo": "2026-08-14",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "2",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Keralam Official Name Change Implementation",
+      "title_hi": "Keralam Implementation",
+      "image": null,
+      "summary": "Kerala state government began implementing official rename to Keralam after 14 August assent.",
+      "summary_hi": "Keralam rename implementation।",
+      "content": "Kerala state government began implementing official rename to Keralam after 14 August assent.\n\nFor IB ACIO: Kerala renamed Keralam.",
+      "content_hi": "Keralam rename implementation।\n\nIB ACIO: Kerala — याद रखें।",
+      "question": "Old name:",
+      "question_hi": "Old name:",
+      "options": [
+        "Keralam",
+        "Kerala",
+        "Malabar",
+        "Travancore"
+      ],
+      "options_hi": [
+        "Keralam",
+        "Kerala",
+        "Malabar",
+        "Travancore"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kerala",
+      "explanation_hi": "Kerala",
+      "moreInfo": "2026-08-14",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "3",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Supreme Court Judges Amendment — 38 Strength",
+      "title_hi": "SC 38 Judges",
+      "image": null,
+      "summary": "Supreme Court now authorised up to 38 judges after Monsoon Session legislation.",
+      "summary_hi": "SC 38 judges authorised।",
+      "content": "Supreme Court now authorised up to 38 judges after Monsoon Session legislation.\n\nFor IB ACIO: Previously 34.",
+      "content_hi": "SC 38 judges authorised।\n\nIB ACIO: 34 — याद रखें।",
+      "question": "Previous strength:",
+      "question_hi": "Previous strength:",
+      "options": [
+        "30",
+        "34",
+        "38",
+        "40"
+      ],
+      "options_hi": [
+        "30",
+        "34",
+        "38",
+        "40"
+      ],
+      "correctAnswer": 1,
+      "explanation": "34",
+      "explanation_hi": "34",
+      "moreInfo": "2026-08-13",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "4",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "Post I-Day Market Sentiment — Saptadhara Reforms",
+      "title_hi": "Post ID Markets",
+      "image": null,
+      "summary": "Markets tracked Saptadhara reform signals from Independence Day speech for sectoral impact.",
+      "summary_hi": "Markets track Saptadhara reforms।",
+      "content": "Markets tracked Saptadhara reform signals from Independence Day speech for sectoral impact.\n\nFor IB ACIO: Seven pillars.",
+      "content_hi": "Markets track Saptadhara reforms।\n\nIB ACIO: Seven — याद रखें।",
+      "question": "Saptadhara pillars:",
+      "question_hi": "Saptadhara pillars:",
+      "options": [
+        "5",
+        "7",
+        "10",
+        "3"
+      ],
+      "options_hi": [
+        "5",
+        "7",
+        "10",
+        "3"
+      ],
+      "correctAnswer": 1,
+      "explanation": "7",
+      "explanation_hi": "7",
+      "moreInfo": "2026-08-15",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "5",
+      "category": "Science & Tech",
+      "category_hi": "विज्ञान और tकनीक",
+      "title": "Semiconductor PLI Scheme Update",
+      "title_hi": "Semiconductor PLI",
+      "image": null,
+      "summary": "India Semiconductor Mission and PLI scheme align with 7-8 new fab announcement.",
+      "summary_hi": "Semiconductor PLI + ISM alignment।",
+      "content": "India Semiconductor Mission and PLI scheme align with 7-8 new fab announcement.\n\nFor IB ACIO: India Semiconductor Mission.",
+      "content_hi": "Semiconductor PLI + ISM alignment।\n\nIB ACIO: ISM — याद रखें।",
+      "question": "ISM stands for:",
+      "question_hi": "ISM stands for:",
+      "options": [
+        "India Semiconductor Mission",
+        "Indian Space Mission",
+        "Internal Security Mission",
+        "None"
+      ],
+      "options_hi": [
+        "ISM",
+        "Space",
+        "Security",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "India Semiconductor Mission",
+      "explanation_hi": "ISM",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "6",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "SCO Summit Bishkek Preview — Late August",
+      "title_hi": "SCO Preview",
+      "image": null,
+      "summary": "PM Modi expected at SCO summit Bishkek Kyrgyzstan late August; possible Xi meeting.",
+      "summary_hi": "SCO Bishkek late Aug preview।",
+      "content": "PM Modi expected at SCO summit Bishkek Kyrgyzstan late August; possible Xi meeting.\n\nFor IB ACIO: Bishkek Kyrgyzstan.",
+      "content_hi": "SCO Bishkek late Aug preview।\n\nIB ACIO: Bishkek — याद रखें।",
+      "question": "SCO summit host city:",
+      "question_hi": "SCO summit host city:",
+      "options": [
+        "New Delhi",
+        "Bishkek",
+        "Beijing",
+        "Moscow"
+      ],
+      "options_hi": [
+        "Delhi",
+        "Bishkek",
+        "Beijing",
+        "Moscow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bishkek",
+      "explanation_hi": "Bishkek",
+      "moreInfo": "2026-08-27",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "7",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "Counter-Drone Systems in Raksha Shakti Pillar",
+      "title_hi": "Counter-Drone",
+      "image": null,
+      "summary": "Saptadhara Raksha Shakti pillar emphasises counter-drone and next-gen defence tech.",
+      "summary_hi": "Counter-drone in Raksha Shakti।",
+      "content": "Saptadhara Raksha Shakti pillar emphasises counter-drone and next-gen defence tech.\n\nFor IB ACIO: Raksha Shakti.",
+      "content_hi": "Counter-drone in Raksha Shakti।\n\nIB ACIO: Raksha — याद रखें।",
+      "question": "Defence pillar name:",
+      "question_hi": "Defence pillar name:",
+      "options": [
+        "Gati Shakti",
+        "Raksha Shakti",
+        "Soft Power",
+        "Manufacturing"
+      ],
+      "options_hi": [
+        "Gati",
+        "Raksha",
+        "Soft",
+        "Manufacturing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Raksha Shakti",
+      "explanation_hi": "Raksha",
+      "moreInfo": "2026-08-15",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "8",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Education Minister Resignation After NEET Protests",
+      "title_hi": "Education Minister Resignation",
+      "image": null,
+      "summary": "Education Minister Dharmendra Pradhan resigned following NEET protest pressure in August 2026.",
+      "summary_hi": "Education Minister resignation NEET protests।",
+      "content": "Education Minister Dharmendra Pradhan resigned following NEET protest pressure in August 2026.\n\nFor IB ACIO: NEET protests.",
+      "content_hi": "Education Minister resignation NEET protests।\n\nIB ACIO: NEET — याद रखें।",
+      "question": "Resignation linked to:",
+      "question_hi": "Resignation linked to:",
+      "options": [
+        "Budget",
+        "NEET protests",
+        "Defence scam",
+        "Farm laws"
+      ],
+      "options_hi": [
+        "Budget",
+        "NEET",
+        "Defence",
+        "Farm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "NEET protests",
+      "explanation_hi": "NEET",
+      "moreInfo": "2026-08-10",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "9",
+      "category": "Government Schemes",
+      "category_hi": "सरकारी yोजनाएं",
+      "title": "Gati Shakti Connectivity Pillar in Saptadhara",
+      "title_hi": "Gati Shakti Pillar",
+      "image": null,
+      "summary": "Fourth Saptadhara pillar Gati Shakti improves multi-modal connectivity and logistics.",
+      "summary_hi": "Gati Shakti connectivity pillar Saptadhara।",
+      "content": "Fourth Saptadhara pillar Gati Shakti improves multi-modal connectivity and logistics.\n\nFor IB ACIO: Multi-modal connectivity.",
+      "content_hi": "Gati Shakti connectivity pillar Saptadhara।\n\nIB ACIO: Connectivity — याद रखें।",
+      "question": "Gati Shakti is:",
+      "question_hi": "Gati Shakti is:",
+      "options": [
+        "Defence only",
+        "Multi-modal connectivity",
+        "Agriculture only",
+        "Tourism only"
+      ],
+      "options_hi": [
+        "Defence",
+        "Multi-modal",
+        "Agri",
+        "Tourism"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multi-modal connectivity",
+      "explanation_hi": "Multi-modal",
+      "moreInfo": "2026-08-15",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "10",
+      "category": "Sports",
+      "category_hi": "खेल",
+      "title": "Khelo India Programme Continues",
+      "title_hi": "Khelo India",
+      "image": null,
+      "summary": "Khelo India programme supports grassroots sports aligned with Olympic talent hunt announcement.",
+      "summary_hi": "Khelo India grassroots sports।",
+      "content": "Khelo India programme supports grassroots sports aligned with Olympic talent hunt announcement.\n\nFor IB ACIO: Sports Ministry.",
+      "content_hi": "Khelo India grassroots sports।\n\nIB ACIO: Sports — याद रखें।",
+      "question": "Khelo India by:",
+      "question_hi": "Khelo India by:",
+      "options": [
+        "Ministry of Youth Affairs and Sports",
+        "Finance",
+        "Defence",
+        "Home"
+      ],
+      "options_hi": [
+        "Sports Ministry",
+        "Finance",
+        "Defence",
+        "Home"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ministry of Youth Affairs and Sports",
+      "explanation_hi": "Sports Ministry",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    }
+  ]
+}

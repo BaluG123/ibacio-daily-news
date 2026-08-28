@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-23",
+  "editionTitle": "IB ACIO Daily Current Affairs — 23 August 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 23 अगस्त 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "International Day for Remembrance of Slave Trade — 23 August",
+      "title_hi": "Slave Trade Remembrance Day",
+      "image": null,
+      "summary": "UN observes 23 August for remembrance of transatlantic slave trade and its abolition.",
+      "summary_hi": "UN 23 Aug slave trade remembrance abolition।",
+      "content": "UN observes 23 August for remembrance of transatlantic slave trade and its abolition.\n\nFor IB ACIO: 23 August.",
+      "content_hi": "UN 23 Aug slave trade remembrance abolition।\n\nIB ACIO: 23 Aug — याद रखें।",
+      "question": "Observed on:",
+      "question_hi": "Observed on:",
+      "options": [
+        "21 Aug",
+        "23 Aug",
+        "26 Aug",
+        "28 Aug"
+      ],
+      "options_hi": [
+        "21",
+        "23",
+        "26",
+        "28"
+      ],
+      "correctAnswer": 1,
+      "explanation": "23 Aug",
+      "explanation_hi": "23",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "2",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "India's Anti-Slavery Constitutional Framework",
+      "title_hi": "Anti-Slavery Constitution",
+      "image": null,
+      "summary": "Article 23 prohibits human trafficking and forced labour; Article 24 bans child labour in factories.",
+      "summary_hi": "Article 23 trafficking ban, Article 24 child labour।",
+      "content": "Article 23 prohibits human trafficking and forced labour; Article 24 bans child labour in factories.\n\nFor IB ACIO: Article 23.",
+      "content_hi": "Article 23 trafficking ban, Article 24 child labour।\n\nIB ACIO: Article 23 — याद रखें।",
+      "question": "Trafficking prohibited by:",
+      "question_hi": "Trafficking prohibited by:",
+      "options": [
+        "Article 23",
+        "Article 370",
+        "Article 356",
+        "Article 44"
+      ],
+      "options_hi": [
+        "23",
+        "370",
+        "356",
+        "44"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Article 23",
+      "explanation_hi": "23",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "3",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "UNESCO Slave Route Project",
+      "title_hi": "UNESCO Slave Route",
+      "image": null,
+      "summary": "UNESCO Slave Route project preserves memory of transatlantic slave trade globally.",
+      "summary_hi": "UNESCO Slave Route project।",
+      "content": "UNESCO Slave Route project preserves memory of transatlantic slave trade globally.\n\nFor IB ACIO: UNESCO.",
+      "content_hi": "UNESCO Slave Route project।\n\nIB ACIO: UNESCO — याद रखें।",
+      "question": "Led by:",
+      "question_hi": "Led by:",
+      "options": [
+        "UNESCO",
+        "WTO",
+        "IMF",
+        "NATO"
+      ],
+      "options_hi": [
+        "UNESCO",
+        "WTO",
+        "IMF",
+        "NATO"
+      ],
+      "correctAnswer": 0,
+      "explanation": "UNESCO",
+      "explanation_hi": "UNESCO",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "4",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Bonded Labour System Abolition Act 1976",
+      "title_hi": "Bonded Labour Act",
+      "image": null,
+      "summary": "Bonded Labour System (Abolition) Act 1976 criminalises bonded labour in India.",
+      "summary_hi": "Bonded Labour Abolition Act 1976।",
+      "content": "Bonded Labour System (Abolition) Act 1976 criminalises bonded labour in India.\n\nFor IB ACIO: 1976 Act.",
+      "content_hi": "Bonded Labour Abolition Act 1976।\n\nIB ACIO: 1976 — याद रखें।",
+      "question": "Act year:",
+      "question_hi": "Act year:",
+      "options": [
+        "1947",
+        "1976",
+        "1991",
+        "2005"
+      ],
+      "options_hi": [
+        "1947",
+        "1976",
+        "1991",
+        "2005"
+      ],
+      "correctAnswer": 1,
+      "explanation": "1976",
+      "explanation_hi": "1976",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "5",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "Anti-Trafficking Units — MHA Coordination",
+      "title_hi": "Anti-Trafficking",
+      "image": null,
+      "summary": "MHA coordinates anti-human trafficking units with states; linked to Article 23 enforcement.",
+      "summary_hi": "MHA anti-trafficking units।",
+      "content": "MHA coordinates anti-human trafficking units with states; linked to Article 23 enforcement.\n\nFor IB ACIO: Constitutional violation.",
+      "content_hi": "MHA anti-trafficking units।\n\nIB ACIO: Article 23 — याद रखें।",
+      "question": "Trafficking is:",
+      "question_hi": "Trafficking is:",
+      "options": [
+        "Constitutional violation",
+        "Tax offence",
+        "Property only",
+        "None"
+      ],
+      "options_hi": [
+        "Constitutional violation",
+        "Tax",
+        "Property",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Constitutional violation",
+      "explanation_hi": "Constitutional violation",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "6",
+      "category": "Economy",
+      "category_hi": "अर्थवyवस्था",
+      "title": "ILO Forced Labour Convention — India Ratification Context",
+      "title_hi": "ILO Forced Labour",
+      "image": null,
+      "summary": "India ratified ILO forced labour conventions; 23 August highlights labour rights.",
+      "summary_hi": "ILO forced labour conventions India।",
+      "content": "India ratified ILO forced labour conventions; 23 August highlights labour rights.\n\nFor IB ACIO: Geneva.",
+      "content_hi": "ILO forced labour conventions India।\n\nIB ACIO: Geneva — याद रखें।",
+      "question": "ILO HQ:",
+      "question_hi": "ILO HQ:",
+      "options": [
+        "Geneva",
+        "New York",
+        "Paris",
+        "London"
+      ],
+      "options_hi": [
+        "Geneva",
+        "NY",
+        "Paris",
+        "London"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Geneva",
+      "explanation_hi": "Geneva",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "7",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Child Labour Prohibition Act",
+      "title_hi": "Child Labour Act",
+      "image": null,
+      "summary": "Child and Adolescent Labour Prohibition Act strengthens Article 24 protections.",
+      "summary_hi": "Child Labour Prohibition Act Article 24।",
+      "content": "Child and Adolescent Labour Prohibition Act strengthens Article 24 protections.\n\nFor IB ACIO: Article 24.",
+      "content_hi": "Child Labour Prohibition Act Article 24।\n\nIB ACIO: Article 24 — याद रखें।",
+      "question": "Child labour in factories banned by:",
+      "question_hi": "Child labour in factories banned by:",
+      "options": [
+        "Article 24",
+        "Article 14",
+        "Article 32",
+        "Article 51A"
+      ],
+      "options_hi": [
+        "24",
+        "14",
+        "32",
+        "51A"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Article 24",
+      "explanation_hi": "24",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "8",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "Transatlantic Slave Trade — Historical Overview",
+      "title_hi": "Transatlantic Slave Trade",
+      "image": null,
+      "summary": "Transatlantic slave trade forcibly transported millions from Africa 16th-19th centuries.",
+      "summary_hi": "Transatlantic slave trade historical overview।",
+      "content": "Transatlantic slave trade forcibly transported millions from Africa 16th-19th centuries.\n\nFor IB ACIO: 23 August.",
+      "content_hi": "Transatlantic slave trade historical overview।\n\nIB ACIO: 23 Aug — याद रखें।",
+      "question": "Remembrance date:",
+      "question_hi": "Remembrance date:",
+      "options": [
+        "23 Aug",
+        "15 Aug",
+        "26 Jan",
+        "2 Oct"
+      ],
+      "options_hi": [
+        "23 Aug",
+        "15 Aug",
+        "26 Jan",
+        "2 Oct"
+      ],
+      "correctAnswer": 0,
+      "explanation": "23 Aug",
+      "explanation_hi": "23 Aug",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "9",
+      "category": "Government Schemes",
+      "category_hi": "सरकारी yोजnाएं",
+      "title": "National Child Labour Project",
+      "title_hi": "NCLP Scheme",
+      "image": null,
+      "summary": "National Child Labour Project rehabilitates child labourers through education.",
+      "summary_hi": "NCLP child labour rehabilitation।",
+      "content": "National Child Labour Project rehabilitates child labourers through education.\n\nFor IB ACIO: Child labour rehabilitation.",
+      "content_hi": "NCLP child labour rehabilitation।\n\nIB ACIO: NCLP — याद रखें।",
+      "question": "NCLP focus:",
+      "question_hi": "NCLP focus:",
+      "options": [
+        "Child labour rehabilitation",
+        "Defence",
+        "Space",
+        "Ports"
+      ],
+      "options_hi": [
+        "Child rehab",
+        "Defence",
+        "Space",
+        "Ports"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Child labour rehabilitation",
+      "explanation_hi": "Child rehab",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "10",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Fundamental Rights — Articles 23 and 24",
+      "title_hi": "FR Articles 23 24",
+      "image": null,
+      "summary": "Articles 23-24 are Fundamental Rights against exploitation in Part III of Constitution.",
+      "summary_hi": "Articles 23-24 Part III FR against exploitation।",
+      "content": "Articles 23-24 are Fundamental Rights against exploitation in Part III of Constitution.\n\nFor IB ACIO: Fundamental Rights.",
+      "content_hi": "Articles 23-24 Part III FR against exploitation।\n\nIB ACIO: Part III — याद रखें।",
+      "question": "Part III contains:",
+      "question_hi": "Part III contains:",
+      "options": [
+        "Fundamental Rights",
+        "DPSP",
+        "Fundamental Duties",
+        "Schedules"
+      ],
+      "options_hi": [
+        "FR",
+        "DPSP",
+        "Duties",
+        "Schedules"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fundamental Rights",
+      "explanation_hi": "FR",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    }
+  ]
+}

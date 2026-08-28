@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-11",
+  "editionTitle": "IB ACIO Daily Current Affairs — 11 August 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 11 अगस्त 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "MSME Development Bill Debated",
+      "title_hi": "MSME Bill Debate",
+      "image": null,
+      "summary": "MSME Development Bill 2026 improves credit access for micro and small enterprises.",
+      "summary_hi": "MSME Bill 2026 credit access।",
+      "content": "MSME Development Bill 2026 improves credit access for micro and small enterprises.\n\nFor IB ACIO: MSME Bill.",
+      "content_hi": "MSME Bill 2026 credit access।\n\nIB ACIO: MSME — याद रखें।",
+      "question": "Bill targets:",
+      "question_hi": "Bill targets:",
+      "options": [
+        "Large corporates",
+        "Micro and small enterprises",
+        "Defence only",
+        "Foreign firms"
+      ],
+      "options_hi": [
+        "Large",
+        "MSME",
+        "Defence",
+        "Foreign"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Micro and small enterprises",
+      "explanation_hi": "MSME",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "2",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Tribunals Reforms Bill Progresses",
+      "title_hi": "Tribunals Reforms",
+      "image": null,
+      "summary": "Tribunals Reforms Bill aims efficiency and uniformity of tribunals; assent on 13 August.",
+      "summary_hi": "Tribunals Reforms Bill 2026।",
+      "content": "Tribunals Reforms Bill aims efficiency and uniformity of tribunals; assent on 13 August.\n\nFor IB ACIO: 13 Aug assent.",
+      "content_hi": "Tribunals Reforms Bill 2026।\n\nIB ACIO: 13 Aug — याद रखें।",
+      "question": "Assent on:",
+      "question_hi": "Assent on:",
+      "options": [
+        "1 Aug",
+        "13 Aug",
+        "14 Aug",
+        "15 Aug"
+      ],
+      "options_hi": [
+        "1",
+        "13",
+        "14",
+        "15"
+      ],
+      "correctAnswer": 1,
+      "explanation": "13 Aug",
+      "explanation_hi": "13",
+      "moreInfo": "2026-08-13",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "3",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Bankers' Books Evidence Amendment Bill",
+      "title_hi": "Bankers Books Bill",
+      "image": null,
+      "summary": "Bankers' Books Evidence (Amendment) Bill passed for digital banking evidence admissibility.",
+      "summary_hi": "Bankers Books Amendment passed।",
+      "content": "Bankers' Books Evidence (Amendment) Bill passed for digital banking evidence admissibility.\n\nFor IB ACIO: Banking evidence.",
+      "content_hi": "Bankers Books Amendment passed।\n\nIB ACIO: Banking — याद रखें।",
+      "question": "Relates to:",
+      "question_hi": "Relates to:",
+      "options": [
+        "Defence",
+        "Digital banking evidence",
+        "Agriculture",
+        "Space"
+      ],
+      "options_hi": [
+        "Defence",
+        "Banking evidence",
+        "Agri",
+        "Space"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Digital banking evidence",
+      "explanation_hi": "Banking evidence",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "4",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "UPI Taxation Bill Awaits Rajya Sabha",
+      "title_hi": "UPI Bill RS",
+      "image": null,
+      "summary": "Taxation Bill permitting UPI charges passed Lok Sabha 6 August; awaits Rajya Sabha.",
+      "summary_hi": "UPI Bill LS passed 6 Aug।",
+      "content": "Taxation Bill permitting UPI charges passed Lok Sabha 6 August; awaits Rajya Sabha.\n\nFor IB ACIO: Payment Act 2007.",
+      "content_hi": "UPI Bill LS passed 6 Aug।\n\nIB ACIO: Payment Act — याद रखें।",
+      "question": "Amends:",
+      "question_hi": "Amends:",
+      "options": [
+        "RBI Act",
+        "Payment and Settlement Systems Act 2007",
+        "IT Act only",
+        "Companies Act"
+      ],
+      "options_hi": [
+        "RBI",
+        "Payment Act 2007",
+        "IT",
+        "Companies"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Payment and Settlement Systems Act 2007",
+      "explanation_hi": "Payment Act 2007",
+      "moreInfo": "2026-08-06",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "5",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Ram Temple Donation Allegations in RS",
+      "title_hi": "Ram Temple RS",
+      "image": null,
+      "summary": "Rajya Sabha disrupted over Opposition allegations on Ayodhya Ram Temple donation theft.",
+      "summary_hi": "Ram Temple donation RS debate।",
+      "content": "Rajya Sabha disrupted over Opposition allegations on Ayodhya Ram Temple donation theft.\n\nFor IB ACIO: UP Ayodhya.",
+      "content_hi": "Ram Temple donation RS debate।\n\nIB ACIO: UP — याद रखें।",
+      "question": "Ram Temple in:",
+      "question_hi": "Ram Temple in:",
+      "options": [
+        "UP",
+        "MP",
+        "Bihar",
+        "Rajasthan"
+      ],
+      "options_hi": [
+        "UP",
+        "MP",
+        "Bihar",
+        "Rajasthan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "UP",
+      "explanation_hi": "UP",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "6",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "India-China SR Talks Preparations",
+      "title_hi": "SR Talks Prep",
+      "image": null,
+      "summary": "Diplomatic consultations ahead of 25th India-China Special Representatives talks in Beijing.",
+      "summary_hi": "25th SR talks prep Aug 2026।",
+      "content": "Diplomatic consultations ahead of 25th India-China Special Representatives talks in Beijing.\n\nFor IB ACIO: Beijing.",
+      "content_hi": "25th SR talks prep Aug 2026।\n\nIB ACIO: Beijing — याद रखें।",
+      "question": "25th SR in:",
+      "question_hi": "25th SR in:",
+      "options": [
+        "Delhi",
+        "Beijing",
+        "Shanghai",
+        "Lhasa"
+      ],
+      "options_hi": [
+        "Delhi",
+        "Beijing",
+        "Shanghai",
+        "Lhasa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beijing",
+      "explanation_hi": "Beijing",
+      "moreInfo": "2026-08-06",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "7",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "Two Additional LAC Military Hotlines Planned",
+      "title_hi": "LAC Hotlines",
+      "image": null,
+      "summary": "India-China to add two border military hotlines in Eastern and Middle sectors at SR talks.",
+      "summary_hi": "2 LAC hotlines Eastern/Middle sectors।",
+      "content": "India-China to add two border military hotlines in Eastern and Middle sectors at SR talks.\n\nFor IB ACIO: SR talks.",
+      "content_hi": "2 LAC hotlines Eastern/Middle sectors।\n\nIB ACIO: SR talks — याद रखें।",
+      "question": "Agreed at:",
+      "question_hi": "Agreed at:",
+      "options": [
+        "SAARC",
+        "SR talks",
+        "UN",
+        "WTO"
+      ],
+      "options_hi": [
+        "SAARC",
+        "SR talks",
+        "UN",
+        "WTO"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SR talks",
+      "explanation_hi": "SR talks",
+      "moreInfo": "2026-08-27",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "8",
+      "category": "Science & Tech",
+      "category_hi": "विज्ञान और tकनीक",
+      "title": "Data Centre Rules Eased in Taxation Bill",
+      "title_hi": "Data Centre Rules",
+      "image": null,
+      "summary": "Taxation Bill eased data centre regulations for AI infrastructure development.",
+      "summary_hi": "Data centre rules eased for AI।",
+      "content": "Taxation Bill eased data centre regulations for AI infrastructure development.\n\nFor IB ACIO: Data centre rules.",
+      "content_hi": "Data centre rules eased for AI।\n\nIB ACIO: Data centres — याद रखें।",
+      "question": "Linked via:",
+      "question_hi": "Linked via:",
+      "options": [
+        "Defence budget",
+        "Data centre rules in Taxation Bill",
+        "Farm laws",
+        "GST only"
+      ],
+      "options_hi": [
+        "Defence",
+        "Data centre rules",
+        "Farm",
+        "GST"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Data centre rules in Taxation Bill",
+      "explanation_hi": "Data centre rules",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "9",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Kharge Raises Haldwani Issue in RS",
+      "title_hi": "Kharge Haldwani",
+      "image": null,
+      "summary": "LoP Mallikarjun Kharge raised alleged post-rally purification ritual in Haldwani in Rajya Sabha.",
+      "summary_hi": "Kharge Haldwani RS issue।",
+      "content": "LoP Mallikarjun Kharge raised alleged post-rally purification ritual in Haldwani in Rajya Sabha.\n\nFor IB ACIO: Rajya Sabha.",
+      "content_hi": "Kharge Haldwani RS issue।\n\nIB ACIO: RS — याद रखें।",
+      "question": "Kharge is LoP in:",
+      "question_hi": "Kharge is LoP in:",
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Assembly",
+        "None"
+      ],
+      "options_hi": [
+        "LS",
+        "RS",
+        "Assembly",
+        "None"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rajya Sabha",
+      "explanation_hi": "RS",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "10",
+      "category": "Sports",
+      "category_hi": "खेल",
+      "title": "India Badminton Season Continues",
+      "title_hi": "Badminton Season",
+      "image": null,
+      "summary": "Indian shuttlers continued international badminton fixtures in August 2026.",
+      "summary_hi": "Indian badminton Aug 2026।",
+      "content": "Indian shuttlers continued international badminton fixtures in August 2026.\n\nFor IB ACIO: Badminton.",
+      "content_hi": "Indian badminton Aug 2026।\n\nIB ACIO: Badminton — याद रखें।",
+      "question": "BWF governs:",
+      "question_hi": "BWF governs:",
+      "options": [
+        "Cricket",
+        "Badminton",
+        "Hockey",
+        "Chess"
+      ],
+      "options_hi": [
+        "Cricket",
+        "Badminton",
+        "Hockey",
+        "Chess"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Badminton",
+      "explanation_hi": "Badminton",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    }
+  ]
+}

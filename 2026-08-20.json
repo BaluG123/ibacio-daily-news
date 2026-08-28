@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-20",
+  "editionTitle": "IB ACIO Daily Current Affairs — 20 August 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 20 अगस्त 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Sadbhavana Diwas — Rajiv Gandhi Birth Anniversary",
+      "title_hi": "सadbhavana Diwas — राजीव गांधी जयंती",
+      "image": null,
+      "summary": "20 August observed as Sadbhavana Diwas marking birth anniversary of former PM Rajiv Gandhi (1944).",
+      "summary_hi": "20 Aug Sadbhavana Diwas Rajiv Gandhi jayanti।",
+      "content": "20 August observed as Sadbhavana Diwas marking birth anniversary of former PM Rajiv Gandhi (1944).\n\nFor IB ACIO: 20 August.",
+      "content_hi": "20 Aug Sadbhavana Diwas Rajiv Gandhi jayanti।\n\nIB ACIO: 20 Aug — याद रखें।",
+      "question": "Sadbhavana Diwas on:",
+      "question_hi": "Sadbhavana Diwas on:",
+      "options": [
+        "15 Aug",
+        "20 Aug",
+        "21 Aug",
+        "28 Aug"
+      ],
+      "options_hi": [
+        "15",
+        "20",
+        "21",
+        "28"
+      ],
+      "correctAnswer": 1,
+      "explanation": "20 Aug",
+      "explanation_hi": "20",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "2",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "World Mosquito Day — 20 August",
+      "title_hi": "विश्व मच्छर दिवस — 20 अगस्त",
+      "image": null,
+      "summary": "World Mosquito Day 20 August marks 1897 discovery of malaria parasite by Ronald Ross.",
+      "summary_hi": "20 Aug World Mosquito Day Ronald Ross 1897।",
+      "content": "World Mosquito Day 20 August marks 1897 discovery of malaria parasite by Ronald Ross.\n\nFor IB ACIO: 20 August.",
+      "content_hi": "20 Aug World Mosquito Day Ronald Ross 1897।\n\nIB ACIO: 20 Aug — याद रखें।",
+      "question": "Mosquito Day:",
+      "question_hi": "Mosquito Day:",
+      "options": [
+        "15 Aug",
+        "20 Aug",
+        "21 Aug",
+        "28 Aug"
+      ],
+      "options_hi": [
+        "15",
+        "20",
+        "21",
+        "28"
+      ],
+      "correctAnswer": 1,
+      "explanation": "20 Aug",
+      "explanation_hi": "20",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "3",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Akshay Urja Diwas — Renewable Energy Day",
+      "title_hi": "Akshay Urja Divas",
+      "image": null,
+      "summary": "Akshay Urja Diwas on 20 August promotes renewable energy; aligns with Saptadhara green economy pillar.",
+      "summary_hi": "20 Aug Akshay Urja Diwas renewable energy।",
+      "content": "Akshay Urja Diwas on 20 August promotes renewable energy; aligns with Saptadhara green economy pillar.\n\nFor IB ACIO: 20 August.",
+      "content_hi": "20 Aug Akshay Urja Diwas renewable energy।\n\nIB ACIO: 20 Aug — याद रखें।",
+      "question": "Akshay Urja Diwas:",
+      "question_hi": "Akshay Urja Diwas:",
+      "options": [
+        "15 Aug",
+        "20 Aug",
+        "26 Aug",
+        "28 Aug"
+      ],
+      "options_hi": [
+        "15",
+        "20",
+        "26",
+        "28"
+      ],
+      "correctAnswer": 1,
+      "explanation": "20 Aug",
+      "explanation_hi": "20",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "4",
+      "category": "Science & Tech",
+      "category_hi": "विज्ञान और tकनीk",
+      "title": "Rajiv Gandhi — IT and Telecom Modernisation Legacy",
+      "title_hi": "Rajiv Gandhi IT Legacy",
+      "image": null,
+      "summary": "Rajiv Gandhi credited with computerisation and telecom reforms in 1980s modernising India.",
+      "summary_hi": "Rajiv Gandhi IT telecom reforms legacy।",
+      "content": "Rajiv Gandhi credited with computerisation and telecom reforms in 1980s modernising India.\n\nFor IB ACIO: 1980s PM.",
+      "content_hi": "Rajiv Gandhi IT telecom reforms legacy।\n\nIB ACIO: 1980s — याद रखें।",
+      "question": "Rajiv Gandhi was PM during:",
+      "question_hi": "Rajiv Gandhi was PM during:",
+      "options": [
+        "1980s",
+        "1990s only",
+        "2000s",
+        "1970s only"
+      ],
+      "options_hi": [
+        "1980s",
+        "1990s only",
+        "2000s",
+        "1970s only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "1980s",
+      "explanation_hi": "1980s",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "5",
+      "category": "Environment",
+      "category_hi": "पर्यावरण",
+      "title": "Malaria Control — National Vector Borne Disease Control",
+      "title_hi": "Malaria Control",
+      "image": null,
+      "summary": "NVBDCP leads malaria control on World Mosquito Day; emphasises bed nets and fogging.",
+      "summary_hi": "NVBDCP malaria control Mosquito Day।",
+      "content": "NVBDCP leads malaria control on World Mosquito Day; emphasises bed nets and fogging.\n\nFor IB ACIO: 1897 Ronald Ross.",
+      "content_hi": "NVBDCP malaria control Mosquito Day।\n\nIB ACIO: 1897 — याद रखें।",
+      "question": "Malaria discovery year:",
+      "question_hi": "Malaria discovery year:",
+      "options": [
+        "1897",
+        "1947",
+        "1905",
+        "2000"
+      ],
+      "options_hi": [
+        "1897",
+        "1947",
+        "1905",
+        "2000"
+      ],
+      "correctAnswer": 0,
+      "explanation": "1897",
+      "explanation_hi": "1897",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "6",
+      "category": "Economy",
+      "category_hi": "अर्थवyवस्था",
+      "title": "Renewable Energy Capacity Crosses Milestone",
+      "title_hi": "RE Capacity Milestone",
+      "image": null,
+      "summary": "India renewable capacity growth highlighted on Akshay Urja Diwas August 2026.",
+      "summary_hi": "India RE capacity milestone Aug 2026।",
+      "content": "India renewable capacity growth highlighted on Akshay Urja Diwas August 2026.\n\nFor IB ACIO: Renewable energy.",
+      "content_hi": "India RE capacity milestone Aug 2026।\n\nIB ACIO: MNRE — याद रखें।",
+      "question": "MNRE oversees:",
+      "question_hi": "MNRE oversees:",
+      "options": [
+        "Renewable energy",
+        "Defence",
+        "Railways",
+        "Ports"
+      ],
+      "options_hi": [
+        "Renewable",
+        "Defence",
+        "Railways",
+        "Ports"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Renewable energy",
+      "explanation_hi": "Renewable",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "7",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "National Sadbhavana Pledge — Communal Harmony",
+      "title_hi": "Sadbhavana Pledge",
+      "image": null,
+      "summary": "Sadbhavana Diwas promotes communal harmony and national integration values.",
+      "summary_hi": "Sadbhavana harmony pledge Aug 20।",
+      "content": "Sadbhavana Diwas promotes communal harmony and national integration values.\n\nFor IB ACIO: 1944 birth.",
+      "content_hi": "Sadbhavana harmony pledge Aug 20।\n\nIB ACIO: 1944 — याद रखें।",
+      "question": "Rajiv Gandhi born:",
+      "question_hi": "Rajiv Gandhi born:",
+      "options": [
+        "1944",
+        "1947",
+        "1950",
+        "1939"
+      ],
+      "options_hi": [
+        "1944",
+        "1947",
+        "1950",
+        "1939"
+      ],
+      "correctAnswer": 0,
+      "explanation": "1944",
+      "explanation_hi": "1944",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "8",
+      "category": "Government Schemes",
+      "category_hi": "सरकारी yोजnाएं",
+      "title": "PM-KUSUM Solar Pumps Scheme",
+      "title_hi": "PM-KUSUM",
+      "image": null,
+      "summary": "PM-KUSUM promotes solar pumps for farmers; highlighted on Akshay Urja Diwas.",
+      "summary_hi": "PM-KUSUM solar pumps farmers।",
+      "content": "PM-KUSUM promotes solar pumps for farmers; highlighted on Akshay Urja Diwas.\n\nFor IB ACIO: Solar agriculture pumps.",
+      "content_hi": "PM-KUSUM solar pumps farmers।\n\nIB ACIO: KUSUM — याद रखें।",
+      "question": "KUSUM for:",
+      "question_hi": "KUSUM for:",
+      "options": [
+        "Solar agriculture pumps",
+        "Defence",
+        "Urban metro",
+        "Ports"
+      ],
+      "options_hi": [
+        "Solar agri",
+        "Defence",
+        "Metro",
+        "Ports"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Solar agriculture pumps",
+      "explanation_hi": "Solar agri",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "9",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "World Mosquito Day — Dengue Prevention Campaign",
+      "title_hi": "Dengue Prevention",
+      "image": null,
+      "summary": "Health Ministry intensified dengue prevention campaign on World Mosquito Day 2026.",
+      "summary_hi": "Dengue prevention Mosquito Day 2026।",
+      "content": "Health Ministry intensified dengue prevention campaign on World Mosquito Day 2026.\n\nFor IB ACIO: Aedes mosquito.",
+      "content_hi": "Dengue prevention Mosquito Day 2026।\n\nIB ACIO: Aedes — याद रखें।",
+      "question": "Dengue spread by:",
+      "question_hi": "Dengue spread by:",
+      "options": [
+        "Mosquito Aedes",
+        "Housefly",
+        "Tick",
+        "Lice"
+      ],
+      "options_hi": [
+        "Aedes mosquito",
+        "Housefly",
+        "Tick",
+        "Lice"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mosquito Aedes",
+      "explanation_hi": "Aedes mosquito",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "10",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "MHA Border RE Guidelines — One Week On",
+      "title_hi": "MHA RE One Week",
+      "image": null,
+      "summary": "One week after 8 August MHA border RE guidelines, states reviewing pending solar projects near borders.",
+      "summary_hi": "MHA RE guidelines one week review।",
+      "content": "One week after 8 August MHA border RE guidelines, states reviewing pending solar projects near borders.\n\nFor IB ACIO: 8 August.",
+      "content_hi": "MHA RE guidelines one week review।\n\nIB ACIO: 8 Aug — याद रखें।",
+      "question": "Guidelines issued:",
+      "question_hi": "Guidelines issued:",
+      "options": [
+        "6 Aug",
+        "8 Aug",
+        "15 Aug",
+        "13 Aug"
+      ],
+      "options_hi": [
+        "6",
+        "8",
+        "15",
+        "13"
+      ],
+      "correctAnswer": 1,
+      "explanation": "8 Aug",
+      "explanation_hi": "8",
+      "moreInfo": "2026-08-08",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    }
+  ]
+}

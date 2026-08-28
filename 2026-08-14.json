@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-14",
+  "editionTitle": "IB ACIO Daily Current Affairs — 14 August 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 14 अगस्त 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Partition Horrors Remembrance Day — 14 August",
+      "title_hi": "विभाजन विभीषिका स्मृति दिवस",
+      "image": null,
+      "summary": "PM Modi declared 14 August Partition Horrors Remembrance Day recalling 1947 partition tragedies.",
+      "summary_hi": "14 Aug Partition Horrors Remembrance Day।",
+      "content": "PM Modi declared 14 August Partition Horrors Remembrance Day recalling 1947 partition tragedies.\n\nFor IB ACIO: 14 August.",
+      "content_hi": "14 Aug Partition Horrors Remembrance Day।\n\nIB ACIO: 14 Aug — याद रखें।",
+      "question": "Observed on:",
+      "question_hi": "Observed on:",
+      "options": [
+        "13 Aug",
+        "14 Aug",
+        "15 Aug",
+        "16 Aug"
+      ],
+      "options_hi": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "correctAnswer": 1,
+      "explanation": "14 Aug",
+      "explanation_hi": "14",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "2",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Kerala Renamed 'Keralam' — President Assent",
+      "title_hi": "Kerala Keralam",
+      "image": null,
+      "summary": "Kerala (Alteration of Name) Act 2026 assented 14 August; state renamed Keralam.",
+      "summary_hi": "Kerala → Keralam assent 14 Aug।",
+      "content": "Kerala (Alteration of Name) Act 2026 assented 14 August; state renamed Keralam.\n\nFor IB ACIO: Keralam.",
+      "content_hi": "Kerala → Keralam assent 14 Aug।\n\nIB ACIO: Keralam — याद रखें।",
+      "question": "New name:",
+      "question_hi": "New name:",
+      "options": [
+        "Keralam",
+        "Malabar",
+        "Travancore",
+        "Madras"
+      ],
+      "options_hi": [
+        "Keralam",
+        "Malabar",
+        "Travancore",
+        "Madras"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Keralam",
+      "explanation_hi": "Keralam",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "3",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Vande Mataram Bill — Presidential Assent",
+      "title_hi": "Vande Mataram Assent",
+      "image": null,
+      "summary": "Vande Mataram Bill assented granting national song same legal protection as anthem.",
+      "summary_hi": "Vande Mataram Bill assent before ID।",
+      "content": "Vande Mataram Bill assented granting national song same legal protection as anthem.\n\nFor IB ACIO: Same as anthem.",
+      "content_hi": "Vande Mataram Bill assent before ID।\n\nIB ACIO: Anthem level — याद रखें।",
+      "question": "Protection level:",
+      "question_hi": "Protection level:",
+      "options": [
+        "None",
+        "Same as national anthem",
+        "State only",
+        "Military only"
+      ],
+      "options_hi": [
+        "None",
+        "Same as anthem",
+        "State",
+        "Military"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Same as national anthem",
+      "explanation_hi": "Same as anthem",
+      "moreInfo": "2026-08-15",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "4",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Har Ghar Tiranga — 13 to 15 August",
+      "title_hi": "Har Ghar Tiranga",
+      "image": null,
+      "summary": "Har Ghar Tiranga encourages tricolour hoisting at homes 13-15 August.",
+      "summary_hi": "Har Ghar Tiranga 13-15 Aug।",
+      "content": "Har Ghar Tiranga encourages tricolour hoisting at homes 13-15 August.\n\nFor IB ACIO: Independence Day week.",
+      "content_hi": "Har Ghar Tiranga 13-15 Aug।\n\nIB ACIO: ID week — याद रखें।",
+      "question": "Associated with:",
+      "question_hi": "Associated with:",
+      "options": [
+        "Republic Day only",
+        "Independence Day week",
+        "Budget",
+        "Elections"
+      ],
+      "options_hi": [
+        "RD only",
+        "ID week",
+        "Budget",
+        "Elections"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Independence Day week",
+      "explanation_hi": "ID week",
+      "moreInfo": "2026-08-15",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "5",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "Pakistan Independence Day — 14 August",
+      "title_hi": "Pakistan ID",
+      "image": null,
+      "summary": "Pakistan observes 14 August as Independence Day following 1947 partition.",
+      "summary_hi": "Pakistan 14 Aug Independence Day।",
+      "content": "Pakistan observes 14 August as Independence Day following 1947 partition.\n\nFor IB ACIO: 15 August.",
+      "content_hi": "Pakistan 14 Aug Independence Day।\n\nIB ACIO: 15 Aug — याद रखें।",
+      "question": "India Independence Day:",
+      "question_hi": "India Independence Day:",
+      "options": [
+        "14 Aug",
+        "15 Aug",
+        "26 Jan",
+        "2 Oct"
+      ],
+      "options_hi": [
+        "14",
+        "15",
+        "26 Jan",
+        "2 Oct"
+      ],
+      "correctAnswer": 1,
+      "explanation": "15 Aug",
+      "explanation_hi": "15",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "6",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Meri Mati Mera Desh 2.0 Final Phase",
+      "title_hi": "Meri Mati Final",
+      "image": null,
+      "summary": "Meri Mati Mera Desh 2.0 enters final phase before 15 August.",
+      "summary_hi": "Meri Mati final phase before ID।",
+      "content": "Meri Mati Mera Desh 2.0 enters final phase before 15 August.\n\nFor IB ACIO: 15 August.",
+      "content_hi": "Meri Mati final phase before ID।\n\nIB ACIO: 15 Aug — याद रखें।",
+      "question": "Campaign ends:",
+      "question_hi": "Campaign ends:",
+      "options": [
+        "14 Aug",
+        "15 Aug",
+        "20 Aug",
+        "13 Aug"
+      ],
+      "options_hi": [
+        "14",
+        "15",
+        "20",
+        "13"
+      ],
+      "correctAnswer": 1,
+      "explanation": "15 Aug",
+      "explanation_hi": "15",
+      "moreInfo": "2026-08-15",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "7",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "Border Security Ahead of Independence Day",
+      "title_hi": "Border Security ID",
+      "image": null,
+      "summary": "BSF and Army heightened border vigilance ahead of 15 August.",
+      "summary_hi": "BSF/Army vigilance before ID।",
+      "content": "BSF and Army heightened border vigilance ahead of 15 August.\n\nFor IB ACIO: Pak/BD borders.",
+      "content_hi": "BSF/Army vigilance before ID।\n\nIB ACIO: Pak/BD — याद रखें।",
+      "question": "BSF guards:",
+      "question_hi": "BSF guards:",
+      "options": [
+        "China border",
+        "Pakistan and Bangladesh borders",
+        "Nepal only",
+        "Coast only"
+      ],
+      "options_hi": [
+        "China",
+        "Pak/BD",
+        "Nepal",
+        "Coast"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pakistan and Bangladesh borders",
+      "explanation_hi": "Pak/BD",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "8",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "Forex Reserves Robust Pre-Independence Day",
+      "title_hi": "Forex Pre-ID",
+      "image": null,
+      "summary": "RBI forex reserves remained robust despite global volatility in August fortnight.",
+      "summary_hi": "Forex reserves robust Aug 2026।",
+      "content": "RBI forex reserves remained robust despite global volatility in August fortnight.\n\nFor IB ACIO: Mumbai.",
+      "content_hi": "Forex reserves robust Aug 2026।\n\nIB ACIO: Mumbai — याद रखें।",
+      "question": "RBI HQ:",
+      "question_hi": "RBI HQ:",
+      "options": [
+        "Mumbai",
+        "New Delhi",
+        "Kolkata",
+        "Chennai"
+      ],
+      "options_hi": [
+        "Mumbai",
+        "Delhi",
+        "Kolkata",
+        "Chennai"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mumbai",
+      "explanation_hi": "Mumbai",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "9",
+      "category": "Science & Tech",
+      "category_hi": "विज्ञान और tकनीक",
+      "title": "Red Fort Security for 80th I-Day",
+      "title_hi": "Red Fort Security",
+      "image": null,
+      "summary": "Multi-layer security including drones deployed at Red Fort for 80th Independence Day.",
+      "summary_hi": "Red Fort security 80th ID।",
+      "content": "Multi-layer security including drones deployed at Red Fort for 80th Independence Day.\n\nFor IB ACIO: Red Fort.",
+      "content_hi": "Red Fort security 80th ID।\n\nIB ACIO: Red Fort — याद रखें।",
+      "question": "I-Day venue:",
+      "question_hi": "I-Day venue:",
+      "options": [
+        "India Gate",
+        "Red Fort",
+        "Rashtrapati Bhavan",
+        "Parliament"
+      ],
+      "options_hi": [
+        "India Gate",
+        "Red Fort",
+        "RB",
+        "Parliament"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Red Fort",
+      "explanation_hi": "Red Fort",
+      "moreInfo": "2026-08-15",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "10",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Azadi Ka Amrit Mahotsav Legacy",
+      "title_hi": "Azadi Ka Amrit",
+      "image": null,
+      "summary": "Meri Mati Mera Desh traces to Azadi Ka Amrit Mahotsav for 75th independence anniversary.",
+      "summary_hi": "Azadi Ka Amrit Mahotsav legacy।",
+      "content": "Meri Mati Mera Desh traces to Azadi Ka Amrit Mahotsav for 75th independence anniversary.\n\nFor IB ACIO: 2022 75th.",
+      "content_hi": "Azadi Ka Amrit Mahotsav legacy।\n\nIB ACIO: 2022 — याद रखें।",
+      "question": "75th Independence was:",
+      "question_hi": "75th Independence was:",
+      "options": [
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "options_hi": [
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "correctAnswer": 2,
+      "explanation": "2022",
+      "explanation_hi": "2022",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    }
+  ]
+}

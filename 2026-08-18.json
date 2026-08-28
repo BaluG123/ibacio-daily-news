@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-18",
+  "editionTitle": "IB ACIO Daily Current Affairs — 18 August 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 18 अगस्त 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "FCRA Amendment Bill Referred for Examination",
+      "title_hi": "FCRA Bill Referred",
+      "image": null,
+      "summary": "Foreign Contribution Regulation Amendment Bill 2026 referred for detailed Lok Sabha examination.",
+      "summary_hi": "FCRA Bill referred for examination।",
+      "content": "Foreign Contribution Regulation Amendment Bill 2026 referred for detailed Lok Sabha examination.\n\nFor IB ACIO: MHA.",
+      "content_hi": "FCRA Bill referred for examination।\n\nIB ACIO: MHA — याद रखें।",
+      "question": "FCRA administered by:",
+      "question_hi": "FCRA administered by:",
+      "options": [
+        "MEA",
+        "MHA",
+        "Finance",
+        "Commerce"
+      ],
+      "options_hi": [
+        "MEA",
+        "MHA",
+        "Finance",
+        "Commerce"
+      ],
+      "correctAnswer": 1,
+      "explanation": "MHA",
+      "explanation_hi": "MHA",
+      "moreInfo": "2026-08-12",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "2",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Constitution 131st Amendment Bill Voted Down",
+      "title_hi": "131st Amendment Down",
+      "image": null,
+      "summary": "Constitution 131st Amendment Bill related to delimitation voted down in extended session.",
+      "summary_hi": "131st Amendment voted down delimitation।",
+      "content": "Constitution 131st Amendment Bill related to delimitation voted down in extended session.\n\nFor IB ACIO: Voted down.",
+      "content_hi": "131st Amendment voted down delimitation।\n\nIB ACIO: Voted down — याद रखें।",
+      "question": "Bill status:",
+      "question_hi": "Bill status:",
+      "options": [
+        "Passed",
+        "Voted down",
+        "Pending RS",
+        "Assented"
+      ],
+      "options_hi": [
+        "Passed",
+        "Voted down",
+        "Pending",
+        "Assented"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Voted down",
+      "explanation_hi": "Voted down",
+      "moreInfo": "2026-08-12",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "3",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Higher Education Commission Bill Introduced",
+      "title_hi": "HEC Bill",
+      "image": null,
+      "summary": "Bill to replace UGC, AICTE and NCTE with unified Higher Education Commission introduced.",
+      "summary_hi": "HEC Bill replaces UGC AICTE NCTE।",
+      "content": "Bill to replace UGC, AICTE and NCTE with unified Higher Education Commission introduced.\n\nFor IB ACIO: UGC AICTE NCTE.",
+      "content_hi": "HEC Bill replaces UGC AICTE NCTE।\n\nIB ACIO: UGC — याद रखें।",
+      "question": "Replaces:",
+      "question_hi": "Replaces:",
+      "options": [
+        "RBI",
+        "UGC AICTE NCTE",
+        "SEBI",
+        "TRAI"
+      ],
+      "options_hi": [
+        "RBI",
+        "UGC AICTE NCTE",
+        "SEBI",
+        "TRAI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "UGC AICTE NCTE",
+      "explanation_hi": "UGC AICTE NCTE",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "4",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "India Central Asia Visit Preview",
+      "title_hi": "Central Asia Preview",
+      "image": null,
+      "summary": "PM Modi Central Asia visit previewed ahead of SCO summit diplomatic engagements.",
+      "summary_hi": "PM Central Asia visit preview Aug 2026।",
+      "content": "PM Modi Central Asia visit previewed ahead of SCO summit diplomatic engagements.\n\nFor IB ACIO: SCO summit.",
+      "content_hi": "PM Central Asia visit preview Aug 2026।\n\nIB ACIO: SCO — याद रखें।",
+      "question": "Visit ahead of:",
+      "question_hi": "Visit ahead of:",
+      "options": [
+        "WTO",
+        "SCO summit",
+        "G7",
+        "ASEAN only"
+      ],
+      "options_hi": [
+        "WTO",
+        "SCO",
+        "G7",
+        "ASEAN"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SCO summit",
+      "explanation_hi": "SCO",
+      "moreInfo": "2026-08-27",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "5",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "Green and Blue Economy Pillar — Saptadhara",
+      "title_hi": "Green Blue Economy",
+      "image": null,
+      "summary": "Sixth Saptadhara pillar targets green hydrogen, renewables and blue economy fisheries.",
+      "summary_hi": "Green-blue economy Saptadhara pillar।",
+      "content": "Sixth Saptadhara pillar targets green hydrogen, renewables and blue economy fisheries.\n\nFor IB ACIO: Fisheries ocean tech.",
+      "content_hi": "Green-blue economy Saptadhara pillar।\n\nIB ACIO: Blue economy — याद रखें।",
+      "question": "Blue economy includes:",
+      "question_hi": "Blue economy includes:",
+      "options": [
+        "Coal mining",
+        "Fisheries and ocean tech",
+        "Defence only",
+        "IT only"
+      ],
+      "options_hi": [
+        "Coal",
+        "Fisheries/ocean",
+        "Defence",
+        "IT"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fisheries and ocean tech",
+      "explanation_hi": "Fisheries/ocean",
+      "moreInfo": "2026-08-15",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "6",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "Left Wing Extremism Districts Reduced",
+      "title_hi": "LWE Reduced",
+      "image": null,
+      "summary": "Government cited sharp reduction in LWE-affected districts after anti-Naxal operations.",
+      "summary_hi": "LWE districts reduced claim Aug 2026।",
+      "content": "Government cited sharp reduction in LWE-affected districts after anti-Naxal operations.\n\nFor IB ACIO: 15 August ID speech.",
+      "content_hi": "LWE districts reduced claim Aug 2026।\n\nIB ACIO: 15 Aug — याद रखें।",
+      "question": "Dimagi Naxals warned on:",
+      "question_hi": "Dimagi Naxals warned on:",
+      "options": [
+        "14 Aug",
+        "15 Aug",
+        "16 Aug",
+        "13 Aug"
+      ],
+      "options_hi": [
+        "14",
+        "15",
+        "16",
+        "13"
+      ],
+      "correctAnswer": 1,
+      "explanation": "15 Aug",
+      "explanation_hi": "15",
+      "moreInfo": "2026-08-15",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "7",
+      "category": "Science & Tech",
+      "category_hi": "विज्ञान और tकनीक",
+      "title": "Digital Public Infrastructure for Free Coaching",
+      "title_hi": "DPI Coaching",
+      "image": null,
+      "summary": "PM announced free exam coaching through India's digital public infrastructure stack.",
+      "summary_hi": "DPI free coaching announcement।",
+      "content": "PM announced free exam coaching through India's digital public infrastructure stack.\n\nFor IB ACIO: UPI Aadhaar stack.",
+      "content_hi": "DPI free coaching announcement।\n\nIB ACIO: DPI — याद रखें।",
+      "question": "DPI examples include:",
+      "question_hi": "DPI examples include:",
+      "options": [
+        "UPI Aadhaar stack",
+        "Only cash",
+        "Only foreign tech",
+        "None"
+      ],
+      "options_hi": [
+        "UPI Aadhaar",
+        "Cash",
+        "Foreign",
+        "None"
+      ],
+      "correctAnswer": 0,
+      "explanation": "UPI Aadhaar stack",
+      "explanation_hi": "UPI Aadhaar",
+      "moreInfo": "2026-08-15",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "8",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Opposition Criticises Dimagi Naxal Remark",
+      "title_hi": "Opposition Dimagi Criticism",
+      "image": null,
+      "summary": "Opposition parties criticised PM dimagi Naxal remark as attack on dissent after NEET protests.",
+      "summary_hi": "Opposition criticises dimagi Naxal remark।",
+      "content": "Opposition parties criticised PM dimagi Naxal remark as attack on dissent after NEET protests.\n\nFor IB ACIO: Youth labelling criticism.",
+      "content_hi": "Opposition criticises dimagi Naxal remark।\n\nIB ACIO: Youth — याद रखें।",
+      "question": "CJP spokesperson criticised:",
+      "question_hi": "CJP spokesperson criticised:",
+      "options": [
+        "Budget",
+        "Branding youth as Naxals",
+        "Defence",
+        "Farm"
+      ],
+      "options_hi": [
+        "Budget",
+        "Youth Naxals label",
+        "Defence",
+        "Farm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Branding youth as Naxals",
+      "explanation_hi": "Youth Naxals label",
+      "moreInfo": "2026-08-15",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "9",
+      "category": "Government Schemes",
+      "category_hi": "सरकारी yोजnाएं",
+      "title": "Soft Power Pillar — Yoga and Ayurveda",
+      "title_hi": "Soft Power Pillar",
+      "image": null,
+      "summary": "Seventh Saptadhara pillar soft power highlights Yoga, Ayurveda and creative economy.",
+      "summary_hi": "Soft power: Yoga Ayurveda tourism।",
+      "content": "Seventh Saptadhara pillar soft power highlights Yoga, Ayurveda and creative economy.\n\nFor IB ACIO: Seventh pillar.",
+      "content_hi": "Soft power: Yoga Ayurveda tourism।\n\nIB ACIO: Seventh — याद रखें।",
+      "question": "Soft power pillar number:",
+      "question_hi": "Soft power pillar number:",
+      "options": [
+        "5th",
+        "7th",
+        "3rd",
+        "1st"
+      ],
+      "options_hi": [
+        "5th",
+        "7th",
+        "3rd",
+        "1st"
+      ],
+      "correctAnswer": 1,
+      "explanation": "7th",
+      "explanation_hi": "7th",
+      "moreInfo": "2026-08-15",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    },
+    {
+      "id": "10",
+      "category": "Sports",
+      "category_hi": "खेल",
+      "title": "India vs England Test Series August 2026",
+      "title_hi": "India England Tests",
+      "image": null,
+      "summary": "Indian cricket team continued Test series fixtures in August 2026.",
+      "summary_hi": "India cricket Tests Aug 2026।",
+      "content": "Indian cricket team continued Test series fixtures in August 2026.\n\nFor IB ACIO: Cricket.",
+      "content_hi": "India cricket Tests Aug 2026।\n\nIB ACIO: Cricket — याद रखें।",
+      "question": "BCCI governs:",
+      "question_hi": "BCCI governs:",
+      "options": [
+        "Hockey",
+        "Cricket",
+        "Badminton",
+        "Football"
+      ],
+      "options_hi": [
+        "Hockey",
+        "Cricket",
+        "Badminton",
+        "Football"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cricket",
+      "explanation_hi": "Cricket",
+      "moreInfo": "See related August editions.",
+      "moreInfo_hi": "अगस्त editions देखें।",
+      "relatedDate": null
+    }
+  ]
+}
