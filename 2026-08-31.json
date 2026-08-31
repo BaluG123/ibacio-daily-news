@@ -1,1 +1,328 @@
+{
+  "date": "2026-08-31",
+  "editionTitle": "IB ACIO Daily Current Affairs — 31 August 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 31 अगस्त 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "India's GDP Grows 7.8% in April-June 2026",
+      "title_hi": "अप्रैल-जून 2026 में भारत की GDP वृद्धि 7.8%",
+      "image": null,
+      "summary": "India's economy grew 7.8% year-on-year in the April-June 2026 quarter, beating market expectations.",
+      "summary_hi": "अप्रैल-जून 2026 तिमाही में भारत की अर्थव्यवस्था 7.8% सालाना दर से बढ़ी, जो बाजार अनुमान से अधिक रही।",
+      "content": "India's GDP grew by 7.8% year-on-year in the April-June 2026 quarter. The growth was stronger than economists' expectations and the RBI's earlier 7% expectation.\n\nFor IB ACIO: Q1 FY2026-27 GDP growth — 7.8%.",
+      "content_hi": "अप्रैल-जून 2026 तिमाही में भारत की GDP 7.8% सालाना दर से बढ़ी। यह अर्थशास्त्रियों के अनुमान और RBI की 7% अपेक्षा से अधिक थी।\n\nIB ACIO: Q1 FY2026-27 GDP वृद्धि — 7.8%।",
+      "question": "India's GDP growth in April-June 2026 was:",
+      "question_hi": "अप्रैल-जून 2026 में भारत की GDP वृद्धि कितनी रही?",
+      "options": [
+        "5.8%",
+        "6.7%",
+        "7.8%",
+        "8.8%"
+      ],
+      "options_hi": [
+        "5.8%",
+        "6.7%",
+        "7.8%",
+        "8.8%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "7.8%",
+      "explanation_hi": "7.8%",
+      "moreInfo": "This corresponds to the April-June 2026 quarter.",
+      "moreInfo_hi": "यह अप्रैल-जून 2026 तिमाही से संबंधित है।",
+      "relatedDate": "2026-08-31"
+    },
+    {
+      "id": "2",
+      "category": "Science & Technology",
+      "category_hi": "विज्ञान एवं प्रौद्योगिकी",
+      "title": "Government Notifies Semicon 2.0",
+      "title_hi": "सरकार ने Semicon 2.0 अधिसूचित किया",
+      "image": null,
+      "summary": "The Government of India notified Semicon 2.0 as the next phase of the semiconductor development programme with a ₹1,27,500 crore fiscal outlay.",
+      "summary_hi": "भारत सरकार ने सेमीकंडक्टर विकास कार्यक्रम के अगले चरण Semicon 2.0 को ₹1,27,500 करोड़ के वित्तीय परिव्यय के साथ अधिसूचित किया।",
+      "content": "The Government of India notified Semicon 2.0 on 31 August 2026 as the next phase of the Semicon India Programme. The scheme carries a fiscal outlay of ₹1,27,500 crore and focuses on semiconductor manufacturing, design, packaging and talent development.\n\nFor IB ACIO: Semicon 2.0 outlay — ₹1,27,500 crore.",
+      "content_hi": "भारत सरकार ने 31 अगस्त 2026 को Semicon 2.0 को Semicon India Programme के अगले चरण के रूप में अधिसूचित किया। इसका वित्तीय परिव्यय ₹1,27,500 करोड़ है और इसमें सेमीकंडक्टर निर्माण, डिजाइन, पैकेजिंग और प्रतिभा विकास पर जोर है।\n\nIB ACIO: Semicon 2.0 परिव्यय — ₹1,27,500 करोड़।",
+      "question": "What is the fiscal outlay of Semicon 2.0?",
+      "question_hi": "Semicon 2.0 का वित्तीय परिव्यय कितना है?",
+      "options": [
+        "₹50,000 crore",
+        "₹75,000 crore",
+        "₹1,00,000 crore",
+        "₹1,27,500 crore"
+      ],
+      "options_hi": [
+        "₹50,000 करोड़",
+        "₹75,000 करोड़",
+        "₹1,00,000 करोड़",
+        "₹1,27,500 करोड़"
+      ],
+      "correctAnswer": 3,
+      "explanation": "₹1,27,500 crore",
+      "explanation_hi": "₹1,27,500 करोड़",
+      "moreInfo": "Semicon 2.0 is the next phase of the Semicon India Programme.",
+      "moreInfo_hi": "Semicon 2.0, Semicon India Programme का अगला चरण है।",
+      "relatedDate": "2026-08-31"
+    },
+    {
+      "id": "3",
+      "category": "Science & Technology",
+      "category_hi": "विज्ञान एवं प्रौद्योगिकी",
+      "title": "Six Pillars of Semicon 2.0",
+      "title_hi": "Semicon 2.0 के छह स्तंभ",
+      "image": null,
+      "summary": "Semicon 2.0 covers chip design, machines and materials, fabs, ATMP/OSAT, R&D and semiconductor talent development.",
+      "summary_hi": "Semicon 2.0 में चिप डिजाइन, मशीन एवं सामग्री, फैब, ATMP/OSAT, R&D और सेमीकंडक्टर प्रतिभा विकास शामिल हैं।",
+      "content": "Semicon 2.0 strengthens the semiconductor value chain through six pillars: design; machines and materials; fabrication plants; assembly, testing, marking and packaging; research and development; and talent development.\n\nFor IB ACIO: Six-pillar semiconductor value chain.",
+      "content_hi": "Semicon 2.0 सेमीकंडक्टर वैल्यू चेन को छह स्तंभों के माध्यम से मजबूत करता है: डिजाइन; मशीन एवं सामग्री; फैब; असेंबली, टेस्टिंग, मार्किंग और पैकेजिंग; अनुसंधान एवं विकास; तथा प्रतिभा विकास।\n\nIB ACIO: छह स्तंभ।",
+      "question": "Which of the following is a pillar of Semicon 2.0?",
+      "question_hi": "निम्न में से कौन Semicon 2.0 का एक स्तंभ है?",
+      "options": [
+        "Semiconductor design",
+        "Only tourism",
+        "Only sports training",
+        "Film production"
+      ],
+      "options_hi": [
+        "सेमीकंडक्टर डिजाइन",
+        "केवल पर्यटन",
+        "केवल खेल प्रशिक्षण",
+        "फिल्म निर्माण"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Semiconductor design",
+      "explanation_hi": "सेमीकंडक्टर डिजाइन",
+      "moreInfo": "Design is one of the six pillars of Semicon 2.0.",
+      "moreInfo_hi": "डिजाइन Semicon 2.0 के छह स्तंभों में से एक है।",
+      "relatedDate": "2026-08-31"
+    },
+    {
+      "id": "4",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "India at the Shanghai Cooperation Organisation Summit",
+      "title_hi": "शंघाई सहयोग संगठन शिखर सम्मेलन में भारत",
+      "image": null,
+      "summary": "Prime Minister Narendra Modi participated in SCO-related diplomacy in Bishkek and held discussions with regional leaders.",
+      "summary_hi": "प्रधानमंत्री नरेंद्र मोदी ने बिश्केक में SCO से जुड़ी कूटनीतिक गतिविधियों में भाग लिया और क्षेत्रीय नेताओं के साथ वार्ता की।",
+      "content": "Prime Minister Narendra Modi was in Bishkek for the 26th Shanghai Cooperation Organisation Summit. India used the platform for regional diplomacy, security discussions and bilateral engagement.\n\nFor IB ACIO: SCO Summit venue — Bishkek, Kyrgyz Republic.",
+      "content_hi": "प्रधानमंत्री नरेंद्र मोदी 26वें शंघाई सहयोग संगठन शिखर सम्मेलन के लिए बिश्केक में थे। भारत ने इस मंच का उपयोग क्षेत्रीय कूटनीति, सुरक्षा चर्चा और द्विपक्षीय संपर्क के लिए किया।\n\nIB ACIO: SCO शिखर सम्मेलन स्थान — बिश्केक, किर्गिज़ गणराज्य।",
+      "question": "The 26th SCO Summit mentioned on 31 August 2026 was held in:",
+      "question_hi": "31 अगस्त 2026 को चर्चा किया गया 26वां SCO शिखर सम्मेलन कहाँ हुआ?",
+      "options": [
+        "Tashkent",
+        "Bishkek",
+        "Astana",
+        "Beijing"
+      ],
+      "options_hi": [
+        "ताशकंद",
+        "बिश्केक",
+        "अस्ताना",
+        "बीजिंग"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bishkek",
+      "explanation_hi": "बिश्केक",
+      "moreInfo": "Bishkek is the capital of Kyrgyzstan.",
+      "moreInfo_hi": "बिश्केक किर्गिज़स्तान की राजधानी है।",
+      "relatedDate": "2026-08-31"
+    },
+    {
+      "id": "5",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "PM Modi Meets Vladimir Putin at SCO Summit",
+      "title_hi": "SCO शिखर सम्मेलन में पीएम मोदी की व्लादिमीर पुतिन से मुलाकात",
+      "image": null,
+      "summary": "PM Modi held talks with Russian President Vladimir Putin in Bishkek and discussed the Ukraine conflict and India-Russia relations.",
+      "summary_hi": "पीएम मोदी ने बिश्केक में रूसी राष्ट्रपति व्लादिमीर पुतिन से मुलाकात कर यूक्रेन संघर्ष और भारत-रूस संबंधों पर चर्चा की।",
+      "content": "On the sidelines of the SCO Summit in Bishkek, Prime Minister Narendra Modi met Russian President Vladimir Putin. Modi reiterated India's support for peace efforts and stressed the need to move towards ending the Ukraine conflict.\n\nFor IB ACIO: India advocates dialogue and peace in the Ukraine conflict.",
+      "content_hi": "बिश्केक में SCO शिखर सम्मेलन के दौरान प्रधानमंत्री नरेंद्र मोदी ने रूसी राष्ट्रपति व्लादिमीर पुतिन से मुलाकात की। मोदी ने शांति प्रयासों और यूक्रेन संघर्ष को समाप्त करने की दिशा में आगे बढ़ने पर जोर दिया।\n\nIB ACIO: यूक्रेन संघर्ष — भारत संवाद और शांति का समर्थन करता है।",
+      "question": "At the SCO Summit, PM Modi discussed peace efforts concerning:",
+      "question_hi": "SCO शिखर सम्मेलन में पीएम मोदी ने किस संघर्ष के संदर्भ में शांति प्रयासों पर चर्चा की?",
+      "options": [
+        "Ukraine conflict",
+        "Korean conflict",
+        "Falklands conflict",
+        "Balkan conflict"
+      ],
+      "options_hi": [
+        "यूक्रेन संघर्ष",
+        "कोरियाई संघर्ष",
+        "फॉकलैंड्स संघर्ष",
+        "बाल्कन संघर्ष"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ukraine conflict",
+      "explanation_hi": "यूक्रेन संघर्ष",
+      "moreInfo": "The discussion took place with Russian President Vladimir Putin.",
+      "moreInfo_hi": "यह चर्चा रूसी राष्ट्रपति व्लादिमीर पुतिन के साथ हुई।",
+      "relatedDate": "2026-08-31"
+    },
+    {
+      "id": "6",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "Indus Waters Treaty — International Arbitration Ruling",
+      "title_hi": "सिंधु जल संधि — अंतर्राष्ट्रीय मध्यस्थता निर्णय",
+      "image": null,
+      "summary": "An international arbitration panel in The Hague ruled that the 1960 Indus Waters Treaty remains legally binding, while India rejected the panel's jurisdiction.",
+      "summary_hi": "हेग की अंतर्राष्ट्रीय मध्यस्थता पीठ ने 1960 की सिंधु जल संधि को लागू माना, जबकि भारत ने पीठ के अधिकार क्षेत्र को स्वीकार नहीं किया।",
+      "content": "An international arbitration panel in The Hague ruled that the 1960 Indus Waters Treaty remains in force. India rejected the panel's jurisdiction and stated that the ruling has no bearing on its sovereign decisions and ongoing projects.\n\nFor IB ACIO: Indus Waters Treaty — signed in 1960; brokered by the World Bank.",
+      "content_hi": "हेग की अंतर्राष्ट्रीय मध्यस्थता पीठ ने 1960 की सिंधु जल संधि को लागू माना। भारत ने पीठ के अधिकार क्षेत्र को अस्वीकार किया और कहा कि निर्णय उसकी संप्रभु नीतियों और परियोजनाओं पर प्रभाव नहीं डालता।\n\nIB ACIO: सिंधु जल संधि — 1960; विश्व बैंक की मध्यस्थता।",
+      "question": "The Indus Waters Treaty was signed in:",
+      "question_hi": "सिंधु जल संधि किस वर्ष हस्ताक्षरित हुई थी?",
+      "options": [
+        "1947",
+        "1956",
+        "1960",
+        "1972"
+      ],
+      "options_hi": [
+        "1947",
+        "1956",
+        "1960",
+        "1972"
+      ],
+      "correctAnswer": 2,
+      "explanation": "1960",
+      "explanation_hi": "1960",
+      "moreInfo": "The treaty was brokered by the World Bank.",
+      "moreInfo_hi": "संधि में विश्व बैंक की महत्वपूर्ण भूमिका थी।",
+      "relatedDate": "2026-08-31"
+    },
+    {
+      "id": "7",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "Manufacturing Growth Supports India's GDP",
+      "title_hi": "मैन्युफैक्चरिंग वृद्धि से भारत की GDP को समर्थन",
+      "image": null,
+      "summary": "Manufacturing expanded strongly in the April-June 2026 quarter, contributing to India's 7.8% GDP growth.",
+      "summary_hi": "अप्रैल-जून 2026 तिमाही में विनिर्माण क्षेत्र की मजबूत वृद्धि ने भारत की 7.8% GDP वृद्धि में योगदान दिया।",
+      "content": "India's manufacturing sector grew by 9.2% in the April-June 2026 quarter, supporting overall economic growth. Strong domestic demand and investment were among the factors behind the resilient performance.\n\nFor IB ACIO: Manufacturing growth — 9.2%.",
+      "content_hi": "अप्रैल-जून 2026 तिमाही में भारत के विनिर्माण क्षेत्र में 9.2% वृद्धि हुई, जिसने समग्र आर्थिक वृद्धि को समर्थन दिया। मजबूत घरेलू मांग और निवेश प्रमुख कारकों में रहे।\n\nIB ACIO: विनिर्माण वृद्धि — 9.2%।",
+      "question": "India's manufacturing sector grew by approximately how much in April-June 2026?",
+      "question_hi": "अप्रैल-जून 2026 में भारत के विनिर्माण क्षेत्र की वृद्धि लगभग कितनी रही?",
+      "options": [
+        "5.2%",
+        "7.8%",
+        "9.2%",
+        "12.1%"
+      ],
+      "options_hi": [
+        "5.2%",
+        "7.8%",
+        "9.2%",
+        "12.1%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "9.2%",
+      "explanation_hi": "9.2%",
+      "moreInfo": "Manufacturing was an important contributor to overall growth.",
+      "moreInfo_hi": "विनिर्माण समग्र आर्थिक वृद्धि का महत्वपूर्ण घटक रहा।",
+      "relatedDate": "2026-08-31"
+    },
+    {
+      "id": "8",
+      "category": "Environment",
+      "category_hi": "पर्यावरण",
+      "title": "India Faces Below-Normal September Rainfall",
+      "title_hi": "भारत में सितंबर में सामान्य से कम बारिश का अनुमान",
+      "image": null,
+      "summary": "The India Meteorological Department expected September 2026 rainfall to remain below normal after a rainfall deficit in August.",
+      "summary_hi": "भारत मौसम विज्ञान विभाग ने अगस्त में बारिश की कमी के बाद सितंबर 2026 में भी सामान्य से कम वर्षा का अनुमान जताया।",
+      "content": "India is expected to receive below-normal rainfall in September 2026 after August recorded a rainfall deficit. The weak monsoon outlook has implications for agriculture, soil moisture and inflation.\n\nFor IB ACIO: September rainfall outlook — below normal.",
+      "content_hi": "अगस्त में वर्षा की कमी के बाद सितंबर 2026 में भारत में सामान्य से कम वर्षा का अनुमान है। कमजोर मानसून का कृषि, मिट्टी की नमी और महंगाई पर असर पड़ सकता है।\n\nIB ACIO: सितंबर वर्षा अनुमान — सामान्य से कम।",
+      "question": "The September 2026 rainfall outlook for India was:",
+      "question_hi": "सितंबर 2026 के लिए भारत में वर्षा का अनुमान कैसा था?",
+      "options": [
+        "Above normal",
+        "Normal",
+        "Below normal",
+        "No rainfall expected"
+      ],
+      "options_hi": [
+        "सामान्य से अधिक",
+        "सामान्य",
+        "सामान्य से कम",
+        "बारिश की कोई संभावना नहीं"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Below normal",
+      "explanation_hi": "सामान्य से कम",
+      "moreInfo": "Weak monsoon conditions can affect agriculture and inflation.",
+      "moreInfo_hi": "कमजोर मानसून कृषि और महंगाई को प्रभावित कर सकता है।",
+      "relatedDate": "2026-08-31"
+    },
+    {
+      "id": "9",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "Rupee Under Pressure from Oil and Global Rates",
+      "title_hi": "तेल और वैश्विक दरों के दबाव में रुपया",
+      "image": null,
+      "summary": "High global oil prices and expectations of US monetary tightening continued to create pressure on the Indian rupee.",
+      "summary_hi": "वैश्विक तेल कीमतों और अमेरिकी मौद्रिक नीति में सख्ती की आशंकाओं ने भारतीय रुपये पर दबाव बनाए रखा।",
+      "content": "The rupee remained under pressure from elevated global oil prices, US interest-rate expectations and importer demand. RBI intervention remained an important factor in limiting excessive currency volatility.\n\nFor IB ACIO: Key drivers — oil prices, global rates and RBI intervention.",
+      "content_hi": "ऊंची वैश्विक तेल कीमतों, अमेरिकी ब्याज दरों की उम्मीदों और आयातक मांग के कारण रुपया दबाव में रहा। अत्यधिक अस्थिरता को सीमित करने में RBI का हस्तक्षेप महत्वपूर्ण रहा।\n\nIB ACIO: प्रमुख कारक — तेल कीमतें, वैश्विक दरें और RBI हस्तक्षेप।",
+      "question": "Which combination was cited as a key factor affecting the rupee?",
+      "question_hi": "रुपये को प्रभावित करने वाले प्रमुख कारकों का सही संयोजन कौन-सा है?",
+      "options": [
+        "Oil prices and global interest rates",
+        "Only monsoon",
+        "Only cricket results",
+        "Only gold imports"
+      ],
+      "options_hi": [
+        "तेल कीमतें और वैश्विक ब्याज दरें",
+        "केवल मानसून",
+        "केवल क्रिकेट परिणाम",
+        "केवल सोना आयात"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Oil prices and global interest rates",
+      "explanation_hi": "तेल कीमतें और वैश्विक ब्याज दरें",
+      "moreInfo": "RBI intervention also remained relevant to currency stability.",
+      "moreInfo_hi": "RBI हस्तक्षेप भी मुद्रा स्थिरता के लिए महत्वपूर्ण रहा।",
+      "relatedDate": "2026-08-31"
+    },
+    {
+      "id": "10",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "India's Position on Ukraine Peace Efforts",
+      "title_hi": "यूक्रेन शांति प्रयासों पर भारत का रुख",
+      "image": null,
+      "summary": "At the SCO-related meeting in Bishkek, India reiterated its support for peace efforts and a negotiated resolution to the Ukraine conflict.",
+      "summary_hi": "बिश्केक में SCO से जुड़ी बैठक के दौरान भारत ने यूक्रेन संघर्ष के लिए शांति प्रयासों और वार्ता आधारित समाधान के समर्थन को दोहराया।",
+      "content": "During discussions with Russian President Vladimir Putin in Bishkek, Prime Minister Narendra Modi emphasized India's consistent support for all peace efforts and the need to move towards an end to the Ukraine war.\n\nFor IB ACIO: India's diplomatic position — dialogue, peace and negotiated resolution.",
+      "content_hi": "बिश्केक में रूसी राष्ट्रपति व्लादिमीर पुतिन के साथ बातचीत में प्रधानमंत्री नरेंद्र मोदी ने सभी शांति प्रयासों के लिए भारत के समर्थन और यूक्रेन युद्ध को समाप्त करने की दिशा में आगे बढ़ने की आवश्यकता पर जोर दिया।\n\nIB ACIO: भारत का रुख — संवाद, शांति और वार्ता आधारित समाधान।",
+      "question": "India's approach to the Ukraine conflict emphasizes:",
+      "question_hi": "यूक्रेन संघर्ष के प्रति भारत का दृष्टिकोण किस पर जोर देता है?",
+      "options": [
+        "Dialogue and peace",
+        "Permanent escalation",
+        "Economic isolation only",
+        "Military expansion"
+      ],
+      "options_hi": [
+        "संवाद और शांति",
+        "स्थायी तनाव बढ़ाना",
+        "केवल आर्थिक अलगाव",
+        "सैन्य विस्तार"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dialogue and peace",
+      "explanation_hi": "संवाद और शांति",
+      "moreInfo": "PM Modi conveyed this position during talks with Vladimir Putin.",
+      "moreInfo_hi": "पीएम मोदी ने व्लादिमीर पुतिन के साथ वार्ता में यह रुख व्यक्त किया।",
+      "relatedDate": "2026-08-31"
+    }
+  ]
+}
 
