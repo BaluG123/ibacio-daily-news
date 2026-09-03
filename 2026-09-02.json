@@ -1,1 +1,135 @@
-
+{
+  "date": "2026-09-02",
+  "editionTitle": "IB ACIO Daily Current Affairs — 2 September 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 2 सितंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "Cabinet Approves Expansion of Ayushman Bharat PM-JAY Scheme",
+      "title_hi": "कैबिनेट ने आयुष्मान भारत PM-JAY योजना के विस्तार को मंजूरी दी",
+      "image": null,
+      "summary": "The Union Cabinet expanded Ayushman Bharat PM-JAY coverage to grant health insurance cover of ₹5 lakh to all senior citizens aged 70 and above, regardless of income.",
+      "summary_hi": "केंद्रीय मंत्रिमंडल ने आय की सीमा से परे, 70 वर्ष और उससे अधिक आयु के सभी वरिष्ठ नागरिकों को ₹5 लाख का स्वास्थ्य बीमा कवर देने के लिए आयुष्मान भारत PM-JAY योजना के विस्तार को मंजूरी दी।",
+      "content": "In a major social welfare policy decision, the Union Cabinet chaired by PM Narendra Modi expanded the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY). All senior citizens aged 70 years and above are now eligible for health coverage up to ₹5 lakh per year per family for secondary and tertiary care hospitalization. Senior citizens belonging to families already covered under PM-JAY will receive an additional top-up cover of ₹5 lakh per year for themselves.\n\nFor IB ACIO: AB PM-JAY launch year — 2018; Implementing agency — National Health Authority (NHA); Sum insured — ₹5 lakh per family per year.",
+      "content_hi": "एक प्रमुख समाज कल्याण नीति निर्णय में, पीएम नरेंद्र मोदी की अध्यक्षता में केंद्रीय मंत्रिमंडल ने आयुष्मान भारत प्रधानमंत्री जन आरोग्य योजना (AB PM-JAY) का विस्तार किया। 70 वर्ष और उससे अधिक आयु के सभी वरिष्ठ नागरिक अब द्वितीयक और तृतीयक देखभाल अस्पताल में भर्ती के लिए प्रति वर्ष प्रति परिवार ₹5 लाख तक के स्वास्थ्य कवर के पात्र होंगे।\n\nIB ACIO: AB PM-JAY लॉन्च वर्ष — 2018; कार्यान्वयन एजेंसी — राष्ट्रीय स्वास्थ्य प्राधिकरण (NHA); बीमा राशि — ₹5 लाख प्रति परिवार प्रति वर्ष।",
+      "question": "Which autonomous body is responsible for implementing the Ayushman Bharat PM-JAY scheme across India?",
+      "question_hi": "पूरे भारत में आयुष्मान भारत PM-JAY योजना को लागू करने के लिए कौन-सा स्वायत्त निकाय जिम्मेदार है?",
+      "options": [
+        "Medical Council of India (MCI)",
+        "National Health Authority (NHA)",
+        "NITI Aayog",
+        "Indian Council of Medical Research (ICMR)"
+      ],
+      "options_hi": [
+        "भारतीय चिकित्सा परिषद (MCI)",
+        "राष्ट्रीय स्वास्थ्य प्राधिकरण (NHA)",
+        "नीति आयोग",
+        "भारतीय चिकित्सा अनुसंधान परिषद (ICMR)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "National Health Authority (NHA)",
+      "explanation_hi": "राष्ट्रीय स्वास्थ्य प्राधिकरण (NHA)",
+      "moreInfo": "NHA is headed by a Chief Executive Officer (CEO) and functions under the Ministry of Health and Family Welfare.",
+      "moreInfo_hi": "NHA के प्रमुख एक मुख्य कार्यकारी अधिकारी (CEO) होते हैं और यह स्वास्थ्य एवं परिवार कल्याण मंत्रालय के तहत कार्य करता है।",
+      "relatedDate": "2026-09-02"
+    },
+    {
+      "id": "2",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "RBI Releases Framework for Climate-Related Financial Disclosures",
+      "title_hi": "आरबीआई ने जलवायु संबंधी वित्तीय प्रकटीकरण के लिए ढांचा जारी किया",
+      "image": null,
+      "summary": "The Reserve Bank of India issued final guidelines mandating Regulated Entities (REs) to disclose climate-related financial risks under four thematic pillars.",
+      "summary_hi": "भारतीय रिजर्व बैंक ने विनियमित संस्थाओं (REs) के लिए चार विषयगत स्तंभों के तहत जलवायु संबंधी वित्तीय जोखिमों का खुलासा करना अनिवार्य करते हुए अंतिम दिशा-निर्देश जारी किए।",
+      "content": "The Reserve Bank of India (RBI) published its final disclosure framework on Climate-related Financial Risks for Banks and Non-Banking Financial Companies (NBFCs). The framework is modeled on the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD). Regulated entities must now disclose their risks under four thematic pillars: Governance, Strategy, Risk Management, and Metrics & Targets.\n\nFor IB ACIO: RBI Climate Risk Framework pillars — Governance, Strategy, Risk Management, Metrics & Targets; TCFD established by Financial Stability Board (FSB).",
+      "content_hi": "भारतीय रिजर्व बैंक (RBI) ने बैंकों और गैर-बैंकिंग वित्तीय कंपनियों (NBFCs) के लिए जलवायु संबंधी वित्तीय जोखिमों पर अपना अंतिम प्रकटीकरण ढांचा प्रकाशित किया। यह ढांचा 'टास्क फोर्स ऑन क्लाइमेट-रिलेटेड फाइनेंशियल डिस्क्लोजर' (TCFD) की सिफारिशों पर आधारित है। विनियमित संस्थाओं को अब चार स्तंभों: प्रशासन, रणनीति, जोखिम प्रबंधन और मेट्रिक्स व लक्ष्य के तहत अपने जोखिमों का खुलासा करना होगा।\n\nIB ACIO: आरबीआई जलवायु जोखिम ढांचा स्तंभ — प्रशासन, रणनीति, जोखिम प्रबंधन, मीट्रिक और लक्ष्य।",
+      "question": "The global Task Force on Climate-related Financial Disclosures (TCFD) was established by which international body?",
+      "question_hi": "जलवायु संबंधी वित्तीय प्रकटीकरण पर वैश्विक कार्यबल (TCFD) की स्थापना किस अंतर्राष्ट्रीय निकाय द्वारा की गई थी?",
+      "options": [
+        "International Monetary Fund (IMF)",
+        "Financial Stability Board (FSB)",
+        "World Economic Forum (WEF)",
+        "United Nations Development Programme (UNDP)"
+      ],
+      "options_hi": [
+        "अंतर्राष्ट्रीय मुद्रा कोष (IMF)",
+        "वित्तीय स्थिरता बोर्ड (FSB)",
+        "विश्व आर्थिक मंच (WEF)",
+        "संयुक्त राष्ट्र विकास कार्यक्रम (UNDP)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Financial Stability Board (FSB)",
+      "explanation_hi": "वित्तीय स्थिरता बोर्ड (FSB)",
+      "moreInfo": "The FSB established TCFD in 2015 to develop recommendations for more effective climate-related disclosures.",
+      "moreInfo_hi": "FSB ने जलवायु संबंधी प्रभावी खुलासे विकसित करने के लिए 2015 में TCFD की स्थापना की थी।",
+      "relatedDate": "2026-09-02"
+    },
+    {
+      "id": "3",
+      "category": "Science & Technology",
+      "category_hi": "विज्ञान एवं प्रौद्योगिकी",
+      "title": "WHO Endorses New Single-Dose Dengue Vaccine",
+      "title_hi": "डब्ल्यूएचओ ने नए सिंगल-डोज डेंगू टीके को मंजूरी दी",
+      "image": null,
+      "summary": "The World Health Organization (WHO) prequalified a second dengue vaccine, TAK-003, for children aged 6 to 16 living in high endemic areas.",
+      "summary_hi": "विश्व स्वास्थ्य संगठन (WHO) ने उच्च स्थानिक क्षेत्रों में रहने वाले 6 से 16 वर्ष के बच्चों के लिए दूसरे डेंगू टीके, TAK-003 को पूर्व-योग्य (prequalified) घोषित किया।",
+      "content": "The Strategic Advisory Group of Experts (SAGE) on Immunization at WHO recommended the introduction of the TAK-003 dengue vaccine in regions with high dengue transmission intensity. Dengue is a mosquito-borne viral infection transmitted primarily by female *Aedes aegypti* mosquitoes. The vaccine covers all four serotypes of the dengue virus (DENV-1, DENV-2, DENV-3, and DENV-4).\n\nFor IB ACIO: Dengue vector — *Aedes aegypti*; Dengue pathogen — Flavivirus (RNA virus with 4 serotypes); WHO HQ — Geneva, Switzerland.",
+      "content_hi": "विश्व स्वास्थ्य संगठन (WHO) के टीकाकरण विशेषज्ञों के रणनीतिक सलाहकार समूह (SAGE) ने उच्च डेंगू संचरण वाले क्षेत्रों में TAK-003 डेंगू टीके की सिफारिश की। डेंगू एक मच्छर जनित वायरल संक्रमण है जो मुख्य रूप से मादा *Aedes aegypti* मच्छरों द्वारा फैलता है। यह टीका डेंगू वायरस के सभी चार सेरोटाइप (DENV-1, DENV-2, DENV-3, और DENV-4) को कवर करता है।\n\nIB ACIO: डेंगू वाहक — *Aedes aegypti*; डेंगू रोगज़नक़ — फ्लेवीवायरस (4 सेरोटाइप वाला आरएनए वायरस); डब्ल्यूएचओ मुख्यालय — जेनेवा, स्विट्जरलैंड।",
+      "question": "Which mosquito species is the primary vector for transmitting the Dengue virus to humans?",
+      "question_hi": "मनुष्यों में डेंगू वायरस प्रसारित करने के लिए कौन-सी मच्छर प्रजाति प्राथमिक वाहक है?",
+      "options": [
+        "Anopheles stephensi",
+        "Culex quinquefasciatus",
+        "Aedes aegypti",
+        "Mansonia annulifera"
+      ],
+      "options_hi": [
+        "एनोफिलीज स्टीफेंसी",
+        "क्यूलेक्स क्विनक्यूफेसियाटस",
+        "एडिस एजिप्टी",
+        "मानसोनिया एनुलिफेरा"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aedes aegypti",
+      "explanation_hi": "एडिस एजिप्टी",
+      "moreInfo": "Aedes aegypti also transmits Chikungunya, Yellow Fever, and Zika viruses.",
+      "moreInfo_hi": "एडिस एजिप्टी मच्छर चिकुनगुनिया, पीला बुखार और जीका वायरस को भी प्रसारित करता है।",
+      "relatedDate": "2026-09-02"
+    },
+    {
+      "id": "4",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "Japan and South Korea Bilateral Summit in Seoul",
+      "title_hi": "सीओल में जापान और दक्षिण कोरिया द्विपक्षीय शिखर सम्मेलन",
+      "image": null,
+      "summary": "Japanese Prime Minister and South Korean President held bilateral talks in Seoul, focusing on supply chain resilience, semiconductor partnerships, and regional security.",
+      "summary_hi": "जापानी प्रधानमंत्री और दक्षिण कोरियाई राष्ट्रपति ने सीओल में द्विपक्षीय वार्ता की, जिसमें आपूर्ति श्रृंखला लचीलेपन, सेमीकंडक्टर साझेदारी और क्षेत्रीय सुरक्षा पर ध्यान केंद्रित किया गया।",
+      "content": "The leaders of Japan and South Korea met in Seoul on 2 September 2026 to strengthen bilateral relations and trilateral security cooperation with the United States. Key discussions centered on countering regional missile threats, establishing a pre-clearance immigration system for travelers between the two nations, and securing critical mineral supply chains for clean energy and advanced electronics.\n\nFor IB ACIO: Japan Capital — Tokyo (Currency: Yen); South Korea Capital — Seoul (Currency: Won); Sea between Japan and Korea — Sea of Japan (East Sea).",
+      "content_hi": "जापान और दक्षिण कोरिया के नेताओं ने द्विपक्षीय संबंधों और संयुक्त राज्य अमेरिका के साथ त्रिपक्षीय सुरक्षा सहयोग को मजबूत करने के लिए 2 सितंबर 2026 को सीओल में मुलाकात की। मुख्य चर्चाएँ क्षेत्रीय मिसाइल खतरों से निपटने, दोनों देशों के बीच यात्रियों के लिए पूर्व-स्वीकृति अप्रवासन प्रणाली स्थापित करने और उन्नत इलेक्ट्रॉनिक्स के लिए महत्वपूर्ण खनिज आपूर्ति श्रृंखलाओं को सुरक्षित करने पर केंद्रित थीं।\n\nIB ACIO: जापान राजधानी — टोक्यो (मुद्रा: येन); दक्षिण कोरिया राजधानी — सीओल (मुद्रा: वॉन)।",
+      "question": "What is the official currency of South Korea?",
+      "question_hi": "दक्षिण कोरिया की आधिकारिक मुद्रा क्या है?",
+      "options": [
+        "Yen",
+        "Yuan",
+        "Won",
+        "Ringgit"
+      ],
+      "options_hi": [
+        "येन",
+        "युआन",
+        "वॉन",
+        "रिंगित"
+      ],
+      "correctAnswer": 2,
+      "explanation": "South Korean Won (KRW)",
+      "explanation_hi": "दक्षिण कोरियाई वॉन (KRW)",
+      "moreInfo": "Japan uses the Yen (JPY), China uses the Renminbi/Yuan (CNY), and Malaysia uses the Ringgit (MYR).",
+      "moreInfo_hi": "जापान येन (JPY), चीन युआन (CNY) और मलेशिया रिंगित (MYR) का उपयोग करता है।",
+      "relatedDate": "2026-09-02"
+    }
+  ]
+}
