@@ -1,1 +1,135 @@
-
+{
+  "date": "2026-09-03",
+  "editionTitle": "IB ACIO Daily Current Affairs — 3 September 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 3 सितंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Defense & Security",
+      "category_hi": "रक्षा एवं सुरक्षा",
+      "title": "Ministry of Defense Signs Contract for Next-Gen Fast Patrol Vessels",
+      "title_hi": "रक्षा मंत्रालय ने अगली पीढ़ी के फास्ट गश्ती जहाजों के लिए अनुबंध पर हस्ताक्षर किए",
+      "image": null,
+      "summary": "The Ministry of Defense signed a contract worth ₹2,450 crore with Mazagon Dock Shipbuilders Limited (MDL) for 14 Fast Patrol Vessels for the Indian Coast Guard.",
+      "summary_hi": "रक्षा मंत्रालय ने भारतीय तटरक्षक बल के लिए 14 फास्ट पेट्रोल वैसल्स (FPV) के निर्माण के लिए मझगांव डॉक शिपबिल्डर्स लिमिटेड (MDL) के साथ ₹2,450 करोड़ के अनुबंध पर हस्ताक्षर किए।",
+      "content": "To enhance maritime surveillance along India's coastline, the Ministry of Defense awarded a contract to Mumbai-based Mazagon Dock Shipbuilders Limited (MDL) under the Buy (Indian-IDDM) category. The Fast Patrol Vessels (FPVs) will be indigenously designed and built, featuring high-speed capabilities, electronic warfare suites, and advanced search and rescue gear. These vessels will be deployed for anti-smuggling operations, coastal security, and EEZ surveillance.\n\nFor IB ACIO: Indian Coast Guard Day — February 1; ICG Motto — 'Vayam Rakshamah' (We Protect); MDL location — Mumbai, Maharashtra.",
+      "content_hi": "भारत के तटीय क्षेत्र में समुद्री निगरानी को बढ़ाने के लिए, रक्षा मंत्रालय ने खरीद (भारतीय-IDDM) श्रेणी के तहत मुंबई स्थित मझगांव डॉक शिपबिल्डर्स लिमिटेड (MDL) को अनुबंध प्रदान किया। फास्ट पेट्रोल वैसल्स (FPVs) को स्वदेशी रूप से डिजाइन और निर्मित किया जाएगा, जिसमें उच्च गति क्षमताएं, इलेक्ट्रॉनिक युद्धक प्रणालियां और उन्नत खोज व बचाव उपकरण होंगे।\n\nIB ACIO: भारतीय तटरक्षक दिवस — 1 फरवरी; ICG का आदर्श वाक्य — 'वयम् रक्षामः'; MDL स्थान — मुंबई, महाराष्ट्र।",
+      "question": "What is the motto of the Indian Coast Guard (ICG)?",
+      "question_hi": "भारतीय तटरक्षक बल (ICG) का आदर्श वाक्य क्या है?",
+      "options": [
+        "Sham No Varunah",
+        "Vayam Rakshamah",
+        "Nabhah Sparsam Deeptam",
+        "Duty Unto Death"
+      ],
+      "options_hi": [
+        "शं नो वरुणः",
+        "वयम् रक्षामः",
+        "नभः स्पृशं दीप्तम्",
+        "कर्तव्यमन्वा मृत्युः"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vayam Rakshamah ('We Protect')",
+      "explanation_hi": "वयम् रक्षामः ('हम रक्षा करते हैं')",
+      "moreInfo": "'Sham No Varunah' is the motto of the Indian Navy, and 'Service Before Self' is the motto of the Indian Army.",
+      "moreInfo_hi": "'शं नो वरुणः' भारतीय नौसेना का और 'सेवा परमो धर्मः' भारतीय सेना का आदर्श वाक्य है।",
+      "relatedDate": "2026-09-03"
+    },
+    {
+      "id": "2",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "UPI Processes Record 15.2 Billion Transactions in August 2026",
+      "title_hi": "यूपीआई ने अगस्त 2026 में रिकॉर्ड 15.2 बिलियन लेनदेन संसाधित किए",
+      "image": null,
+      "summary": "Unified Payments Interface (UPI) achieved a record milestone by processing 15.2 billion transactions worth ₹20.6 lakh crore in August 2026.",
+      "summary_hi": "यूनिफाइड पेमेंट्स इंटरफेस (UPI) ने अगस्त 2026 में ₹20.6 लाख करोड़ मूल्य के 15.2 बिलियन लेनदेन संसाधित करके एक नया रिकॉर्ड स्थापित किया।",
+      "content": "Data released by National Payments Corporation of India (NPCI) revealed that UPI transaction volumes grew 31% year-on-year in August 2026. The total value surpassed ₹20 lakh crore for the fourth consecutive month. The launch of UPI Lite, credit card linking on UPI, and international merchant acceptance in countries like UAE, Singapore, Sri Lanka, and France contributed significantly to the surge.\n\nFor IB ACIO: NPCI established — 2008 under Payment and Settlement Systems Act, 2007; UPI launched — 2016.",
+      "content_hi": "भारतीय राष्ट्रीय भुगतान निगम (NPCI) द्वारा जारी आंकड़ों से पता चला है कि अगस्त 2026 में यूपीआई लेनदेन की संख्या में सालाना आधार पर 31% की वृद्धि हुई। कुल मूल्य लगातार चौथे महीने ₹20 लाख करोड़ से अधिक रहा। यूएई, सिंगापुर, श्रीलंका और फ्रांस जैसे देशों में यूपीआई लाइट, यूपीआई पर क्रेडिट कार्ड लिंकिंग और अंतर्राष्ट्रीय स्वीकृति ने इस उछाल में महत्वपूर्ण योगदान दिया।\n\nIB ACIO: NPCI की स्थापना — 2008 में भुगतान और निपटान प्रणाली अधिनियम, 2007 के तहत; यूपीआई लॉन्च — 2016।",
+      "question": "Which umbrella organization operates the Unified Payments Interface (UPI) retail payment system in India?",
+      "question_hi": "भारत में यूनिफाइड पेमेंट्स इंटरफेस (UPI) खुदरा भुगतान प्रणाली का संचालन कौन-सा प्रमुख संगठन करता है?",
+      "options": [
+        "Reserve Bank of India (RBI)",
+        "National Payments Corporation of India (NPCI)",
+        "Unique Identification Authority of India (UIDAI)",
+        "Securities and Exchange Board of India (SEBI)"
+      ],
+      "options_hi": [
+        "भारतीय रिजर्व बैंक (RBI)",
+        "भारतीय राष्ट्रीय भुगतान निगम (NPCI)",
+        "भारतीय विशिष्ट पहचान प्राधिकरण (UIDAI)",
+        "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "National Payments Corporation of India (NPCI)",
+      "explanation_hi": "भारतीय राष्ट्रीय भुगतान निगम (NPCI)",
+      "moreInfo": "NPCI is an initiative of the RBI and Indian Banks' Association (IBA) set up under the provisions of the Payment and Settlement Systems Act, 2007.",
+      "moreInfo_hi": "NPCI भुगतान और निपटान प्रणाली अधिनियम, 2007 के प्रावधानों के तहत आरबीआई और इंडियन बैंक्स एसोसिएशन (IBA) की एक पहल है।",
+      "relatedDate": "2026-09-03"
+    },
+    {
+      "id": "3",
+      "category": "Environment",
+      "category_hi": "पर्यावरण",
+      "title": "India Adds 3 New Wetlands to Ramsar List",
+      "title_hi": "भारत ने रामसर सूची में 3 नए आर्द्रभूमि स्थल जोड़े",
+      "image": null,
+      "summary": "India's tally of Ramsar sites reached 88 after 3 new wetlands from Karnataka and Tamil Nadu were recognized as wetlands of international importance.",
+      "summary_hi": "कर्नाटक और तमिलनाडु के 3 नए आर्द्रभूमियों को अंतर्राष्ट्रीय महत्व की आर्द्रभूमि के रूप में मान्यता मिलने के बाद भारत में रामसर स्थलों की संख्या 88 हो गई।",
+      "content": "Union Minister for Environment, Forest and Climate Change announced the designation of three new Ramsar sites in India, taking the total countrywide count to 88. The newly added wetlands include Aghanashini Estuary and Magadi Kere Conservation Reserve in Karnataka, and Longwood Shola Reserve Forest in Tamil Nadu. India now holds the highest number of Ramsar sites in Asia.\n\nFor IB ACIO: Ramsar Convention signed — 1971 in Ramsar, Iran; World Wetlands Day — February 2; India joined Ramsar Convention — 1982.",
+      "content_hi": "केंद्रीय पर्यावरण, वन एवं जलवायु परिवर्तन मंत्री ने भारत में तीन नए रामसर स्थलों की घोषणा की, जिससे देशभर में कुल संख्या बढ़कर 88 हो गई। नए जोड़े गए आर्द्रभूमियों में कर्नाटक की अघनाशिनी मुहाना और मगडी केरे संरक्षण रिजर्व, तथा तमिलनाडु का लॉन्गवुड शोला रिजर्व फ़ॉरेस्ट शामिल हैं। भारत के पास अब एशिया में सबसे अधिक रामसर स्थल हैं।\n\nIB ACIO: रामसर सम्मेलन हस्ताक्षरित — 1971 (रामसर, ईरान); विश्व आर्द्रभूमि दिवस — 2 फरवरी; भारत शामिल हुआ — 1982।",
+      "question": "The Ramsar Convention on Wetlands was signed in 1971 in which country?",
+      "question_hi": "आर्द्रभूमि पर रामसर सम्मेलन पर 1971 में किस देश में हस्ताक्षर किए गए थे?",
+      "options": [
+        "Egypt",
+        "Iran",
+        "Switzerland",
+        "Iraq"
+      ],
+      "options_hi": [
+        "मिस्र",
+        "ईरान",
+        "स्विट्जरलैंड",
+        "इराक"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Iran",
+      "explanation_hi": "ईरान",
+      "moreInfo": "Ramsar is a city in Iran situated on the coast of the Caspian Sea where the treaty was adopted on 2 February 1971.",
+      "moreInfo_hi": "रामसर ईरान का एक शहर है जो कैस्पियन सागर के तट पर स्थित है जहाँ 2 फ़रवरी 1971 को इस संधि को अपनाया गया था।",
+      "relatedDate": "2026-09-03"
+    },
+    {
+      "id": "4",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "Pacific Islands Forum Summit Focuses on Climate Resilience",
+      "title_hi": "पैसिफिक आइलैंड्स फोरम शिखर सम्मेलन में जलवायु लचीलेपन पर ध्यान केंद्रित",
+      "image": null,
+      "summary": "Leaders at the 53rd Pacific Islands Forum (PIF) Summit in Nuku'alofa adopted the Pacific Resilience Facility to fund climate adaptation for low-lying island states.",
+      "summary_hi": "नुकुआलोफ़ा में 53वें पैसिफिक आइलैंड्स फोरम (PIF) शिखर सम्मेलन में नेताओं ने निचले द्वीप राज्यों के लिए जलवायु अनुकूलन को वित्तपोषित करने हेतु पैसिफिक रेजिस्टेंस फैसिलिटी को अपनाया।",
+      "content": "The 53rd meeting of Pacific Islands Forum (PIF) leaders concluded in Nuku'alofa, Tonga. The key outcome was the operationalization of the Pacific Resilience Facility (PRF), a regional climate financing fund aimed at building infrastructure resilient to sea-level rise and extreme weather. Australia committed $100 million to the fund, while leaders urged major industrial polluters to increase climate finance contributions under the Paris Agreement framework.\n\nFor IB ACIO: PIF Secretariat — Suva, Fiji; Tonga Capital — Nuku'alofa; Paris Agreement target — Limit global warming to well below 2°C.",
+      "content_hi": "टोंगा की राजधानी नुकुआलोफ़ा में पैसिफिक आइलैंड्स फोरम (PIF) के नेताओं की 53वीं बैठक संपन्न हुई। मुख्य परिणाम 'पैसिफिक रेजिस्टेंस फैसिलिटी' (PRF) का संचालन था, जो समुद्र के स्तर में वृद्धि और चरम मौसम के प्रति लचीला बुनियादी ढांचा बनाने के उद्देश्य से एक क्षेत्रीय जलवायु वित्तपोषण कोष है।\n\nIB ACIO: PIF सचिवालय — सुवा, फिजी; टोंगा राजधानी — नुकुआलोफ़ा; पेरिस समझौता लक्ष्य — वैश्विक तापमान वृद्धि को 2°C से नीचे सीमित रखना।",
+      "question": "What is the capital city of Tonga, which hosted the 53rd Pacific Islands Forum Summit?",
+      "question_hi": "टोंगा की राजधानी क्या है, जिसने 53वें पैसिफिक आइलैंड्स फोरम शिखर सम्मेलन की मेजबानी की?",
+      "options": [
+        "Suva",
+        "Apia",
+        "Nuku'alofa",
+        "Port Moresby"
+      ],
+      "options_hi": [
+        "सुवा",
+        "एपिया",
+        "नुकुआलोफ़ा",
+        "पोर्ट मोरेस्बी"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nuku'alofa",
+      "explanation_hi": "नुकुआलोफ़ा",
+      "moreInfo": "Suva is the capital of Fiji, Apia is the capital of Samoa, and Port Moresby is the capital of Papua New Guinea.",
+      "moreInfo_hi": "सुवा फ़िजी की राजधानी है, एपिया समोआ की राजधानी है, और पोर्ट मोरेस्बी पापुआ न्यू गिनी की राजधानी है।",
+      "relatedDate": "2026-09-03"
+    }
+  ]
+}
