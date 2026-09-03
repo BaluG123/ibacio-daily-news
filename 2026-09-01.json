@@ -1,1 +1,135 @@
-
+{
+  "date": "2026-09-01",
+  "editionTitle": "IB ACIO Daily Current Affairs — 1 September 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 1 सितंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "GST Revenue Reaches ₹1.85 Lakh Crore in August 2026",
+      "title_hi": "अगस्त 2026 में जीएसटी संग्रह ₹1.85 लाख करोड़ तक पहुंचा",
+      "image": null,
+      "summary": "India's Gross Goods and Services Tax (GST) collections reached ₹1.85 lakh crore in August 2026, recording an 8.5% year-on-year growth driven by strong domestic consumption.",
+      "summary_hi": "मजबूत घरेलू खपत के बल पर अगस्त 2026 में भारत का सकल वस्तु एवं सेवा कर (GST) संग्रह ₹1.85 लाख करोड़ तक पहुंच गया, जिसमें साल-दर-साल 8.5% की वृद्धि दर्ज की गई।",
+      "content": "The Ministry of Finance reported that total Gross GST revenue collected in August 2026 stood at ₹1,85,200 crore. This marks a consistent trend of monthly GST revenues staying above the ₹1.70 lakh crore benchmark throughout FY 2026-27. CGST accounted for ₹34,100 crore, SGST for ₹42,500 crore, IGST for ₹94,600 crore, and Cess for ₹14,000 crore.\n\nFor IB ACIO: August 2026 GST collection — ₹1.85 lakh crore; Constitutional Amendment for GST — 101st Amendment Act, 2016.",
+      "content_hi": "वित्त मंत्रालय की रिपोर्ट के अनुसार अगस्त 2026 में एकत्र किया गया कुल सकल जीएसटी राजस्व ₹1,85,200 करोड़ रहा। यह वित्त वर्ष 2026-27 के दौरान ₹1.70 लाख करोड़ के मानक से ऊपर रहने के लगातार रुझान को दर्शाता है। इसमें CGST ₹34,100 करोड़, SGST ₹42,500 करोड़, IGST ₹94,600 करोड़ और उपकर (Cess) ₹14,000 करोड़ शामिल है।\n\nIB ACIO: अगस्त 2026 जीएसटी संग्रह — ₹1.85 लाख करोड़; जीएसटी के लिए संवैधानिक संशोधन — 101वां संशोधन अधिनियम, 2016।",
+      "question": "Goods and Services Tax (GST) was introduced in India via which Constitutional Amendment Act?",
+      "question_hi": "भारत में वस्तु एवं सेवा कर (GST) किस संविधान संशोधन अधिनियम के माध्यम से लागू किया गया था?",
+      "options": [
+        "99th Amendment Act",
+        "101st Amendment Act",
+        "103rd Amendment Act",
+        "105th Amendment Act"
+      ],
+      "options_hi": [
+        "99वां संशोधन अधिनियम",
+        "101वां संशोधन अधिनियम",
+        "103वां संशोधन अधिनियम",
+        "105वां संशोधन अधिनियम"
+      ],
+      "correctAnswer": 1,
+      "explanation": "101st Amendment Act, 2016",
+      "explanation_hi": "101वां संशोधन अधिनियम, 2016",
+      "moreInfo": "GST came into effect in India on 1 July 2017 under the tagline 'One Nation, One Tax'.",
+      "moreInfo_hi": "जीएसटी भारत में 1 जुलाई 2017 को 'एक राष्ट्र, एक कर' के तहत लागू हुआ था।",
+      "relatedDate": "2026-09-01"
+    },
+    {
+      "id": "2",
+      "category": "Science & Technology",
+      "category_hi": "विज्ञान एवं प्रौद्योगिकी",
+      "title": "ISRO Tests Next-Gen Electric Propulsion System for Satellites",
+      "title_hi": "इसरो ने उपग्रहों के लिए अगली पीढ़ी के इलेक्ट्रिक प्रोपल्शन सिस्टम का सफल परीक्षण किया",
+      "image": null,
+      "summary": "ISRO successfully qualified its station-keeping Electric Propulsion System (EPS) for future geostationary communication satellites, significantly reducing satellite launch mass.",
+      "summary_hi": "इसरो ने भावी भू-स्थिर संचार उपग्रहों के लिए अपने स्टेशन-कीपिंग इलेक्ट्रिक प्रोपल्शन सिस्टम (EPS) का सफलतापूर्वक परीक्षण पूरा किया, जिससे उपग्रहों का प्रक्षेपण द्रव्यमान काफी कम हो जाएगा।",
+      "content": "The Indian Space Research Organisation (ISRO) successfully validated its high-efficiency Hall effect thruster-based Electric Propulsion System (EPS) at the Liquid Propulsion Systems Centre (LPSC). The system utilizes Argon/Xenon gas propellant, drastically reducing the reliance on conventional chemical fuels. This advancement enables ISRO to double payload capacity on communication satellites like GSAT series without increasing total lift-off weight.\n\nFor IB ACIO: Electric propulsion uses electrical energy to accelerate propellant; LPSC headquarters — Valiamala, Thiruvananthapuram.",
+      "content_hi": "भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने द्रव प्रणोदन प्रणाली केंद्र (LPSC) में अपने उच्च दक्षता वाले हॉल इफेक्ट थ्रस्टर आधारित इलेक्ट्रिक प्रोपल्शन सिस्टम का सफल परीक्षण किया। यह प्रणाली आर्गन/जेनॉन गैस प्रणोदक का उपयोग करती है, जिससे पारंपरिक रासायनिक ईंधन पर निर्भरता कम होती है। यह तकनीक जीएसएटी श्रृंखला जैसे संचार उपग्रहों का वजन बढ़ाए बिना उनकी पेलोड क्षमता को दोगुना करने में सक्षम बनाती है।\n\nIB ACIO: इलेक्ट्रिक प्रोपल्शन प्रणोदक को त्वरित करने के लिए विद्युत ऊर्जा का उपयोग करता है; LPSC मुख्यालय — वलियामाला, तिरुवनंतपुरम।",
+      "question": "Which ISRO center is primarily responsible for the design and development of liquid and electric propulsion systems?",
+      "question_hi": "द्रव एवं इलेक्ट्रिक प्रणोदन प्रणालियों के डिजाइन और विकास के लिए मुख्य रूप से कौन-सा इसरो केंद्र जिम्मेदार है?",
+      "options": [
+        "U R Rao Satellite Centre (URSC)",
+        "Space Applications Centre (SAC)",
+        "Liquid Propulsion Systems Centre (LPSC)",
+        "Vikram Sarabhai Space Centre (VSSC)"
+      ],
+      "options_hi": [
+        "यू आर राव उपग्रह केंद्र (URSC)",
+        "अंतरिक्ष उपयोग केंद्र (SAC)",
+        "द्रव प्रणोदन प्रणाली केंद्र (LPSC)",
+        "विक्रम साराभाई अंतरिक्ष केंद्र (VSSC)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Liquid Propulsion Systems Centre (LPSC)",
+      "explanation_hi": "द्रव प्रणोदन प्रणाली केंद्र (LPSC)",
+      "moreInfo": "LPSC is located at Valiamala near Thiruvananthapuram, Kerala, and Bengaluru, Karnataka.",
+      "moreInfo_hi": "LPSC तिरुवनंतपुरम (केरल) के पास वलियामाला और बेंगलुरु (कर्नाटक) में स्थित है।",
+      "relatedDate": "2026-09-01"
+    },
+    {
+      "id": "3",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "Global Plastic Treaty Negotiations Resume in Geneva",
+      "title_hi": "जेनेवा में वैश्विक प्लास्टिक संधि वार्ता पुनः शुरू",
+      "image": null,
+      "summary": "Negotiators from 175 countries gathered in Geneva for Intergovernmental Negotiating Committee (INC-5) talks to finalize a legally binding global treaty against plastic pollution.",
+      "summary_hi": "प्लास्टिक प्रदूषण के खिलाफ कानूनी रूप से बाध्यकारी वैश्विक संधि को अंतिम रूप देने के लिए 175 देशों के वार्ताकार अंतर-सरकारी वार्ता समिति (INC-5) की बैठक के लिए जेनेवा में एकत्र हुए।",
+      "content": "The 5th session of the Intergovernmental Negotiating Committee (INC-5) convened in Geneva under the auspices of the United Nations Environment Programme (UNEP). The mandate, initiated by UN Environment Assembly Resolution 5/14 in 2022, aims to establish a legally binding instrument addressing the full life cycle of plastic, including production, design, and waste management. Key sticking points include global production caps on primary plastic polymers.\n\nFor IB ACIO: UNEP Headquarters — Nairobi, Kenya; World Environment Day — June 5.",
+      "content_hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP) के तत्वावधान में जेनेवा में अंतर-सरकारी वार्ता समिति के 5वें सत्र (INC-5) का आयोजन किया गया। 2022 में यूएन पर्यावरण सभा के प्रस्ताव 5/14 द्वारा शुरू किए गए इस जनादेश का उद्देश्य प्लास्टिक के उत्पादन, डिजाइन और अपशिष्ट प्रबंधन सहित इसके पूरे जीवन चक्र को संबोधित करने वाला कानूनी रूप से बाध्यकारी उपकरण स्थापित करना है।\n\nIB ACIO: UNEP मुख्यालय — नैरोबी, केन्या; विश्व पर्यावरण दिवस — 5 जून।",
+      "question": "Where is the headquarters of the United Nations Environment Programme (UNEP) located?",
+      "question_hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Geneva, Switzerland",
+        "Nairobi, Kenya",
+        "Vienna, Austria",
+        "Montreal, Canada"
+      ],
+      "options_hi": [
+        "जेनेवा, स्विट्जरलैंड",
+        "नैरोबी, केन्या",
+        "विएना, ऑस्ट्रिया",
+        "मॉन्ट्रियल, कनाडा"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nairobi, Kenya",
+      "explanation_hi": "नैरोबी, केन्या",
+      "moreInfo": "UNEP was established in June 1972 following the Stockholm Conference on the Human Environment.",
+      "moreInfo_hi": "UNEP की स्थापना जून 1972 में मानव पर्यावरण पर स्टॉकहोम सम्मेलन के बाद की गई थी।",
+      "relatedDate": "2026-09-01"
+    },
+    {
+      "id": "4",
+      "category": "Defense & Security",
+      "category_hi": "रक्षा एवं सुरक्षा",
+      "title": "Exercise 'Tarang Shakti 2026' Phase-II Concludes",
+      "title_hi": "अभ्यास 'तरंग शक्ति 2026' का दूसरा चरण संपन्न",
+      "image": null,
+      "summary": "The Indian Air Force successfully concluded Phase-II of multinational air exercise 'Tarang Shakti 2026' in Jodhpur with participation from 10 air forces.",
+      "summary_hi": "भारतीय वायु सेना ने जोधपुर में 10 वायु सेनाओं की भागीदारी के साथ बहुराष्ट्रीय हवाई अभ्यास 'तरंग शक्ति 2026' के दूसरे चरण का सफलतापूर्वक समापन किया।",
+      "content": "Phase-II of Exercise 'Tarang Shakti', India's largest multinational air exercise, culminated at Air Force Station Jodhpur on 1 September 2026. Participating forces included air assets from Australia, Singapore, Greece, UAE, USA, and India. The exercise focused on complex Beyond Visual Range (BVR) combat scenarios, air-to-air refueling integration, and interoperability among coalition forces using NATO and non-NATO equipment.\n\nFor IB ACIO: Exercise Tarang Shakti — IAF's largest multilateral air exercise; IAF Motto — 'Touch the Sky with Glory' (Nabhaḥ Sparśaṁ Dīptam).",
+      "content_hi": "भारत के सबसे बड़े बहुराष्ट्रीय हवाई अभ्यास 'तरंग शक्ति' का दूसरा चरण 1 सितंबर 2026 को वायु सेना स्टेशन जोधपुर में संपन्न हुआ। इसमें ऑस्ट्रेलिया, सिंगापुर, ग्रीस, यूएई, अमेरिका और भारत की वायु सेनाओं ने भाग लिया। इस अभ्यास में बियॉन्ड विजुअल रेंज (BVR) कॉम्बैट, एयर-टू-एयर रिफ्यूलिंग और मित्र देशों के साथ अंतर-संचालनीयता पर ध्यान केंद्रित किया गया।\n\nIB ACIO: तरंग शक्ति अभ्यास — भारतीय वायु सेना का सबसे बड़ा बहुपक्षीय हवाई अभ्यास; IAF का आदर्श वाक्य — 'नभः स्पृशं दीप्तम्'।",
+      "question": "What is the official motto of the Indian Air Force?",
+      "question_hi": "भारतीय वायु सेना का आधिकारिक आदर्श वाक्य क्या है?",
+      "options": [
+        "Sham No Varunah",
+        "Service Before Self",
+        "Nabhah Sparsam Deeptam",
+        "Valour and Faith"
+      ],
+      "options_hi": [
+        "शं नो वरुणः",
+        "सेवा परमो धर्मः",
+        "नभः स्पृशं दीप्तम्",
+        "वीरता और विश्वास"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nabhah Sparsam Deeptam ('Touch the Sky with Glory')",
+      "explanation_hi": "नभः स्पृशं दीप्तम् ('गर्व के साथ आकाश को छुओ')",
+      "moreInfo": "The motto is taken from the Eleventh Chapter of the Bhagavad Gita.",
+      "moreInfo_hi": "यह आदर्श वाक्य श्रीमद्भगवद्गीता के ग्यारहवें अध्याय से लिया गया है।",
+      "relatedDate": "2026-09-01"
+    }
+  ]
+}
