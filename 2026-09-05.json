@@ -1,1 +1,135 @@
-
+{
+  "date": "2026-09-05",
+  "editionTitle": "IB ACIO Daily Current Affairs — 5 September 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 5 सितंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Science & Technology",
+      "category_hi": "विज्ञान एवं प्रौद्योगिकी",
+      "title": "ISRO Successfully Launches EOS-05 Earth Observation Satellite",
+      "title_hi": "ISRO ने EOS-05 पृथ्वी अवलोकन उपग्रह का सफल प्रक्षेपण किया",
+      "image": null,
+      "summary": "ISRO successfully launched the 2,367-kg EOS-05 Earth Observation Satellite aboard the GSLV Mk II-F17 from Satish Dhawan Space Centre, Sriharikota.",
+      "summary_hi": "ISRO ने श्रीहरिकोटा स्थित सतीश धवन अंतरिक्ष केंद्र से GSLV Mk II-F17 द्वारा 2,367 किलोग्राम वजनी EOS-05 पृथ्वी अवलोकन उपग्रह का सफल प्रक्षेपण किया।",
+      "content": "The Indian Space Research Organisation successfully placed EOS-05, a 2,367-kg Earth Observation Satellite, into geosynchronous orbit using the GSLV Mk II-F17 launch vehicle. The launch took place from the Satish Dhawan Space Centre in Sriharikota.\n\nEOS-05 is significant because it is a dedicated imaging Earth observation satellite designed to provide frequent observation of the Indian landmass. Its geosynchronous placement allows repeated observation from a fixed orbital geometry, which can be useful for land monitoring, agriculture, disaster management and national security applications.\n\nThe mission also has significance for India’s Geosynchronous Satellite Launch Vehicle programme following earlier setbacks involving Earth observation missions.\n\nFor IB ACIO: EOS-05 — Earth Observation Satellite; Launch Vehicle — GSLV Mk II-F17; Launch site — Satish Dhawan Space Centre, Sriharikota; Organisation — ISRO; GSLV — Geosynchronous Satellite Launch Vehicle.",
+      "content_hi": "भारतीय अंतरिक्ष अनुसंधान संगठन ने GSLV Mk II-F17 प्रक्षेपण यान की सहायता से 2,367 किलोग्राम वजन वाले पृथ्वी अवलोकन उपग्रह EOS-05 को भू-समकालिक कक्षा में सफलतापूर्वक स्थापित किया। इसका प्रक्षेपण श्रीहरिकोटा स्थित सतीश धवन अंतरिक्ष केंद्र से किया गया।\n\nEOS-05 एक समर्पित इमेजिंग पृथ्वी अवलोकन उपग्रह है, जो भारतीय भूभाग की बार-बार निगरानी में मदद कर सकता है। भू-समकालिक कक्षा कृषि, भूमि निगरानी, आपदा प्रबंधन तथा राष्ट्रीय सुरक्षा जैसी गतिविधियों के लिए उपयोगी हो सकती है।\n\nयह मिशन भारत के GSLV कार्यक्रम के लिए भी महत्वपूर्ण है।\n\nIB ACIO: EOS-05 — पृथ्वी अवलोकन उपग्रह; प्रक्षेपण यान — GSLV Mk II-F17; प्रक्षेपण स्थल — सतीश धवन अंतरिक्ष केंद्र, श्रीहरिकोटा; संगठन — ISRO।",
+      "question": "Which launch vehicle was used to place EOS-05 into orbit?",
+      "question_hi": "EOS-05 को कक्षा में स्थापित करने के लिए किस प्रक्षेपण यान का उपयोग किया गया?",
+      "options": [
+        "PSLV-C60",
+        "GSLV Mk II-F17",
+        "SSLV-D3",
+        "LVM3-M5"
+      ],
+      "options_hi": [
+        "PSLV-C60",
+        "GSLV Mk II-F17",
+        "SSLV-D3",
+        "LVM3-M5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "EOS-05 was launched aboard the GSLV Mk II-F17.",
+      "explanation_hi": "EOS-05 का प्रक्षेपण GSLV Mk II-F17 से किया गया।",
+      "moreInfo": "The launch took place from the Satish Dhawan Space Centre at Sriharikota.",
+      "moreInfo_hi": "इसका प्रक्षेपण श्रीहरिकोटा के सतीश धवन अंतरिक्ष केंद्र से किया गया।",
+      "relatedDate": "2026-09-05"
+    },
+    {
+      "id": "2",
+      "category": "National",
+      "category_hi": "राष्ट्रीय",
+      "title": "President Droupadi Murmu Confers National Teachers’ Awards on 48 Teachers",
+      "title_hi": "राष्ट्रपति द्रौपदी मुर्मू ने 48 शिक्षकों को राष्ट्रीय शिक्षक पुरस्कार प्रदान किए",
+      "image": null,
+      "summary": "President Droupadi Murmu conferred the National Teachers’ Awards 2026 on 48 school teachers at Vigyan Bhawan, New Delhi, on Teachers’ Day.",
+      "summary_hi": "राष्ट्रपति द्रौपदी मुर्मू ने शिक्षक दिवस के अवसर पर नई दिल्ली के विज्ञान भवन में 48 स्कूली शिक्षकों को राष्ट्रीय शिक्षक पुरस्कार 2026 प्रदान किए।",
+      "content": "The National Teachers’ Awards 2026 were presented to 48 school teachers by President Droupadi Murmu at Vigyan Bhawan, New Delhi. The awards recognise teachers who have demonstrated excellence, innovation and commitment in school education.\n\nThe 48 awardees were selected through a three-stage process involving district, state and national-level selection. The awardees came from 27 States, 7 Union Territories and 6 organisations of the Central Government. Among the 48 awardees, 26 were male and 22 were female.\n\nNational Teachers’ Day is observed on September 5 in India to commemorate the birth anniversary of Dr. Sarvepalli Radhakrishnan, former President of India, scholar and teacher.\n\nFor IB ACIO: Teachers’ Day — September 5; Associated with — Dr. Sarvepalli Radhakrishnan; Venue — Vigyan Bhawan, New Delhi; 2026 National Teachers’ Awards — 48 teachers.",
+      "content_hi": "राष्ट्रीय शिक्षक पुरस्कार 2026 नई दिल्ली के विज्ञान भवन में राष्ट्रपति द्रौपदी मुर्मू द्वारा 48 स्कूली शिक्षकों को प्रदान किए गए। ये पुरस्कार स्कूली शिक्षा के क्षेत्र में उत्कृष्टता, नवाचार और समर्पण दिखाने वाले शिक्षकों को सम्मानित करते हैं।\n\n48 पुरस्कार विजेताओं का चयन जिला, राज्य और राष्ट्रीय स्तर की तीन-चरणीय प्रक्रिया से किया गया। इनमें 27 राज्यों, 7 केंद्र शासित प्रदेशों और केंद्र सरकार के 6 संगठनों के शिक्षक शामिल थे। 48 में से 26 पुरुष और 22 महिला शिक्षक थीं।\n\nभारत में शिक्षक दिवस हर वर्ष 5 सितंबर को डॉ. सर्वपल्ली राधाकृष्णन की जयंती के अवसर पर मनाया जाता है।\n\nIB ACIO: शिक्षक दिवस — 5 सितंबर; संबंधित व्यक्तित्व — डॉ. सर्वपल्ली राधाकृष्णन; 2026 राष्ट्रीय शिक्षक पुरस्कार — 48 शिक्षक।",
+      "question": "National Teachers’ Day in India is observed on which date?",
+      "question_hi": "भारत में राष्ट्रीय शिक्षक दिवस किस तिथि को मनाया जाता है?",
+      "options": [
+        "2 September",
+        "5 September",
+        "8 September",
+        "11 September"
+      ],
+      "options_hi": [
+        "2 सितंबर",
+        "5 सितंबर",
+        "8 सितंबर",
+        "11 सितंबर"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India observes Teachers’ Day on September 5, the birth anniversary of Dr. Sarvepalli Radhakrishnan.",
+      "explanation_hi": "भारत में शिक्षक दिवस 5 सितंबर को डॉ. सर्वपल्ली राधाकृष्णन की जयंती पर मनाया जाता है।",
+      "moreInfo": "Dr. Radhakrishnan was India’s second President and a renowned scholar and teacher.",
+      "moreInfo_hi": "डॉ. राधाकृष्णन भारत के दूसरे राष्ट्रपति और प्रसिद्ध विद्वान एवं शिक्षक थे।",
+      "relatedDate": "2026-09-05"
+    },
+    {
+      "id": "3",
+      "category": "Science & Technology",
+      "category_hi": "विज्ञान एवं प्रौद्योगिकी",
+      "title": "NIELIT and Intel India Launch Agentic AI Skilling Programmes",
+      "title_hi": "NIELIT और Intel India ने Agentic AI स्किलिंग कार्यक्रम लॉन्च किए",
+      "image": null,
+      "summary": "NIELIT and Intel India launched two Agentic AI skilling programmes to build an industry-ready AI talent ecosystem in India.",
+      "summary_hi": "NIELIT और Intel India ने भारत में उद्योग-उन्मुख AI प्रतिभा तैयार करने के लिए दो Agentic AI स्किलिंग कार्यक्रम शुरू किए।",
+      "content": "The National Institute of Electronics and Information Technology (NIELIT), under the Ministry of Electronics and Information Technology, in collaboration with Intel India, launched two Agentic AI skilling programmes.\n\nThe first programme, ‘Agentic AI for Everyone’, introduces learners to AI agents, workflow automation and multi-agent systems, with an emphasis on no-code platforms. The second programme, ‘Engineering Agentic AI Systems’, focuses on designing, building and deploying AI-powered agentic systems using no-code, low-code and code-based frameworks.\n\nAgentic AI refers to AI systems that can reason, plan, use tools and carry out sequences of actions towards a goal rather than merely producing a single response.\n\nFor IB ACIO: NIELIT — National Institute of Electronics and Information Technology; Ministry — MeitY; Partner — Intel India; Programmes — Agentic AI for Everyone and Engineering Agentic AI Systems.",
+      "content_hi": "इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय के अंतर्गत राष्ट्रीय इलेक्ट्रॉनिक्स एवं सूचना प्रौद्योगिकी संस्थान (NIELIT) ने Intel India के सहयोग से दो Agentic AI स्किलिंग कार्यक्रम लॉन्च किए।\n\nपहला कार्यक्रम ‘Agentic AI for Everyone’ है, जो शिक्षार्थियों को AI एजेंट, वर्कफ़्लो ऑटोमेशन और मल्टी-एजेंट सिस्टम से परिचित कराता है। दूसरा ‘Engineering Agentic AI Systems’ है, जो AI-आधारित एजेंटिक सिस्टम के डिजाइन, निर्माण और तैनाती पर केंद्रित है।\n\nAgentic AI उन AI प्रणालियों को कहा जाता है जो किसी लक्ष्य को प्राप्त करने के लिए तर्क, योजना, टूल्स का उपयोग और कई चरणों में कार्य कर सकती हैं।\n\nIB ACIO: NIELIT — राष्ट्रीय इलेक्ट्रॉनिक्स एवं सूचना प्रौद्योगिकी संस्थान; मंत्रालय — MeitY; साझेदार — Intel India।",
+      "question": "Which organisation collaborated with NIELIT to launch the Agentic AI skilling programmes?",
+      "question_hi": "Agentic AI स्किलिंग कार्यक्रम शुरू करने के लिए NIELIT ने किस संगठन के साथ सहयोग किया?",
+      "options": [
+        "Google India",
+        "Microsoft India",
+        "Intel India",
+        "ISRO"
+      ],
+      "options_hi": [
+        "Google India",
+        "Microsoft India",
+        "Intel India",
+        "ISRO"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The programmes were launched by NIELIT in collaboration with Intel India.",
+      "explanation_hi": "इन कार्यक्रमों को NIELIT ने Intel India के सहयोग से लॉन्च किया।",
+      "moreInfo": "The initiative includes no-code, low-code and code-based approaches to building AI agents.",
+      "moreInfo_hi": "इस पहल में AI एजेंट बनाने के लिए नो-कोड, लो-कोड और कोड-आधारित तरीकों को शामिल किया गया है।",
+      "relatedDate": "2026-09-05"
+    },
+    {
+      "id": "4",
+      "category": "International",
+      "category_hi": "अंतर्राष्ट्रीय",
+      "title": "India Strengthens Engagement with Seychelles",
+      "title_hi": "भारत ने सेशेल्स के साथ संबंध और मजबूत किए",
+      "image": null,
+      "summary": "The Vice President of India met a parliamentary delegation from Seychelles, highlighting India’s continuing engagement with the Indian Ocean island nation.",
+      "summary_hi": "भारत के उपराष्ट्रपति ने सेशेल्स के संसदीय प्रतिनिधिमंडल से मुलाकात की, जिससे हिंद महासागर स्थित इस द्वीपीय देश के साथ भारत के निरंतर संबंधों को बल मिला।",
+      "content": "The Vice President of India met a parliamentary delegation from the Republic of Seychelles at Parliament House in New Delhi. Seychelles is strategically important to India because of its location in the western Indian Ocean and its relevance to maritime security and regional cooperation.\n\nSeychelles is an archipelagic island country located northeast of Madagascar. It consists of around 115 islands and has Victoria as its capital. Its geography gives it importance in the wider Indian Ocean Region.\n\nIndia and Seychelles have traditionally maintained cooperation in areas such as maritime security, defence, development partnership, capacity building and people-to-people relations.\n\nFor IB ACIO: Seychelles — western Indian Ocean; Capital — Victoria; Islands — around 115; Highest point — Morne Seychellois; Strategic relevance — Indian Ocean Region.",
+      "content_hi": "भारत के उपराष्ट्रपति ने नई दिल्ली के संसद भवन में सेशेल्स गणराज्य के संसदीय प्रतिनिधिमंडल से मुलाकात की। हिंद महासागर में स्थित सेशेल्स अपनी भौगोलिक स्थिति के कारण भारत के लिए समुद्री सुरक्षा और क्षेत्रीय सहयोग की दृष्टि से महत्वपूर्ण है।\n\nसेशेल्स मेडागास्कर के उत्तर-पूर्व में स्थित एक द्वीपीय देश है। इसमें लगभग 115 द्वीप हैं और इसकी राजधानी विक्टोरिया है।\n\nभारत और सेशेल्स के बीच समुद्री सुरक्षा, रक्षा, विकास साझेदारी, क्षमता निर्माण और जन-से-जन संबंधों में सहयोग रहा है।\n\nIB ACIO: सेशेल्स — पश्चिमी हिंद महासागर; राजधानी — विक्टोरिया; लगभग 115 द्वीप; सर्वोच्च बिंदु — मोर्ने सेशेल्वा; रणनीतिक महत्व — हिंद महासागर क्षेत्र।",
+      "question": "What is the capital of Seychelles?",
+      "question_hi": "सेशेल्स की राजधानी क्या है?",
+      "options": [
+        "Port Louis",
+        "Victoria",
+        "Moroni",
+        "Maputo"
+      ],
+      "options_hi": [
+        "पोर्ट लुई",
+        "विक्टोरिया",
+        "मोरोनी",
+        "मापुटो"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Victoria is the capital of Seychelles.",
+      "explanation_hi": "विक्टोरिया सेशेल्स की राजधानी है।",
+      "moreInfo": "Seychelles is an archipelagic island country in the western Indian Ocean.",
+      "moreInfo_hi": "सेशेल्स पश्चिमी हिंद महासागर में स्थित एक द्वीपीय देश है।",
+      "relatedDate": "2026-09-05"
+    }
+  ]
+}
