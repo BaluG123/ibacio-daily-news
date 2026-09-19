@@ -1,1 +1,29 @@
-
+{
+  "date": "2026-09-14",
+  "editionTitle": "IB ACIO Daily Current Affairs — 14 September 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 14 सितंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Culture & National Days",
+      "category_hi": "संस्कृति एवं राष्ट्रीय दिवस",
+      "title": "Hindi Diwas Commemorated Across India on September 14",
+      "title_hi": "14 सितंबर को देश भर में मनाया गया 'हिंदी दिवस'",
+      "image": null,
+      "summary": "India celebrated Hindi Diwas on September 14 to mark the adoption of Hindi in Devanagari script as an official language of the Union in 1949.",
+      "summary_hi": "1949 में देवनागरी लिपि में हिंदी को संघ की राजभाषा के रूप में अपनाने के उपलक्ष्य में 14 सितंबर को हिंदी दिवस मनाया गया।",
+      "content": "Hindi Diwas is observed annually on 14 September across India. On this day in 1949, the Constituent Assembly of India adopted Hindi written in Devanagari script as one of the official languages of the Union under Article 343.\n\nBeohar Rajendra Simha, a key proponent of Hindi, was born on September 14, 1900, which coincided with the adoption of Hindi as an official language. World Hindi Day, by contrast, is observed globally on January 10.\n\nFor IB ACIO: Hindi Diwas Date — September 14; Constitutional Provision — Article 343; Script — Devanagari; Adoption Year — 1949; Distinction — World Hindi Day is observed on January 10.",
+      "content_hi": "भारत में प्रतिवर्ष 14 सितंबर को हिंदी दिवस मनाया जाता है। 1949 में इसी दिन संविधान सभा ने अनुच्छेद 343 के तहत देवनागरी लिपि में हिंदी को संघ की राजभाषा के रूप में स्वीकार किया था।\n\nव्यवहार राजेंद्र सिंह के 50वें जन्मदिन के अवसर पर इसे अपनाया गया था। इसके विपरीत, विश्व हिंदी दिवस हर साल 10 जनवरी को अंतरराष्ट्रीय स्तर पर मनाया जाता है।\n\nIB ACIO: हिंदी दिवस — 14 सितंबर; संवैधानिक अनुच्छेद — अनुच्छेद 343; लिपि — देवनागरी; स्वीकृति वर्ष — 1949; विश्व हिंदी दिवस — 10 जनवरी।",
+      "question": "Which article of the Indian Constitution declares Hindi in Devanagari script as the official language of the Union?",
+      "question_hi": "भारतीय संविधान का कौन सा अनुच्छेद देवनागरी लिपि में हिंदी को संघ की राजभाषा घोषित करता है?",
+      "options": ["Article 324", "Article 343", "Article 356", "Article 370"],
+      "options_hi": ["अनुच्छेद 324", "अनुच्छेद 343", "अनुच्छेद 356", "अनुच्छेद 370"],
+      "correctAnswer": 1,
+      "explanation": "Article 343(1) of the Indian Constitution specifies that the official language of the Union shall be Hindi in Devanagari script.",
+      "explanation_hi": "भारतीय संविधान का अनुच्छेद 343(1) प्रावधान करता है कि संघ की राजभाषा देवनागरी लिपि में हिंदी होगी।",
+      "moreInfo": "The Official Languages Act was passed in 1963 to govern the language usage for Union official purposes.",
+      "moreInfo_hi": "संघीय राजभाषा के उपयोग को विनियमित करने के लिए 1963 में राजभाषा अधिनियम पारित किया गया था।",
+      "relatedDate": "2026-09-14"
+    }
+  ]
+}
