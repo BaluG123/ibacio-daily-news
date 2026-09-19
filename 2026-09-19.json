@@ -1,1 +1,29 @@
-
+{
+  "date": "2026-09-19",
+  "editionTitle": "IB ACIO Daily Current Affairs — 19 September 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 19 सितंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "International Organisations",
+      "category_hi": "अंतर्राष्ट्रीय संगठन",
+      "title": "India Hosts 2026 Global Digital Public Infrastructure (DPI) Summit",
+      "title_hi": "भारत ने 2026 ग्लोबल डिजिटल पब्लिक इंफ्रास्ट्रक्चर (DPI) शिखर सम्मेलन की मेजबानी की",
+      "image": null,
+      "summary": "India hosted international delegates at the Global DPI Summit in New Delhi to showcase the adoption of India Stack technologies globally.",
+      "summary_hi": "भारत ने 'इंडिया स्टैक' प्रौद्योगिकियों के वैश्विक अपनाने को प्रदर्शित करने के लिए नई दिल्ली में ग्लोबल डीपीआई शिखर सम्मेलन की मेजबानी की।",
+      "content": "India hosted the 2026 Global Digital Public Infrastructure (DPI) Summit in New Delhi, bringing together international policymakers, technology leaders, and multilateral organizations.\n\nThe summit highlighted India's foundational DPI pillars—Identity (Aadhaar), Payments (UPI), and Data Exchange (Account Aggregator)—collectively referred to as 'India Stack'. Discussions centered on ethical AI integration, cross-border digital financial connectivity, and DPI frameworks for Global South development.\n\nFor IB ACIO: Host City — New Delhi; Focus — India Stack (Aadhaar, UPI, DigiLocker); Pillars — Identity, Payments, and Data Exchange; Target Region — Global South cooperation.",
+      "content_hi": "भारत ने नई दिल्ली में 2026 ग्लोबल डिजिटल पब्लिक इंफ्रास्ट्रक्चर (DPI) शिखर सम्मेलन की मेजबानी की, जिसमें अंतरराष्ट्रीय नीति निर्माताओं और तकनीकी दिग्गजों ने भाग लिया।\n\nशिखर सम्मेलन ने भारत के प्रमुख DPI स्तंभों—पहचान (आधार), भुगतान (UPI), और डेटा विनिमय—जिन्हें 'इंडिया स्टैक' कहा जाता है, के वैश्विक उपयोग को रेखांकित किया।\n\nIB ACIO: मेजबान शहर — नई दिल्ली; मुख्य विषय — इंडिया स्टैक (आधार, UPI, डिजीलॉकर); तीन स्तंभ — पहचान, भुगतान और डेटा ट्रांसफर।",
+      "question": "Which three foundational components primarily form the core of the 'India Stack' Digital Public Infrastructure?",
+      "question_hi": "'इंडिया स्टैक' डिजिटल पब्लिक इंफ्रास्ट्रक्चर का मूल रूप से निर्माण करने वाले तीन मुख्य घटक कौन से हैं?",
+      "options": ["Aadhaar, UPI, and Account Aggregator / Data Exchange", "PAN, GSTIN, and RuPay", "Aadhaar, FASTag, and SWIFT", "BHIM, EPFO, and UMANG"],
+      "options_hi": ["आधार, यूपीआई और अकाउंट एग्रीगेटर / डेटा एक्सचेंज", "पैन, जीएसटीआईएन और रूपे", "आधार, फास्टैग और स्विफ्ट", "भीम, ईपीएफओ और उमंग"],
+      "correctAnswer": 0,
+      "explanation": "India Stack is built on three core layers: Identity (Aadhaar), Payments (UPI/RuPay), and Data Empowerment/Exchange (Account Aggregator/DigiLocker).",
+      "explanation_hi": "इंडिया स्टैक तीन प्रमुख स्तरों पर बना है: पहचान (आधार), भुगतान (UPI), और डेटा सशक्तिकरण/विनिमय (अकाउंट एग्रीगेटर/डिजीलॉकर)।",
+      "moreInfo": "DPI implementation in India has driven financial inclusion to over 80% within a decade.",
+      "moreInfo_hi": "भारत में DPI कार्यान्वयन ने एक दशक के भीतर वित्तीय समावेशन को 80% से अधिक तक पहुंचा दिया है।",
+      "relatedDate": "2026-09-19"
+    }
+  ]
+}
