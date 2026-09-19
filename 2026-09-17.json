@@ -1,1 +1,29 @@
-
+{
+  "date": "2026-09-17",
+  "editionTitle": "IB ACIO Daily Current Affairs — 17 September 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 17 सितंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Schemes & Governance",
+      "category_hi": "योजनाएं एवं शासन",
+      "title": "PM Vishwakarma Scheme Completes Successful Expansion Phase",
+      "title_hi": "पीएम विश्वकर्मा योजना ने सफल विस्तार चरण पूरा किया",
+      "image": null,
+      "summary": "The PM Vishwakarma Scheme showed high registration rates among traditional artisans providing collateral-free credit, skill training, and modern tools.",
+      "summary_hi": "पीएम विश्वकर्मा योजना ने पारंपरिक कारीगरों को बिना गारंटी के ऋण, कौशल प्रशिक्षण और आधुनिक उपकरण प्रदान कर उच्च पंजीकरण हासिल किया।",
+      "content": "The PM Vishwakarma Scheme, launched on September 17, 2023, focuses on preserving traditional crafts and empowering rural and urban artisans (Vishwakarmas) across 18 traditional trades.\n\nUnder the Central Sector Scheme, beneficiaries receive PM Vishwakarma Certificates and ID cards, basic and advanced skill training, toolkit incentives of up to ₹15,000, collateral-free credit support up to ₹3 lakh at a concessional interest rate of 5%, and digital transaction incentives.\n\nFor IB ACIO: Launch Date — 17 September 2023; Type — Central Sector Scheme; Covered Trades — 18; Concessional Credit — Up to ₹3 Lakh (at 5% interest); Toolkit Incentive — ₹15,000.",
+      "content_hi": "17 सितंबर 2023 को शुरू की गई पीएम विश्वकर्मा योजना 18 पारंपरिक शिल्पों में लगे कारीगरों को सशक्त बनाने पर केंद्रित है।\n\nइस केंद्रीय क्षेत्र की योजना के तहत, लाभार्थियों को विश्वकर्मा प्रमाण पत्र, कौशल प्रशिक्षण, ₹15,000 का टूलकिट प्रोत्साहन, और 5% रियायती ब्याज दर पर ₹3 लाख तक का संपार्श्विक-मुक्त (बिना गारंटी) ऋण प्रदान किया जाता है।\n\nIB ACIO: शुभारंभ — 17 सितंबर 2023; प्रकार — केंद्रीय क्षेत्र की योजना; शामिल ट्रेड — 18; ऋण सहायता — ₹3 लाख तक (5% ब्याज दर); टूलकिट प्रोत्साहन — ₹15,000।",
+      "question": "How many traditional trades/crafts are covered under the PM Vishwakarma Scheme?",
+      "question_hi": "पीएम विश्वकर्मा योजना के तहत कितने पारंपरिक व्यापारों/शिल्पों को शामिल किया गया है?",
+      "options": ["12", "15", "18", "24"],
+      "options_hi": ["12", "15", "18", "24"],
+      "correctAnswer": 2,
+      "explanation": "The PM Vishwakarma Scheme specifically covers 18 traditional family-based trades including carpenters, blacksmiths, armorers, goldsmiths, and potters.",
+      "explanation_hi": "पीएम विश्वकर्मा योजना में बढ़ई, लोहार, सुनार, कुम्हार सहित 18 पारंपरिक पारिवारिक व्यवसायों को शामिल किया गया है।",
+      "moreInfo": "The scheme provides collateral-free enterprise development loans at an effective interest rate of 5%.",
+      "moreInfo_hi": "यह योजना 5% की प्रभावी ब्याज दर पर बिना किसी गारंटी के उद्यम विकास ऋण प्रदान करती है।",
+      "relatedDate": "2026-09-17"
+    }
+  ]
+}
