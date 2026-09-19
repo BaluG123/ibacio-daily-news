@@ -1,1 +1,29 @@
-
+{
+  "date": "2026-09-15",
+  "editionTitle": "IB ACIO Daily Current Affairs — 15 September 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 15 सितंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Science & Innovation",
+      "category_hi": "विज्ञान एवं नवाचार",
+      "title": "National Engineers' Day Observed to Honor Sir M. Visvesvaraya",
+      "title_hi": "सर एम. विश्वेश्वरैया के सम्मान में राष्ट्रीय अभियंता दिवस मनाया गया",
+      "image": null,
+      "summary": "Engineers' Day was celebrated across India on September 15 to commemorate the 165th birth anniversary of Bharat Ratna Sir Mokshagundam Visvesvaraya.",
+      "summary_hi": "भारत रत्न सर मोक्षगुंडम विश्वेश्वरैया की 165वीं जयंती के उपलक्ष्य में 15 सितंबर को पूरे भारत में अभियंता दिवस मनाया गया।",
+      "content": "India celebrates National Engineers' Day on September 15 every year to honor the legacy of Sir Mokshagundam Visvesvaraya, one of India's foremost civil engineers and visionaries.\n\nSir M. Visvesvaraya served as the Diwan of Mysore (1912–1918) and designed the Krishna Raja Sagara (KRS) Dam in Mysuru. He patented the automatic sluice floodgates installed at the Khadakwasla Reservoir in Pune. He was awarded the Bharat Ratna in 1955.\n\nFor IB ACIO: Date — September 15; Personality — Sir M. Visvesvaraya; Major Project — Krishna Raja Sagara Dam; Award — Bharat Ratna (1955); Innovation — Automatic Sluice Gates.",
+      "content_hi": "भारत में हर साल 15 सितंबर को महान सिविल इंजीनियर और दूरदर्शी सर मोक्षगुंडम विश्वेश्वरैया के सम्मान में राष्ट्रीय अभियंता दिवस मनाया जाता है।\n\nसर एम. विश्वेश्वरैया ने मैसूर के दीवान (1912-1918) के रूप में कार्य किया और मैसूर में कृष्ण राज सागर (KRS) बांध का डिजाइन तैयार किया। उन्होंने खड़कवासला जलाशय के लिए स्वचालित स्लूज फ्लडगेट्स का पेटेंट कराया। उन्हें 1955 में भारत रत्न से सम्मानित किया गया था।\n\nIB ACIO: तिथि — 15 सितंबर; व्यक्तित्व — सर एम. विश्वेश्वरैया; प्रमुख परियोजना — कृष्ण राज सागर बांध; भारत रत्न — 1955।",
+      "question": "Sir M. Visvesvaraya, in whose memory Engineers' Day is celebrated, designed which landmark dam in Karnataka?",
+      "question_hi": "सर एम. विश्वेश्वरैया, जिनकी स्मृति में अभियंता दिवस मनाया जाता है, ने कर्नाटक में किस प्रसिद्ध बांध का डिजाइन तैयार किया था?",
+      "options": ["Tungabhadra Dam", "Krishna Raja Sagara Dam", "Almatti Dam", "Supa Dam"],
+      "options_hi": ["तुंगभद्रा बांध", "कृष्ण राज सागर बांध", "अलमट्टी बांध", "सुपा बांध"],
+      "correctAnswer": 1,
+      "explanation": "Sir M. Visvesvaraya designed the famous Krishna Raja Sagara (KRS) Dam built across the Kaveri river in Mysuru, Karnataka.",
+      "explanation_hi": "सर एम. विश्वेश्वरैया ने कर्नाटक के मैसूर में कावेरी नदी पर बने प्रसिद्ध कृष्ण राज सागर (KRS) बांध का डिजाइन तैयार किया था।",
+      "moreInfo": "He was awarded the Bharat Ratna in 1955 for his exceptional contributions to nation-building.",
+      "moreInfo_hi": "उन्हें राष्ट्र निर्माण में उनके असाधारण योगदान के लिए 1955 में भारत रत्न से सम्मानित किया गया था।",
+      "relatedDate": "2026-09-15"
+    }
+  ]
+}
