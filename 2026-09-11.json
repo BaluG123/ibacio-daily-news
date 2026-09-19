@@ -1,1 +1,29 @@
-
+{
+  "date": "2026-09-11",
+  "editionTitle": "IB ACIO Daily Current Affairs — 11 September 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 11 सितंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Defense & Security",
+      "category_hi": "रक्षा एवं सुरक्षा",
+      "title": "Joint Military Exercise 'Varuna 2026' Concludes in Arabian Sea",
+      "title_hi": "अरब सागर में नौसैन्य अभ्यास 'वरुण 2026' संपन्न",
+      "image": null,
+      "summary": "The Indian Navy and the French Navy successfully concluded the bilateral naval exercise 'Varuna 2026' featuring tactical air defense and anti-submarine operations.",
+      "summary_hi": "भारतीय नौसेना और फ्रांसीसी नौसेना ने अरब सागर में द्विपक्षीय नौसेना अभ्यास 'वरुण 2026' को सफलतापूर्वक संपन्न किया।",
+      "content": "The bilateral naval exercise 'Varuna 2026' between the Indian Navy and the French Navy concluded in the Arabian Sea. The exercise showcased high-level interoperability, cross-deck helicopter operations, advanced anti-submarine warfare (ASW) drills, and live-firing tactical maneuvers.\n\nInitiated in 1993, the naval exercise was officially named 'Varuna' in 2001. It has evolved into a vital platform for maritime domain awareness and strategic partnership between India and France in the Indian Ocean Region (IOR).\n\nFor IB ACIO: Exercise Name — Varuna; Participating Nations — India and France; Domain — Naval/Maritime; Name Coined — 2001; Location — Arabian Sea.",
+      "content_hi": "भारतीय नौसेना और फ्रांसीसी नौसेना के बीच द्विपक्षीय नौसेना अभ्यास 'वरुण 2026' अरब सागर में संपन्न हुआ। इसमें पनडुब्बी रोधी युद्ध (ASW) और उन्नत वायु रक्षा अभ्यासों का प्रदर्शन किया गया।\n\n1993 में शुरू हुए इस अभ्यास को 2001 में आधिकारिक तौर पर 'वरुण' नाम दिया गया था। यह हिंद महासागर क्षेत्र (IOR) में रणनीतिक साझेदारी का एक प्रमुख स्तंभ है।\n\nIB ACIO: अभ्यास — वरुण; प्रतिभागी — भारत और फ्रांस; क्षेत्र — नौसेना; 'वरुण' नामकरण — 2001; स्थान — अरब सागर।",
+      "question": "'Varuna' is a bilateral naval exercise conducted between India and which country?",
+      "question_hi": "'वरुण' भारत और किस देश के बीच आयोजित होने वाला एक द्विपक्षीय नौसेना अभ्यास है?",
+      "options": ["United Kingdom", "France", "Russia", "Japan"],
+      "options_hi": ["यूनाइटेड किंगडम", "फ्रांस", "रूस", "जापान"],
+      "correctAnswer": 1,
+      "explanation": "'Varuna' is the official annual bilateral naval exercise conducted between the Indian Navy and the French Navy.",
+      "explanation_hi": "'वरुण' भारतीय नौसेना और फ्रांसीसी नौसेना के बीच आयोजित वार्षिक द्विपक्षीय सैन्य अभ्यास है।",
+      "moreInfo": "India and France also conduct the Army exercise 'Shakti' and Air Force exercise 'Garuda'.",
+      "moreInfo_hi": "भारत और फ्रांस थल सेना अभ्यास 'शक्ति' और वायु सेना अभ्यास 'गरुड़' भी आयोजित करते हैं।",
+      "relatedDate": "2026-09-11"
+    }
+  ]
+}
