@@ -1,1 +1,29 @@
-
+{
+  "date": "2026-09-10",
+  "editionTitle": "IB ACIO Daily Current Affairs — 10 September 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 10 सितंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Economy & Finance",
+      "category_hi": "अर्थव्यवस्था एवं वित्त",
+      "title": "RBI Releases Updated Operational Framework for Sovereign Green Bonds",
+      "title_hi": "आरबीआई ने सोवेरिन ग्रीन बॉन्ड के लिए अपडेटेड ऑपरेशनल फ्रेमवर्क जारी किया",
+      "image": null,
+      "summary": "The Reserve Bank of India updated guidelines for institutional investments in Sovereign Green Bonds (SGBs) to mobilize capital for green infrastructure.",
+      "summary_hi": "भारतीय रिजर्व बैंक ने हरित बुनियादी ढांचे के लिए पूंजी जुटाने हेतु सोवेरिन ग्रीन बॉन्ड (SGBs) में संस्थागत निवेश के नियमों को अपडेट किया।",
+      "content": "The Reserve Bank of India (RBI) issued refined operational guidelines for the issuance and secondary market trading of Sovereign Green Bonds (SGBs). These bonds are designed to raise capital for public sector projects that reduce the carbon intensity of the economy.\n\nSGBs were first introduced in Union Budget 2022-23. The proceeds are categorized under the Framework for Sovereign Green Bonds, adhering to the International Capital Market Association (ICMA) principles. Non-residents registered under the Fully Accessible Route (FAR) can also invest in these securities.\n\nFor IB ACIO: Regulator — RBI; Introduced — Union Budget 2022-23; Purpose — Financing green infrastructure; International Alignment — ICMA principles; Foreign Investment Route — FAR.",
+      "content_hi": "भारतीय रिजर्व बैंक (RBI) ने सोवेरिन ग्रीन बॉन्ड (SGBs) के द्वितीयक बाजार व्यापार के लिए दिशानिर्देश जारी किए। इन बॉन्ड का उद्देश्य कार्बन तीव्रता को कम करने वाली हरित परियोजनाओं के लिए धन जुटाना है।\n\nSGBs को पहली बार केंद्रीय बजट 2022-23 में पेश किया गया था। यह फ्रेमवर्क इंटरनेशनल कैपिटल मार्केट एसोसिएशन (ICMA) के सिद्धांतों का पालन करता है।\n\nIB ACIO: नियामक — RBI; प्रथम घोषणा — बजट 2022-23; उद्देश्य — हरित अवसंरचना वित्तपोषण; विदेशी निवेश — FAR मार्ग।",
+      "question": "In which Union Budget were Sovereign Green Bonds (SGBs) first announced in India?",
+      "question_hi": "भारत में सोवेरिन ग्रीन बॉन्ड (SGBs) की घोषणा पहली बार किस केंद्रीय बजट में की गई थी?",
+      "options": ["2020-21", "2021-22", "2022-23", "2023-24"],
+      "options_hi": ["2020-21", "2021-22", "2022-23", "2023-24"],
+      "correctAnswer": 2,
+      "explanation": "Sovereign Green Bonds were officially announced by the Union Minister of Finance in the Union Budget 2022-23 as part of overall government borrowings.",
+      "explanation_hi": "सोवेरिन ग्रीन बॉन्ड की घोषणा आधिकारिक तौर पर केंद्रीय बजट 2022-23 में की गई थी।",
+      "moreInfo": "The framework classifies eligible projects into clean transportation, renewable energy, and climate adaptation.",
+      "moreInfo_hi": "यह फ्रेमवर्क पात्र परियोजनाओं को स्वच्छ परिवहन, नवीकरणीय ऊर्जा और जलवायु अनुकूलन में वर्गीकृत करता है।",
+      "relatedDate": "2026-09-10"
+    }
+  ]
+}
