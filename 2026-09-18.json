@@ -1,1 +1,29 @@
-
+{
+  "date": "2026-09-18",
+  "editionTitle": "IB ACIO Daily Current Affairs — 18 September 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 18 सितंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Defense & Technology",
+      "category_hi": "रक्षा एवं प्रौद्योगिकी",
+      "title": "DRDO Conducts Successful Flight Test of Very Short Range Air Defence System (VSHORADS)",
+      "title_hi": "डीआरडीओ ने वेरी शॉर्ट रेंज एयर डिफेंस सिस्टम (VSHORADS) का सफल परीक्षण किया",
+      "image": null,
+      "summary": "DRDO carried out flight tests of the indigenous VSHORADS missile system from a mobile tripod launcher off the Odisha coast.",
+      "summary_hi": "डीआरडीओ ने ओडिशा तट से एक मोबाइल ट्राइपॉड लॉन्चर से स्वदेशी VSHORADS मिसाइल प्रणाली का सफल उड़ान परीक्षण किया।",
+      "content": "Defence Research and Development Organisation (DRDO) successfully test-fired the indigenous Very Short Range Air Defence System (VSHORADS) missile off the coast of Odisha.\n\nVSHORADS is a Man Portable Air Defence System (MANPADS) designed and developed natively by Research Centre Imarat (RCI), Hyderabad, in collaboration with other DRDO laboratories. It is powered by a dual-thrust solid motor and neutralizes low-altitude aerial threats at short ranges.\n\nFor IB ACIO: Developer — DRDO (Lead Lab: RCI Hyderabad); Type — Man Portable Air Defence System (MANPADS); Propulsion — Dual-thrust solid motor; Primary Target — Low-altitude aerial threats.",
+      "content_hi": "रक्षा अनुसंधान एवं विकास संगठन (DRDO) ने ओडिशा तट से स्वदेशी वेरी शॉर्ट रेंज एयर डिफेंस सिस्टम (VSHORADS) मिसाइल का सफल परीक्षण किया।\n\nVSHORADS एक मैन पोर्टेबल एयर डिफेंस सिस्टम (MANPADS) है जिसे रिसर्च सेंटर इमारात (RCI), हैदराबाद द्वारा विकसित किया गया है। यह डुअल-थ्रस्ट सॉलिड मोटर द्वारा संचालित है और कम ऊंचाई वाले हवाई खतरों को बेअसर करता है।\n\nIB ACIO: विकासकर्ता — DRDO (RCI हैदराबाद); प्रकार — मैन पोर्टेबल एयर डिफेंस सिस्टम (MANPADS); प्रणोदन — डुअल-थ्रस्ट सॉलिड मोटर; लक्ष्य — कम ऊंचाई वाले हवाई खतरे।",
+      "question": "What type of defence system is the VSHORADS recently flight-tested by DRDO?",
+      "question_hi": "हाल ही में DRDO द्वारा परीक्षण की गई VSHORADS किस प्रकार की रक्षा प्रणाली है?",
+      "options": ["Submarine Launched Ballistic Missile", "Man Portable Air Defence System (MANPADS)", "Anti-Tank Guided Missile (ATGM)", "Beyond Visual Range Air-to-Air Missile"],
+      "options_hi": ["सबमरीन लॉन्च्ड बैलिस्टिक मिसाइल", "मैन पोर्टेबल एयर डिफेंस सिस्टम (MANPADS)", "एंटी-टैंक गाइडेड मिसाइल (ATGM)", "बियॉन्ड विजुअल रेंज एयर-टू-एयर मिसाइल"],
+      "correctAnswer": 1,
+      "explanation": "VSHORADS is a indigenous Man Portable Air Defence System (MANPADS) designed to eliminate low-altitude aerial threats.",
+      "explanation_hi": "VSHORADS कम ऊंचाई वाले हवाई खतरों को नष्ट करने के लिए डिजाइन की गई एक स्वदेशी मैन पोर्टेबल एयर डिफेंस सिस्टम (MANPADS) है।",
+      "moreInfo": "The system incorporates reaction control systems and integrated avionics for precise targeting.",
+      "moreInfo_hi": "सटीक लक्ष्य साधने के लिए इस प्रणाली में रिएक्शन कंट्रोल सिस्टम और एकीकृत एवियोनिक्स शामिल हैं।",
+      "relatedDate": "2026-09-18"
+    }
+  ]
+}
