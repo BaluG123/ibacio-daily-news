@@ -1,1 +1,29 @@
-
+{
+  "date": "2026-09-16",
+  "editionTitle": "IB ACIO Daily Current Affairs — 16 September 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 16 सितंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Environment & Ecology",
+      "category_hi": "पर्यावरण एवं पारिस्थितिकी",
+      "title": "International Day for the Preservation of the Ozone Layer Observed",
+      "title_hi": "अंतर्राष्ट्रीय ओजोन परत संरक्षण दिवस आयोजित",
+      "image": null,
+      "summary": "World Ozone Day was celebrated globally on September 16 to highlight progress under the Montreal Protocol in healing the Earth's stratospheric ozone shield.",
+      "summary_hi": "समतापमंडलीय ओजोन परत की रक्षा के लिए मांट्रियल प्रोटोकॉल की सफलताओं को रेखांकित करते हुए 16 सितंबर को विश्व ओजोन दिवस मनाया गया।",
+      "content": "International Day for the Preservation of the Ozone Layer (World Ozone Day) is observed on September 16. It commemorates the signing of the Montreal Protocol on Substances that Deplete the Ozone Layer in 1987.\n\nThe Ozone Layer resides in the Stratosphere (15–30 km above Earth) and absorbs harmful ultraviolet (UV-B) radiation. The Montreal Protocol is universally ratified and was amended via the Kigali Amendment (2016) to phase down Hydrofluorocarbons (HFCs).\n\nFor IB ACIO: Date — September 16; Treaty — Montreal Protocol (1987); Atmospheric Layer — Stratosphere; Subsequent Amendment — Kigali Amendment (2016); Primary Focus — Phasing out ODS and HFCs.",
+      "content_hi": "अंतर्राष्ट्रीय ओजोन परत संरक्षण दिवस (विश्व ओजोन दिवस) 16 सितंबर को मनाया जाता है। यह 1987 में ओजोन परत को नुकसान पहुंचाने वाले पदार्थों पर मांट्रियल प्रोटोकॉल के हस्ताक्षर की याद में मनाया जाता है।\n\nओजोन परत समताप मंडल (Stratosphere) में स्थित है और हानिकारक पराबैंगनी (UV-B) विकिरण को अवशोषित करती है। मांट्रियल प्रोटोकॉल को हाइड्रोफ्लोरोकार्बन (HFCs) को कम करने के लिए किगाली संशोधन (2016) के माध्यम से संशोधित किया गया था।\n\nIB ACIO: तिथि — 16 सितंबर; संधि — मांट्रियल प्रोटोकॉल (1987); वायुमंडलीय परत — समताप मंडल; संशोधन — किगाली संशोधन (2016)।",
+      "question": "The Montreal Protocol, celebrated on World Ozone Day, aims to phase out substances that damage which layer of the atmosphere?",
+      "question_hi": "विश्व ओजोन दिवस पर मनाया जाने वाला मांट्रियल प्रोटोकॉल वायुमंडल की किस परत को नुकसान पहुंचाने वाले पदार्थों को समाप्त करने का लक्ष्य रखता है?",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "options_hi": ["क्षोभमंडल (Troposphere)", "समताप मंडल (Stratosphere)", "मध्यमंडल (Mesosphere)", "तापमंडल (Thermosphere)"],
+      "correctAnswer": 1,
+      "explanation": "The protective ozone layer is situated in the Stratosphere, approximately 15 to 30 kilometers above the Earth's surface.",
+      "explanation_hi": "संरचनात्मक ओजोन परत पृथ्वी की सतह से लगभग 15 से 30 किलोमीटर ऊपर समताप मंडल (Stratosphere) में स्थित है।",
+      "moreInfo": "The Kigali Amendment to the Montreal Protocol mandates the global phase-down of Hydrofluorocarbons (HFCs).",
+      "moreInfo_hi": "मांट्रियल प्रोटोकॉल का किगाली संशोधन हाइड्रोफ्लोरोकार्बन (HFCs) के वैश्विक चरणबद्ध निष्कासन का आदेश देता है।",
+      "relatedDate": "2026-09-16"
+    }
+  ]
+}
