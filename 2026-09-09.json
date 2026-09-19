@@ -1,1 +1,29 @@
-
+{
+  "date": "2026-09-09",
+  "editionTitle": "IB ACIO Daily Current Affairs — 9 September 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 9 सितंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "International Relations",
+      "category_hi": "अंतर्राष्ट्रीय संबंध",
+      "title": "21st East Asia Summit (EAS) Foreign Ministers' Meeting Held",
+      "title_hi": "21वीं ईस्ट एशिया समिट (EAS) विदेश मंत्रियों की बैठक आयोजित",
+      "image": null,
+      "summary": "The 21st East Asia Summit Foreign Ministers' Meeting focused on maritime security, regional peace, and trade stability across the Indo-Pacific.",
+      "summary_hi": "21वीं ईस्ट एशिया समिट विदेश मंत्रियों की बैठक में हिंद-प्रशांत क्षेत्र में समुद्री सुरक्षा, क्षेत्रीय शांति और व्यापार स्थिरता पर ध्यान केंद्रित किया गया।",
+      "content": "The 21st East Asia Summit (EAS) Foreign Ministers' Meeting took place to discuss critical geopolitical challenges, maritime domain awareness, and regional connectivity in the Indo-Pacific.\n\nEstablished in 2005, the East Asia Summit is a premier premier leaders-led forum for dialogue on strategic, political, and economic issues. It comprises 18 member states: the 10 ASEAN countries along with 8 dialogue partners (India, China, Japan, South Korea, Australia, New Zealand, Russia, and the United States).\n\nFor IB ACIO: Total Members — 18; ASEAN members — 10; Non-ASEAN Dialogue Partners — 8 (including India); Established — 2005; Core Focus — Indo-Pacific strategic stability.",
+      "content_hi": "21वीं ईस्ट एशिया समिट (EAS) विदेश मंत्रियों की बैठक में हिंद-प्रशांत क्षेत्र में भू-राजनीतिक चुनौतियों, समुद्री डोमेन जागरूकता और क्षेत्रीय कनेक्टिविटी पर चर्चा हुई।\n\n2005 में स्थापित EAS रणनीतिक और आर्थिक मुद्दों पर संवाद के लिए एक प्रमुख मंच है। इसमें 18 सदस्य देश शामिल हैं: 10 आसियान देश और 8 संवाद साझेदार (भारत, चीन, जापान, दक्षिण कोरिया, ऑस्ट्रेलिया, न्यूजीलैंड, रूस और अमेरिका)।\n\nIB ACIO: कुल सदस्य — 18; आसियान देश — 10; गैर-आसियान साझेदार — 8 (भारत सहित); स्थापना — 2005।",
+      "question": "How many member countries comprise the East Asia Summit (EAS) forum?",
+      "question_hi": "ईस्ट एशिया समिट (EAS) मंच में कितने सदस्य देश शामिल हैं?",
+      "options": ["10", "15", "18", "21"],
+      "options_hi": ["10", "15", "18", "21"],
+      "correctAnswer": 2,
+      "explanation": "The East Asia Summit consists of 18 members, including the 10 ASEAN countries plus 8 dialogue partners (India, USA, Russia, China, Japan, South Korea, Australia, and New Zealand).",
+      "explanation_hi": "ईस्ट एशिया समिट में 18 सदस्य शामिल हैं, जिनमें 10 आसियान देश और 8 संवाद साझेदार शामिल हैं।",
+      "moreInfo": "The first East Asia Summit was held in Kuala Lumpur, Malaysia, in 2005.",
+      "moreInfo_hi": "पहला ईस्ट एशिया समिट 2005 में कुआलालंपुर, मलेशिया में आयोजित किया गया था।",
+      "relatedDate": "2026-09-09"
+    }
+  ]
+}
