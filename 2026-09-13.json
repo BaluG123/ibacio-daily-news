@@ -1,1 +1,29 @@
-
+{
+  "date": "2026-09-13",
+  "editionTitle": "IB ACIO Daily Current Affairs — 13 September 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 13 सितंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Environment & Ecology",
+      "category_hi": "पर्यावरण एवं पारिस्थितिकी",
+      "title": "Bhitarkanika National Park Reports Increase in Saltwater Crocodiles",
+      "title_hi": "भीतरकणिका राष्ट्रीय उद्यान में खारे पानी के मगरमच्छों की संख्या में वृद्धि दर्ज",
+      "image": null,
+      "summary": "The annual crocodile census in Bhitarkanika National Park, Odisha, recorded a healthy growth in the population of Estuarine Crocodiles.",
+      "summary_hi": "ओडिशा के भीतरकणिका राष्ट्रीय उद्यान में वार्षिक मगरमच्छ जनगणना में खारे पानी के मगरमच्छों की आबादी में वृद्धि दर्ज की गई।",
+      "content": "Bhitarkanika National Park in Odisha reported a positive trend in the population of Estuarine (Saltwater) Crocodiles (Crocodylus porosus). Bhitarkanika hosts the largest concentration of saltwater crocodiles in mainland India.\n\nLocated in the Kendrapara district of Odisha, Bhitarkanika is a designated Ramsar site (2002) and is fed by the rivers Brahmani, Baitarani, Dhamra, and Pathsala. It features the second-largest mangrove ecosystem in India after the Sundarbans.\n\nFor IB ACIO: Location — Kendrapara, Odisha; Major Fauna — Saltwater Crocodile; Mangrove Status — 2nd largest in India; Ramsar Site — Designated in 2002; Key Rivers — Brahmani and Baitarani.",
+      "content_hi": "ओडिशा के भीतरकणिका राष्ट्रीय उद्यान में खारे पानी के मगरमच्छों (Crocodylus porosus) की संख्या में वृद्धि देखी गई। भीतरकणिका में भारत के मुख्य भूमि में खारे पानी के मगरमच्छों की सबसे बड़ी आबादी है।\n\nओडिशा के केंद्रपाड़ा जिले में स्थित यह पार्क एक रामसर स्थल (2002) है और ब्राह्मणी, वैतरणी, धामरा नदियों द्वारा सिंचित है। सुंदरबन के बाद यह भारत का दूसरा सबसे बड़ा मैंग्रोव पारिस्थितिकी तंत्र है।\n\nIB ACIO: स्थान — केंद्रपाड़ा, ओडिशा; प्रमुख जीव — खारे पानी के मगरमच्छ; मैंग्रोव — भारत में दूसरा सबसे बड़ा; रामसर स्थल — 2002।",
+      "question": "Bhitarkanika National Park, known for hosting India's largest saltwater crocodile population, is in which state?",
+      "question_hi": "भारत की सबसे बड़ी खारे पानी की मगरमच्छ आबादी के लिए प्रसिद्ध भीतरकणिका राष्ट्रीय उद्यान किस राज्य में स्थित है?",
+      "options": ["West Bengal", "Odisha", "Andhra Pradesh", "Gujarat"],
+      "options_hi": ["पश्चिम बंगाल", "ओडिशा", "आंध्र प्रदेश", "गुजरात"],
+      "correctAnswer": 1,
+      "explanation": "Bhitarkanika National Park is located in the Kendrapara district of Odisha.",
+      "explanation_hi": "भीतरकणिका राष्ट्रीय उद्यान ओडिशा के केंद्रपाड़ा जिले में स्थित है।",
+      "moreInfo": "Bhitarkanika contains India's second-largest mangrove forest system.",
+      "moreInfo_hi": "भीतरकणिका में भारत का दूसरा सबसे बड़ा मैंग्रोव वन क्षेत्र है।",
+      "relatedDate": "2026-09-13"
+    }
+  ]
+}
