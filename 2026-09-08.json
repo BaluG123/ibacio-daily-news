@@ -1,1 +1,39 @@
-
+{
+  "date": "2026-09-08",
+  "editionTitle": "IB ACIO Daily Current Affairs — 8 September 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 8 सितंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Science & Technology",
+      "category_hi": "विज्ञान एवं प्रौद्योगिकी",
+      "title": "ISRO Successfully Conducts Hot Test of CE-20 Cryogenic Engine",
+      "title_hi": "इसरो ने CE-20 क्रायोजेनिक इंजन का सफल हॉट परीक्षण किया",
+      "image": null,
+      "summary": "ISRO tested the upgraded CE-20 Cryogenic Engine at the ISRO Propulsion Complex in Mahendragiri to validate higher thrust capabilities for future LVM3 missions.",
+      "summary_hi": "इसरो ने भविष्य के LVM3 मिशनों के लिए उच्च प्रणोदन क्षमता को सत्यापित करने हेतु महेंद्रगिरि में CE-20 क्रायोजेनिक इंजन का सफल परीक्षण किया।",
+      "content": "The Indian Space Research Organisation (ISRO) successfully conducted a long-duration hot test of the indigenous CE-20 cryogenic engine at the ISRO Propulsion Complex (IPRC) in Mahendragiri, Tamil Nadu.\n\nThe test aimed to qualify the engine for higher thrust levels (up to 22 tonnes), enhancing the payload capacity of India's heaviest rocket, the Launch Vehicle Mark-3 (LVM3). The CE-20 engine burns Liquid Hydrogen (LH2) and Liquid Oxygen (LOX) as propellants and powers the upper stage (C25) of the LVM3 rocket.\n\nFor IB ACIO: Engine — CE-20; Propellants — Liquid Hydrogen and Liquid Oxygen; Facility — IPRC Mahendragiri, Tamil Nadu; Target Vehicle — LVM3 C25 Upper Stage.",
+      "content_hi": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) ने तमिलनाडु के महेंद्रगिरि स्थित इसरो प्रोपल्शन कॉम्प्लेक्स (IPRC) में स्वदेशी CE-20 क्रायोजेनिक इंजन का सफल परीक्षण किया।\n\nइसका उद्देश्य भारत के सबसे भारी रॉकेट LVM3 की पेलोड क्षमता बढ़ाने हेतु 22 टन तक के उच्च थ्रस्ट स्तर को योग्य बनाना है। CE-20 इंजन तरल हाइड्रोजन (LH2) और तरल ऑक्सीजन (LOX) को ईंधन के रूप में उपयोग करता है।\n\nIB ACIO: इंजन — CE-20; ईंधन — तरल हाइड्रोजन और तरल ऑक्सीजन; स्थान — महेंद्रगिरि, तमिलनाडु; लक्ष्य रॉकेट — LVM3।",
+      "question": "Which propellants are used in the upper stage CE-20 Cryogenic Engine of ISRO's LVM3 rocket?",
+      "question_hi": "इसरो के LVM3 रॉकेट के ऊपरी चरण CE-20 क्रायोजेनिक इंजन में किन ईंधनों का उपयोग किया जाता है?",
+      "options": [
+        "Hydrazine and Nitric Acid",
+        "Liquid Hydrogen and Liquid Oxygen",
+        "Solid Ammonium Perchlorate and Aluminum",
+        "Kerosene and Liquid Oxygen"
+      ],
+      "options_hi": [
+        "हाइड्राजीन और नाइट्रिक एसिड",
+        "तरल हाइड्रोजन और तरल ऑक्सीजन",
+        "ठोस अमोनियम परक्लोरेट और एल्युमिनियम",
+        "केरोसिन और तरल ऑक्सीजन"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cryogenic engines, such as the CE-20, use Liquid Hydrogen (LH2) as fuel and Liquid Oxygen (LOX) as an oxidizer stored at extremely low temperatures.",
+      "explanation_hi": "क्रायोजेनिक इंजन जैसे CE-20 में अत्यंत कम तापमान पर संग्रहीत तरल हाइड्रोजन को ईंधन और तरल ऑक्सीजन को ऑक्सीकारक के रूप में उपयोग किया जाता है।",
+      "moreInfo": "The ISRO Propulsion Complex (IPRC) is located at Mahendragiri in Tamil Nadu.",
+      "moreInfo_hi": "इसरो प्रोपल्शन कॉम्प्लेक्स (IPRC) तमिलनाडु के महेंद्रगिरि में स्थित है।",
+      "relatedDate": "2026-09-08"
+    }
+  ]
+}
