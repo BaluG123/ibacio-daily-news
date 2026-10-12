@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-06",
+  "editionTitle": "IB ACIO Daily Current Affairs — 6 October 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 6 अक्टूबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Sports",
+      "category_hi": "खेल",
+      "title": "Asian Games 2026 Conclude in Japan: China Tops Table, India Finishes 4th with 85 Medals",
+      "title_hi": "जापान में एशियाई खेल 2026 संपन्न: चीन शीर्ष पर, भारत 85 पदकों के साथ चौथे स्थान पर",
+      "image": null,
+      "summary": "The 20th Asian Games at Aichi–Nagoya, Japan, ended on 4 October 2026; India won 85 medals (21 gold, 27 silver, 37 bronze) to finish 4th.",
+      "summary_hi": "जापान के आइची–नागोया में 20वें एशियाई खेल 4 अक्टूबर 2026 को संपन्न हुए; भारत ने 85 पदक (21 स्वर्ण, 27 रजत, 37 कांस्य) जीतकर चौथा स्थान प्राप्त किया।",
+      "content": "The 20th Asian Games (Aichi–Nagoya 2026), held in Japan from 19 September to 4 October 2026, concluded at Nagoya City Mizuho Park Athletic Stadium. The Games, organised by the Olympic Council of Asia (OCA), featured 469 medal events in 43 sports.\n\nChina topped the medal table with 341 medals (169 gold), followed by hosts Japan (269; 83 gold) and South Korea (150; 39 gold). India finished 4th with 85 medals — 21 gold, 27 silver and 37 bronze. New sports included freestyle BMX, mixed martial arts, padel, surfing, teqball and virtual taekwondo. China's 13-year-old swimmer Yu Zidi (three golds) was named female MVP, and Thailand's sprinter Puripol Boonson (100m gold in a Games record 9.90 seconds) was male MVP.\n\nFor IB ACIO: Event — 20th Asian Games; Host — Aichi–Nagoya, Japan; Dates — 19 Sep to 4 Oct 2026; India — 4th, 85 medals (21G, 27S, 37B); Top — China (341); Organiser — OCA.",
+      "content_hi": "जापान में 19 सितंबर से 4 अक्टूबर 2026 तक आयोजित 20वें एशियाई खेल (आइची–नागोया 2026) नागोया सिटी मिज़ुहो पार्क एथलेटिक स्टेडियम में संपन्न हुए। एशियाई ओलंपिक परिषद (OCA) द्वारा आयोजित इन खेलों में 43 खेलों में 469 पदक स्पर्धाएँ थीं।\n\nचीन 341 पदकों (169 स्वर्ण) के साथ शीर्ष पर रहा, इसके बाद मेज़बान जापान (269) और दक्षिण कोरिया (150) रहे। भारत 85 पदकों — 21 स्वर्ण, 27 रजत और 37 कांस्य — के साथ चौथे स्थान पर रहा। चीन की 13 वर्षीय तैराक यू ज़िदी महिला MVP और थाईलैंड के धावक पुरिपोल बूनसन पुरुष MVP बने।\n\nIB ACIO: 20वें एशियाई खेल — आइची–नागोया; भारत — चौथा, 85 पदक (21 स्वर्ण)।",
+      "question": "How many gold medals did India win at the 20th Asian Games (Aichi–Nagoya 2026)?",
+      "question_hi": "20वें एशियाई खेल (आइची–नागोया 2026) में भारत ने कितने स्वर्ण पदक जीते?",
+      "options": [
+        "21",
+        "28",
+        "37",
+        "85"
+      ],
+      "options_hi": [
+        "21",
+        "28",
+        "37",
+        "85"
+      ],
+      "correctAnswer": 0,
+      "explanation": "India won 21 gold, 27 silver and 37 bronze — 85 medals in total — finishing 4th behind China, Japan and South Korea. Traps: 85 is the total, 37 is the bronze count, and 28 was India's gold tally at Hangzhou 2022 (where India won its record 107 medals).",
+      "explanation_hi": "भारत ने 21 स्वर्ण, 27 रजत और 37 कांस्य — कुल 85 पदक — जीतकर चीन, जापान और दक्षिण कोरिया के बाद चौथा स्थान पाया। ध्यान दें: 85 कुल पदक हैं, 37 कांस्य और 28 हांगझोउ 2022 में भारत के स्वर्ण थे (जहाँ भारत ने रिकॉर्ड 107 पदक जीते)।",
+      "moreInfo": "The first Asian Games were held in New Delhi in 1951; India also hosted in 1982. Future hosts: Doha, Qatar (2030) and Riyadh, Saudi Arabia (2034). The OCA is headquartered in Kuwait City.",
+      "moreInfo_hi": "पहले एशियाई खेल 1951 में नई दिल्ली में हुए; भारत ने 1982 में भी मेज़बानी की। भावी मेज़बान: दोहा, कतर (2030) और रियाद, सऊदी अरब (2034)। OCA का मुख्यालय कुवैत सिटी में है।",
+      "relatedDate": "2026-10-06"
+    },
+    {
+      "id": "2",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "DRDO's Kaveri Derivative Engine Clears High-Altitude and Flight Trials in Russia for Ghatak UCAV",
+      "title_hi": "DRDO के कावेरी डेरिवेटिव इंजन ने घातक UCAV के लिए रूस में उच्च-ऊंचाई और उड़ान परीक्षण पूरे किए",
+      "image": null,
+      "summary": "GTRE's non-afterburning Kaveri Derivative Engine produced 48.5 kN of dry thrust — above the 46 kN target — in trials in Russia, paving the way for the Ghatak stealth drone.",
+      "summary_hi": "GTRE के नॉन-आफ्टरबर्निंग कावेरी डेरिवेटिव इंजन ने रूस में परीक्षणों में 48.5 kN ड्राई थ्रस्ट दिया — 46 kN लक्ष्य से अधिक — जिससे घातक स्टेल्थ ड्रोन का मार्ग प्रशस्त हुआ।",
+      "content": "DRDO's Gas Turbine Research Establishment (GTRE), Bengaluru, completed high-altitude simulation and flight trials of the Kaveri Derivative Engine (KDE) in Russia.\n\nThe KDE is a non-afterburning (dry thrust) version of the Kaveri engine, designed for unmanned combat platforms such as the Ghatak Unmanned Combat Aerial Vehicle (UCAV). Altitude tests were held at the Central Institute of Aviation Motors (CIAM) and flight trials at the Gromov Flight Research Institute. The engine achieved a maximum dry thrust of 48.5 kN, beating its 46 kN target.\n\nFor IB ACIO: Engine — Kaveri Derivative Engine (dry, non-afterburning); Developer — GTRE, Bengaluru (DRDO); Platform — Ghatak UCAV; Trials — Russia (CIAM, Gromov FRI); Thrust — 48.5 kN (target 46 kN).",
+      "content_hi": "DRDO के गैस टर्बाइन अनुसंधान प्रतिष्ठान (GTRE), बेंगलुरु ने रूस में कावेरी डेरिवेटिव इंजन (KDE) के उच्च-ऊंचाई सिमुलेशन और उड़ान परीक्षण पूरे किए।\n\nKDE कावेरी इंजन का नॉन-आफ्टरबर्निंग (ड्राई थ्रस्ट) संस्करण है, जिसे घातक मानवरहित लड़ाकू विमान (UCAV) जैसे प्लेटफॉर्म के लिए बनाया गया है। इंजन ने 46 kN लक्ष्य से अधिक 48.5 kN अधिकतम ड्राई थ्रस्ट दिया।\n\nIB ACIO: कावेरी डेरिवेटिव इंजन — GTRE बेंगलुरु; प्लेटफॉर्म — घातक UCAV; थ्रस्ट — 48.5 kN।",
+      "question": "The Kaveri Derivative Engine, which recently cleared trials in Russia, has been developed by which DRDO lab?",
+      "question_hi": "हाल ही में रूस में परीक्षण पूरे करने वाला कावेरी डेरिवेटिव इंजन DRDO की किस प्रयोगशाला ने विकसित किया है?",
+      "options": [
+        "Aeronautical Development Agency (ADA)",
+        "Defence Research and Development Laboratory (DRDL)",
+        "Centre for Air Borne Systems (CABS)",
+        "Gas Turbine Research Establishment (GTRE)"
+      ],
+      "options_hi": [
+        "वैमानिकी विकास एजेंसी (ADA)",
+        "रक्षा अनुसंधान एवं विकास प्रयोगशाला (DRDL)",
+        "एयरबोर्न सिस्टम्स केंद्र (CABS)",
+        "गैस टर्बाइन अनुसंधान प्रतिष्ठान (GTRE)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "GTRE, Bengaluru, is DRDO's lab for aero gas-turbine engines and developed the Kaveri and its derivative. ADA designs aircraft like Tejas, DRDL (Hyderabad) works on missiles, and CABS on airborne radar systems like AEW&C — all plausible traps from DRDO's family.",
+      "explanation_hi": "GTRE, बेंगलुरु DRDO की विमान गैस-टर्बाइन इंजन प्रयोगशाला है जिसने कावेरी और उसका डेरिवेटिव विकसित किया। ADA तेजस जैसे विमान डिज़ाइन करती है, DRDL (हैदराबाद) मिसाइलों पर और CABS AEW&C जैसे हवाई रडार पर काम करती है।",
+      "moreInfo": "The Kaveri engine project began in the late 1980s to power the Tejas LCA, which currently uses the American GE F404 engine. Ghatak is an autonomous stealth UCAV being developed by DRDO's Aeronautical Development Establishment.",
+      "moreInfo_hi": "कावेरी इंजन परियोजना 1980 के दशक के अंत में तेजस LCA के लिए शुरू हुई थी, जो वर्तमान में अमेरिकी GE F404 इंजन का उपयोग करता है। घातक एक स्वायत्त स्टेल्थ UCAV है जिसे DRDO विकसित कर रहा है।",
+      "relatedDate": "2026-10-06"
+    },
+    {
+      "id": "3",
+      "category": "Internal Security",
+      "category_hi": "आंतरिक सुरक्षा",
+      "title": "QNu Labs and BISAG-N Demonstrate India's First 5.56 km Free-Space Quantum Key Distribution Link",
+      "title_hi": "QNu लैब्स और BISAG-N ने भारत के पहले 5.56 किमी फ्री-स्पेस क्वांटम की डिस्ट्रीब्यूशन लिंक का प्रदर्शन किया",
+      "image": null,
+      "summary": "QNu Labs, BISAG-N and IIT Gandhinagar demonstrated India's first 5.56 km free-space QKD link in Gujarat, generating secure keys with an error rate below 5%.",
+      "summary_hi": "QNu लैब्स, BISAG-N और IIT गांधीनगर ने गुजरात में भारत के पहले 5.56 किमी फ्री-स्पेस QKD लिंक का प्रदर्शन किया, जिसमें 5% से कम त्रुटि दर के साथ सुरक्षित कुंजियाँ बनीं।",
+      "content": "Bengaluru-based QNu Labs, along with the Bhaskaracharya National Institute for Space Applications and Geo-informatics (BISAG-N) and IIT Gandhinagar, demonstrated India's first 5.56 km free-space Quantum Key Distribution (QKD) link between BISAG-N and IIT Gandhinagar, Gujarat, in a field trial on 27–28 September 2026.\n\nThe link kept the Quantum Bit Error Rate below 5% and generated secure keys at 230–260 bits per second. It used a Pointing, Acquisition and Tracking (PAT) system, the Armos QKD device and Vedic Kavach post-quantum cryptography software, in a dual-layer setup that stays secure even if the quantum channel is disrupted. Free-space QKD is a key step towards satellite-based quantum-secure communication.\n\nFor IB ACIO: First — India's first 5.56 km free-space QKD link; Partners — QNu Labs, BISAG-N, IIT Gandhinagar; Location — Gujarat; Error rate — below 5%; Mission link — National Quantum Mission.",
+      "content_hi": "बेंगलुरु स्थित QNu लैब्स ने भास्कराचार्य राष्ट्रीय अंतरिक्ष अनुप्रयोग एवं भू-सूचना विज्ञान संस्थान (BISAG-N) और IIT गांधीनगर के साथ 27–28 सितंबर 2026 को गुजरात में BISAG-N और IIT गांधीनगर के बीच भारत के पहले 5.56 किमी फ्री-स्पेस क्वांटम की डिस्ट्रीब्यूशन (QKD) लिंक का प्रदर्शन किया।\n\nलिंक में क्वांटम बिट त्रुटि दर 5% से कम रही और 230–260 बिट प्रति सेकंड की दर से सुरक्षित कुंजियाँ बनीं। फ्री-स्पेस QKD उपग्रह-आधारित क्वांटम-सुरक्षित संचार की दिशा में अहम कदम है।\n\nIB ACIO: भारत का पहला 5.56 किमी फ्री-स्पेस QKD; स्थान — गुजरात; मिशन — राष्ट्रीय क्वांटम मिशन।",
+      "question": "In the context of secure communications, what does 'QKD' stand for?",
+      "question_hi": "सुरक्षित संचार के संदर्भ में 'QKD' का पूर्ण रूप क्या है?",
+      "options": [
+        "Quantum Kernel Design",
+        "Quick Key Decryption",
+        "Quantum Key Distribution",
+        "Qubit Key Directory"
+      ],
+      "options_hi": [
+        "क्वांटम कर्नेल डिज़ाइन",
+        "क्विक की डिक्रिप्शन",
+        "क्वांटम की डिस्ट्रीब्यूशन",
+        "क्यूबिट की डायरेक्टरी"
+      ],
+      "correctAnswer": 2,
+      "explanation": "QKD means Quantum Key Distribution — sharing encryption keys using quantum particles (photons). Any attempt to intercept the key disturbs the quantum state and raises the error rate, so eavesdropping is detected. That is why QKD matters greatly for intelligence and national security communications.",
+      "explanation_hi": "QKD का अर्थ क्वांटम की डिस्ट्रीब्यूशन है — क्वांटम कणों (फोटॉन) से एन्क्रिप्शन कुंजियाँ साझा करना। कुंजी को चुराने का कोई भी प्रयास क्वांटम अवस्था को बिगाड़ता है और त्रुटि दर बढ़ जाती है, जिससे जासूसी पकड़ी जाती है। इसीलिए खुफिया और राष्ट्रीय सुरक्षा संचार के लिए QKD बहुत महत्वपूर्ण है।",
+      "moreInfo": "India's National Quantum Mission was approved in April 2023 with an outlay of about ₹6,003 crore for 2023-24 to 2030-31, under the Department of Science and Technology. BISAG-N is located in Gandhinagar, Gujarat, under MeitY.",
+      "moreInfo_hi": "भारत का राष्ट्रीय क्वांटम मिशन अप्रैल 2023 में विज्ञान एवं प्रौद्योगिकी विभाग के तहत 2023-24 से 2030-31 के लिए लगभग ₹6,003 करोड़ के परिव्यय के साथ स्वीकृत हुआ। BISAG-N गांधीनगर, गुजरात में MeitY के अधीन है।",
+      "relatedDate": "2026-10-06"
+    },
+    {
+      "id": "4",
+      "category": "Internal Security",
+      "category_hi": "आंतरिक सुरक्षा",
+      "title": "MHA Assigns Standard Names to 28 Places and Geographical Features in Ladakh on Survey of India Map",
+      "title_hi": "गृह मंत्रालय ने सर्वे ऑफ इंडिया के मानचित्र पर लद्दाख के 28 स्थानों और भौगोलिक संरचनाओं के मानक नाम तय किए",
+      "image": null,
+      "summary": "The Ministry of Home Affairs, with the Ladakh administration, assigned standard names to 28 peaks, glaciers, passes and other features on the official Survey of India map.",
+      "summary_hi": "गृह मंत्रालय ने लद्दाख प्रशासन के साथ मिलकर सर्वे ऑफ इंडिया के आधिकारिक मानचित्र पर 28 चोटियों, हिमनदों, दर्रों और अन्य संरचनाओं के मानक नाम तय किए।",
+      "content": "The Ministry of Home Affairs (MHA), together with the Union Territory administration of Ladakh, assigned standard names to 28 places and geographical features on the official Survey of India map.\n\nThe list includes peaks, mountains, land areas, glaciers, passes, a valley, a river and a lake. Examples include Atisha Giri and Kanishka Peak, the Parpik and Skamri glaciers, the Chapchingal and Shachmirk passes, land areas such as Gogra and Kuksel, the Yangpa River, Guru Rinpoche Lake and Shkorga Valley. Standardising names on official maps strengthens administrative clarity and India's cartographic record in a strategically sensitive border region.\n\nFor IB ACIO: By — MHA with Ladakh UT administration; Number — 28 places and features; Map — Survey of India; Examples — Kanishka Peak, Guru Rinpoche Lake, Yangpa River, Skamri Glacier.",
+      "content_hi": "गृह मंत्रालय (MHA) ने लद्दाख केंद्र शासित प्रदेश प्रशासन के साथ मिलकर सर्वे ऑफ इंडिया के आधिकारिक मानचित्र पर 28 स्थानों और भौगोलिक संरचनाओं के मानक नाम तय किए।\n\nसूची में चोटियाँ, पर्वत, भू-क्षेत्र, हिमनद, दर्रे, एक घाटी, एक नदी और एक झील शामिल हैं — जैसे अतिशा गिरि, कनिष्क पीक, पारपिक और स्कामरी हिमनद, गोगरा और कुकसेल, यांगपा नदी, गुरु रिनपोछे झील और श्कोरगा घाटी। रणनीतिक रूप से संवेदनशील सीमा क्षेत्र में आधिकारिक नामों का मानकीकरण प्रशासनिक स्पष्टता बढ़ाता है।\n\nIB ACIO: MHA + लद्दाख; 28 स्थान; मानचित्र — सर्वे ऑफ इंडिया।",
+      "question": "How many places and geographical features in Ladakh were assigned standard names by the MHA on the Survey of India map in October 2026?",
+      "question_hi": "अक्टूबर 2026 में गृह मंत्रालय ने सर्वे ऑफ इंडिया के मानचित्र पर लद्दाख के कितने स्थानों और भौगोलिक संरचनाओं के मानक नाम तय किए?",
+      "options": [
+        "12",
+        "18",
+        "28",
+        "42"
+      ],
+      "options_hi": [
+        "12",
+        "18",
+        "28",
+        "42"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The MHA assigned standard names to 28 places and features in Ladakh, including peaks, glaciers, passes, a river (Yangpa) and a lake (Guru Rinpoche Lake). Such naming on the Survey of India map is significant for border management and asserting India's cartographic position.",
+      "explanation_hi": "गृह मंत्रालय ने लद्दाख के 28 स्थानों और संरचनाओं के मानक नाम तय किए, जिनमें चोटियाँ, हिमनद, दर्रे, एक नदी (यांगपा) और एक झील (गुरु रिनपोछे झील) शामिल हैं। सर्वे ऑफ इंडिया के मानचित्र पर ऐसा नामकरण सीमा प्रबंधन के लिए महत्वपूर्ण है।",
+      "moreInfo": "The Survey of India, India's oldest scientific department, was set up in 1767 and is headquartered in Dehradun under the Department of Science and Technology. Ladakh became a Union Territory without a legislature on 31 October 2019.",
+      "moreInfo_hi": "भारत का सबसे पुराना वैज्ञानिक विभाग सर्वे ऑफ इंडिया 1767 में स्थापित हुआ और विज्ञान एवं प्रौद्योगिकी विभाग के अधीन इसका मुख्यालय देहरादून में है। लद्दाख 31 अक्टूबर 2019 को बिना विधानसभा वाला केंद्र शासित प्रदेश बना।",
+      "relatedDate": "2026-10-06"
+    },
+    {
+      "id": "5",
+      "category": "Education",
+      "category_hi": "शिक्षा",
+      "title": "Ministry of Education Approves 5 Centres of Excellence for Classical Language Studies",
+      "title_hi": "शिक्षा मंत्रालय ने शास्त्रीय भाषा अध्ययन के लिए 5 उत्कृष्टता केंद्रों को मंज़ूरी दी",
+      "image": null,
+      "summary": "Centres of Excellence were approved for Classical Assamese, Bengali, Marathi, Pali and Prakrit at five universities to promote research, preservation and digitisation.",
+      "summary_hi": "शोध, संरक्षण और डिजिटलीकरण को बढ़ावा देने के लिए पाँच विश्वविद्यालयों में शास्त्रीय असमिया, बंगाली, मराठी, पाली और प्राकृत के उत्कृष्टता केंद्र स्वीकृत किए गए।",
+      "content": "The Department of Higher Education, Ministry of Education, approved five Centres of Excellence (CoEs) for classical language studies on 3 October 2026.\n\nThe centres are: Classical Assamese at Tezpur University, Assam; Classical Bengali at Visva-Bharati University, West Bengal; Classical Marathi at Deccan College Post-Graduate and Research Institute, Pune; Classical Pali at Central University of Odisha; and Classical Prakrit at Central University of Gujarat. They will focus on research, preservation and digitisation of literary heritage and wider dissemination of knowledge. These five languages were granted classical status in October 2024.\n\nFor IB ACIO: Approved by — Ministry of Education; Number — 5 CoEs; Assamese — Tezpur Univ; Bengali — Visva-Bharati; Marathi — Deccan College, Pune; Pali — Central Univ of Odisha; Prakrit — Central Univ of Gujarat.",
+      "content_hi": "शिक्षा मंत्रालय के उच्च शिक्षा विभाग ने 3 अक्टूबर 2026 को शास्त्रीय भाषा अध्ययन के लिए पाँच उत्कृष्टता केंद्रों (CoE) को मंज़ूरी दी।\n\nये केंद्र हैं: शास्त्रीय असमिया — तेजपुर विश्वविद्यालय, असम; शास्त्रीय बंगाली — विश्व-भारती विश्वविद्यालय, पश्चिम बंगाल; शास्त्रीय मराठी — डेक्कन कॉलेज, पुणे; शास्त्रीय पाली — ओडिशा केंद्रीय विश्वविद्यालय; और शास्त्रीय प्राकृत — गुजरात केंद्रीय विश्वविद्यालय। इन पाँच भाषाओं को अक्टूबर 2024 में शास्त्रीय दर्जा मिला था।\n\nIB ACIO: 5 CoE; पाली — ओडिशा केंद्रीय विश्वविद्यालय; प्राकृत — गुजरात केंद्रीय विश्वविद्यालय।",
+      "question": "Where will the Centre of Excellence for Classical Pali, approved by the Ministry of Education in 2026, be set up?",
+      "question_hi": "शिक्षा मंत्रालय द्वारा 2026 में स्वीकृत शास्त्रीय पाली के उत्कृष्टता केंद्र की स्थापना कहाँ होगी?",
+      "options": [
+        "Nalanda University, Bihar",
+        "Central University of Gujarat",
+        "Visva-Bharati University",
+        "Central University of Odisha"
+      ],
+      "options_hi": [
+        "नालंदा विश्वविद्यालय, बिहार",
+        "गुजरात केंद्रीय विश्वविद्यालय",
+        "विश्व-भारती विश्वविद्यालय",
+        "ओडिशा केंद्रीय विश्वविद्यालय"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Classical Pali CoE goes to the Central University of Odisha. Nalanda is a tempting trap because of its Buddhist (Pali) heritage, but it was not chosen. Central University of Gujarat gets Prakrit and Visva-Bharati gets Bengali.",
+      "explanation_hi": "शास्त्रीय पाली CoE ओडिशा केंद्रीय विश्वविद्यालय को मिला है। बौद्ध (पाली) विरासत के कारण नालंदा आकर्षक भ्रम है, लेकिन उसे नहीं चुना गया। गुजरात केंद्रीय विश्वविद्यालय को प्राकृत और विश्व-भारती को बंगाली मिला।",
+      "moreInfo": "India has 11 classical languages: Tamil (first, 2004), Sanskrit (2005), Kannada and Telugu (2008), Malayalam (2013), Odia (2014), and Marathi, Pali, Prakrit, Assamese and Bengali (2024).",
+      "moreInfo_hi": "भारत में 11 शास्त्रीय भाषाएँ हैं: तमिल (पहली, 2004), संस्कृत (2005), कन्नड़ और तेलुगु (2008), मलयालम (2013), ओड़िया (2014), तथा मराठी, पाली, प्राकृत, असमिया और बंगाली (2024)।",
+      "relatedDate": "2026-10-06"
+    },
+    {
+      "id": "6",
+      "category": "Governance & Schemes",
+      "category_hi": "शासन एवं योजनाएँ",
+      "title": "Foundation Laid for India's First 3D Concrete-Printed Rural Housing Pilot Under PMAY-G in Andhra Pradesh",
+      "title_hi": "आंध्र प्रदेश में PMAY-G के तहत भारत की पहली 3D कंक्रीट-प्रिंटेड ग्रामीण आवास पायलट परियोजना की नींव रखी गई",
+      "image": null,
+      "summary": "Shivraj Singh Chouhan released the first instalment for 3 lakh PMAY-G houses (₹3,600 crore) in Andhra Pradesh and laid the foundation for a 177-house 3D-printing pilot.",
+      "summary_hi": "शिवराज सिंह चौहान ने आंध्र प्रदेश में 3 लाख PMAY-G घरों (₹3,600 करोड़) की पहली किस्त जारी की और 177 घरों की 3D-प्रिंटिंग पायलट परियोजना की नींव रखी।",
+      "content": "Union Rural Development and Agriculture Minister Shivraj Singh Chouhan handed over the first instalment for 3 lakh houses worth ₹3,600 crore under Pradhan Mantri Awas Yojana–Gramin (PMAY-G) at Burripalem village, Guntur district, Andhra Pradesh, in the presence of Chief Minister N. Chandrababu Naidu.\n\nHe also laid the foundation stone for India's first 3D concrete printing pilot housing project — 177 houses costing ₹14 crore, to be completed in six months, with each house printed in about 10 days. PMAY-G gives ₹1.20 lakh per house in plain areas and ₹1.30 lakh in North-Eastern and hill states/UTs. It was extended in 2024 to build 2 crore more rural houses during FY25–FY29.\n\nFor IB ACIO: Scheme — PMAY-G; Place — Burripalem, Guntur (AP); First instalment — 3 lakh houses, ₹3,600 crore; India's first 3D-printed housing pilot — 177 houses; Assistance — ₹1.20 lakh (plains), ₹1.30 lakh (hilly/NE).",
+      "content_hi": "केंद्रीय ग्रामीण विकास एवं कृषि मंत्री शिवराज सिंह चौहान ने मुख्यमंत्री एन. चंद्रबाबू नायडू की उपस्थिति में आंध्र प्रदेश के गुंटूर ज़िले के बुर्रिपालेम गाँव में प्रधानमंत्री आवास योजना–ग्रामीण (PMAY-G) के तहत ₹3,600 करोड़ के 3 लाख घरों की पहली किस्त सौंपी।\n\nउन्होंने भारत की पहली 3D कंक्रीट प्रिंटिंग पायलट आवास परियोजना की भी नींव रखी — ₹14 करोड़ की लागत से 177 घर, जो छह महीने में पूरे होंगे; प्रत्येक घर लगभग 10 दिन में प्रिंट होगा। PMAY-G मैदानी क्षेत्रों में ₹1.20 लाख और पूर्वोत्तर व पहाड़ी राज्यों में ₹1.30 लाख प्रति घर देती है।\n\nIB ACIO: PMAY-G; बुर्रिपालेम, गुंटूर; पहली 3D-प्रिंटेड आवास पायलट — 177 घर।",
+      "question": "Under PMAY-Gramin, what is the financial assistance per house in plain areas?",
+      "question_hi": "प्रधानमंत्री आवास योजना–ग्रामीण के तहत मैदानी क्षेत्रों में प्रति घर कितनी वित्तीय सहायता दी जाती है?",
+      "options": [
+        "₹1.00 lakh",
+        "₹1.20 lakh",
+        "₹1.30 lakh",
+        "₹2.50 lakh"
+      ],
+      "options_hi": [
+        "₹1.00 लाख",
+        "₹1.20 लाख",
+        "₹1.30 लाख",
+        "₹2.50 लाख"
+      ],
+      "correctAnswer": 1,
+      "explanation": "PMAY-G gives ₹1.20 lakh per house in plain areas and ₹1.30 lakh in North-Eastern and hill states/UTs. ₹2.50 lakh is a trap — it is the total assistance per EWS house under PMAY-Urban 2.0. The scheme was launched in 2016, replacing the Indira Awaas Yojana.",
+      "explanation_hi": "PMAY-G मैदानी क्षेत्रों में प्रति घर ₹1.20 लाख और पूर्वोत्तर व पहाड़ी राज्यों में ₹1.30 लाख देती है। ₹2.50 लाख गलत विकल्प है — यह PMAY-शहरी 2.0 के तहत प्रति EWS घर कुल सहायता है। यह योजना 2016 में इंदिरा आवास योजना की जगह शुरू हुई।",
+      "moreInfo": "PMAY-G was launched on 20 November 2016 by the Ministry of Rural Development. Beneficiaries also get 90–95 person-days of unskilled labour support under rural employment guarantee and ₹12,000 for toilet construction under SBM-G.",
+      "moreInfo_hi": "PMAY-G 20 नवंबर 2016 को ग्रामीण विकास मंत्रालय द्वारा शुरू की गई। लाभार्थियों को ग्रामीण रोज़गार गारंटी के तहत 90–95 व्यक्ति-दिवस अकुशल श्रम सहायता और SBM-G के तहत शौचालय के लिए ₹12,000 भी मिलते हैं।",
+      "relatedDate": "2026-10-06"
+    },
+    {
+      "id": "7",
+      "category": "Governance & Schemes",
+      "category_hi": "शासन एवं योजनाएँ",
+      "title": "PM-SETU Completes One Year; 850 ITIs Identified for Upgradation",
+      "title_hi": "PM-SETU के एक वर्ष पूरे; उन्नयन के लिए 850 ITI चिह्नित",
+      "image": null,
+      "summary": "The ₹60,000 crore PM-SETU scheme to upgrade 1,000 government ITIs in a hub-and-spoke model completed one year on 4 October 2026, with 850 ITIs identified.",
+      "summary_hi": "1,000 सरकारी ITI को हब-एंड-स्पोक मॉडल में उन्नत करने वाली ₹60,000 करोड़ की PM-SETU योजना ने 4 अक्टूबर 2026 को एक वर्ष पूरा किया, जिसमें 850 ITI चिह्नित हुए।",
+      "content": "Pradhan Mantri Skilling and Employability Transformation through Upgraded ITIs (PM-SETU), the flagship initiative of the Ministry of Skill Development and Entrepreneurship (MSDE), completed one year on 4 October 2026.\n\nLaunched on 4 October 2025, the scheme has an outlay of ₹60,000 crore over five years — ₹30,000 crore from the Centre, ₹20,000 crore from states and ₹10,000 crore from industry. It will upgrade 1,000 government ITIs in a hub-and-spoke model (200 hubs and 800 spokes) and boost five National Skill Training Institutes at Bhubaneswar, Chennai, Hyderabad, Kanpur and Ludhiana. In its first year, 850 ITIs (172 hubs and 678 spokes) were identified. It is implemented by the Directorate General of Training (DGT) through an industry-led SPV model.\n\nFor IB ACIO: Scheme — PM-SETU; Ministry — MSDE; Launched — 4 October 2025; Outlay — ₹60,000 crore (5 years); Target — 1,000 ITIs (200 hub + 800 spoke); Identified so far — 850.",
+      "content_hi": "कौशल विकास एवं उद्यमिता मंत्रालय (MSDE) की प्रमुख पहल प्रधानमंत्री स्किलिंग एंड एम्प्लॉयबिलिटी ट्रांसफॉर्मेशन थ्रू अपग्रेडेड ITIs (PM-SETU) ने 4 अक्टूबर 2026 को एक वर्ष पूरा किया।\n\n4 अक्टूबर 2025 को शुरू हुई इस योजना का पाँच वर्षों में ₹60,000 करोड़ परिव्यय है — केंद्र ₹30,000 करोड़, राज्य ₹20,000 करोड़ और उद्योग ₹10,000 करोड़। यह 1,000 सरकारी ITI को हब-एंड-स्पोक मॉडल (200 हब, 800 स्पोक) में उन्नत करेगी। पहले वर्ष में 850 ITI चिह्नित हुए।\n\nIB ACIO: PM-SETU — ₹60,000 करोड़; 1,000 ITI; 850 चिह्नित।",
+      "question": "PM-SETU, which completed one year in October 2026, aims to upgrade how many government ITIs?",
+      "question_hi": "अक्टूबर 2026 में एक वर्ष पूरा करने वाली PM-SETU योजना कितने सरकारी ITI को उन्नत करने का लक्ष्य रखती है?",
+      "options": [
+        "500",
+        "850",
+        "1,000",
+        "5,000"
+      ],
+      "options_hi": [
+        "500",
+        "850",
+        "1,000",
+        "5,000"
+      ],
+      "correctAnswer": 2,
+      "explanation": "PM-SETU targets 1,000 government ITIs (200 hubs + 800 spokes) with a ₹60,000 crore outlay. 850 is a trap — that is the number identified in the first year. In the hub-and-spoke model, each well-equipped hub ITI supports several nearby spoke ITIs.",
+      "explanation_hi": "PM-SETU का लक्ष्य ₹60,000 करोड़ परिव्यय से 1,000 सरकारी ITI (200 हब + 800 स्पोक) को उन्नत करना है। 850 गलत विकल्प है — यह पहले वर्ष में चिह्नित संख्या है। हब-एंड-स्पोक मॉडल में हर सुसज्जित हब ITI आसपास के कई स्पोक ITI को सहायता देता है।",
+      "moreInfo": "The Ministry of Skill Development and Entrepreneurship was created in November 2014. Skill India Mission was launched on 15 July 2015, which is also observed as World Youth Skills Day.",
+      "moreInfo_hi": "कौशल विकास एवं उद्यमिता मंत्रालय नवंबर 2014 में बना। स्किल इंडिया मिशन 15 जुलाई 2015 को शुरू हुआ, जिसे विश्व युवा कौशल दिवस के रूप में भी मनाया जाता है।",
+      "relatedDate": "2026-10-06"
+    },
+    {
+      "id": "8",
+      "category": "Mergers & Acquisitions",
+      "category_hi": "विलय एवं अधिग्रहण",
+      "title": "HAL to Acquire CAE's 50% Stake in HATSOFF, Making It a Wholly Owned Subsidiary",
+      "title_hi": "HAL, HATSOFF में CAE की 50% हिस्सेदारी खरीदेगी, जिससे यह पूर्ण स्वामित्व वाली सहायक कंपनी बनेगी",
+      "image": null,
+      "summary": "HAL signed a share transfer agreement to acquire Canadian firm CAE's 50% stake in HATSOFF Helicopter Training at nil consideration, making it a 100% HAL subsidiary.",
+      "summary_hi": "HAL ने कनाडाई कंपनी CAE की HATSOFF हेलीकॉप्टर ट्रेनिंग में 50% हिस्सेदारी शून्य मूल्य पर खरीदने का शेयर हस्तांतरण समझौता किया, जिससे यह HAL की 100% सहायक कंपनी बनेगी।",
+      "content": "Hindustan Aeronautics Limited (HAL) signed a share transfer agreement to acquire the 50% stake held by CAE, Canada, in HATSOFF (Helicopter Academy to Train by Simulation Flying) Helicopter Training Pvt Ltd.\n\nThe deal covers 3,84,04,205 equity shares of ₹10 each at nil consideration and makes HATSOFF a wholly owned HAL subsidiary with full management control. It received approval from the Department of Defence Production, with concurrence from DIPAM (Ministry of Finance), and is expected to close within 60 days. HATSOFF, a 50:50 joint venture incorporated in 2008 in Bengaluru, provides full-motion simulator training for military and civil helicopter pilots.\n\nFor IB ACIO: Acquirer — HAL; Seller — CAE (Canada); Target — HATSOFF Helicopter Training; Stake — 50% at nil consideration; Result — 100% HAL subsidiary; HATSOFF — JV since 2008, Bengaluru.",
+      "content_hi": "हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL) ने HATSOFF (हेलीकॉप्टर एकेडमी टू ट्रेन बाय सिमुलेशन फ्लाइंग) हेलीकॉप्टर ट्रेनिंग प्रा. लि. में कनाडा की CAE की 50% हिस्सेदारी खरीदने का शेयर हस्तांतरण समझौता किया।\n\nयह सौदा शून्य मूल्य पर है और HATSOFF को पूर्ण प्रबंधन नियंत्रण के साथ HAL की पूर्ण स्वामित्व वाली सहायक कंपनी बनाता है। 2008 में बेंगलुरु में निगमित 50:50 संयुक्त उद्यम HATSOFF सैन्य और नागरिक हेलीकॉप्टर पायलटों को सिम्युलेटर प्रशिक्षण देता है।\n\nIB ACIO: HAL — HATSOFF की 100% मालिक; विक्रेता — CAE (कनाडा)।",
+      "question": "HAL is acquiring the 50% stake in HATSOFF Helicopter Training from which company?",
+      "question_hi": "HAL, HATSOFF हेलीकॉप्टर ट्रेनिंग में 50% हिस्सेदारी किस कंपनी से खरीद रही है?",
+      "options": [
+        "Airbus Helicopters (France)",
+        "Leonardo (Italy)",
+        "Safran (France)",
+        "CAE (Canada)"
+      ],
+      "options_hi": [
+        "एयरबस हेलीकॉप्टर्स (फ्रांस)",
+        "लियोनार्डो (इटली)",
+        "सफ्रान (फ्रांस)",
+        "CAE (कनाडा)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "HATSOFF was a 50:50 JV between HAL and CAE of Canada, a global leader in flight simulators. HAL is buying CAE's half at nil consideration. Safran is a trap — it partners with HAL on helicopter engines (like the Shakti engine for Dhruv), not simulator training.",
+      "explanation_hi": "HATSOFF, HAL और फ्लाइट सिम्युलेटर में वैश्विक अग्रणी कनाडा की CAE का 50:50 संयुक्त उद्यम था। HAL शून्य मूल्य पर CAE का हिस्सा खरीद रही है। सफ्रान गलत विकल्प है — वह हेलीकॉप्टर इंजन (जैसे ध्रुव का शक्ति इंजन) पर HAL की साझेदार है, सिम्युलेटर प्रशिक्षण पर नहीं।",
+      "moreInfo": "DIPAM (Department of Investment and Public Asset Management) under the Ministry of Finance manages the government's equity in CPSEs. Canada's capital is Ottawa and its currency is the Canadian Dollar.",
+      "moreInfo_hi": "वित्त मंत्रालय के अधीन DIPAM (निवेश और सार्वजनिक परिसंपत्ति प्रबंधन विभाग) CPSE में सरकार की इक्विटी का प्रबंधन करता है। कनाडा की राजधानी ओटावा और मुद्रा कनाडाई डॉलर है।",
+      "relatedDate": "2026-10-06"
+    },
+    {
+      "id": "9",
+      "category": "States",
+      "category_hi": "राज्य",
+      "title": "Uttar Pradesh's Bhadohi District Renamed 'Sant Ravidas Nagar Bhadohi'",
+      "title_hi": "उत्तर प्रदेश के भदोही ज़िले का नाम बदलकर 'संत रविदास नगर भदोही' किया गया",
+      "image": null,
+      "summary": "UP Chief Minister Yogi Adityanath announced that Bhadohi district will be renamed Sant Ravidas Nagar Bhadohi, and launched 112 projects worth over ₹1,340 crore.",
+      "summary_hi": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने घोषणा की कि भदोही ज़िले का नाम संत रविदास नगर भदोही होगा और ₹1,340 करोड़ से अधिक की 112 परियोजनाएँ शुरू कीं।",
+      "content": "Uttar Pradesh Chief Minister Yogi Adityanath announced that Bhadohi district will be renamed 'Sant Ravidas Nagar Bhadohi', honouring the 15th-century Bhakti saint and social reformer Sant Ravidas.\n\nDuring his visit, he inaugurated and laid foundation stones for 112 projects worth over ₹1,340 crore. Bhadohi was historically part of Varanasi district and became UP's 65th district on 30 June 1994. It is world-famous for its hand-knotted carpet industry and is often called the 'Carpet City' of India.\n\nFor IB ACIO: District — Bhadohi (UP); New name — Sant Ravidas Nagar Bhadohi; Announced by — CM Yogi Adityanath; Projects — 112 worth ₹1,340+ crore; Known for — carpets.",
+      "content_hi": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने घोषणा की कि 15वीं सदी के भक्ति संत और समाज सुधारक संत रविदास के सम्मान में भदोही ज़िले का नाम 'संत रविदास नगर भदोही' होगा।\n\nउन्होंने ₹1,340 करोड़ से अधिक की 112 परियोजनाओं का उद्घाटन और शिलान्यास किया। भदोही ऐतिहासिक रूप से वाराणसी ज़िले का हिस्सा था और 30 जून 1994 को UP का 65वां ज़िला बना। यह हाथ से बुने कालीनों के लिए विश्व प्रसिद्ध है।\n\nIB ACIO: भदोही — संत रविदास नगर भदोही; कालीन उद्योग के लिए प्रसिद्ध।",
+      "question": "Bhadohi district, renamed 'Sant Ravidas Nagar Bhadohi' in 2026, is famous for which industry?",
+      "question_hi": "2026 में 'संत रविदास नगर भदोही' नाम दिया गया भदोही ज़िला किस उद्योग के लिए प्रसिद्ध है?",
+      "options": [
+        "Hand-knotted carpets",
+        "Glass bangles",
+        "Brassware",
+        "Chikankari embroidery"
+      ],
+      "options_hi": [
+        "हाथ से बुने कालीन",
+        "कांच की चूड़ियाँ",
+        "पीतल के बर्तन",
+        "चिकनकारी कढ़ाई"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bhadohi is India's 'Carpet City', the largest hand-knotted carpet hub in South Asia, and Bhadohi carpets have a GI tag. The distractors are other famous UP crafts: brassware (Moradabad), glass bangles (Firozabad) and chikankari (Lucknow).",
+      "explanation_hi": "भदोही भारत का 'कालीन नगर' है, दक्षिण एशिया का सबसे बड़ा हस्त-निर्मित कालीन केंद्र, और भदोही कालीन को GI टैग प्राप्त है। अन्य विकल्प UP के प्रसिद्ध शिल्प हैं: पीतल (मुरादाबाद), कांच की चूड़ियाँ (फ़िरोज़ाबाद) और चिकनकारी (लखनऊ)।",
+      "moreInfo": "Sant Ravidas was a 15th–16th century Bhakti saint born in Varanasi; 41 of his verses are included in the Guru Granth Sahib. Renaming a district is done by the state government; renaming a state requires Parliament under Article 3.",
+      "moreInfo_hi": "संत रविदास 15वीं–16वीं सदी के भक्ति संत थे, जिनका जन्म वाराणसी में हुआ; उनके 41 पद गुरु ग्रंथ साहिब में शामिल हैं। ज़िले का नाम राज्य सरकार बदलती है; राज्य का नाम बदलने के लिए अनुच्छेद 3 के तहत संसद की आवश्यकता होती है।",
+      "relatedDate": "2026-10-06"
+    },
+    {
+      "id": "10",
+      "category": "Environment",
+      "category_hi": "पर्यावरण",
+      "title": "72nd National Wildlife Week Observed from 2 to 8 October 2026",
+      "title_hi": "2 से 8 अक्टूबर 2026 तक 72वां राष्ट्रीय वन्यजीव सप्ताह मनाया गया",
+      "image": null,
+      "summary": "India observed the 72nd National Wildlife Week from 2 to 8 October 2026 with the theme 'Connecting Habitats, Thriving Wildlife'.",
+      "summary_hi": "भारत ने 2 से 8 अक्टूबर 2026 तक 'आवासों को जोड़ना, फलता-फूलता वन्यजीवन' विषय के साथ 72वां राष्ट्रीय वन्यजीव सप्ताह मनाया।",
+      "content": "National Wildlife Week is observed in India every year from 2 to 8 October to raise awareness about wildlife conservation. 2026 marked its 72nd edition.\n\nThe 2026 theme was 'Connecting Habitats, Thriving Wildlife', focusing on wildlife corridors and habitat connectivity that allow animals to move, breed and survive. The idea came from the Indian Board for Wildlife (IBWL), constituted in 1952. A National Wildlife Day began in 1955 and was expanded into a week in 1957.\n\nFor IB ACIO: Event — National Wildlife Week; Dates — 2–8 October; Edition — 72nd (2026); Theme — Connecting Habitats, Thriving Wildlife; Origin — Indian Board for Wildlife (1952); Week since — 1957.",
+      "content_hi": "राष्ट्रीय वन्यजीव सप्ताह भारत में हर वर्ष 2 से 8 अक्टूबर तक वन्यजीव संरक्षण के प्रति जागरूकता बढ़ाने के लिए मनाया जाता है। 2026 में इसका 72वां संस्करण था।\n\n2026 का विषय 'आवासों को जोड़ना, फलता-फूलता वन्यजीवन' था, जो वन्यजीव गलियारों और आवास संपर्क पर केंद्रित है। इसका विचार 1952 में गठित भारतीय वन्यजीव बोर्ड (IBWL) से आया। 1955 में राष्ट्रीय वन्यजीव दिवस शुरू हुआ और 1957 में इसे सप्ताह में बदला गया।\n\nIB ACIO: 2–8 अक्टूबर; 72वां संस्करण; IBWL — 1952।",
+      "question": "The concept of National Wildlife Week (2–8 October) originated from which body constituted in 1952?",
+      "question_hi": "राष्ट्रीय वन्यजीव सप्ताह (2–8 अक्टूबर) की अवधारणा 1952 में गठित किस निकाय से आई?",
+      "options": [
+        "National Tiger Conservation Authority",
+        "Indian Board for Wildlife",
+        "Wildlife Institute of India",
+        "Central Zoo Authority"
+      ],
+      "options_hi": [
+        "राष्ट्रीय बाघ संरक्षण प्राधिकरण",
+        "भारतीय वन्यजीव बोर्ड",
+        "भारतीय वन्यजीव संस्थान",
+        "केंद्रीय चिड़ियाघर प्राधिकरण"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Indian Board for Wildlife (IBWL), set up in 1952, conceived Wildlife Day (1955), which became Wildlife Week in 1957. The other bodies came much later: Wildlife Institute of India (1982), Central Zoo Authority (1992) and NTCA (2005). Today the IBWL's role is performed by the National Board for Wildlife, chaired by the Prime Minister.",
+      "explanation_hi": "1952 में गठित भारतीय वन्यजीव बोर्ड (IBWL) ने वन्यजीव दिवस (1955) की परिकल्पना की, जो 1957 में सप्ताह बना। अन्य निकाय बाद में बने: भारतीय वन्यजीव संस्थान (1982), केंद्रीय चिड़ियाघर प्राधिकरण (1992) और NTCA (2005)। आज IBWL की भूमिका प्रधानमंत्री की अध्यक्षता वाला राष्ट्रीय वन्यजीव बोर्ड निभाता है।",
+      "moreInfo": "The Wild Life (Protection) Act was enacted in 1972. Project Tiger began in 1973 and Project Elephant in 1992. World Wildlife Day (UN) is observed on 3 March.",
+      "moreInfo_hi": "वन्यजीव (संरक्षण) अधिनियम 1972 में बना। प्रोजेक्ट टाइगर 1973 में और प्रोजेक्ट एलीफेंट 1992 में शुरू हुआ। विश्व वन्यजीव दिवस (UN) 3 मार्च को मनाया जाता है।",
+      "relatedDate": "2026-10-06"
+    }
+  ]
+}

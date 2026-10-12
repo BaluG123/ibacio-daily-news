@@ -1,0 +1,295 @@
+{
+  "date": "2026-10-11",
+  "editionTitle": "IB ACIO Daily Current Affairs — 11 October 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 11 अक्टूबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Banking & Finance",
+      "category_hi": "बैंकिंग एवं वित्त",
+      "title": "RBI Introduces Foreign Exchange Risk Reserve for Certain Currency Derivative Contracts",
+      "title_hi": "RBI ने कुछ मुद्रा डेरिवेटिव अनुबंधों के लिए विदेशी मुद्रा जोखिम रिज़र्व शुरू किया",
+      "image": null,
+      "summary": "RBI introduced a Foreign Exchange Risk Reserve requiring banks to keep 20% of the rupee notional value of qualifying forex derivative contracts as cash with the RBI, along with tighter hedging checks.",
+      "summary_hi": "RBI ने विदेशी मुद्रा जोखिम रिज़र्व शुरू किया, जिसके तहत बैंकों को योग्य विदेशी मुद्रा डेरिवेटिव अनुबंधों के रुपया मूल्य का 20% नकद RBI के पास रखना होगा, साथ ही हेजिंग जांच सख्त की गई।",
+      "content": "On 10 October 2026, the Reserve Bank of India introduced a Foreign Exchange Risk Reserve (FERR) for specified currency derivative contracts, along with tighter verification of hedging exposures.\n\nAuthorised Dealer banks must hold cash with the RBI equal to 20% of the rupee-equivalent notional amount of qualifying contracts. The reserve applies to contracts above USD 2 million that hedge current-account exposures involving purchase of foreign currency against the rupee. A separate documentation threshold of USD 5 million applies to hedging contracted exposures. Rebooking of cancelled rupee derivative contracts is restricted, splitting deals to dodge thresholds is banned, and users must give an undertaking against duplicate hedging. Such measures aim to curb speculative pressure on the rupee.\n\nFor IB ACIO: Measure — Foreign Exchange Risk Reserve (FERR); By — RBI; Reserve — 20% of notional (cash with RBI); Threshold — contracts above USD 2 million; Aim — curb speculation and rupee volatility.",
+      "content_hi": "10 अक्टूबर 2026 को भारतीय रिज़र्व बैंक ने निर्दिष्ट मुद्रा डेरिवेटिव अनुबंधों के लिए विदेशी मुद्रा जोखिम रिज़र्व (FERR) शुरू किया और हेजिंग जोखिमों की जांच सख्त की।\n\nअधिकृत डीलर बैंकों को योग्य अनुबंधों की रुपया-समतुल्य राशि का 20% नकद RBI के पास रखना होगा। यह रिज़र्व 20 लाख डॉलर से अधिक के उन अनुबंधों पर लागू है जो रुपये के बदले विदेशी मुद्रा खरीद वाले चालू खाते के जोखिमों को हेज करते हैं। रद्द अनुबंधों की पुनर्बुकिंग सीमित की गई और सीमाओं से बचने के लिए सौदे बांटना प्रतिबंधित है। इन उपायों का उद्देश्य रुपये पर सट्टेबाज़ी का दबाव कम करना है।\n\nIB ACIO: FERR — RBI; रिज़र्व — 20%; सीमा — 20 लाख डॉलर से अधिक।",
+      "question": "Under the Foreign Exchange Risk Reserve introduced by RBI in October 2026, banks must keep what percentage of the notional amount of qualifying contracts as cash with the RBI?",
+      "question_hi": "अक्टूबर 2026 में RBI द्वारा शुरू किए गए विदेशी मुद्रा जोखिम रिज़र्व के तहत बैंकों को योग्य अनुबंधों की राशि का कितना प्रतिशत नकद RBI के पास रखना होगा?",
+      "options": [
+        "4%",
+        "10%",
+        "18%",
+        "20%"
+      ],
+      "options_hi": [
+        "4%",
+        "10%",
+        "18%",
+        "20%"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Banks must park 20% of the rupee notional value of qualifying forex derivative contracts (above USD 2 million) with the RBI. Holding cash idle raises the cost of speculative hedging bets against the rupee. Don't confuse it with CRR — the FERR is a separate tool linked only to these derivative contracts.",
+      "explanation_hi": "बैंकों को योग्य विदेशी मुद्रा डेरिवेटिव अनुबंधों (20 लाख डॉलर से अधिक) के रुपया मूल्य का 20% RBI के पास रखना होगा। नकदी निष्क्रिय रखने से रुपये के विरुद्ध सट्टेबाज़ी की लागत बढ़ती है। इसे CRR से न मिलाएँ — FERR केवल इन डेरिवेटिव अनुबंधों से जुड़ा अलग उपकरण है।",
+      "moreInfo": "Foreign exchange in India is regulated under FEMA, 1999, which replaced FERA, 1973. The RBI was established on 1 April 1935 under the RBI Act, 1934, and nationalised in 1949; it is headquartered in Mumbai.",
+      "moreInfo_hi": "भारत में विदेशी मुद्रा फेमा, 1999 के तहत नियंत्रित होती है, जिसने फेरा, 1973 की जगह ली। RBI की स्थापना RBI अधिनियम, 1934 के तहत 1 अप्रैल 1935 को हुई और 1949 में इसका राष्ट्रीयकरण हुआ; मुख्यालय मुंबई में है।",
+      "relatedDate": "2026-10-11"
+    },
+    {
+      "id": "2",
+      "category": "Internal Security",
+      "category_hi": "आंतरिक सुरक्षा",
+      "title": "Mobile Internet Suspension in Central Delhi Puts Spotlight on Telecom Suspension Rules, 2024",
+      "title_hi": "मध्य दिल्ली में मोबाइल इंटरनेट निलंबन से दूरसंचार निलंबन नियम, 2024 चर्चा में",
+      "image": null,
+      "summary": "A 24-hour mobile internet suspension within 4 km of the Janpath–Kartavya Path crossing in central Delhi drew attention to the procedure and transparency requirements under the Telecom Suspension Rules, 2024.",
+      "summary_hi": "मध्य दिल्ली में जनपथ–कर्तव्य पथ चौराहे के 4 किमी दायरे में 24 घंटे के मोबाइल इंटरनेट निलंबन ने दूरसंचार निलंबन नियम, 2024 की प्रक्रिया और पारदर्शिता आवश्यकताओं की ओर ध्यान खींचा।",
+      "content": "Mobile internet services were suspended within 4 km of the Janpath–Kartavya Path crossing in central Delhi from 10 pm on 9 October to 10 pm on 10 October 2026. A police communication cited approval by the Union Home Secretary, while the Internet Freedom Foundation said it could not locate the published order online.\n\nSuch suspensions are governed by the Telecommunications (Temporary Suspension of Services) Rules, 2024, framed under the Telecommunications Act, 2023. The competent authority is the Union Home Secretary (Centre) or the state Home Secretary. In unavoidable cases, a Joint Secretary-level officer may issue an order, which must be confirmed within 24 hours. Orders must state reasons, area, service type and duration (maximum 15 days), be published, and be reviewed by a committee that meets within 5 days.\n\nFor IB ACIO: Rules — Telecommunications (Temporary Suspension of Services) Rules, 2024; Parent law — Telecommunications Act, 2023; Competent authority — Union/State Home Secretary; Max duration — 15 days; Review committee — within 5 days.",
+      "content_hi": "मध्य दिल्ली में जनपथ–कर्तव्य पथ चौराहे के 4 किमी के दायरे में 9 अक्टूबर रात 10 बजे से 10 अक्टूबर 2026 रात 10 बजे तक मोबाइल इंटरनेट सेवाएँ निलंबित रहीं। पुलिस संचार में केंद्रीय गृह सचिव की मंज़ूरी का उल्लेख था, जबकि इंटरनेट फ्रीडम फाउंडेशन ने कहा कि उसे प्रकाशित आदेश ऑनलाइन नहीं मिला।\n\nऐसे निलंबन दूरसंचार अधिनियम, 2023 के तहत बने दूरसंचार (सेवाओं का अस्थायी निलंबन) नियम, 2024 से नियंत्रित होते हैं। सक्षम प्राधिकारी केंद्रीय गृह सचिव (केंद्र) या राज्य के गृह सचिव हैं। आदेश में कारण, क्षेत्र, सेवा और अवधि (अधिकतम 15 दिन) बतानी होती है और समीक्षा समिति 5 दिन में बैठक करती है।\n\nIB ACIO: दूरसंचार निलंबन नियम, 2024; अधिकतम अवधि — 15 दिन; सक्षम प्राधिकारी — गृह सचिव।",
+      "question": "Under the Telecommunications (Temporary Suspension of Services) Rules, 2024, what is the maximum duration for which a suspension order can remain in force?",
+      "question_hi": "दूरसंचार (सेवाओं का अस्थायी निलंबन) नियम, 2024 के तहत निलंबन आदेश अधिकतम कितनी अवधि तक प्रभावी रह सकता है?",
+      "options": [
+        "24 hours",
+        "7 days",
+        "15 days",
+        "30 days"
+      ],
+      "options_hi": [
+        "24 घंटे",
+        "7 दिन",
+        "15 दिन",
+        "30 दिन"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A suspension order can last a maximum of 15 days, and it must be reviewed by a review committee within 5 days. 24 hours is a trap — that is the window within which an emergency order by a Joint Secretary-level officer must be confirmed by the competent authority. In Anuradha Bhasin (2020), the Supreme Court held that indefinite internet shutdowns are not permissible and orders must be published.",
+      "explanation_hi": "निलंबन आदेश अधिकतम 15 दिन तक चल सकता है और समीक्षा समिति को 5 दिन में इसकी समीक्षा करनी होती है। 24 घंटे गलत विकल्प है — इस अवधि में संयुक्त सचिव स्तर के अधिकारी के आपातकालीन आदेश की पुष्टि होनी चाहिए। अनुराधा भसीन (2020) मामले में सुप्रीम कोर्ट ने कहा कि अनिश्चितकालीन इंटरनेट बंदी अनुमेय नहीं है और आदेश प्रकाशित होने चाहिए।",
+      "moreInfo": "The Telecommunications Act, 2023 replaced the Indian Telegraph Act, 1885, the Indian Wireless Telegraphy Act, 1933 and the Telegraph Wires (Unlawful Possession) Act, 1950. Earlier, shutdowns were governed by the Temporary Suspension of Telecom Services Rules, 2017.",
+      "moreInfo_hi": "दूरसंचार अधिनियम, 2023 ने भारतीय टेलीग्राफ अधिनियम, 1885, भारतीय वायरलेस टेलीग्राफी अधिनियम, 1933 और टेलीग्राफ तार (अवैध कब्ज़ा) अधिनियम, 1950 की जगह ली। पहले इंटरनेट बंदी दूरसंचार सेवाओं का अस्थायी निलंबन नियम, 2017 से नियंत्रित थी।",
+      "relatedDate": "2026-10-11"
+    },
+    {
+      "id": "3",
+      "category": "International",
+      "category_hi": "अंतरराष्ट्रीय",
+      "title": "Inter-Parliamentary Union Adopts Resolution on Climate-Disaster Resilience, Including Himalayan Region",
+      "title_hi": "अंतर-संसदीय संघ ने हिमालयी क्षेत्र सहित जलवायु-आपदा लचीलेपन पर प्रस्ताव अपनाया",
+      "image": null,
+      "summary": "The IPU Assembly at Arusha, Tanzania, unanimously adopted a resolution on parliamentary action for climate-disaster resilience covering the Himalayan region and other vulnerable regions.",
+      "summary_hi": "तंज़ानिया के अरुशा में IPU सभा ने हिमालयी क्षेत्र और अन्य संवेदनशील क्षेत्रों को कवर करते हुए जलवायु-आपदा लचीलेपन हेतु संसदीय कार्रवाई पर सर्वसम्मति से प्रस्ताव अपनाया।",
+      "content": "The Inter-Parliamentary Union (IPU) unanimously adopted a resolution on parliamentary action for climate-disaster resilience, including in the Himalayan region and other vulnerable regions, at its Assembly in Arusha, Tanzania, on 9 October 2026. The Rajya Sabha Secretariat reported the outcome through PIB.\n\nThe resolution calls for timely sharing of cross-border climate data and early-warning cooperation, accessible climate finance that does not worsen the debt of vulnerable countries, and follow-up through parliamentary accountability and reporting. The Himalayan focus is significant for India, which faces glacial lake outburst floods, cloudbursts and landslides in states like Uttarakhand, Himachal Pradesh and Sikkim.\n\nFor IB ACIO: Body — Inter-Parliamentary Union (IPU); Venue — Arusha, Tanzania; Date — 9 Oct 2026; Resolution — climate-disaster resilience incl. Himalayan region; Nature — non-binding; IPU HQ — Geneva.",
+      "content_hi": "अंतर-संसदीय संघ (IPU) ने 9 अक्टूबर 2026 को तंज़ानिया के अरुशा में अपनी सभा में हिमालयी क्षेत्र और अन्य संवेदनशील क्षेत्रों सहित जलवायु-आपदा लचीलेपन हेतु संसदीय कार्रवाई पर सर्वसम्मति से प्रस्ताव अपनाया। राज्यसभा सचिवालय ने PIB के माध्यम से इसकी जानकारी दी।\n\nप्रस्ताव में सीमा-पार जलवायु डेटा साझा करने, पूर्व-चेतावनी सहयोग, कमज़ोर देशों का कर्ज़ न बढ़ाने वाले सुलभ जलवायु वित्त और संसदीय जवाबदेही का आह्वान है। हिमालयी फोकस भारत के लिए महत्वपूर्ण है, जो उत्तराखंड, हिमाचल और सिक्किम में हिमनद झील विस्फोट बाढ़, बादल फटने और भूस्खलन का सामना करता है।\n\nIB ACIO: IPU — अरुशा, तंज़ानिया; प्रस्ताव — जलवायु-आपदा लचीलापन; मुख्यालय — जिनेवा।",
+      "question": "The Inter-Parliamentary Union (IPU) adopted a resolution on climate-disaster resilience in October 2026 at its Assembly held in which country?",
+      "question_hi": "अंतर-संसदीय संघ (IPU) ने अक्टूबर 2026 में जलवायु-आपदा लचीलेपन पर प्रस्ताव किस देश में आयोजित अपनी सभा में अपनाया?",
+      "options": [
+        "Kenya",
+        "Tanzania",
+        "Uganda",
+        "Rwanda"
+      ],
+      "options_hi": [
+        "केन्या",
+        "तंज़ानिया",
+        "युगांडा",
+        "रवांडा"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The IPU Assembly was held in Arusha, Tanzania — a city near Mount Kilimanjaro that also hosted the International Criminal Tribunal for Rwanda. Kenya, Uganda and Rwanda are neighbouring East African traps. IPU resolutions are not binding treaties; they guide national parliaments.",
+      "explanation_hi": "IPU सभा तंज़ानिया के अरुशा में हुई — माउंट किलिमंजारो के पास का शहर, जहाँ रवांडा अंतरराष्ट्रीय आपराधिक न्यायाधिकरण भी स्थित था। केन्या, युगांडा और रवांडा पड़ोसी पूर्वी अफ्रीकी भ्रम हैं। IPU प्रस्ताव बाध्यकारी संधि नहीं हैं; ये राष्ट्रीय संसदों का मार्गदर्शन करते हैं।",
+      "moreInfo": "The IPU was founded in 1889 in Paris and is headquartered in Geneva, Switzerland. India is a member through its Parliament. International Day of Parliamentarism (30 June) marks the IPU's founding date.",
+      "moreInfo_hi": "IPU की स्थापना 1889 में पेरिस में हुई और इसका मुख्यालय जिनेवा, स्विट्ज़रलैंड में है। भारत अपनी संसद के माध्यम से इसका सदस्य है। अंतरराष्ट्रीय संसदवाद दिवस (30 जून) IPU की स्थापना तिथि का प्रतीक है।",
+      "relatedDate": "2026-10-11"
+    },
+    {
+      "id": "4",
+      "category": "Environment",
+      "category_hi": "पर्यावरण",
+      "title": "National Biodiversity Authority Disburses ₹2.02 Crore Seed-Sector Access and Benefit-Sharing Funds",
+      "title_hi": "राष्ट्रीय जैव विविधता प्राधिकरण ने बीज क्षेत्र की ₹2.02 करोड़ की पहुंच एवं लाभ-साझाकरण राशि वितरित की",
+      "image": null,
+      "summary": "The National Biodiversity Authority disbursed ₹2.02 crore collected from the seed sector under Access and Benefit-Sharing to State Biodiversity Boards and UT Biodiversity Councils.",
+      "summary_hi": "राष्ट्रीय जैव विविधता प्राधिकरण ने पहुंच एवं लाभ-साझाकरण के तहत बीज क्षेत्र से एकत्रित ₹2.02 करोड़ राज्य जैव विविधता बोर्डों और UT जैव विविधता परिषदों को वितरित किए।",
+      "content": "The National Biodiversity Authority (NBA) announced on 10 October 2026 that it has disbursed ₹2.02 crore of seed-sector Access and Benefit-Sharing (ABS) contributions to State Biodiversity Boards and Union Territory Biodiversity Councils.\n\nThe funds come from companies that commercially used biological resources — rice and vegetable varieties and hybrids — developed from local genetic material. Where individual claimants could not be identified, an NBA-approved expert committee shared the money using cultivation-area statistics from the agriculture ministry. The funds may be used to strengthen Biodiversity Management Committees and People's Biodiversity Registers, conserve traditional crop varieties and restore habitats. ABS ensures that communities who conserve biodiversity get a fair share of the benefits when it is used commercially.\n\nFor IB ACIO: Body — National Biodiversity Authority; Amount — ₹2.02 crore; Source — seed sector (rice, vegetables); Mechanism — Access and Benefit-Sharing; Law — Biological Diversity Act, 2002.",
+      "content_hi": "राष्ट्रीय जैव विविधता प्राधिकरण (NBA) ने 10 अक्टूबर 2026 को घोषणा की कि उसने बीज क्षेत्र के ₹2.02 करोड़ के पहुंच एवं लाभ-साझाकरण (ABS) योगदान राज्य जैव विविधता बोर्डों और केंद्र शासित प्रदेश जैव विविधता परिषदों को वितरित किए हैं।\n\nयह राशि उन कंपनियों से आई जिन्होंने स्थानीय आनुवंशिक सामग्री से विकसित चावल और सब्ज़ी की किस्मों का व्यावसायिक उपयोग किया। इस धन का उपयोग जैव विविधता प्रबंधन समितियों और लोक जैव विविधता रजिस्टरों को मज़बूत करने और पारंपरिक फसल किस्मों के संरक्षण में हो सकता है।\n\nIB ACIO: NBA — ₹2.02 करोड़; ABS; कानून — जैव विविधता अधिनियम, 2002।",
+      "question": "The National Biodiversity Authority (NBA), which disbursed seed-sector ABS funds, is headquartered in which city?",
+      "question_hi": "बीज क्षेत्र की ABS राशि वितरित करने वाले राष्ट्रीय जैव विविधता प्राधिकरण (NBA) का मुख्यालय किस शहर में है?",
+      "options": [
+        "Chennai",
+        "Dehradun",
+        "New Delhi",
+        "Bengaluru"
+      ],
+      "options_hi": [
+        "चेन्नई",
+        "देहरादून",
+        "नई दिल्ली",
+        "बेंगलुरु"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The NBA, set up in 2003 under the Biological Diversity Act, 2002, is headquartered in Chennai. India follows a three-tier structure: NBA (national), State Biodiversity Boards (state) and Biodiversity Management Committees (local bodies). Dehradun is a trap — it hosts forest and wildlife institutes, not the NBA.",
+      "explanation_hi": "जैव विविधता अधिनियम, 2002 के तहत 2003 में स्थापित NBA का मुख्यालय चेन्नई में है। भारत में त्रिस्तरीय ढांचा है: NBA (राष्ट्रीय), राज्य जैव विविधता बोर्ड (राज्य) और जैव विविधता प्रबंधन समितियाँ (स्थानीय निकाय)। देहरादून गलत विकल्प है।",
+      "moreInfo": "India's Biological Diversity Act, 2002 implements the Convention on Biological Diversity (CBD, 1992). The Nagoya Protocol (2010) is the international agreement on Access and Benefit-Sharing. The Act was amended in 2023.",
+      "moreInfo_hi": "भारत का जैव विविधता अधिनियम, 2002 जैव विविधता अभिसमय (CBD, 1992) को लागू करता है। नागोया प्रोटोकॉल (2010) पहुंच एवं लाभ-साझाकरण पर अंतरराष्ट्रीय समझौता है। अधिनियम में 2023 में संशोधन हुआ।",
+      "relatedDate": "2026-10-11"
+    },
+    {
+      "id": "5",
+      "category": "Governance & Schemes",
+      "category_hi": "शासन एवं योजनाएँ",
+      "title": "Tribal Affairs Ministry Sets Priorities to Integrate Forest Rights into Land Records",
+      "title_hi": "जनजातीय कार्य मंत्रालय ने वन अधिकारों को भूमि अभिलेखों में शामिल करने की प्राथमिकताएँ तय कीं",
+      "image": null,
+      "summary": "A Ministry of Tribal Affairs review conference in Kolkata set priorities to record recognised forest rights in revenue and forest records, clear pending claims and strengthen Gram Sabhas.",
+      "summary_hi": "कोलकाता में जनजातीय कार्य मंत्रालय के समीक्षा सम्मेलन ने मान्यता प्राप्त वन अधिकारों को राजस्व और वन अभिलेखों में दर्ज करने, लंबित दावे निपटाने और ग्राम सभाओं को मज़बूत करने की प्राथमिकताएँ तय कीं।",
+      "content": "The Ministry of Tribal Affairs reported priorities from a review conference on forest rights held in Kolkata on 9 October 2026.\n\nThe priorities are: integrating recognised rights into revenue and forest records with accurate maps; preparing district action plans for pending and rejected claims; strengthening Gram Sabha capacity and Community Forest Resource (CFR) management plans; and preparing participatory roadmaps for habitat rights of Particularly Vulnerable Tribal Groups (PVTGs). These steps aim to give secure, legally recognised tenure to forest-dwelling communities.\n\nFor IB ACIO: Law — Forest Rights Act, 2006; Nodal ministry — Tribal Affairs; Conference — Kolkata (9 Oct 2026); Focus — record of rights, pending claims, CFR plans, PVTG habitat rights.",
+      "content_hi": "जनजातीय कार्य मंत्रालय ने 9 अक्टूबर 2026 को कोलकाता में वन अधिकारों पर आयोजित समीक्षा सम्मेलन की प्राथमिकताएँ जारी कीं।\n\nप्राथमिकताएँ हैं: मान्यता प्राप्त अधिकारों को सटीक नक्शों के साथ राजस्व और वन अभिलेखों में शामिल करना; लंबित और खारिज दावों के लिए ज़िला कार्ययोजनाएँ; ग्राम सभा क्षमता और सामुदायिक वन संसाधन (CFR) प्रबंधन योजनाओं को मज़बूत करना; तथा विशेष रूप से कमज़ोर जनजातीय समूहों (PVTG) के पर्यावास अधिकारों के लिए भागीदारी रोडमैप।\n\nIB ACIO: वन अधिकार अधिनियम, 2006; नोडल मंत्रालय — जनजातीय कार्य।",
+      "question": "The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act was enacted in which year?",
+      "question_hi": "अनुसूचित जनजाति और अन्य परंपरागत वन निवासी (वन अधिकारों की मान्यता) अधिनियम किस वर्ष बना?",
+      "options": [
+        "1980",
+        "1996",
+        "2006",
+        "2013"
+      ],
+      "options_hi": [
+        "1980",
+        "1996",
+        "2006",
+        "2013"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Forest Rights Act was enacted in 2006 (in force from 2008) with the Ministry of Tribal Affairs as nodal ministry; the Gram Sabha starts the process of recognising rights. Traps: 1980 is the Forest (Conservation) Act, 1996 is PESA (Panchayats Extension to Scheduled Areas), and 2013 is the Land Acquisition (LARR) Act.",
+      "explanation_hi": "वन अधिकार अधिनियम 2006 में बना (2008 से लागू), जिसका नोडल मंत्रालय जनजातीय कार्य मंत्रालय है; अधिकारों की मान्यता की प्रक्रिया ग्राम सभा शुरू करती है। ध्यान दें: 1980 — वन (संरक्षण) अधिनियम, 1996 — पेसा, 2013 — भूमि अधिग्रहण (LARR) अधिनियम।",
+      "moreInfo": "The FRA recognises individual forest rights (up to 4 hectares of cultivated land) and community forest resource rights. Odisha and Chhattisgarh are leaders in implementing CFR rights. Particularly Vulnerable Tribal Groups number 75 across India.",
+      "moreInfo_hi": "FRA व्यक्तिगत वन अधिकारों (4 हेक्टेयर तक खेती की भूमि) और सामुदायिक वन संसाधन अधिकारों को मान्यता देता है। ओडिशा और छत्तीसगढ़ CFR अधिकारों के कार्यान्वयन में अग्रणी हैं। भारत में 75 विशेष रूप से कमज़ोर जनजातीय समूह हैं।",
+      "relatedDate": "2026-10-11"
+    },
+    {
+      "id": "6",
+      "category": "Agriculture",
+      "category_hi": "कृषि",
+      "title": "New Delhi Hosts Second Meeting of Global Initiative on AI for Agri-Food Systems",
+      "title_hi": "नई दिल्ली में कृषि-खाद्य प्रणालियों हेतु AI पर वैश्विक पहल की दूसरी बैठक",
+      "image": null,
+      "summary": "The second meeting of the Global Initiative on AI for Agri-Food Systems (GI-AI4FS), coordinated by ITU with FAO, IFAD and WFP, was hosted in New Delhi by India's TEC and ICAR.",
+      "summary_hi": "ITU द्वारा FAO, IFAD और WFP के साथ समन्वित कृषि-खाद्य प्रणालियों हेतु AI पर वैश्विक पहल (GI-AI4FS) की दूसरी बैठक भारत के TEC और ICAR ने नई दिल्ली में आयोजित की।",
+      "content": "The second meeting of the Global Initiative on AI for Agri-Food Systems (GI-AI4FS) was held in New Delhi on 10 October 2026, focusing on governance and priorities for responsible use of AI in agriculture.\n\nThe initiative is coordinated by the ITU with three Rome-based UN agencies — FAO, IFAD and WFP. The meeting was jointly hosted by India's Telecommunication Engineering Centre (TEC) and the Indian Council of Agricultural Research (ICAR). It discussed coordination structures, working groups, terms of reference and initial work streams. Possible AI uses include crop-disease detection, precision farming, traceability and cutting post-harvest losses, though no binding standards were set.\n\nFor IB ACIO: Initiative — GI-AI4FS; Coordinator — ITU with FAO, IFAD, WFP; Host — TEC and ICAR, New Delhi; Meeting — 2nd (10 Oct 2026); Focus — responsible AI in agriculture.",
+      "content_hi": "कृषि-खाद्य प्रणालियों हेतु AI पर वैश्विक पहल (GI-AI4FS) की दूसरी बैठक 10 अक्टूबर 2026 को नई दिल्ली में हुई, जिसमें कृषि में AI के ज़िम्मेदार उपयोग के लिए शासन और प्राथमिकताओं पर ध्यान दिया गया।\n\nयह पहल ITU द्वारा रोम स्थित तीन UN एजेंसियों — FAO, IFAD और WFP — के साथ समन्वित है। बैठक भारत के दूरसंचार अभियांत्रिकी केंद्र (TEC) और भारतीय कृषि अनुसंधान परिषद (ICAR) ने संयुक्त रूप से आयोजित की। संभावित उपयोगों में फसल रोग पहचान, सटीक खेती और कटाई-उपरांत नुकसान कम करना शामिल है।\n\nIB ACIO: GI-AI4FS — ITU + FAO, IFAD, WFP; मेज़बान — TEC और ICAR।",
+      "question": "Which of the following UN agencies is NOT headquartered in Rome, among the partners of the Global Initiative on AI for Agri-Food Systems?",
+      "question_hi": "कृषि-खाद्य प्रणालियों हेतु AI पर वैश्विक पहल के साझेदारों में से निम्नलिखित में किस UN एजेंसी का मुख्यालय रोम में नहीं है?",
+      "options": [
+        "FAO",
+        "ITU",
+        "WFP",
+        "IFAD"
+      ],
+      "options_hi": [
+        "FAO",
+        "ITU",
+        "WFP",
+        "IFAD"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The ITU is headquartered in Geneva, while FAO, IFAD and WFP are the three Rome-based UN food and agriculture agencies (often called the RBAs). The ITU coordinates this initiative because of its role in digital and AI standards. WFP won the Nobel Peace Prize in 2020.",
+      "explanation_hi": "ITU का मुख्यालय जिनेवा में है, जबकि FAO, IFAD और WFP रोम स्थित तीन UN खाद्य और कृषि एजेंसियाँ हैं। डिजिटल और AI मानकों में भूमिका के कारण ITU इस पहल का समन्वय करता है। WFP को 2020 में नोबेल शांति पुरस्कार मिला।",
+      "moreInfo": "India's Telecommunication Engineering Centre (TEC) is the technical body of the Department of Telecommunications that sets telecom standards. Under the IndiaAI Mission, agriculture is a priority sector for AI applications.",
+      "moreInfo_hi": "भारत का दूरसंचार अभियांत्रिकी केंद्र (TEC) दूरसंचार विभाग का तकनीकी निकाय है जो दूरसंचार मानक तय करता है। इंडियाAI मिशन के तहत कृषि AI अनुप्रयोगों के लिए प्राथमिकता क्षेत्र है।",
+      "relatedDate": "2026-10-11"
+    },
+    {
+      "id": "7",
+      "category": "Agriculture",
+      "category_hi": "कृषि",
+      "title": "Ministry of Cooperation Explores Pledge-Finance Models Using Decentralised Grain Storage",
+      "title_hi": "सहकारिता मंत्रालय विकेंद्रीकृत अनाज भंडारण से गिरवी-वित्त मॉडल पर विचार कर रहा है",
+      "image": null,
+      "summary": "The Ministry of Cooperation is exploring pledge-finance models — loans against stored produce — through decentralised cooperative storage, with possible district pilots for cereals beyond wheat and paddy.",
+      "summary_hi": "सहकारिता मंत्रालय विकेंद्रीकृत सहकारी भंडारण के माध्यम से गिरवी-वित्त मॉडल — भंडारित उपज के बदले ऋण — पर विचार कर रहा है, जिसमें गेहूं और धान के अलावा अनाजों के लिए ज़िला पायलट संभव हैं।",
+      "content": "On 9 October 2026, the Ministry of Cooperation said it is exploring pledge-finance models using decentralised storage, possibly starting with district-level pilots. The models will be shared with states over the next two to three months.\n\nThe focus is on cereals other than wheat and paddy, where farmers may have limited access to MSP procurement. Pledge finance means farmers store their produce in a warehouse and borrow against it as collateral, so they need not sell immediately after harvest at low prices. The models would complement, not replace, the MSP framework. This links to the world's largest grain storage plan in the cooperative sector, which builds godowns at the level of Primary Agricultural Credit Societies (PACS).\n\nFor IB ACIO: Ministry — Cooperation; Idea — pledge finance (loans against stored produce); Focus — cereals other than wheat and paddy; Status — exploratory, district pilots possible; Link — PACS-level grain storage plan.",
+      "content_hi": "9 अक्टूबर 2026 को सहकारिता मंत्रालय ने कहा कि वह विकेंद्रीकृत भंडारण के माध्यम से गिरवी-वित्त मॉडल पर विचार कर रहा है, जिसकी शुरुआत ज़िला-स्तरीय पायलट से हो सकती है। मॉडल अगले दो-तीन महीनों में राज्यों के साथ साझा किए जाएँगे।\n\nफोकस गेहूं और धान के अलावा उन अनाजों पर है जहाँ MSP खरीद तक पहुंच सीमित हो सकती है। गिरवी-वित्त का अर्थ है किसान अपनी उपज गोदाम में रखकर उसके बदले ऋण लेते हैं, ताकि कटाई के तुरंत बाद कम दाम पर बेचना न पड़े। यह MSP ढांचे का पूरक होगा, विकल्प नहीं।\n\nIB ACIO: सहकारिता मंत्रालय — गिरवी-वित्त; फोकस — गेहूं/धान के अलावा अनाज।",
+      "question": "The Union Ministry of Cooperation, which is exploring pledge-finance models for farmers, was created in which year?",
+      "question_hi": "किसानों के लिए गिरवी-वित्त मॉडल पर विचार कर रहे केंद्रीय सहकारिता मंत्रालय का गठन किस वर्ष हुआ?",
+      "options": [
+        "2014",
+        "2019",
+        "2021",
+        "2023"
+      ],
+      "options_hi": [
+        "2014",
+        "2019",
+        "2021",
+        "2023"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Ministry of Cooperation was created in July 2021, carved out of the Agriculture Ministry, with Amit Shah as its first minister. Its flagship efforts include computerising PACS and the 'world's largest grain storage plan in the cooperative sector'. 2019 is a trap — that is when the Ministry of Jal Shakti and the Fisheries ministry were formed.",
+      "explanation_hi": "सहकारिता मंत्रालय जुलाई 2021 में कृषि मंत्रालय से अलग करके बनाया गया और अमित शाह इसके पहले मंत्री बने। इसकी प्रमुख पहलों में PACS का कंप्यूटरीकरण और 'सहकारी क्षेत्र में विश्व की सबसे बड़ी अनाज भंडारण योजना' शामिल हैं। 2019 गलत विकल्प है — तब जल शक्ति और मत्स्यपालन मंत्रालय बने थे।",
+      "moreInfo": "The Multi-State Co-operative Societies (Amendment) Act was passed in 2023, and the National Cooperation Policy was released in 2025. 2025 was observed as the UN International Year of Cooperatives. The Warehousing Development and Regulatory Authority (WDRA) regulates negotiable warehouse receipts used for pledge loans.",
+      "moreInfo_hi": "बहु-राज्य सहकारी समितियाँ (संशोधन) अधिनियम 2023 में पारित हुआ और राष्ट्रीय सहकारिता नीति 2025 में जारी हुई। 2025 को संयुक्त राष्ट्र अंतरराष्ट्रीय सहकारिता वर्ष के रूप में मनाया गया। भंडारण विकास और नियामक प्राधिकरण (WDRA) गिरवी ऋण में प्रयुक्त परक्राम्य गोदाम रसीदों को नियंत्रित करता है।",
+      "relatedDate": "2026-10-11"
+    },
+    {
+      "id": "8",
+      "category": "Important Days",
+      "category_hi": "महत्वपूर्ण दिवस",
+      "title": "International Day of the Girl Child 2026 Focuses on Ending Child Marriage",
+      "title_hi": "अंतरराष्ट्रीय बालिका दिवस 2026 का फोकस बाल विवाह समाप्त करने पर",
+      "image": null,
+      "summary": "The International Day of the Girl Child on 11 October 2026 focused on ending child marriage and investing in girls' rights, as UNICEF estimates about one in five girls marries before 18.",
+      "summary_hi": "11 अक्टूबर 2026 को अंतरराष्ट्रीय बालिका दिवस का फोकस बाल विवाह समाप्त करने और बालिकाओं के अधिकारों में निवेश पर रहा, क्योंकि UNICEF के अनुसार लगभग हर पाँच में से एक लड़की का विवाह 18 वर्ष से पहले होता है।",
+      "content": "The International Day of the Girl Child is observed every year on 11 October to recognise girls' rights and the challenges they face worldwide.\n\nThe 2026 theme calls for ending child marriage and investing in girls' rights, developed through consultations with girls, girl-led networks and UN partners. UNICEF estimates that about one in five girls is married before 18, and over 12 million girls marry before adulthood every year, though about 68 million child marriages have been averted in the past 25 years. The UN General Assembly declared the day through Resolution 66/170 in December 2011, and it was first observed on 11 October 2012.\n\nFor IB ACIO: Day — 11 October; Theme 2026 — ending child marriage and investing in girls' rights; UN resolution — 66/170 (2011); First observed — 2012; India's National Girl Child Day — 24 January.",
+      "content_hi": "अंतरराष्ट्रीय बालिका दिवस प्रतिवर्ष 11 अक्टूबर को दुनिया भर में बालिकाओं के अधिकारों और चुनौतियों को मान्यता देने के लिए मनाया जाता है।\n\n2026 का विषय बाल विवाह समाप्त करने और बालिकाओं के अधिकारों में निवेश का आह्वान करता है। UNICEF के अनुमान के अनुसार लगभग हर पाँच में से एक लड़की का विवाह 18 वर्ष से पहले होता है और हर वर्ष 1.2 करोड़ से अधिक लड़कियों का विवाह वयस्क होने से पहले होता है। संयुक्त राष्ट्र महासभा ने दिसंबर 2011 में प्रस्ताव 66/170 से यह दिवस घोषित किया और पहली बार 11 अक्टूबर 2012 को मनाया गया।\n\nIB ACIO: 11 अक्टूबर; विषय — बाल विवाह समाप्ति; भारत का राष्ट्रीय बालिका दिवस — 24 जनवरी।",
+      "question": "India observes its own National Girl Child Day on which date?",
+      "question_hi": "भारत अपना राष्ट्रीय बालिका दिवस किस तिथि को मनाता है?",
+      "options": [
+        "11 October",
+        "24 January",
+        "8 March",
+        "14 November"
+      ],
+      "options_hi": [
+        "11 अक्टूबर",
+        "24 जनवरी",
+        "8 मार्च",
+        "14 नवंबर"
+      ],
+      "correctAnswer": 1,
+      "explanation": "India celebrates National Girl Child Day on 24 January (since 2008), the day Indira Gandhi took oath as India's first woman Prime Minister in 1966. 11 October is the INTERNATIONAL Day of the Girl Child, 8 March is International Women's Day and 14 November is Children's Day.",
+      "explanation_hi": "भारत 24 जनवरी (2008 से) को राष्ट्रीय बालिका दिवस मनाता है, जिस दिन 1966 में इंदिरा गांधी ने भारत की पहली महिला प्रधानमंत्री के रूप में शपथ ली थी। 11 अक्टूबर अंतरराष्ट्रीय बालिका दिवस, 8 मार्च अंतरराष्ट्रीय महिला दिवस और 14 नवंबर बाल दिवस है।",
+      "moreInfo": "India's Prohibition of Child Marriage Act, 2006 sets the minimum marriage age at 18 for women and 21 for men. The Bal Vivah Mukt Bharat campaign was launched in November 2024. Beti Bachao Beti Padhao began on 22 January 2015 at Panipat.",
+      "moreInfo_hi": "भारत का बाल विवाह निषेध अधिनियम, 2006 विवाह की न्यूनतम आयु महिलाओं के लिए 18 और पुरुषों के लिए 21 वर्ष तय करता है। बाल विवाह मुक्त भारत अभियान नवंबर 2024 में शुरू हुआ। बेटी बचाओ बेटी पढ़ाओ 22 जनवरी 2015 को पानीपत से शुरू हुआ।",
+      "relatedDate": "2026-10-11"
+    },
+    {
+      "id": "9",
+      "category": "Reports & Indices",
+      "category_hi": "रिपोर्ट एवं सूचकांक",
+      "title": "UNESCO GEM Gender Report 2026: Only 59 Rural Indian Girls Complete Upper Secondary per 100 Boys",
+      "title_hi": "यूनेस्को GEM जेंडर रिपोर्ट 2026: ग्रामीण भारत में 100 लड़कों पर केवल 59 लड़कियाँ उच्चतर माध्यमिक पूरी करती हैं",
+      "image": null,
+      "summary": "UNESCO's 2026 Global Education Monitoring Gender Report found that in rural India only 59 girls complete upper secondary education for every 100 boys, while urban areas show parity.",
+      "summary_hi": "यूनेस्को की 2026 वैश्विक शिक्षा निगरानी जेंडर रिपोर्ट के अनुसार ग्रामीण भारत में हर 100 लड़कों पर केवल 59 लड़कियाँ उच्चतर माध्यमिक शिक्षा पूरी करती हैं, जबकि शहरी क्षेत्रों में समानता है।",
+      "content": "UNESCO launched its 2026 Global Education Monitoring (GEM) Gender Report on 9 October 2026.\n\nGlobally, the report finds gender parity in enrolment from pre-primary to upper secondary levels, but warns that equal enrolment does not mean equal opportunity. For India, it highlights that in rural areas only 59 girls complete upper secondary education for every 100 boys, while urban areas show parity. Early marriage and motherhood remain major barriers to girls continuing their education. The data comes from the World Inequality Database on Education.\n\nFor IB ACIO: Report — GEM Gender Report 2026; By — UNESCO; India (rural) — 59 girls per 100 boys complete upper secondary; Urban — parity; Barriers — early marriage and motherhood; Goal — SDG 4.",
+      "content_hi": "यूनेस्को ने 9 अक्टूबर 2026 को अपनी 2026 वैश्विक शिक्षा निगरानी (GEM) जेंडर रिपोर्ट जारी की।\n\nवैश्विक स्तर पर पूर्व-प्राथमिक से उच्चतर माध्यमिक तक नामांकन में लैंगिक समानता है, लेकिन रिपोर्ट चेताती है कि समान नामांकन का अर्थ समान अवसर नहीं है। भारत के ग्रामीण क्षेत्रों में हर 100 लड़कों पर केवल 59 लड़कियाँ उच्चतर माध्यमिक शिक्षा पूरी करती हैं, जबकि शहरी क्षेत्रों में समानता है। कम उम्र में विवाह और मातृत्व प्रमुख बाधाएँ हैं।\n\nIB ACIO: GEM जेंडर रिपोर्ट 2026 — यूनेस्को; ग्रामीण भारत — 100 लड़कों पर 59 लड़कियाँ।",
+      "question": "According to UNESCO's 2026 GEM Gender Report, how many girls complete upper secondary education for every 100 boys in rural India?",
+      "question_hi": "यूनेस्को की 2026 GEM जेंडर रिपोर्ट के अनुसार ग्रामीण भारत में हर 100 लड़कों पर कितनी लड़कियाँ उच्चतर माध्यमिक शिक्षा पूरी करती हैं?",
+      "options": [
+        "41",
+        "59",
+        "78",
+        "100"
+      ],
+      "options_hi": [
+        "41",
+        "59",
+        "78",
+        "100"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Only 59 girls complete upper secondary per 100 boys in rural India, while urban India shows parity (about 100). This shows that the real gap is in completion, not enrolment — a key point the report makes. Completion rate measures how many actually finish a level, unlike enrolment, which counts admissions.",
+      "explanation_hi": "ग्रामीण भारत में हर 100 लड़कों पर केवल 59 लड़कियाँ उच्चतर माध्यमिक पूरी करती हैं, जबकि शहरी भारत में समानता (लगभग 100) है। इससे पता चलता है कि असली अंतर पूर्णता में है, नामांकन में नहीं। पूर्णता दर बताती है कि कितने वास्तव में स्तर पूरा करते हैं, जबकि नामांकन केवल प्रवेश गिनता है।",
+      "moreInfo": "SDG 4 aims to 'ensure inclusive and equitable quality education' by 2030. The GEM Report is an editorially independent report hosted by UNESCO. India's National Education Policy 2020 targets a 100% Gross Enrolment Ratio in school education by 2030.",
+      "moreInfo_hi": "SDG 4 का लक्ष्य 2030 तक समावेशी और समान गुणवत्तापूर्ण शिक्षा सुनिश्चित करना है। GEM रिपोर्ट यूनेस्को द्वारा प्रकाशित संपादकीय रूप से स्वतंत्र रिपोर्ट है। भारत की राष्ट्रीय शिक्षा नीति 2020 का लक्ष्य 2030 तक स्कूली शिक्षा में 100% सकल नामांकन अनुपात है।",
+      "relatedDate": "2026-10-11"
+    }
+  ]
+}
