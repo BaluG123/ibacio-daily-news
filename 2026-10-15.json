@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-15",
+  "editionTitle": "IB ACIO Daily Current Affairs — 15 October 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 15 अक्टूबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Infrastructure & Energy",
+      "category_hi": "अवसंरचना एवं ऊर्जा",
+      "title": "PM GatiShakti National Master Plan Completes Five Years",
+      "title_hi": "पीएम गतिशक्ति राष्ट्रीय मास्टर प्लान के पाँच वर्ष पूरे",
+      "image": null,
+      "summary": "The GIS-based PM GatiShakti National Master Plan, launched on 13 October 2021 for integrated infrastructure planning, completed five years.",
+      "summary_hi": "एकीकृत अवसंरचना योजना हेतु 13 अक्टूबर 2021 को शुरू हुए GIS-आधारित पीएम गतिशक्ति राष्ट्रीय मास्टर प्लान ने पाँच वर्ष पूरे किए।",
+      "content": "The PM GatiShakti National Master Plan (NMP) completed five years on 13 October 2026. PM Narendra Modi launched it on 13 October 2021 in New Delhi.\n\nIt is a GIS-based digital platform that brings together infrastructure data from ministries, states and UTs — roads, railways, ports, airports, pipelines, power lines and more — so that projects are planned together instead of in silos. This avoids repeated digging, cuts delays and lowers logistics costs. The Department for Promotion of Industry and Internal Trade (DPIIT), under the Ministry of Commerce and Industry, is the nodal department, and the spatial platform is developed by BISAG-N.\n\nFor IB ACIO: Plan — PM GatiShakti NMP; Launched — 13 Oct 2021; 5 years — 13 Oct 2026; Nodal — DPIIT; Platform — GIS-based (BISAG-N); Aim — integrated, multimodal infrastructure planning.",
+      "content_hi": "पीएम गतिशक्ति राष्ट्रीय मास्टर प्लान (NMP) ने 13 अक्टूबर 2026 को पाँच वर्ष पूरे किए। प्रधानमंत्री नरेंद्र मोदी ने इसे 13 अक्टूबर 2021 को नई दिल्ली में शुरू किया था।\n\nयह GIS-आधारित डिजिटल मंच है जो मंत्रालयों, राज्यों और UT के अवसंरचना आंकड़ों — सड़क, रेल, बंदरगाह, हवाई अड्डे, पाइपलाइन, बिजली लाइन आदि — को एक साथ लाता है, ताकि परियोजनाएँ अलग-अलग नहीं बल्कि मिलकर नियोजित हों। उद्योग संवर्धन और आंतरिक व्यापार विभाग (DPIIT) नोडल विभाग है और मंच BISAG-N ने विकसित किया है।\n\nIB ACIO: पीएम गतिशक्ति — 13 अक्टूबर 2021; नोडल — DPIIT; GIS-आधारित।",
+      "question": "Which department is the nodal agency for the PM GatiShakti National Master Plan?",
+      "question_hi": "पीएम गतिशक्ति राष्ट्रीय मास्टर प्लान की नोडल एजेंसी कौन सा विभाग है?",
+      "options": [
+        "DPIIT, Ministry of Commerce and Industry",
+        "Department of Economic Affairs",
+        "NITI Aayog",
+        "Ministry of Road Transport and Highways"
+      ],
+      "options_hi": [
+        "DPIIT, वाणिज्य एवं उद्योग मंत्रालय",
+        "आर्थिक मामलों का विभाग",
+        "नीति आयोग",
+        "सड़क परिवहन एवं राजमार्ग मंत्रालय"
+      ],
+      "correctAnswer": 0,
+      "explanation": "DPIIT under the Ministry of Commerce and Industry is the nodal department, because GatiShakti is closely linked to logistics efficiency and the National Logistics Policy (2022). MoRTH is a trap — roads are only one of many sectors integrated on the platform.",
+      "explanation_hi": "वाणिज्य एवं उद्योग मंत्रालय के अधीन DPIIT नोडल विभाग है, क्योंकि गतिशक्ति लॉजिस्टिक्स दक्षता और राष्ट्रीय लॉजिस्टिक्स नीति (2022) से जुड़ी है। सड़क परिवहन मंत्रालय गलत विकल्प है — सड़कें मंच पर जुड़े कई क्षेत्रों में से केवल एक हैं।",
+      "moreInfo": "GatiShakti has seven engines: Railways, Roads, Ports, Waterways, Airports, Mass Transport and Logistics Infrastructure. The National Logistics Policy was launched on 17 September 2022 with the aim of reducing logistics costs.",
+      "moreInfo_hi": "गतिशक्ति के सात इंजन हैं: रेलवे, सड़क, बंदरगाह, जलमार्ग, हवाई अड्डे, जन परिवहन और लॉजिस्टिक्स अवसंरचना। राष्ट्रीय लॉजिस्टिक्स नीति 17 सितंबर 2022 को लॉजिस्टिक्स लागत घटाने के लक्ष्य से शुरू हुई।",
+      "relatedDate": "2026-10-15"
+    },
+    {
+      "id": "2",
+      "category": "Education",
+      "category_hi": "शिक्षा",
+      "title": "Lakshadweep Becomes India's First 100% Literate Union Territory under ULLAS",
+      "title_hi": "लक्षद्वीप ULLAS के तहत भारत का पहला 100% साक्षर केंद्र शासित प्रदेश बना",
+      "image": null,
+      "summary": "Administrator Praful Patel declared Lakshadweep fully literate after all eligible adult learners passed the Foundational Literacy and Numeracy Assessment Test.",
+      "summary_hi": "प्रशासक प्रफुल पटेल ने सभी पात्र वयस्क शिक्षार्थियों के बुनियादी साक्षरता एवं संख्यात्मकता मूल्यांकन परीक्षा पास करने के बाद लक्षद्वीप को पूर्ण साक्षर घोषित किया।",
+      "content": "Lakshadweep became India's first Union Territory to achieve 100% literacy under ULLAS – Nav Bharat Saaksharta Karyakram (New India Literacy Programme). Administrator Praful Patel made the declaration at Kavaratti.\n\nOf 1,113 adult non-literates initially identified, all eligible learners passed the Foundational Literacy and Numeracy Assessment Test (FLNAT). ULLAS is a Centrally Sponsored Scheme for adults aged 15 and above, aligned with NEP 2020 and running from FY 2022-23 to FY 2026-27. It covers foundational literacy and numeracy, critical life skills, financial and digital literacy and continuing education. Mizoram was the first state declared fully literate under ULLAS, in May 2025.\n\nFor IB ACIO: First fully literate UT under ULLAS — Lakshadweep; First fully literate state — Mizoram (May 2025); Scheme — ULLAS (age 15+); Test — FLNAT; Period — FY23 to FY27.",
+      "content_hi": "लक्षद्वीप ULLAS – नव भारत साक्षरता कार्यक्रम के तहत 100% साक्षरता प्राप्त करने वाला भारत का पहला केंद्र शासित प्रदेश बना। प्रशासक प्रफुल पटेल ने कवरत्ती में यह घोषणा की।\n\nशुरू में चिह्नित 1,113 वयस्क निरक्षरों में से सभी पात्र शिक्षार्थियों ने बुनियादी साक्षरता एवं संख्यात्मकता मूल्यांकन परीक्षा (FLNAT) पास की। ULLAS 15 वर्ष और अधिक आयु के वयस्कों के लिए केंद्र प्रायोजित योजना है, जो NEP 2020 के अनुरूप FY 2022-23 से FY 2026-27 तक चलती है। मिज़ोरम मई 2025 में ULLAS के तहत पूर्ण साक्षर घोषित पहला राज्य था।\n\nIB ACIO: पहला पूर्ण साक्षर UT — लक्षद्वीप; पहला राज्य — मिज़ोरम; ULLAS — 15+ आयु।",
+      "question": "Which became India's first Union Territory to be declared 100% literate under the ULLAS programme?",
+      "question_hi": "ULLAS कार्यक्रम के तहत 100% साक्षर घोषित होने वाला भारत का पहला केंद्र शासित प्रदेश कौन बना?",
+      "options": [
+        "Puducherry",
+        "Lakshadweep",
+        "Chandigarh",
+        "Andaman and Nicobar Islands"
+      ],
+      "options_hi": [
+        "पुडुचेरी",
+        "लक्षद्वीप",
+        "चंडीगढ़",
+        "अंडमान और निकोबार द्वीप समूह"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lakshadweep is the first UT declared fully literate under ULLAS. Don't confuse it with Mizoram, the first STATE declared fully literate under ULLAS (May 2025). Kerala is famous for its high literacy, but under ULLAS the 'first' titles go to Mizoram (state) and Lakshadweep (UT).",
+      "explanation_hi": "लक्षद्वीप ULLAS के तहत पूर्ण साक्षर घोषित पहला UT है। इसे मिज़ोरम से न मिलाएँ, जो ULLAS के तहत पूर्ण साक्षर घोषित पहला राज्य (मई 2025) है। केरल अपनी उच्च साक्षरता के लिए प्रसिद्ध है, पर ULLAS के तहत 'पहले' का खिताब मिज़ोरम (राज्य) और लक्षद्वीप (UT) को है।",
+      "moreInfo": "Lakshadweep is India's smallest UT, made of 36 islands, with Kavaratti as its capital. International Literacy Day is observed on 8 September (UNESCO). As per Census 2011, Kerala had the highest literacy rate among states.",
+      "moreInfo_hi": "लक्षद्वीप भारत का सबसे छोटा केंद्र शासित प्रदेश है, जिसमें 36 द्वीप हैं और राजधानी कवरत्ती है। अंतरराष्ट्रीय साक्षरता दिवस 8 सितंबर (यूनेस्को) को मनाया जाता है। जनगणना 2011 के अनुसार राज्यों में केरल की साक्षरता दर सबसे अधिक थी।",
+      "relatedDate": "2026-10-15"
+    },
+    {
+      "id": "3",
+      "category": "Science & Technology",
+      "category_hi": "विज्ञान एवं प्रौद्योगिकी",
+      "title": "RDI Fund Announces First Cohort of 19 Second-Level Fund Managers with ₹7,131 Crore Commitment",
+      "title_hi": "RDI फंड ने ₹7,131 करोड़ प्रतिबद्धता के साथ 19 द्वितीय-स्तरीय फंड प्रबंधकों का पहला समूह घोषित किया",
+      "image": null,
+      "summary": "The Research, Development and Innovation Fund, housed in ANRF, approved 14 AIFs and 5 Focused Research Organisations to channel ₹7,131 crore into deep-tech and R&D.",
+      "summary_hi": "ANRF में स्थित अनुसंधान, विकास और नवाचार कोष ने डीप-टेक और R&D में ₹7,131 करोड़ लगाने के लिए 14 AIF और 5 केंद्रित अनुसंधान संगठनों को मंज़ूरी दी।",
+      "content": "The Research, Development and Innovation Fund (RDIF), a flagship Government of India initiative, announced its first cohort of 19 Second Level Fund Managers (SLFMs) with a combined commitment of ₹7,131 crore. They were approved by the Empowered Group of Secretaries (EGoS).\n\nThe cohort includes 14 Alternative Investment Funds (such as Blume Ventures, Chiratae Ventures and Kalaari Capital) and 5 Focused Research Organisations, including ARTPARK–IISc, C-CAMP Bengaluru, IIT Madras Research Park, BITS Pilani's innovation society and IIT Bombay's SINE. The fund is managed by an Independent Business Unit within the Anusandhan National Research Foundation (ANRF), under the Department of Science and Technology. It provides long-term, low-cost capital to the private sector for research-led innovation.\n\nFor IB ACIO: Fund — RDI Fund; First cohort — 19 SLFMs (14 AIFs + 5 FROs); Commitment — ₹7,131 crore; Managed within — ANRF (DST); Parent scheme corpus — ₹1 lakh crore.",
+      "content_hi": "भारत सरकार की प्रमुख पहल अनुसंधान, विकास और नवाचार कोष (RDIF) ने ₹7,131 करोड़ की संयुक्त प्रतिबद्धता के साथ 19 द्वितीय-स्तरीय फंड प्रबंधकों (SLFM) का पहला समूह घोषित किया। इन्हें सचिवों के अधिकार प्राप्त समूह (EGoS) ने मंज़ूरी दी।\n\nसमूह में 14 वैकल्पिक निवेश कोष (जैसे ब्लूम वेंचर्स, चिराटे वेंचर्स, कलारी कैपिटल) और 5 केंद्रित अनुसंधान संगठन शामिल हैं, जैसे ARTPARK–IISc, C-CAMP बेंगलुरु, IIT मद्रास रिसर्च पार्क। कोष का प्रबंधन विज्ञान एवं प्रौद्योगिकी विभाग के अधीन अनुसंधान राष्ट्रीय अनुसंधान फाउंडेशन (ANRF) की एक स्वतंत्र व्यावसायिक इकाई करती है।\n\nIB ACIO: RDI फंड — 19 SLFM; ₹7,131 करोड़; प्रबंधन — ANRF।",
+      "question": "The Research, Development and Innovation (RDI) Fund is managed by an Independent Business Unit within which body?",
+      "question_hi": "अनुसंधान, विकास और नवाचार (RDI) कोष का प्रबंधन किस निकाय के भीतर एक स्वतंत्र व्यावसायिक इकाई करती है?",
+      "options": [
+        "SIDBI",
+        "NITI Aayog",
+        "Anusandhan National Research Foundation (ANRF)",
+        "Technology Development Board"
+      ],
+      "options_hi": [
+        "सिडबी",
+        "नीति आयोग",
+        "अनुसंधान राष्ट्रीय अनुसंधान फाउंडेशन (ANRF)",
+        "प्रौद्योगिकी विकास बोर्ड"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The RDI Fund sits within ANRF, set up under the ANRF Act, 2023 and chaired by the Prime Minister. The Cabinet approved the RDI scheme with a ₹1 lakh crore corpus in July 2025 to fund private-sector R&D through fund managers and agencies like TDB — which is why TDB is a tempting trap.",
+      "explanation_hi": "RDI कोष ANRF के भीतर है, जो ANRF अधिनियम, 2023 के तहत बना है और जिसकी अध्यक्षता प्रधानमंत्री करते हैं। कैबिनेट ने जुलाई 2025 में ₹1 लाख करोड़ कोष के साथ RDI योजना को मंज़ूरी दी, जो फंड प्रबंधकों और TDB जैसी एजेंसियों के माध्यम से निजी R&D को वित्त देती है — इसलिए TDB भ्रमित करने वाला विकल्प है।",
+      "moreInfo": "India's gross expenditure on R&D is below 1% of GDP, and the RDI scheme aims to boost private R&D investment. ANRF subsumed the Science and Engineering Research Board (SERB).",
+      "moreInfo_hi": "भारत का अनुसंधान एवं विकास पर सकल व्यय GDP के 1% से कम है, और RDI योजना निजी R&D निवेश बढ़ाने का लक्ष्य रखती है। ANRF ने विज्ञान एवं इंजीनियरी अनुसंधान बोर्ड (SERB) को समाहित किया।",
+      "relatedDate": "2026-10-15"
+    },
+    {
+      "id": "4",
+      "category": "Infrastructure & Energy",
+      "category_hi": "अवसंरचना एवं ऊर्जा",
+      "title": "India at 20th East Asia Summit Energy Ministers' Meeting in Manila; Highlights 50% Non-Fossil Capacity",
+      "title_hi": "मनीला में 20वीं पूर्वी एशिया शिखर सम्मेलन ऊर्जा मंत्रियों की बैठक में भारत; 50% गैर-जीवाश्म क्षमता पर प्रकाश",
+      "image": null,
+      "summary": "MoS Shripad Yesso Naik represented India at the 20th EAS Energy Ministers' Meeting in Manila, noting India reached 50% non-fossil installed capacity in June 2025.",
+      "summary_hi": "राज्य मंत्री श्रीपाद येसो नाइक ने मनीला में 20वीं EAS ऊर्जा मंत्रियों की बैठक में भारत का प्रतिनिधित्व किया और बताया कि भारत ने जून 2025 में 50% गैर-जीवाश्म स्थापित क्षमता हासिल की।",
+      "content": "Union Minister of State for Power and New and Renewable Energy Shripad Yesso Naik attended the 20th East Asia Summit (EAS) Energy Ministers' Meeting in Manila, Philippines.\n\nIndia welcomed the ASEAN Plan of Action for Energy Cooperation (APAEC) 2026–2030 and stressed cooperation on the ASEAN Power Grid. India will train 400 professionals in grid connectivity and transmission. India highlighted that it reached 50% of installed electricity capacity from non-fossil sources in June 2025 — five years ahead of its 2030 NDC target. India and Singapore are also exploring a 2,000 MW cross-border power link passing through Myanmar, Thailand and Malaysia.\n\nFor IB ACIO: Meeting — 20th EAS Energy Ministers' Meeting; Venue — Manila; India's rep — Shripad Yesso Naik; Milestone — 50% non-fossil capacity (June 2025); Training pledge — 400 professionals.",
+      "content_hi": "केंद्रीय विद्युत एवं नवीन और नवीकरणीय ऊर्जा राज्य मंत्री श्रीपाद येसो नाइक ने फिलीपींस के मनीला में 20वीं पूर्वी एशिया शिखर सम्मेलन (EAS) ऊर्जा मंत्रियों की बैठक में भाग लिया।\n\nभारत ने ऊर्जा सहयोग हेतु आसियान कार्ययोजना (APAEC) 2026–2030 का स्वागत किया और आसियान पावर ग्रिड पर सहयोग पर ज़ोर दिया। भारत 400 पेशेवरों को ग्रिड कनेक्टिविटी में प्रशिक्षित करेगा। भारत ने बताया कि उसने जून 2025 में ही गैर-जीवाश्म स्रोतों से 50% स्थापित बिजली क्षमता हासिल कर ली — 2030 NDC लक्ष्य से पाँच वर्ष पहले।\n\nIB ACIO: 20वीं EAS ऊर्जा बैठक — मनीला; 50% गैर-जीवाश्म क्षमता — जून 2025।",
+      "question": "India achieved 50% of its installed electricity capacity from non-fossil sources in which year, five years ahead of its NDC target?",
+      "question_hi": "भारत ने अपने NDC लक्ष्य से पाँच वर्ष पहले किस वर्ष गैर-जीवाश्म स्रोतों से 50% स्थापित बिजली क्षमता हासिल की?",
+      "options": [
+        "2023",
+        "2024",
+        "2025",
+        "2030"
+      ],
+      "options_hi": [
+        "2023",
+        "2024",
+        "2025",
+        "2030"
+      ],
+      "correctAnswer": 2,
+      "explanation": "India reached the 50% non-fossil capacity mark in June 2025, against its updated NDC target of 2030 — five years early. The trap 2030 is the original target year. Note that this milestone is about installed CAPACITY, not actual electricity generation, which is still largely coal-based.",
+      "explanation_hi": "भारत ने जून 2025 में 50% गैर-जीवाश्म क्षमता का आंकड़ा पार किया, जबकि अद्यतन NDC लक्ष्य 2030 था — पाँच वर्ष पहले। 2030 मूल लक्ष्य वर्ष है। ध्यान दें कि यह उपलब्धि स्थापित क्षमता की है, वास्तविक बिजली उत्पादन की नहीं, जो अब भी काफी हद तक कोयला-आधारित है।",
+      "moreInfo": "The East Asia Summit has 18 members — 10 ASEAN states plus India, China, Japan, South Korea, Australia, New Zealand, the US and Russia. India's Panchamrit goals include 500 GW of non-fossil capacity by 2030 and net zero by 2070.",
+      "moreInfo_hi": "पूर्वी एशिया शिखर सम्मेलन के 18 सदस्य हैं — 10 आसियान देश और भारत, चीन, जापान, दक्षिण कोरिया, ऑस्ट्रेलिया, न्यूज़ीलैंड, अमेरिका व रूस। भारत के पंचामृत लक्ष्यों में 2030 तक 500 GW गैर-जीवाश्म क्षमता और 2070 तक नेट ज़ीरो शामिल हैं।",
+      "relatedDate": "2026-10-15"
+    },
+    {
+      "id": "5",
+      "category": "Art & Culture",
+      "category_hi": "कला एवं संस्कृति",
+      "title": "Gujarat's Ambaji Mohanthal Prasad Receives GI Tag",
+      "title_hi": "गुजरात के अंबाजी मोहनथाल प्रसाद को GI टैग मिला",
+      "image": null,
+      "summary": "The traditional Mohanthal prasad of the Ambaji temple in Banaskantha district, Gujarat, received a Geographical Indication tag; registration is valid until 2034.",
+      "summary_hi": "गुजरात के बनासकांठा ज़िले के अंबाजी मंदिर के पारंपरिक मोहनथाल प्रसाद को भौगोलिक संकेतक टैग मिला; पंजीकरण 2034 तक वैध है।",
+      "content": "The Mohanthal prasad of the Ambaji temple in Gujarat received a Geographical Indication (GI) tag. The application was filed by the Shree Arasuri Ambaji Mata Devsthan Trust in April 2024 under Class 30 (food stuffs).\n\nThe certificate was presented on 11 October 2026 by Prof. Unnat P. Pandit, Controller General of Patents, Designs and Trade Marks and Registrar of GIs, to Banaskantha Collector Mihir Patel, who is the trust's managing trustee. The registration is valid until 17 April 2034. Mohanthal is a traditional sweet made of gram flour (besan), sugar and ghee, offered to devotees at the Ambaji temple.\n\nFor IB ACIO: Product — Ambaji Mohanthal prasad; State — Gujarat (Banaskantha); Applicant — Shree Arasuri Ambaji Mata Devsthan Trust; Main ingredients — besan, sugar, ghee; Validity — till 17 April 2034.",
+      "content_hi": "गुजरात के अंबाजी मंदिर के मोहनथाल प्रसाद को भौगोलिक संकेतक (GI) टैग मिला। आवेदन श्री आरासुरी अंबाजी माता देवस्थान ट्रस्ट ने अप्रैल 2024 में वर्ग 30 (खाद्य पदार्थ) के तहत किया था।\n\nप्रमाणपत्र 11 अक्टूबर 2026 को पेटेंट, डिज़ाइन और ट्रेडमार्क महानियंत्रक और GI रजिस्ट्रार प्रो. उन्नत पी. पंडित ने बनासकांठा कलेक्टर मिहिर पटेल को सौंपा। पंजीकरण 17 अप्रैल 2034 तक वैध है। मोहनथाल बेसन, चीनी और घी से बनी पारंपरिक मिठाई है, जो अंबाजी मंदिर में भक्तों को प्रसाद के रूप में दी जाती है।\n\nIB ACIO: अंबाजी मोहनथाल — गुजरात (बनासकांठा); सामग्री — बेसन, चीनी, घी।",
+      "question": "For how many years is a Geographical Indication (GI) registration initially valid in India?",
+      "question_hi": "भारत में भौगोलिक संकेतक (GI) पंजीकरण प्रारंभ में कितने वर्षों के लिए वैध होता है?",
+      "options": [
+        "5 years",
+        "10 years",
+        "15 years",
+        "20 years"
+      ],
+      "options_hi": [
+        "5 वर्ष",
+        "10 वर्ष",
+        "15 वर्ष",
+        "20 वर्ष"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A GI registration is valid for 10 years and can be renewed again and again for further 10-year periods. That is why the Ambaji Mohanthal registration, counted from the April 2024 filing date, runs till April 2034. Patents, by contrast, last 20 years and cannot be renewed.",
+      "explanation_hi": "GI पंजीकरण 10 वर्षों के लिए वैध होता है और बार-बार 10-10 वर्षों के लिए नवीनीकृत किया जा सकता है। इसीलिए अप्रैल 2024 की आवेदन तिथि से गिना गया अंबाजी मोहनथाल पंजीकरण अप्रैल 2034 तक चलता है। इसके विपरीत पेटेंट 20 वर्ष के होते हैं और नवीनीकृत नहीं होते।",
+      "moreInfo": "Ambaji in Banaskantha district is one of the 51 Shakti Peethas. The GI Registry is located in Chennai and works under the Controller General of Patents, Designs and Trade Marks (DPIIT).",
+      "moreInfo_hi": "बनासकांठा ज़िले का अंबाजी 51 शक्तिपीठों में से एक है। GI रजिस्ट्री चेन्नई में स्थित है और पेटेंट, डिज़ाइन और ट्रेडमार्क महानियंत्रक (DPIIT) के अधीन कार्य करती है।",
+      "relatedDate": "2026-10-15"
+    },
+    {
+      "id": "6",
+      "category": "Internal Security",
+      "category_hi": "आंतरिक सुरक्षा",
+      "title": "Indian Coast Guard Inducts Indigenous ALH Mk-III Helicopter at Ratnagiri",
+      "title_hi": "भारतीय तटरक्षक बल ने रत्नागिरि में स्वदेशी ALH Mk-III हेलीकॉप्टर शामिल किया",
+      "image": null,
+      "summary": "An HAL-built Advanced Light Helicopter Mk-III (CG 875) was inducted into Coast Guard Region (West) at ICG Air Station Ratnagiri, Maharashtra.",
+      "summary_hi": "HAL निर्मित एडवांस्ड लाइट हेलीकॉप्टर Mk-III (CG 875) को रत्नागिरि, महाराष्ट्र स्थित ICG वायु स्टेशन पर तटरक्षक क्षेत्र (पश्चिम) में शामिल किया गया।",
+      "content": "The Indian Coast Guard (ICG) inducted an indigenous Advanced Light Helicopter (ALH) Mk-III, designated CG 875, into Coast Guard Region (West) at ICG Air Station Ratnagiri, Maharashtra, on 13 October 2026.\n\nBuilt by Hindustan Aeronautics Limited (HAL), the helicopter has an advanced surveillance radar, an electro-optical pod, an Automatic Identification System (AIS) to track ships, and a cabin-mounted 12.7 mm heavy machine gun. It will be used for maritime surveillance, search and rescue, and pollution response along the west coast — strengthening coastal security.\n\nFor IB ACIO: Helicopter — ALH Mk-III (CG 875); Maker — HAL; Inducted at — ICGAS Ratnagiri, Maharashtra; Region — Coast Guard Region (West); Roles — surveillance, SAR, pollution response.",
+      "content_hi": "भारतीय तटरक्षक बल (ICG) ने 13 अक्टूबर 2026 को रत्नागिरि, महाराष्ट्र स्थित ICG वायु स्टेशन पर तटरक्षक क्षेत्र (पश्चिम) में स्वदेशी एडवांस्ड लाइट हेलीकॉप्टर (ALH) Mk-III, CG 875 को शामिल किया।\n\nहिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL) द्वारा निर्मित इस हेलीकॉप्टर में उन्नत निगरानी रडार, इलेक्ट्रो-ऑप्टिकल पॉड, जहाज़ों को ट्रैक करने हेतु स्वचालित पहचान प्रणाली (AIS) और 12.7 मिमी भारी मशीन गन है। यह पश्चिमी तट पर समुद्री निगरानी, खोज एवं बचाव और प्रदूषण प्रतिक्रिया में उपयोग होगा।\n\nIB ACIO: ALH Mk-III — HAL; रत्नागिरि; तटरक्षक क्षेत्र (पश्चिम)।",
+      "question": "The Indian Coast Guard, which inducted the ALH Mk-III helicopter, functions under which ministry?",
+      "question_hi": "ALH Mk-III हेलीकॉप्टर शामिल करने वाला भारतीय तटरक्षक बल किस मंत्रालय के अधीन कार्य करता है?",
+      "options": [
+        "Ministry of Home Affairs",
+        "Ministry of Earth Sciences",
+        "Ministry of Ports, Shipping and Waterways",
+        "Ministry of Defence"
+      ],
+      "options_hi": [
+        "गृह मंत्रालय",
+        "पृथ्वी विज्ञान मंत्रालय",
+        "बंदरगाह, पोत परिवहन और जलमार्ग मंत्रालय",
+        "रक्षा मंत्रालय"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Indian Coast Guard is an armed force of the Union under the Ministry of Defence, set up under the Coast Guard Act, 1978. The MHA trap is common because the Coast Guard handles coastal security and works closely with state marine police and the BSF's water wings — but administratively it comes under Defence.",
+      "explanation_hi": "भारतीय तटरक्षक बल तटरक्षक अधिनियम, 1978 के तहत स्थापित संघ का सशस्त्र बल है और रक्षा मंत्रालय के अधीन है। गृह मंत्रालय का भ्रम आम है क्योंकि तटरक्षक तटीय सुरक्षा संभालता है और राज्य समुद्री पुलिस के साथ काम करता है — पर प्रशासनिक रूप से यह रक्षा मंत्रालय के अधीन है।",
+      "moreInfo": "The ALH Dhruv's maritime version helps the Coast Guard in the Exclusive Economic Zone (EEZ), which extends up to 200 nautical miles from the coast. After the 26/11 attacks (2008), the Coast Guard was made responsible for coastal security in territorial waters.",
+      "moreInfo_hi": "ALH ध्रुव का समुद्री संस्करण तटरक्षक बल को अनन्य आर्थिक क्षेत्र (EEZ) में मदद करता है, जो तट से 200 समुद्री मील तक फैला है। 26/11 हमलों (2008) के बाद तटरक्षक बल को प्रादेशिक जल में तटीय सुरक्षा की ज़िम्मेदारी दी गई।",
+      "relatedDate": "2026-10-15"
+    },
+    {
+      "id": "7",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "Adani Enterprises and US Firm Jabil Sign MoU for 50:50 JV to Make AI and Data Centre Hardware",
+      "title_hi": "अदाणी एंटरप्राइजेज़ और अमेरिकी कंपनी जैबिल ने AI और डेटा सेंटर हार्डवेयर बनाने हेतु 50:50 संयुक्त उद्यम का समझौता किया",
+      "image": null,
+      "summary": "The proposed joint venture will manufacture AI racks, servers, storage, networking and liquid-cooling equipment in India for hyperscalers and data centre operators.",
+      "summary_hi": "प्रस्तावित संयुक्त उद्यम भारत में हाइपरस्केलर्स और डेटा सेंटर संचालकों के लिए AI रैक, सर्वर, स्टोरेज, नेटवर्किंग और लिक्विड-कूलिंग उपकरण बनाएगा।",
+      "content": "Adani Enterprises Ltd (AEL) signed a non-binding MoU with US-based electronics manufacturer Jabil Inc. to set up a 50:50 joint venture to manufacture AI and data centre hardware in India.\n\nProducts will include AI racks, servers, storage and networking equipment, power distribution systems, liquid-cooling equipment and transformers, targeting hyperscalers, neocloud providers, data centre operators and enterprises in India and abroad. India's data centre capacity is expected to reach 5–8 GW by 2030. The plan aligns with the Adani Group's USD 100 billion commitment to build 5 GW of green-powered, AI-ready data centre capacity by 2035.\n\nFor IB ACIO: Partners — Adani Enterprises and Jabil (USA); Structure — 50:50 JV (MoU, non-binding); Products — AI racks, servers, liquid cooling; India data centre capacity 2030 — 5–8 GW.",
+      "content_hi": "अदाणी एंटरप्राइजेज़ लिमिटेड (AEL) ने भारत में AI और डेटा सेंटर हार्डवेयर बनाने हेतु 50:50 संयुक्त उद्यम स्थापित करने के लिए अमेरिकी इलेक्ट्रॉनिक्स निर्माता जैबिल इंक. के साथ गैर-बाध्यकारी समझौता ज्ञापन किया।\n\nउत्पादों में AI रैक, सर्वर, स्टोरेज, नेटवर्किंग उपकरण, बिजली वितरण प्रणाली, लिक्विड-कूलिंग उपकरण और ट्रांसफॉर्मर शामिल होंगे। भारत की डेटा सेंटर क्षमता 2030 तक 5–8 GW होने की उम्मीद है। यह योजना 2035 तक 5 GW हरित, AI-तैयार डेटा सेंटर क्षमता बनाने की अदाणी समूह की 100 अरब डॉलर प्रतिबद्धता से जुड़ी है।\n\nIB ACIO: अदाणी + जैबिल (अमेरिका); 50:50 JV; AI रैक, सर्वर।",
+      "question": "Why is 'liquid cooling' equipment, planned under the Adani–Jabil JV, important for AI data centres?",
+      "question_hi": "अदाणी–जैबिल संयुक्त उद्यम के तहत नियोजित 'लिक्विड कूलिंग' उपकरण AI डेटा सेंटरों के लिए क्यों महत्वपूर्ण है?",
+      "options": [
+        "It removes the very high heat produced by AI chips more efficiently than air cooling",
+        "It stores backup data in liquid form",
+        "It reduces internet latency for users",
+        "It replaces the need for electricity"
+      ],
+      "options_hi": [
+        "यह AI चिप्स से निकलने वाली अत्यधिक गर्मी को एयर कूलिंग से अधिक कुशलता से हटाता है",
+        "यह बैकअप डेटा को तरल रूप में संग्रहीत करता है",
+        "यह उपयोगकर्ताओं के लिए इंटरनेट विलंब घटाता है",
+        "यह बिजली की आवश्यकता समाप्त करता है"
+      ],
+      "correctAnswer": 0,
+      "explanation": "AI chips (GPUs) in dense server racks produce far more heat than ordinary servers, and air cooling struggles to remove it. Liquid cooling carries heat away more efficiently, allowing denser racks and lower energy use. This is why data centre policy also stresses power and water — as NITI Aayog's data centre framework does.",
+      "explanation_hi": "घने सर्वर रैक में AI चिप्स (GPU) सामान्य सर्वरों से कहीं अधिक गर्मी पैदा करते हैं, जिसे एयर कूलिंग से हटाना कठिन है। लिक्विड कूलिंग गर्मी को अधिक कुशलता से हटाती है, जिससे घने रैक और कम ऊर्जा उपयोग संभव होता है। इसीलिए डेटा सेंटर नीति बिजली और पानी पर भी ज़ोर देती है।",
+      "moreInfo": "The IndiaAI Mission (approved March 2024, outlay ₹10,371.92 crore) is building a shared compute capacity of over 34,000 GPUs. Jabil is headquartered in St. Petersburg, Florida, USA.",
+      "moreInfo_hi": "इंडियाAI मिशन (मार्च 2024 में स्वीकृत, परिव्यय ₹10,371.92 करोड़) 34,000 से अधिक GPU की साझा कंप्यूट क्षमता बना रहा है। जैबिल का मुख्यालय सेंट पीटर्सबर्ग, फ्लोरिडा, अमेरिका में है।",
+      "relatedDate": "2026-10-15"
+    },
+    {
+      "id": "8",
+      "category": "Important Days",
+      "category_hi": "महत्वपूर्ण दिवस",
+      "title": "International Day for Disaster Risk Reduction Observed on 13 October",
+      "title_hi": "13 अक्टूबर को अंतरराष्ट्रीय आपदा जोखिम न्यूनीकरण दिवस मनाया गया",
+      "image": null,
+      "summary": "The International Day for Disaster Risk Reduction was observed on 13 October 2026 with the theme 'Resilience Starts at Home'.",
+      "summary_hi": "13 अक्टूबर 2026 को 'लचीलापन घर से शुरू होता है' विषय के साथ अंतरराष्ट्रीय आपदा जोखिम न्यूनीकरण दिवस मनाया गया।",
+      "content": "The International Day for Disaster Risk Reduction (IDDRR) is observed every year on 13 October to promote a global culture of disaster risk awareness and reduction.\n\nThe 2026 theme was 'Resilience Starts at Home'. The UN General Assembly fixed 13 October as the date through Resolution A/RES/64/200 in 2009; the day itself began in 1989 under the International Decade for Natural Disaster Reduction. It is linked to the Sendai Framework for Disaster Risk Reduction 2015–2030, adopted at Sendai, Japan, in 2015, which sets seven global targets to reduce disaster deaths, affected people and economic losses.\n\nFor IB ACIO: Day — 13 October; Theme 2026 — Resilience Starts at Home; UN resolution — A/RES/64/200 (2009); Framework — Sendai Framework 2015–2030; UN office — UNDRR.",
+      "content_hi": "अंतरराष्ट्रीय आपदा जोखिम न्यूनीकरण दिवस (IDDRR) प्रतिवर्ष 13 अक्टूबर को आपदा जोखिम जागरूकता और न्यूनीकरण की वैश्विक संस्कृति को बढ़ावा देने के लिए मनाया जाता है।\n\n2026 का विषय 'लचीलापन घर से शुरू होता है' था। संयुक्त राष्ट्र महासभा ने 2009 में प्रस्ताव A/RES/64/200 द्वारा 13 अक्टूबर तिथि तय की। यह 2015 में जापान के सेंडाई में अपनाए गए आपदा जोखिम न्यूनीकरण हेतु सेंडाई फ्रेमवर्क 2015–2030 से जुड़ा है, जो आपदा मृत्यु और आर्थिक नुकसान घटाने के सात वैश्विक लक्ष्य तय करता है।\n\nIB ACIO: 13 अक्टूबर; सेंडाई फ्रेमवर्क 2015–2030।",
+      "question": "The Sendai Framework for Disaster Risk Reduction, linked to the International Day for DRR, covers which period?",
+      "question_hi": "अंतरराष्ट्रीय DRR दिवस से जुड़ा आपदा जोखिम न्यूनीकरण हेतु सेंडाई फ्रेमवर्क किस अवधि को कवर करता है?",
+      "options": [
+        "2005–2015",
+        "2015–2030",
+        "2016–2030",
+        "2020–2035"
+      ],
+      "options_hi": [
+        "2005–2015",
+        "2015–2030",
+        "2016–2030",
+        "2020–2035"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Sendai Framework covers 2015–2030 and was adopted in Sendai, Japan, in March 2015. It replaced the Hyogo Framework for Action (2005–2015) — that is the first trap. It has 7 targets and 4 priorities for action, the first being 'Understanding disaster risk'.",
+      "explanation_hi": "सेंडाई फ्रेमवर्क 2015–2030 को कवर करता है और मार्च 2015 में जापान के सेंडाई में अपनाया गया। इसने ह्योगो फ्रेमवर्क फॉर एक्शन (2005–2015) की जगह ली — यही पहला भ्रम है। इसमें 7 लक्ष्य और 4 प्राथमिकताएँ हैं, पहली प्राथमिकता 'आपदा जोखिम को समझना' है।",
+      "moreInfo": "India's Disaster Management Act was passed in 2005 and amended in 2025; the NDMA is chaired by the Prime Minister. India leads the Coalition for Disaster Resilient Infrastructure (CDRI), launched in 2019.",
+      "moreInfo_hi": "भारत का आपदा प्रबंधन अधिनियम 2005 में पारित हुआ और 2025 में संशोधित हुआ; NDMA की अध्यक्षता प्रधानमंत्री करते हैं। भारत 2019 में शुरू आपदा-रोधी अवसंरचना गठबंधन (CDRI) का नेतृत्व करता है।",
+      "relatedDate": "2026-10-15"
+    },
+    {
+      "id": "9",
+      "category": "Important Days",
+      "category_hi": "महत्वपूर्ण दिवस",
+      "title": "World Standards Day Observed on 14 October",
+      "title_hi": "14 अक्टूबर को विश्व मानक दिवस मनाया गया",
+      "image": null,
+      "summary": "World Standards Day was observed on 14 October 2026 by ISO, IEC and ITU, with the 2026 focus on SDG 7 — affordable and clean energy.",
+      "summary_hi": "14 अक्टूबर 2026 को ISO, IEC और ITU ने विश्व मानक दिवस मनाया, जिसका 2026 का फोकस SDG 7 — सस्ती और स्वच्छ ऊर्जा — पर रहा।",
+      "content": "World Standards Day, also called International Standards Day, is observed every year on 14 October to honour the experts who develop voluntary international standards.\n\nIt is jointly observed by the International Organization for Standardization (ISO), the International Electrotechnical Commission (IEC) and the International Telecommunication Union (ITU). The 2026 theme focused on Sustainable Development Goal 7 (affordable and clean energy). The day recalls the 1946 London meeting of delegates from 25 countries that led to the founding of ISO in 1947; it was first observed in 1970. In India, the Bureau of Indian Standards (BIS) marked the day with new launches, including a silver refinery certification scheme.\n\nFor IB ACIO: Day — 14 October; Observed by — ISO, IEC, ITU; 2026 focus — SDG 7; ISO founded — 1947; India's national standards body — BIS.",
+      "content_hi": "विश्व मानक दिवस, जिसे अंतरराष्ट्रीय मानक दिवस भी कहते हैं, प्रतिवर्ष 14 अक्टूबर को स्वैच्छिक अंतरराष्ट्रीय मानक विकसित करने वाले विशेषज्ञों के सम्मान में मनाया जाता है।\n\nइसे अंतरराष्ट्रीय मानकीकरण संगठन (ISO), अंतरराष्ट्रीय इलेक्ट्रोटेक्निकल आयोग (IEC) और अंतरराष्ट्रीय दूरसंचार संघ (ITU) संयुक्त रूप से मनाते हैं। 2026 का फोकस SDG 7 (सस्ती और स्वच्छ ऊर्जा) पर था। यह 1946 की लंदन बैठक की याद दिलाता है जिससे 1947 में ISO की स्थापना हुई। भारत में भारतीय मानक ब्यूरो (BIS) ने इस दिन नई पहलें शुरू कीं।\n\nIB ACIO: 14 अक्टूबर; ISO, IEC, ITU; ISO स्थापना — 1947; भारत — BIS।",
+      "question": "Where is the headquarters of the International Organization for Standardization (ISO)?",
+      "question_hi": "अंतरराष्ट्रीय मानकीकरण संगठन (ISO) का मुख्यालय कहाँ है?",
+      "options": [
+        "London",
+        "Paris",
+        "Brussels",
+        "Geneva"
+      ],
+      "options_hi": [
+        "लंदन",
+        "पेरिस",
+        "ब्रुसेल्स",
+        "जिनेवा"
+      ],
+      "correctAnswer": 3,
+      "explanation": "ISO is headquartered in Geneva, Switzerland, and was founded in 1947. London is the trap — the 1946 meeting that led to ISO's creation took place there. Fun fact: 'ISO' is not an acronym; it comes from the Greek word 'isos', meaning equal.",
+      "explanation_hi": "ISO का मुख्यालय जिनेवा, स्विट्ज़रलैंड में है और इसकी स्थापना 1947 में हुई। लंदन गलत विकल्प है — ISO के गठन की 1946 की बैठक वहीं हुई थी। रोचक तथ्य: 'ISO' संक्षिप्त नाम नहीं है; यह ग्रीक शब्द 'आइसोस' से आया है जिसका अर्थ 'समान' है।",
+      "moreInfo": "India's BIS was set up as the Indian Standards Institution (ISI) in 1947, became BIS in 1987 and now works under the BIS Act, 2016, under the Ministry of Consumer Affairs, Food and Public Distribution. India is a founder member of ISO.",
+      "moreInfo_hi": "भारत का BIS 1947 में भारतीय मानक संस्थान (ISI) के रूप में बना, 1987 में BIS बना और अब उपभोक्ता मामले, खाद्य एवं सार्वजनिक वितरण मंत्रालय के अधीन BIS अधिनियम, 2016 के तहत कार्य करता है। भारत ISO का संस्थापक सदस्य है।",
+      "relatedDate": "2026-10-15"
+    },
+    {
+      "id": "10",
+      "category": "States",
+      "category_hi": "राज्य",
+      "title": "West Bengal Approves 'Bhagini Nivedita Scheme' Giving ₹50,000 to Unmarried Women in Higher Education",
+      "title_hi": "पश्चिम बंगाल ने उच्च शिक्षा में अविवाहित महिलाओं को ₹50,000 देने वाली 'भगिनी निवेदिता योजना' को मंज़ूरी दी",
+      "image": null,
+      "summary": "The West Bengal Cabinet under CM Suvendu Adhikari approved the Bhagini Nivedita Scheme, providing ₹50,000 over three years to unmarried women pursuing higher education, from January 2027.",
+      "summary_hi": "मुख्यमंत्री सुवेंदु अधिकारी के नेतृत्व में पश्चिम बंगाल कैबिनेट ने भगिनी निवेदिता योजना को मंज़ूरी दी, जो जनवरी 2027 से उच्च शिक्षा प्राप्त कर रही अविवाहित महिलाओं को तीन वर्षों में ₹50,000 देगी।",
+      "content": "The West Bengal Cabinet, chaired by Chief Minister Suvendu Adhikari, approved the 'Bhagini Nivedita Scheme' on 5 October 2026.\n\nUnder the scheme, unmarried women pursuing higher education will receive a total of ₹50,000 — ₹17,000 in the first year, ₹17,000 in the second and ₹16,000 in the third. Implementation will begin in January 2027. The Cabinet also raised the monthly remuneration of Karmabandhus from ₹5,000 to ₹8,000 and increased the food allowance for SC/ST students in government hostels from ₹1,800 to ₹3,300 per month.\n\nFor IB ACIO: State — West Bengal; Scheme — Bhagini Nivedita Scheme; Benefit — ₹50,000 over 3 years; Beneficiaries — unmarried women in higher education; Start — January 2027; CM — Suvendu Adhikari.",
+      "content_hi": "मुख्यमंत्री सुवेंदु अधिकारी की अध्यक्षता में पश्चिम बंगाल कैबिनेट ने 5 अक्टूबर 2026 को 'भगिनी निवेदिता योजना' को मंज़ूरी दी।\n\nइसके तहत उच्च शिक्षा प्राप्त कर रही अविवाहित महिलाओं को कुल ₹50,000 मिलेंगे — पहले वर्ष ₹17,000, दूसरे वर्ष ₹17,000 और तीसरे वर्ष ₹16,000। कार्यान्वयन जनवरी 2027 से शुरू होगा। कैबिनेट ने कर्मबंधुओं का मासिक पारिश्रमिक ₹5,000 से बढ़ाकर ₹8,000 और सरकारी छात्रावासों में SC/ST छात्रों का भोजन भत्ता ₹1,800 से बढ़ाकर ₹3,300 प्रति माह किया।\n\nIB ACIO: पश्चिम बंगाल — भगिनी निवेदिता योजना; ₹50,000 तीन वर्षों में; शुरुआत — जनवरी 2027।",
+      "question": "Sister Nivedita, after whom West Bengal's new scheme for women students is named, was a disciple of whom?",
+      "question_hi": "सिस्टर निवेदिता, जिनके नाम पर पश्चिम बंगाल की छात्राओं के लिए नई योजना है, किनकी शिष्या थीं?",
+      "options": [
+        "Swami Vivekananda",
+        "Ramakrishna Paramahamsa",
+        "Sri Aurobindo",
+        "Rabindranath Tagore"
+      ],
+      "options_hi": [
+        "स्वामी विवेकानंद",
+        "रामकृष्ण परमहंस",
+        "श्री अरबिंदो",
+        "रवींद्रनाथ टैगोर"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sister Nivedita, born Margaret Elizabeth Noble in Ireland, was a disciple of Swami Vivekananda, who gave her the name 'Nivedita' (one dedicated to God). She opened a girls' school in Kolkata's Baghbazar in 1898, which makes a women's education scheme in her name very fitting.",
+      "explanation_hi": "सिस्टर निवेदिता, जिनका जन्म नाम मार्गरेट एलिज़ाबेथ नोबल था और जो आयरलैंड की थीं, स्वामी विवेकानंद की शिष्या थीं, जिन्होंने उन्हें 'निवेदिता' (ईश्वर को समर्पित) नाम दिया। उन्होंने 1898 में कोलकाता के बागबाज़ार में बालिका विद्यालय खोला, इसलिए उनके नाम पर महिला शिक्षा योजना उपयुक्त है।",
+      "moreInfo": "Swami Vivekananda founded the Ramakrishna Mission in 1897; his birthday, 12 January, is celebrated as National Youth Day. Sister Nivedita also wrote 'Kali the Mother' and supported India's freedom movement.",
+      "moreInfo_hi": "स्वामी विवेकानंद ने 1897 में रामकृष्ण मिशन की स्थापना की; उनका जन्मदिन 12 जनवरी राष्ट्रीय युवा दिवस के रूप में मनाया जाता है। सिस्टर निवेदिता ने 'काली द मदर' भी लिखी और भारत के स्वतंत्रता आंदोलन का समर्थन किया।",
+      "relatedDate": "2026-10-15"
+    }
+  ]
+}

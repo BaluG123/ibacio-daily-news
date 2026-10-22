@@ -1,0 +1,295 @@
+{
+  "date": "2026-10-18",
+  "editionTitle": "IB ACIO Daily Current Affairs — 18 October 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 18 अक्टूबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "VP Radhakrishnan Commissions INS Samarthak, Navy's First Indigenous Multi-Purpose Vessel, at Karwar",
+      "title_hi": "उपराष्ट्रपति राधाकृष्णन ने कारवार में नौसेना का पहला स्वदेशी बहुउद्देशीय पोत INS समर्थक कमीशन किया",
+      "image": null,
+      "summary": "INS Samarthak, built by L&T at Kattupalli, is the first major warship designed and delivered by an Indian private shipyard, with over 75% indigenous content.",
+      "summary_hi": "कट्टुपल्ली में L&T द्वारा निर्मित INS समर्थक किसी भारतीय निजी शिपयार्ड द्वारा डिज़ाइन और सौंपा गया पहला बड़ा युद्धपोत है, जिसमें 75% से अधिक स्वदेशी सामग्री है।",
+      "content": "On 16 October 2026, Vice-President C.P. Radhakrishnan commissioned INS Samarthak, the Indian Navy's first indigenous Multi-Purpose Vessel (MPV), at the INS Kadamba naval base, Karwar, Karnataka.\n\nThe ship was built by Larsen & Toubro (L&T) at its Kattupalli shipyard in Tamil Nadu, using modular construction and pre-outfitting to cut build time. It is the first major naval warship designed and delivered by an Indian private shipyard, with over 75% indigenous content. 'Samarthak' means 'the proponent' in Sanskrit; its motto is 'Vijayartham Ekanishthata' (Victory is our sole aim) and its emblem shows an elephant rising from the waves. Multi-purpose vessels support the fleet through tasks like target towing, launching and recovering targets, and trials.\n\nFor IB ACIO: Ship — INS Samarthak (1st indigenous MPV); Builder — L&T, Kattupalli (TN); Commissioned by — VP C.P. Radhakrishnan; Place — INS Kadamba, Karwar; Indigenous content — 75%+; First — major warship by an Indian private shipyard.",
+      "content_hi": "16 अक्टूबर 2026 को उपराष्ट्रपति सी.पी. राधाकृष्णन ने कर्नाटक के कारवार स्थित INS कदंबा नौसैनिक अड्डे पर भारतीय नौसेना के पहले स्वदेशी बहुउद्देशीय पोत (MPV) INS समर्थक को कमीशन किया।\n\nजहाज़ लार्सन एंड टुब्रो (L&T) ने तमिलनाडु के कट्टुपल्ली शिपयार्ड में मॉड्यूलर निर्माण से बनाया। यह किसी भारतीय निजी शिपयार्ड द्वारा डिज़ाइन और सौंपा गया पहला बड़ा नौसैनिक युद्धपोत है, जिसमें 75% से अधिक स्वदेशी सामग्री है। 'समर्थक' का संस्कृत में अर्थ 'प्रस्तावक' है; आदर्श वाक्य 'विजयार्थम् एकनिष्ठता' है और प्रतीक चिह्न में लहरों से उठता हाथी है।\n\nIB ACIO: INS समर्थक — पहला स्वदेशी MPV; निर्माता — L&T, कट्टुपल्ली; कमीशन — INS कदंबा, कारवार।",
+      "question": "INS Samarthak, the Indian Navy's first indigenous Multi-Purpose Vessel, was built by which company?",
+      "question_hi": "भारतीय नौसेना का पहला स्वदेशी बहुउद्देशीय पोत INS समर्थक किस कंपनी ने बनाया?",
+      "options": [
+        "Cochin Shipyard Limited",
+        "Larsen & Toubro",
+        "Mazagon Dock Shipbuilders",
+        "Goa Shipyard Limited"
+      ],
+      "options_hi": [
+        "कोचीन शिपयार्ड लिमिटेड",
+        "लार्सन एंड टुब्रो",
+        "मझगांव डॉक शिपबिल्डर्स",
+        "गोवा शिपयार्ड लिमिटेड"
+      ],
+      "correctAnswer": 1,
+      "explanation": "INS Samarthak was built by Larsen & Toubro at Kattupalli, near Chennai. This is the key point: it is the first major warship designed and delivered by an Indian PRIVATE shipyard. All other options are public sector defence shipyards, which have built most Indian warships so far.",
+      "explanation_hi": "INS समर्थक चेन्नई के पास कट्टुपल्ली में लार्सन एंड टुब्रो ने बनाया। मुख्य बिंदु: यह किसी भारतीय निजी शिपयार्ड द्वारा डिज़ाइन और सौंपा गया पहला बड़ा युद्धपोत है। अन्य सभी विकल्प सार्वजनिक क्षेत्र के रक्षा शिपयार्ड हैं, जिन्होंने अब तक अधिकांश भारतीय युद्धपोत बनाए हैं।",
+      "moreInfo": "INS Kadamba at Karwar is being developed under Project Seabird, set to become one of the largest naval bases in Asia. L&T's Kattupalli yard is also building fleet support ships subcontracted by Hindustan Shipyard.",
+      "moreInfo_hi": "कारवार स्थित INS कदंबा को प्रोजेक्ट सीबर्ड के तहत विकसित किया जा रहा है, जो एशिया के सबसे बड़े नौसैनिक अड्डों में से एक बनेगा। L&T का कट्टुपल्ली यार्ड हिंदुस्तान शिपयार्ड से उप-अनुबंधित फ्लीट सपोर्ट शिप भी बना रहा है।",
+      "relatedDate": "2026-10-18"
+    },
+    {
+      "id": "2",
+      "category": "Science & Technology",
+      "category_hi": "विज्ञान एवं प्रौद्योगिकी",
+      "title": "ISRO Validates Gaganyaan Crew Module–Service Module Separation System at VSSC",
+      "title_hi": "ISRO ने VSSC में गगनयान क्रू मॉड्यूल–सर्विस मॉड्यूल पृथक्करण प्रणाली का सत्यापन किया",
+      "image": null,
+      "summary": "ISRO completed Crew Module and Service Module separation tests at VSSC, Thiruvananthapuram, ahead of the uncrewed Gaganyaan-1 (G1) mission that will carry the half-humanoid Vyommitra.",
+      "summary_hi": "ISRO ने अर्ध-मानवाकार व्योममित्र को ले जाने वाले मानवरहित गगनयान-1 (G1) मिशन से पहले VSSC, तिरुवनंतपुरम में क्रू मॉड्यूल और सर्विस मॉड्यूल पृथक्करण परीक्षण पूरे किए।",
+      "content": "ISRO completed separation tests of the Gaganyaan Crew Module (CM) and Service Module (SM) at the Vikram Sarabhai Space Centre (VSSC), Thiruvananthapuram, Kerala.\n\nThe two modules stay joined until the orbital phase. The test simulated cutting the electrical and fluid umbilical connections between them, confirming the separation system design. This clears an important step before Gaganyaan-1 (G1), the first uncrewed orbital test flight, which will carry Vyommitra, a half-humanoid robot. Under the Gaganyaan programme, a three-member crew will orbit Earth at about 400 km for up to three days and splash down in Indian waters.\n\nFor IB ACIO: Programme — Gaganyaan (India's human spaceflight); Test — CM–SM separation; Place — VSSC, Thiruvananthapuram; Next — G1 uncrewed flight with Vyommitra; Orbit — ~400 km LEO; Crew — 3, up to 3 days.",
+      "content_hi": "ISRO ने केरल के तिरुवनंतपुरम स्थित विक्रम साराभाई अंतरिक्ष केंद्र (VSSC) में गगनयान क्रू मॉड्यूल (CM) और सर्विस मॉड्यूल (SM) के पृथक्करण परीक्षण पूरे किए।\n\nदोनों मॉड्यूल कक्षीय चरण तक जुड़े रहते हैं। परीक्षण में उनके बीच विद्युत और द्रव संयोजनों को काटने का अनुकरण किया गया। यह पहली मानवरहित कक्षीय परीक्षण उड़ान गगनयान-1 (G1) से पहले अहम कदम है, जिसमें अर्ध-मानवाकार रोबोट व्योममित्र जाएगा। गगनयान कार्यक्रम में तीन सदस्यीय दल लगभग 400 किमी की कक्षा में तीन दिन तक रहेगा।\n\nIB ACIO: गगनयान — CM–SM पृथक्करण परीक्षण; VSSC; अगला — G1 व्योममित्र के साथ।",
+      "question": "'Vyommitra', which will fly on the uncrewed Gaganyaan-1 mission, is what?",
+      "question_hi": "मानवरहित गगनयान-1 मिशन में उड़ान भरने वाला 'व्योममित्र' क्या है?",
+      "options": [
+        "A crew escape rocket",
+        "An Indian astronaut-designate",
+        "A navigation satellite",
+        "A half-humanoid robot"
+      ],
+      "options_hi": [
+        "क्रू बचाव रॉकेट",
+        "भारतीय अंतरिक्ष यात्री-नामित",
+        "नेविगेशन उपग्रह",
+        "अर्ध-मानवाकार रोबोट"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Vyommitra ('space friend') is a half-humanoid robot developed by ISRO that will monitor the crew module's systems and simulate human functions on uncrewed test flights. The four astronaut-designates are IAF officers — Prashanth Balakrishnan Nair, Ajit Krishnan, Angad Pratap and Shubhanshu Shukla, who flew to the ISS on Axiom-4 in 2025.",
+      "explanation_hi": "व्योममित्र ('अंतरिक्ष मित्र') ISRO द्वारा विकसित अर्ध-मानवाकार रोबोट है जो मानवरहित परीक्षण उड़ानों में क्रू मॉड्यूल की प्रणालियों की निगरानी करेगा और मानव कार्यों का अनुकरण करेगा। चार अंतरिक्ष यात्री-नामित वायुसेना अधिकारी हैं — प्रशांत बालकृष्णन नायर, अजीत कृष्णन, अंगद प्रताप और शुभांशु शुक्ला, जो 2025 में एक्सिओम-4 से ISS गए।",
+      "moreInfo": "Gaganyaan will be launched on the human-rated LVM3 (HLVM3) from Satish Dhawan Space Centre, Sriharikota. Rakesh Sharma (1984) was the first Indian in space, aboard the Soviet Soyuz T-11. India plans its own space station, Bharatiya Antariksh Station, by 2035.",
+      "moreInfo_hi": "गगनयान को सतीश धवन अंतरिक्ष केंद्र, श्रीहरिकोटा से मानव-योग्य LVM3 (HLVM3) से लॉन्च किया जाएगा। राकेश शर्मा (1984) सोवियत सोयुज़ T-11 से अंतरिक्ष जाने वाले पहले भारतीय थे। भारत 2035 तक अपना अंतरिक्ष स्टेशन 'भारतीय अंतरिक्ष स्टेशन' बनाने की योजना रखता है।",
+      "relatedDate": "2026-10-18"
+    },
+    {
+      "id": "3",
+      "category": "Important Days",
+      "category_hi": "महत्वपूर्ण दिवस",
+      "title": "World Food Day 2026 Marks FAO's 81st Anniversary",
+      "title_hi": "विश्व खाद्य दिवस 2026 पर FAO की 81वीं वर्षगांठ",
+      "image": null,
+      "summary": "World Food Day was observed on 16 October 2026, the 81st anniversary of the FAO, with the theme 'Innovate today. Nourish tomorrow.'",
+      "summary_hi": "16 अक्टूबर 2026 को FAO की 81वीं वर्षगांठ पर 'आज नवाचार करें, कल पोषण दें' विषय के साथ विश्व खाद्य दिवस मनाया गया।",
+      "content": "World Food Day is observed every year on 16 October to raise awareness about hunger, food security and healthy, safe diets. 2026 marked the 81st anniversary of the Food and Agriculture Organization (FAO), founded on 16 October 1945.\n\nThe 2026 theme was 'Innovate today. Nourish tomorrow.' The day was established at FAO's 20th Conference in 1979, recognised by the UN General Assembly in 1980, and first observed on 16 October 1981. The FAO led the global ceremony in Rome as part of World Food Week. The day came just after the Global Hunger Index 2026 placed India 100th among 122 countries.\n\nFor IB ACIO: Day — 16 October; Marks — FAO's founding (1945); Theme 2026 — Innovate today. Nourish tomorrow.; First observed — 1981; FAO HQ — Rome.",
+      "content_hi": "विश्व खाद्य दिवस प्रतिवर्ष 16 अक्टूबर को भूख, खाद्य सुरक्षा और स्वस्थ, सुरक्षित आहार के प्रति जागरूकता के लिए मनाया जाता है। 2026 में 16 अक्टूबर 1945 को स्थापित खाद्य एवं कृषि संगठन (FAO) की 81वीं वर्षगांठ थी।\n\n2026 का विषय 'आज नवाचार करें, कल पोषण दें' था। यह दिवस 1979 में FAO के 20वें सम्मेलन में स्थापित हुआ, 1980 में संयुक्त राष्ट्र महासभा ने मान्यता दी और पहली बार 16 अक्टूबर 1981 को मनाया गया। FAO ने रोम में विश्व खाद्य सप्ताह के तहत वैश्विक समारोह आयोजित किया।\n\nIB ACIO: 16 अक्टूबर; FAO स्थापना — 1945; पहली बार — 1981; FAO मुख्यालय — रोम।",
+      "question": "World Food Day on 16 October marks the founding of which organisation?",
+      "question_hi": "16 अक्टूबर को विश्व खाद्य दिवस किस संगठन की स्थापना का प्रतीक है?",
+      "options": [
+        "Food and Agriculture Organization (FAO)",
+        "World Food Programme (WFP)",
+        "International Fund for Agricultural Development (IFAD)",
+        "UNICEF"
+      ],
+      "options_hi": [
+        "खाद्य एवं कृषि संगठन (FAO)",
+        "विश्व खाद्य कार्यक्रम (WFP)",
+        "अंतरराष्ट्रीय कृषि विकास कोष (IFAD)",
+        "यूनिसेफ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "World Food Day marks the founding of FAO on 16 October 1945 (at Quebec City, Canada). WFP and IFAD are also Rome-based UN food agencies, which makes them tricky distractors — WFP won the Nobel Peace Prize in 2020.",
+      "explanation_hi": "विश्व खाद्य दिवस 16 अक्टूबर 1945 को (क्यूबेक सिटी, कनाडा में) FAO की स्थापना का प्रतीक है। WFP और IFAD भी रोम स्थित UN खाद्य एजेंसियाँ हैं, इसलिए भ्रमित करने वाले विकल्प हैं — WFP को 2020 में नोबेल शांति पुरस्कार मिला।",
+      "moreInfo": "India's National Food Security Act, 2013 covers up to 75% of the rural and 50% of the urban population. Under PM Garib Kalyan Anna Yojana, free food grains are provided to about 81 crore people, extended for five years from January 2024.",
+      "moreInfo_hi": "भारत का राष्ट्रीय खाद्य सुरक्षा अधिनियम, 2013 ग्रामीण आबादी के 75% और शहरी आबादी के 50% तक को कवर करता है। प्रधानमंत्री गरीब कल्याण अन्न योजना के तहत लगभग 81 करोड़ लोगों को मुफ्त अनाज मिलता है, जिसे जनवरी 2024 से पाँच वर्ष के लिए बढ़ाया गया।",
+      "relatedDate": "2026-10-18"
+    },
+    {
+      "id": "4",
+      "category": "Reports & Indices",
+      "category_hi": "रिपोर्ट एवं सूचकांक",
+      "title": "Henley Passport Index 2026: Singapore Tops; India Rises to 84th",
+      "title_hi": "हेनले पासपोर्ट इंडेक्स 2026: सिंगापुर शीर्ष पर; भारत 84वें स्थान पर",
+      "image": null,
+      "summary": "In the October 2026 Henley Passport Index, India moved up one place to 84th with visa-free access to 55 destinations, while Singapore stayed first with 193.",
+      "summary_hi": "अक्टूबर 2026 के हेनले पासपोर्ट इंडेक्स में भारत एक स्थान ऊपर 84वें स्थान पर पहुंचा, 55 गंतव्यों तक वीज़ा-मुक्त पहुंच के साथ, जबकि सिंगापुर 193 के साथ पहले स्थान पर रहा।",
+      "content": "Henley & Partners, a London-based investment migration consultancy, released the 2026 Henley Passport Index, which ranks passports by the number of destinations holders can visit without a prior visa.\n\nIndia rose one place to 84th (from 85th), though its visa-free access fell from 57 to 55 destinations; it shares the rank with Algeria and Mauritania. Singapore retained the top spot with access to 193 destinations, followed by Japan, the UAE and South Korea (188), and Sweden (187). The USA was 10th. Afghanistan had the weakest passport (106th, 22 destinations), followed by Syria, Iraq and Pakistan (103rd).\n\nFor IB ACIO: Index — Henley Passport Index 2026; Publisher — Henley & Partners; Top — Singapore (193); India — 84th (55 destinations); Weakest — Afghanistan; Pakistan — 103rd; Data source — IATA.",
+      "content_hi": "लंदन स्थित निवेश प्रवासन परामर्श फर्म हेनले एंड पार्टनर्स ने 2026 हेनले पासपोर्ट इंडेक्स जारी किया, जो बिना पूर्व वीज़ा के यात्रा योग्य गंतव्यों की संख्या के आधार पर पासपोर्टों को रैंक करता है।\n\nभारत एक स्थान ऊपर 84वें (85वें से) स्थान पर पहुंचा, हालांकि वीज़ा-मुक्त पहुंच 57 से घटकर 55 गंतव्य रह गई; अल्जीरिया और मॉरिटानिया भी इसी स्थान पर हैं। सिंगापुर 193 गंतव्यों के साथ शीर्ष पर रहा, फिर जापान, UAE और दक्षिण कोरिया (188)। अफ़ग़ानिस्तान का पासपोर्ट सबसे कमज़ोर रहा (106वाँ), जबकि पाकिस्तान 103वें स्थान पर रहा।\n\nIB ACIO: हेनले पासपोर्ट इंडेक्स 2026; शीर्ष — सिंगापुर (193); भारत — 84वाँ (55)।",
+      "question": "What is India's rank in the Henley Passport Index released in October 2026?",
+      "question_hi": "अक्टूबर 2026 में जारी हेनले पासपोर्ट इंडेक्स में भारत का स्थान क्या है?",
+      "options": [
+        "77th",
+        "80th",
+        "84th",
+        "85th"
+      ],
+      "options_hi": [
+        "77वाँ",
+        "80वाँ",
+        "84वाँ",
+        "85वाँ"
+      ],
+      "correctAnswer": 2,
+      "explanation": "India is 84th, up from 85th, even though visa-free access fell from 57 to 55 destinations — ranks can improve when other countries fall further. 85th is the trap (last year's rank). The index uses exclusive data from IATA (International Air Transport Association).",
+      "explanation_hi": "भारत 85वें से ऊपर 84वें स्थान पर है, भले ही वीज़ा-मुक्त पहुंच 57 से घटकर 55 हो गई — दूसरे देशों के अधिक गिरने से रैंक सुधर सकती है। 85वाँ भ्रम है (पिछले वर्ष की रैंक)। यह सूचकांक IATA (अंतरराष्ट्रीय वायु परिवहन संघ) के आंकड़ों का उपयोग करता है।",
+      "moreInfo": "India issues e-Passports with an embedded chip, rolled out nationally from 2025 under Passport Seva Programme 2.0. Passports in India are issued under the Passports Act, 1967, by the Ministry of External Affairs.",
+      "moreInfo_hi": "भारत चिप-युक्त ई-पासपोर्ट जारी करता है, जो पासपोर्ट सेवा कार्यक्रम 2.0 के तहत 2025 से देशभर में शुरू हुए। भारत में पासपोर्ट विदेश मंत्रालय द्वारा पासपोर्ट अधिनियम, 1967 के तहत जारी किए जाते हैं।",
+      "relatedDate": "2026-10-18"
+    },
+    {
+      "id": "5",
+      "category": "States",
+      "category_hi": "राज्य",
+      "title": "Sankoo Becomes Ladakh's 8th District, Carved Out of Kargil",
+      "title_hi": "कारगिल से अलग होकर सांकू लद्दाख का 8वां ज़िला बना",
+      "image": null,
+      "summary": "Ladakh LG Vinai Kumar Saxena announced Sankoo as the UT's 8th district, carved out of Kargil, with a separate hill development council notified under the LAHDC Act, 1997.",
+      "summary_hi": "लद्दाख के उपराज्यपाल विनय कुमार सक्सेना ने कारगिल से अलग करके सांकू को केंद्र शासित प्रदेश का 8वां ज़िला घोषित किया और LAHDC अधिनियम, 1997 के तहत अलग पहाड़ी विकास परिषद अधिसूचित की गई।",
+      "content": "On 16 October 2026, Ladakh's Lieutenant Governor Vinai Kumar Saxena announced that Sankoo, carved out of Kargil district, is the 8th district of the Union Territory of Ladakh.\n\nA separate Ladakh Autonomous Hill Development Council (LAHDC) was notified under the LAHDC Act, 1997. Sankoo town will be the district headquarters, with four tehsils — Sankoo, GM Pore (Gund Mangalpore), TSG (Trespone–Saliskote–Gund) and Taisuru. The move aims to decentralise administration, bring services closer to people in remote areas and meet a long-standing local demand.\n\nFor IB ACIO: New district — Sankoo (8th in Ladakh); Carved out of — Kargil; Announced by — LG Vinai Kumar Saxena; Council — LAHDC Act, 1997; Tehsils — 4.",
+      "content_hi": "16 अक्टूबर 2026 को लद्दाख के उपराज्यपाल विनय कुमार सक्सेना ने घोषणा की कि कारगिल ज़िले से अलग किया गया सांकू लद्दाख केंद्र शासित प्रदेश का 8वां ज़िला है।\n\nLAHDC अधिनियम, 1997 के तहत अलग लद्दाख स्वायत्त पहाड़ी विकास परिषद (LAHDC) अधिसूचित की गई। सांकू ज़िला मुख्यालय होगा, जिसमें चार तहसीलें — सांकू, GM पोर, TSG और तैसुरु — होंगी। उद्देश्य प्रशासन का विकेंद्रीकरण, दूरस्थ क्षेत्रों तक सेवाएँ पहुँचाना और लंबे समय से चली आ रही मांग पूरी करना है।\n\nIB ACIO: सांकू — लद्दाख का 8वां ज़िला; कारगिल से अलग; LAHDC अधिनियम, 1997।",
+      "question": "Sankoo, which became Ladakh's 8th district in October 2026, has been carved out of which district?",
+      "question_hi": "अक्टूबर 2026 में लद्दाख का 8वां ज़िला बना सांकू किस ज़िले से अलग किया गया है?",
+      "options": [
+        "Leh",
+        "Kargil",
+        "Zanskar",
+        "Nubra"
+      ],
+      "options_hi": [
+        "लेह",
+        "कारगिल",
+        "ज़ांस्कर",
+        "नुब्रा"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sankoo was carved out of Kargil district. Ladakh had just two districts — Leh and Kargil — until August 2024, when the MHA announced five new ones: Zanskar, Drass, Sham, Nubra and Changthang, taking the total to seven. Sankoo makes it eight.",
+      "explanation_hi": "सांकू को कारगिल ज़िले से अलग किया गया। अगस्त 2024 तक लद्दाख में केवल दो ज़िले — लेह और कारगिल — थे, जब गृह मंत्रालय ने पाँच नए ज़िले — ज़ांस्कर, द्रास, शाम, नुब्रा और चांगथांग — घोषित किए, जिससे कुल सात हुए। सांकू से यह आठ हो गए।",
+      "moreInfo": "Ladakh became a Union Territory without a legislature on 31 October 2019 under the Jammu and Kashmir Reorganisation Act, 2019. It has two hill councils of long standing — LAHDC Leh (1995) and LAHDC Kargil (2003).",
+      "moreInfo_hi": "जम्मू और कश्मीर पुनर्गठन अधिनियम, 2019 के तहत लद्दाख 31 अक्टूबर 2019 को बिना विधानसभा वाला केंद्र शासित प्रदेश बना। यहाँ दो पुरानी पहाड़ी परिषदें हैं — LAHDC लेह (1995) और LAHDC कारगिल (2003)।",
+      "relatedDate": "2026-10-18"
+    },
+    {
+      "id": "6",
+      "category": "Mergers & Acquisitions",
+      "category_hi": "विलय एवं अधिग्रहण",
+      "title": "RBI Approves Merger of Emirates NBD's Indian Branches into RBL Bank from 1 December 2026",
+      "title_hi": "RBI ने 1 दिसंबर 2026 से एमिरेट्स NBD की भारतीय शाखाओं के RBL बैंक में विलय को मंज़ूरी दी",
+      "image": null,
+      "summary": "RBI approved the amalgamation of Dubai-based Emirates NBD's three Indian branches into RBL Bank, in which Emirates NBD acquired a 60% stake in June 2026.",
+      "summary_hi": "RBI ने दुबई स्थित एमिरेट्स NBD की तीन भारतीय शाखाओं के RBL बैंक में विलय को मंज़ूरी दी, जिसमें एमिरेट्स NBD ने जून 2026 में 60% हिस्सेदारी ली थी।",
+      "content": "The Reserve Bank of India approved the amalgamation of the Indian branches of Dubai-based Emirates NBD Bank (P.J.S.C.) into RBL Bank Limited, effective 1 December 2026, under Section 44A(4) of the Banking Regulation Act, 1949.\n\nEmirates NBD has three branches in India — Mumbai, Chennai and Gurugram. On 18 June 2026, it acquired a 60% stake in RBL Bank by buying 929.1 million shares at ₹280 each, bringing about ₹26,016 crore of primary capital — one of the largest foreign investments in an Indian private bank. Separately, the RBI issued a no-objection certificate for merging REC Limited into Power Finance Corporation (PFC).\n\nFor IB ACIO: Merger — Emirates NBD India branches into RBL Bank; Effective — 1 Dec 2026; Law — Section 44A, BR Act 1949; Emirates NBD stake in RBL — 60%; Also — RBI NOC for REC–PFC merger.",
+      "content_hi": "भारतीय रिज़र्व बैंक ने बैंकिंग विनियमन अधिनियम, 1949 की धारा 44A(4) के तहत दुबई स्थित एमिरेट्स NBD बैंक की भारतीय शाखाओं के RBL बैंक लिमिटेड में विलय को 1 दिसंबर 2026 से मंज़ूरी दी।\n\nएमिरेट्स NBD की भारत में तीन शाखाएँ हैं — मुंबई, चेन्नई और गुरुग्राम। 18 जून 2026 को इसने ₹280 प्रति शेयर पर 92.91 करोड़ शेयर खरीदकर RBL बैंक में 60% हिस्सेदारी ली, जिससे लगभग ₹26,016 करोड़ की प्राथमिक पूंजी आई। अलग से RBI ने REC लिमिटेड के पावर फाइनेंस कॉरपोरेशन (PFC) में विलय के लिए अनापत्ति प्रमाणपत्र दिया।\n\nIB ACIO: एमिरेट्स NBD – RBL विलय; प्रभावी — 1 दिसंबर 2026; धारा 44A।",
+      "question": "Emirates NBD, whose Indian branches will merge into RBL Bank, is headquartered in which city?",
+      "question_hi": "एमिरेट्स NBD, जिसकी भारतीय शाखाएँ RBL बैंक में विलय होंगी, का मुख्यालय किस शहर में है?",
+      "options": [
+        "Abu Dhabi",
+        "Riyadh",
+        "Doha",
+        "Dubai"
+      ],
+      "options_hi": [
+        "अबू धाबी",
+        "रियाद",
+        "दोहा",
+        "दुबई"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Emirates NBD is headquartered in Dubai, UAE, and is owned largely by the Investment Corporation of Dubai. Abu Dhabi is the trap because it is the UAE's capital. The voluntary amalgamation was approved under Section 44A of the Banking Regulation Act, 1949.",
+      "explanation_hi": "एमिरेट्स NBD का मुख्यालय दुबई, UAE में है और इसका अधिकांश स्वामित्व इन्वेस्टमेंट कॉरपोरेशन ऑफ दुबई के पास है। अबू धाबी भ्रम है क्योंकि वह UAE की राजधानी है। यह स्वैच्छिक विलय बैंकिंग विनियमन अधिनियम, 1949 की धारा 44A के तहत स्वीकृत हुआ।",
+      "moreInfo": "RBL Bank (formerly Ratnakar Bank) was founded in 1943 at Kolhapur, Maharashtra, and is headquartered in Mumbai. REC and PFC are both Maharatna NBFCs under the Ministry of Power; PFC already owns a majority stake in REC since 2019.",
+      "moreInfo_hi": "RBL बैंक (पूर्व में रत्नाकर बैंक) की स्थापना 1943 में कोल्हापुर, महाराष्ट्र में हुई और मुख्यालय मुंबई में है। REC और PFC दोनों विद्युत मंत्रालय के अधीन महारत्न NBFC हैं; PFC के पास 2019 से REC में बहुमत हिस्सेदारी है।",
+      "relatedDate": "2026-10-18"
+    },
+    {
+      "id": "7",
+      "category": "Governance & Schemes",
+      "category_hi": "शासन एवं योजनाएँ",
+      "title": "Ministry of Cooperation Mandates MSCARO 2026 Audit Framework for Multi-State Cooperative Societies",
+      "title_hi": "सहकारिता मंत्रालय ने बहु-राज्य सहकारी समितियों के लिए MSCARO 2026 ऑडिट ढांचा अनिवार्य किया",
+      "image": null,
+      "summary": "The Multi-State Co-operative Societies (Auditor's Report) Order, 2026 introduces a standardised, risk-based audit reporting format, starting with societies above ₹1,000 crore.",
+      "summary_hi": "बहु-राज्य सहकारी समितियाँ (लेखा परीक्षक रिपोर्ट) आदेश, 2026 मानकीकृत, जोखिम-आधारित ऑडिट रिपोर्टिंग प्रारूप लाता है, जिसकी शुरुआत ₹1,000 करोड़ से बड़ी समितियों से होगी।",
+      "content": "The Ministry of Cooperation introduced the Multi-State Co-operative Societies (Auditor's Report) Order, 2026 (MSCARO), a standardised, risk-based audit reporting framework for Multi-State Cooperative Societies (MSCS).\n\nIt is modelled on the corporate sector's Companies (Auditor's Report) Order (CARO) and is issued under Section 73(6) of the Multi-State Co-operative Societies (Amendment) Act, 2023. Auditors must report on financial, administrative, governance and statutory compliance parameters in a 'Yes/No with remarks' format. Phase 1 covers societies with turnover or deposits above ₹1,000 crore; later phases extend to those above ₹50 crore. The aim is greater transparency and early detection of irregularities in large cooperatives.\n\nFor IB ACIO: Order — MSCARO 2026; Ministry — Cooperation; Modelled on — CARO (companies); Legal basis — Section 73(6), MSCS (Amendment) Act, 2023; Phase 1 — societies above ₹1,000 crore.",
+      "content_hi": "सहकारिता मंत्रालय ने बहु-राज्य सहकारी समितियाँ (लेखा परीक्षक रिपोर्ट) आदेश, 2026 (MSCARO) जारी किया, जो बहु-राज्य सहकारी समितियों (MSCS) के लिए मानकीकृत, जोखिम-आधारित ऑडिट रिपोर्टिंग ढांचा है।\n\nयह कॉर्पोरेट क्षेत्र के कंपनी (लेखा परीक्षक रिपोर्ट) आदेश (CARO) पर आधारित है और बहु-राज्य सहकारी समितियाँ (संशोधन) अधिनियम, 2023 की धारा 73(6) के तहत जारी हुआ है। लेखा परीक्षकों को वित्तीय, प्रशासनिक, शासन और वैधानिक अनुपालन मानकों पर 'हाँ/नहीं और टिप्पणी' प्रारूप में रिपोर्ट देनी होगी। पहला चरण ₹1,000 करोड़ से बड़ी समितियों पर लागू है।\n\nIB ACIO: MSCARO 2026 — सहकारिता मंत्रालय; CARO पर आधारित; पहला चरण — ₹1,000 करोड़+।",
+      "question": "The new MSCARO 2026 audit framework for multi-state cooperatives is modelled on which existing framework?",
+      "question_hi": "बहु-राज्य सहकारी समितियों के लिए नया MSCARO 2026 ऑडिट ढांचा किस मौजूदा ढांचे पर आधारित है?",
+      "options": [
+        "Companies (Auditor's Report) Order (CARO)",
+        "SEBI LODR Regulations",
+        "Ind AS accounting standards",
+        "CAG audit manual"
+      ],
+      "options_hi": [
+        "कंपनी (लेखा परीक्षक रिपोर्ट) आदेश (CARO)",
+        "SEBI LODR विनियम",
+        "Ind AS लेखा मानक",
+        "CAG ऑडिट मैनुअल"
+      ],
+      "correctAnswer": 0,
+      "explanation": "MSCARO borrows the format of CARO, which requires company auditors to report on specific yes/no checkpoints such as loans to related parties and fraud. Bringing this to big cooperatives is part of the Ministry of Cooperation's push for transparency after scams in some multi-state cooperative banks and societies.",
+      "explanation_hi": "MSCARO CARO का प्रारूप अपनाता है, जिसमें कंपनी लेखा परीक्षकों को संबंधित पक्षों को ऋण और धोखाधड़ी जैसे विशिष्ट हाँ/नहीं बिंदुओं पर रिपोर्ट देनी होती है। बड़े सहकारी संस्थानों पर इसे लागू करना कुछ बहु-राज्य सहकारी बैंकों और समितियों में घोटालों के बाद पारदर्शिता बढ़ाने का प्रयास है।",
+      "moreInfo": "The Multi-State Co-operative Societies Act was passed in 2002 and amended in 2023, creating a Cooperative Election Authority and a Cooperative Ombudsman. The 97th Constitutional Amendment (2011) added cooperatives in Part IXB and made forming cooperatives a fundamental right under Article 19(1)(c).",
+      "moreInfo_hi": "बहु-राज्य सहकारी समितियाँ अधिनियम 2002 में बना और 2023 में संशोधित हुआ, जिससे सहकारी चुनाव प्राधिकरण और सहकारी लोकपाल बने। 97वें संविधान संशोधन (2011) ने भाग IXB में सहकारी समितियाँ जोड़ीं और अनुच्छेद 19(1)(c) के तहत सहकारी समिति बनाना मौलिक अधिकार बनाया।",
+      "relatedDate": "2026-10-18"
+    },
+    {
+      "id": "8",
+      "category": "Infrastructure & Energy",
+      "category_hi": "अवसंरचना एवं ऊर्जा",
+      "title": "NITI Aayog Releases Data Centre Evaluation Framework to Guide States",
+      "title_hi": "नीति आयोग ने राज्यों के मार्गदर्शन हेतु डेटा सेंटर मूल्यांकन ढांचा जारी किया",
+      "image": null,
+      "summary": "NITI Aayog's Frontier Tech Hub released a five-pillar framework to help states assess data centre investment proposals, as India's capacity grew from about 375 MW in 2020 to about 1.5 GW in 2026.",
+      "summary_hi": "नीति आयोग के फ्रंटियर टेक हब ने राज्यों को डेटा सेंटर निवेश प्रस्तावों के आकलन में मदद हेतु पाँच-स्तंभीय ढांचा जारी किया, क्योंकि भारत की क्षमता 2020 के लगभग 375 MW से बढ़कर 2026 में लगभग 1.5 GW हो गई।",
+      "content": "NITI Aayog's Frontier Tech Hub released a Data Centre Evaluation Framework in New Delhi, in the presence of NITI Aayog Member Prof. Abhay Karandikar and CEO Anurag Jain. It was developed with inputs from industry, MeitY, the Ministry of Power and DPIIT.\n\nThe framework helps states assess investment proposals, infrastructure readiness and sustainability on five pillars: Power and Energy; Water and Cooling Management; Environmental Protection; Economic Value Creation; and Policy, Governance and Implementation. India's data centre capacity rose from about 375 MW in 2020 to about 1.5 GW in 2026, driven by AI, cloud and data localisation needs.\n\nFor IB ACIO: Released by — NITI Aayog (Frontier Tech Hub); Pillars — 5 (power, water and cooling, environment, economic value, governance); India's DC capacity — ~375 MW (2020) to ~1.5 GW (2026); NITI CEO — Anurag Jain.",
+      "content_hi": "नीति आयोग के फ्रंटियर टेक हब ने नई दिल्ली में नीति आयोग सदस्य प्रो. अभय करंदीकर और CEO अनुराग जैन की उपस्थिति में डेटा सेंटर मूल्यांकन ढांचा जारी किया। इसे उद्योग, MeitY, विद्युत मंत्रालय और DPIIT के सुझावों से तैयार किया गया।\n\nढांचा राज्यों को पाँच स्तंभों पर निवेश प्रस्तावों, अवसंरचना तत्परता और स्थिरता का आकलन करने में मदद करता है: बिजली एवं ऊर्जा; जल एवं शीतलन प्रबंधन; पर्यावरण संरक्षण; आर्थिक मूल्य सृजन; और नीति, शासन एवं कार्यान्वयन। भारत की डेटा सेंटर क्षमता 2020 के लगभग 375 MW से बढ़कर 2026 में लगभग 1.5 GW हो गई।\n\nIB ACIO: नीति आयोग — डेटा सेंटर मूल्यांकन ढांचा; 5 स्तंभ; क्षमता — ~1.5 GW (2026)।",
+      "question": "NITI Aayog, which released the Data Centre Evaluation Framework, replaced which body?",
+      "question_hi": "डेटा सेंटर मूल्यांकन ढांचा जारी करने वाले नीति आयोग ने किस निकाय की जगह ली?",
+      "options": [
+        "Finance Commission",
+        "Planning Commission",
+        "National Development Council",
+        "Inter-State Council"
+      ],
+      "options_hi": [
+        "वित्त आयोग",
+        "योजना आयोग",
+        "राष्ट्रीय विकास परिषद",
+        "अंतर-राज्य परिषद"
+      ],
+      "correctAnswer": 1,
+      "explanation": "NITI Aayog (National Institution for Transforming India) replaced the Planning Commission on 1 January 2015 and works as the government's policy think tank, with the Prime Minister as its Chairperson. The Finance Commission is a constitutional body under Article 280 and still exists — a common trap.",
+      "explanation_hi": "नीति आयोग (राष्ट्रीय भारत परिवर्तन संस्थान) ने 1 जनवरी 2015 को योजना आयोग की जगह ली और यह सरकार का नीति थिंक टैंक है, जिसके अध्यक्ष प्रधानमंत्री हैं। वित्त आयोग अनुच्छेद 280 के तहत संवैधानिक निकाय है और अब भी मौजूद है — यह आम भ्रम है।",
+      "moreInfo": "NITI Aayog's Frontier Tech Hub was set up in 2025 to prepare roadmaps for emerging technologies. The Planning Commission had been set up in March 1950 by a Cabinet resolution, with Jawaharlal Nehru as its first Chairman.",
+      "moreInfo_hi": "नीति आयोग का फ्रंटियर टेक हब 2025 में उभरती प्रौद्योगिकियों के रोडमैप बनाने हेतु स्थापित हुआ। योजना आयोग मार्च 1950 में कैबिनेट प्रस्ताव द्वारा बना था, जिसके पहले अध्यक्ष जवाहरलाल नेहरू थे।",
+      "relatedDate": "2026-10-18"
+    },
+    {
+      "id": "9",
+      "category": "Important Days",
+      "category_hi": "महत्वपूर्ण दिवस",
+      "title": "International Day for the Eradication of Poverty Observed on 17 October",
+      "title_hi": "17 अक्टूबर को अंतरराष्ट्रीय गरीबी उन्मूलन दिवस मनाया गया",
+      "image": null,
+      "summary": "The UN's International Day for the Eradication of Poverty was observed on 17 October 2026, its 34th observance, under the 2026–2028 theme 'United for Peace and Human Rights'.",
+      "summary_hi": "संयुक्त राष्ट्र का अंतरराष्ट्रीय गरीबी उन्मूलन दिवस 17 अक्टूबर 2026 को अपने 34वें आयोजन के रूप में 2026–2028 के विषय 'शांति और मानवाधिकारों के लिए एकजुट' के तहत मनाया गया।",
+      "content": "The International Day for the Eradication of Poverty is observed every year on 17 October to recognise the struggles of people living in poverty and to promote dignity, human rights and action against poverty. 2026 marked its 34th UN-recognised observance.\n\nThe theme for 2026–2028 is 'United for Peace and Human Rights'. The day's origins lie in a gathering of over 100,000 people at the Trocadéro, Paris, on 17 October 1987, inspired by Father Joseph Wresinski, to honour victims of extreme poverty, violence and hunger. The UN General Assembly declared the day through Resolution A/RES/47/196 in 1992, and it was first observed in 1993.\n\nFor IB ACIO: Day — 17 October; Edition 2026 — 34th; Theme (2026–28) — United for Peace and Human Rights; Origin — Trocadéro, Paris (1987); UN declaration — 1992; SDG — Goal 1 (No Poverty).",
+      "content_hi": "अंतरराष्ट्रीय गरीबी उन्मूलन दिवस प्रतिवर्ष 17 अक्टूबर को गरीबी में रहने वाले लोगों के संघर्ष को मान्यता देने और गरिमा, मानवाधिकार तथा गरीबी के विरुद्ध कार्रवाई को बढ़ावा देने के लिए मनाया जाता है। 2026 में इसका 34वाँ UN-मान्य आयोजन था।\n\n2026–2028 का विषय 'शांति और मानवाधिकारों के लिए एकजुट' है। इसकी उत्पत्ति 17 अक्टूबर 1987 को पेरिस के ट्रोकाडेरो में फादर जोसेफ व्रेसिंस्की से प्रेरित 1,00,000 से अधिक लोगों के जमावड़े से हुई। संयुक्त राष्ट्र महासभा ने 1992 में यह दिवस घोषित किया और पहली बार 1993 में मनाया गया।\n\nIB ACIO: 17 अक्टूबर; उत्पत्ति — ट्रोकाडेरो, पेरिस (1987); SDG 1 — गरीबी उन्मूलन।",
+      "question": "Which Sustainable Development Goal (SDG) is directly linked to the International Day for the Eradication of Poverty?",
+      "question_hi": "कौन सा सतत विकास लक्ष्य (SDG) सीधे अंतरराष्ट्रीय गरीबी उन्मूलन दिवस से जुड़ा है?",
+      "options": [
+        "SDG 1",
+        "SDG 2",
+        "SDG 8",
+        "SDG 10"
+      ],
+      "options_hi": [
+        "SDG 1",
+        "SDG 2",
+        "SDG 8",
+        "SDG 10"
+      ],
+      "correctAnswer": 0,
+      "explanation": "SDG 1 is 'No Poverty' — ending poverty in all its forms everywhere. The traps are related goals: SDG 2 is Zero Hunger, SDG 8 is Decent Work and Economic Growth, and SDG 10 is Reduced Inequalities. The 17 SDGs were adopted in 2015 under the UN's 2030 Agenda.",
+      "explanation_hi": "SDG 1 'गरीबी उन्मूलन' है — हर जगह, हर रूप में गरीबी समाप्त करना। अन्य विकल्प संबंधित लक्ष्य हैं: SDG 2 — शून्य भूख, SDG 8 — सभ्य कार्य और आर्थिक वृद्धि, SDG 10 — असमानता में कमी। 17 SDG 2015 में UN एजेंडा 2030 के तहत अपनाए गए।",
+      "moreInfo": "According to NITI Aayog's discussion paper (2024), about 24.82 crore Indians moved out of multidimensional poverty between 2013-14 and 2022-23. The Multidimensional Poverty Index is based on health, education and standard of living.",
+      "moreInfo_hi": "नीति आयोग के चर्चा पत्र (2024) के अनुसार 2013-14 से 2022-23 के बीच लगभग 24.82 करोड़ भारतीय बहुआयामी गरीबी से बाहर निकले। बहुआयामी गरीबी सूचकांक स्वास्थ्य, शिक्षा और जीवन स्तर पर आधारित है।",
+      "relatedDate": "2026-10-18"
+    }
+  ]
+}

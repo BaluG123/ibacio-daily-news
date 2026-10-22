@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-13",
+  "editionTitle": "IB ACIO Daily Current Affairs — 13 October 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 13 अक्टूबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Banking & Finance",
+      "category_hi": "बैंकिंग एवं वित्त",
+      "title": "RBI Raises Repo Rate by 25 bps to 5.50% — First Hike Since February 2023",
+      "title_hi": "RBI ने रेपो दर 25 आधार अंक बढ़ाकर 5.50% की — फरवरी 2023 के बाद पहली वृद्धि",
+      "image": null,
+      "summary": "The RBI's Monetary Policy Committee, chaired by Governor Sanjay Malhotra, unanimously raised the repo rate to 5.50% and changed its stance to 'calibrated tightening'.",
+      "summary_hi": "गवर्नर संजय मल्होत्रा की अध्यक्षता में RBI की मौद्रिक नीति समिति ने सर्वसम्मति से रेपो दर 5.50% की और रुख बदलकर 'कैलिब्रेटेड टाइटनिंग' कर दिया।",
+      "content": "The 63rd meeting of the RBI's Monetary Policy Committee (MPC), held on 5–7 October 2026 under Governor Sanjay Malhotra, unanimously raised the repo rate by 25 basis points to 5.50%. It is the first rate hike since February 2023.\n\nWith the repo rate at 5.50%, the Standing Deposit Facility (SDF) rate is 5.25% and the Marginal Standing Facility (MSF) rate and Bank Rate are 5.75%. The stance moved from 'neutral' to 'calibrated tightening' as inflation rose amid high oil prices linked to the West Asia crisis. The RBI also raised its FY27 GDP growth forecast to 7.1%. Separately, it raised the minimum daily CRR maintenance requirement for banks from 90% to 99% of the prescribed CRR.\n\nFor IB ACIO: Repo — 5.50% (+25 bps); SDF — 5.25%; MSF/Bank Rate — 5.75%; Stance — calibrated tightening; MPC — 63rd meeting; Governor — Sanjay Malhotra; FY27 GDP forecast — 7.1%.",
+      "content_hi": "RBI की मौद्रिक नीति समिति (MPC) की 63वीं बैठक 5–7 अक्टूबर 2026 को गवर्नर संजय मल्होत्रा की अध्यक्षता में हुई, जिसमें सर्वसम्मति से रेपो दर 25 आधार अंक बढ़ाकर 5.50% की गई। यह फरवरी 2023 के बाद पहली वृद्धि है।\n\nरेपो दर 5.50% होने पर स्थायी जमा सुविधा (SDF) दर 5.25% और सीमांत स्थायी सुविधा (MSF) दर व बैंक दर 5.75% हैं। पश्चिम एशिया संकट से तेल कीमतें बढ़ने के कारण रुख 'तटस्थ' से 'कैलिब्रेटेड टाइटनिंग' किया गया। RBI ने FY27 का GDP वृद्धि अनुमान 7.1% किया और बैंकों के लिए न्यूनतम दैनिक CRR रखरखाव 90% से बढ़ाकर 99% किया।\n\nIB ACIO: रेपो — 5.50%; SDF — 5.25%; MSF — 5.75%; रुख — कैलिब्रेटेड टाइटनिंग।",
+      "question": "After the RBI's October 2026 monetary policy, what is the Marginal Standing Facility (MSF) rate?",
+      "question_hi": "RBI की अक्टूबर 2026 मौद्रिक नीति के बाद सीमांत स्थायी सुविधा (MSF) दर कितनी है?",
+      "options": [
+        "5.25%",
+        "5.50%",
+        "5.75%",
+        "6.00%"
+      ],
+      "options_hi": [
+        "5.25%",
+        "5.50%",
+        "5.75%",
+        "6.00%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The MSF rate is always 25 bps above the repo rate, so with repo at 5.50%, MSF (and the Bank Rate) is 5.75%. The SDF rate is 25 bps below repo, at 5.25%. This 'corridor' of SDF–Repo–MSF is a favourite exam question — learn it as: floor 5.25, policy 5.50, ceiling 5.75.",
+      "explanation_hi": "MSF दर हमेशा रेपो से 25 आधार अंक अधिक होती है, इसलिए रेपो 5.50% पर MSF (और बैंक दर) 5.75% है। SDF दर रेपो से 25 आधार अंक कम यानी 5.25% है। SDF–रेपो–MSF का यह 'कॉरिडोर' परीक्षा का पसंदीदा प्रश्न है: न्यूनतम 5.25, नीति दर 5.50, अधिकतम 5.75।",
+      "moreInfo": "The MPC was set up under Section 45ZB of the RBI Act, 1934 (amended 2016). It has six members — three from the RBI including the Governor, and three external members. The inflation target is 4% with a tolerance band of ±2%.",
+      "moreInfo_hi": "MPC का गठन RBI अधिनियम, 1934 (2016 में संशोधित) की धारा 45ZB के तहत हुआ। इसमें छह सदस्य हैं — गवर्नर सहित तीन RBI से और तीन बाहरी सदस्य। मुद्रास्फीति लक्ष्य 4% है, ±2% की सहनशीलता सीमा के साथ।",
+      "relatedDate": "2026-10-13"
+    },
+    {
+      "id": "2",
+      "category": "Internal Security",
+      "category_hi": "आंतरिक सुरक्षा",
+      "title": "CAPF (General Administration) Act, 2026 Comes into Force from 8 October",
+      "title_hi": "CAPF (सामान्य प्रशासन) अधिनियम, 2026 8 अक्टूबर से लागू",
+      "image": null,
+      "summary": "The Ministry of Home Affairs notified that the Central Armed Police Forces (General Administration) Act, 2026, governing service matters in CRPF, BSF, CISF, ITBP and SSB, is in force from 8 October 2026.",
+      "summary_hi": "गृह मंत्रालय ने अधिसूचित किया कि CRPF, BSF, CISF, ITBP और SSB के सेवा मामलों को नियंत्रित करने वाला केंद्रीय सशस्त्र पुलिस बल (सामान्य प्रशासन) अधिनियम, 2026 8 अक्टूबर 2026 से लागू है।",
+      "content": "The Ministry of Home Affairs (MHA) notified that the Central Armed Police Forces (General Administration) Act, 2026 came into force on 8 October 2026. The Act had received Presidential assent in April 2026, and its validity is being challenged in the Supreme Court by cadre officers.\n\nThe law governs recruitment, promotion, deputation and service conditions in five CAPFs — CRPF, BSF, CISF, ITBP and SSB. Under it, 50% of Inspector General (IG) posts and at least 67% of Additional Director General (ADG) posts go to officers on deputation from the Indian Police Service (IPS), and Special DG and DG posts are to be filled only by deputation. Earlier rules had 20% of DIG and 50% of IG posts filled through deputation.\n\nFor IB ACIO: Act — CAPF (General Administration) Act, 2026; In force — 8 Oct 2026; Forces — CRPF, BSF, CISF, ITBP, SSB; IPS deputation — 50% IG, at least 67% ADG, all DG posts; Ministry — Home Affairs.",
+      "content_hi": "गृह मंत्रालय ने अधिसूचित किया कि केंद्रीय सशस्त्र पुलिस बल (सामान्य प्रशासन) अधिनियम, 2026 8 अक्टूबर 2026 से लागू हो गया। इसे अप्रैल 2026 में राष्ट्रपति की स्वीकृति मिली थी और कैडर अधिकारियों ने सुप्रीम कोर्ट में इसकी वैधता को चुनौती दी है।\n\nयह कानून पाँच CAPF — CRPF, BSF, CISF, ITBP और SSB — में भर्ती, पदोन्नति, प्रतिनियुक्ति और सेवा शर्तों को नियंत्रित करता है। इसके तहत महानिरीक्षक (IG) के 50% और अपर महानिदेशक (ADG) के कम से कम 67% पद भारतीय पुलिस सेवा (IPS) के प्रतिनियुक्त अधिकारियों को मिलेंगे, और विशेष DG व DG पद केवल प्रतिनियुक्ति से भरे जाएँगे।\n\nIB ACIO: CAPF अधिनियम, 2026; लागू — 8 अक्टूबर 2026; IPS प्रतिनियुक्ति — 50% IG, 67% ADG।",
+      "question": "Under the CAPF (General Administration) Act, 2026, at least 67% of ADG posts in the CAPFs are to be filled by deputation from which service?",
+      "question_hi": "CAPF (सामान्य प्रशासन) अधिनियम, 2026 के तहत CAPF में ADG के कम से कम 67% पद किस सेवा से प्रतिनियुक्ति द्वारा भरे जाएँगे?",
+      "options": [
+        "Indian Police Service",
+        "Indian Administrative Service",
+        "Indian Army",
+        "Indian Revenue Service"
+      ],
+      "options_hi": [
+        "भारतीय पुलिस सेवा",
+        "भारतीय प्रशासनिक सेवा",
+        "भारतीय सेना",
+        "भारतीय राजस्व सेवा"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Act reserves 50% of IG posts and at least 67% of ADG posts for IPS officers on deputation, and keeps all Special DG and DG posts for deputation only. This is why cadre officers of the CAPFs have challenged it — they argue it limits their own promotions to top posts.",
+      "explanation_hi": "अधिनियम IG के 50% और ADG के कम से कम 67% पद प्रतिनियुक्त IPS अधिकारियों के लिए आरक्षित करता है, और सभी विशेष DG व DG पद केवल प्रतिनियुक्ति के लिए रखता है। इसी कारण CAPF के कैडर अधिकारियों ने इसे चुनौती दी है।",
+      "moreInfo": "Quick CAPF GK: BSF guards the Pakistan and Bangladesh borders; ITBP the China border; SSB the Nepal and Bhutan borders; CISF protects industrial units, airports and metros; CRPF is the largest CAPF, handling internal security and anti-Naxal operations. All work under the MHA.",
+      "moreInfo_hi": "CAPF त्वरित GK: BSF पाकिस्तान और बांग्लादेश सीमा; ITBP चीन सीमा; SSB नेपाल और भूटान सीमा की रक्षा करता है; CISF औद्योगिक इकाइयों, हवाई अड्डों और मेट्रो की सुरक्षा करता है; CRPF सबसे बड़ा CAPF है जो आंतरिक सुरक्षा और नक्सल-विरोधी अभियान संभालता है। सभी गृह मंत्रालय के अधीन हैं।",
+      "relatedDate": "2026-10-13"
+    },
+    {
+      "id": "3",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "Retail Inflation Rises to 5.54% in September 2026 on New CPI Base Year 2024",
+      "title_hi": "नए CPI आधार वर्ष 2024 पर सितंबर 2026 में खुदरा मुद्रास्फीति बढ़कर 5.54%",
+      "image": null,
+      "summary": "MoSPI data showed CPI inflation (base 2024=100) at 5.54% in September 2026, up from 4.83% in August, with food inflation at 7.74%.",
+      "summary_hi": "MoSPI के आंकड़ों के अनुसार सितंबर 2026 में CPI मुद्रास्फीति (आधार 2024=100) अगस्त के 4.83% से बढ़कर 5.54% रही, जबकि खाद्य मुद्रास्फीति 7.74% रही।",
+      "content": "The Ministry of Statistics and Programme Implementation (MoSPI) released the Consumer Price Index (CPI) for September 2026 on 12 October 2026, using the new base year 2024=100.\n\nAll-India headline retail inflation rose to 5.54% (provisional), up from 4.83% in August 2026. Rural inflation was 6.08% and urban 4.88%. Food inflation (Consumer Food Price Index) rose to 7.74%. The rise came as fuel and food prices climbed amid the West Asia crisis, and it pushed inflation above the RBI's 4% target, explaining the RBI's rate hike earlier in the month.\n\nFor IB ACIO: Index — CPI (base 2024=100); September 2026 inflation — 5.54%; August — 4.83%; Rural — 6.08%; Urban — 4.88%; Food — 7.74%; Released by — NSO, MoSPI.",
+      "content_hi": "सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय (MoSPI) ने 12 अक्टूबर 2026 को नए आधार वर्ष 2024=100 पर सितंबर 2026 का उपभोक्ता मूल्य सूचकांक (CPI) जारी किया।\n\nअखिल भारतीय खुदरा मुद्रास्फीति अगस्त 2026 के 4.83% से बढ़कर 5.54% (अनंतिम) हो गई। ग्रामीण मुद्रास्फीति 6.08% और शहरी 4.88% रही। खाद्य मुद्रास्फीति 7.74% हो गई। पश्चिम एशिया संकट के बीच ईंधन और खाद्य कीमतें बढ़ने से मुद्रास्फीति RBI के 4% लक्ष्य से ऊपर चली गई।\n\nIB ACIO: CPI (आधार 2024=100); सितंबर 2026 — 5.54%; खाद्य — 7.74%।",
+      "question": "What is the new base year of India's Consumer Price Index (CPI), used for the September 2026 inflation data?",
+      "question_hi": "सितंबर 2026 के मुद्रास्फीति आंकड़ों में प्रयुक्त भारत के उपभोक्ता मूल्य सूचकांक (CPI) का नया आधार वर्ष क्या है?",
+      "options": [
+        "2012",
+        "2017-18",
+        "2022-23",
+        "2024"
+      ],
+      "options_hi": [
+        "2012",
+        "2017-18",
+        "2022-23",
+        "2024"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The new CPI series uses 2024=100, replacing the old base of 2012. Don't mix it up with the WPI and GDP series, which have moved to the base year 2022-23 — a classic trap. A newer base year reflects today's consumption basket, such as more spending on services and digital goods.",
+      "explanation_hi": "नई CPI श्रृंखला 2024=100 का उपयोग करती है, जिसने पुराने आधार 2012 की जगह ली है। इसे WPI और GDP श्रृंखला से न मिलाएँ, जिनका आधार वर्ष 2022-23 है — यह आम भ्रम है। नया आधार वर्ष आज की उपभोग टोकरी को बेहतर दर्शाता है।",
+      "moreInfo": "CPI is released by the National Statistics Office (NSO), MoSPI, on the 12th of every month. RBI targets CPI (combined) inflation, not WPI, under the flexible inflation targeting framework adopted in 2016 on the Urjit Patel Committee's recommendation.",
+      "moreInfo_hi": "CPI हर महीने की 12 तारीख को MoSPI का राष्ट्रीय सांख्यिकी कार्यालय (NSO) जारी करता है। उर्जित पटेल समिति की सिफारिश पर 2016 में अपनाए गए लचीले मुद्रास्फीति लक्ष्यीकरण ढांचे में RBI, WPI नहीं बल्कि CPI (संयुक्त) मुद्रास्फीति को लक्षित करता है।",
+      "relatedDate": "2026-10-13"
+    },
+    {
+      "id": "4",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "57th GST Council Meeting Recommends Process Reforms and Decriminalisation Measures",
+      "title_hi": "57वीं GST परिषद बैठक में प्रक्रिया सुधार और अपराधमुक्ति उपायों की सिफारिश",
+      "image": null,
+      "summary": "The 57th GST Council meeting chaired by Union Finance Minister Nirmala Sitharaman recommended reforms in registration, returns, refunds and adjudication to simplify compliance.",
+      "summary_hi": "केंद्रीय वित्त मंत्री निर्मला सीतारमण की अध्यक्षता में 57वीं GST परिषद बैठक में अनुपालन सरल बनाने हेतु पंजीकरण, रिटर्न, रिफंड और न्यायनिर्णयन में सुधारों की सिफारिश की गई।",
+      "content": "The 57th meeting of the GST Council was held in New Delhi in October 2026, chaired by Union Finance Minister Nirmala Sitharaman. It was attended by several Chief Ministers, Deputy CMs, state finance ministers, the Revenue Secretary and CBIC officials.\n\nWhile the 56th meeting focused on GST rate rationalisation and rate cuts, the 57th meeting focused on process reforms — mainly in registration, returns, refunds and adjudication — along with decriminalisation measures, clarifications on GST applicability for certain goods and services, and steps to make compliance simpler for businesses.\n\nFor IB ACIO: Meeting — 57th GST Council; Chair — Union FM Nirmala Sitharaman; Focus — process reforms and decriminalisation; Constitutional basis — Article 279A; GST launched — 1 July 2017.",
+      "content_hi": "GST परिषद की 57वीं बैठक अक्टूबर 2026 में नई दिल्ली में केंद्रीय वित्त मंत्री निर्मला सीतारमण की अध्यक्षता में हुई। इसमें कई मुख्यमंत्री, उपमुख्यमंत्री, राज्यों के वित्त मंत्री, राजस्व सचिव और CBIC अधिकारी शामिल हुए।\n\nजहाँ 56वीं बैठक दर युक्तिकरण और दर कटौती पर केंद्रित थी, वहीं 57वीं बैठक प्रक्रिया सुधारों — पंजीकरण, रिटर्न, रिफंड और न्यायनिर्णयन — के साथ अपराधमुक्ति उपायों और व्यापार सुगमता पर केंद्रित रही।\n\nIB ACIO: 57वीं GST परिषद; अध्यक्ष — वित्त मंत्री; संवैधानिक आधार — अनुच्छेद 279A।",
+      "question": "The GST Council is constituted under which Article of the Indian Constitution?",
+      "question_hi": "GST परिषद का गठन भारतीय संविधान के किस अनुच्छेद के तहत होता है?",
+      "options": [
+        "Article 246A",
+        "Article 269A",
+        "Article 279A",
+        "Article 280"
+      ],
+      "options_hi": [
+        "अनुच्छेद 246A",
+        "अनुच्छेद 269A",
+        "अनुच्छेद 279A",
+        "अनुच्छेद 280"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Article 279A provides for the GST Council, chaired by the Union Finance Minister with state finance ministers as members. All three distractors are real GST-linked articles: 246A gives both Parliament and states power to make GST laws, 269A deals with IGST on inter-state trade, and Article 280 is about the Finance Commission.",
+      "explanation_hi": "अनुच्छेद 279A GST परिषद का प्रावधान करता है, जिसकी अध्यक्षता केंद्रीय वित्त मंत्री करते हैं और राज्यों के वित्त मंत्री सदस्य होते हैं। अन्य विकल्प भी GST से जुड़े हैं: 246A संसद और राज्यों को GST कानून बनाने की शक्ति देता है, 269A अंतर-राज्यीय व्यापार पर IGST से संबंधित है, और 280 वित्त आयोग से।",
+      "moreInfo": "GST was introduced by the 101st Constitutional Amendment Act, 2016, and launched on 1 July 2017 (celebrated as GST Day). In Council voting, the Centre has one-third weightage and states together two-thirds; decisions need a three-fourths majority.",
+      "moreInfo_hi": "GST 101वें संविधान संशोधन अधिनियम, 2016 द्वारा लाया गया और 1 जुलाई 2017 (GST दिवस) को लागू हुआ। परिषद में मतदान में केंद्र का भार एक-तिहाई और राज्यों का मिलाकर दो-तिहाई होता है; निर्णय के लिए तीन-चौथाई बहुमत चाहिए।",
+      "relatedDate": "2026-10-13"
+    },
+    {
+      "id": "5",
+      "category": "International",
+      "category_hi": "अंतरराष्ट्रीय",
+      "title": "Swiss President Guy Parmelin's State Visit Marks First Anniversary of India–EFTA TEPA",
+      "title_hi": "स्विस राष्ट्रपति गाय पार्मेलिन की राजकीय यात्रा, भारत–EFTA TEPA की पहली वर्षगांठ",
+      "image": null,
+      "summary": "Swiss President Guy Parmelin visited India on 5–7 October 2026; the two countries signed five agreements and launched the Indo-Swiss Research Flagship.",
+      "summary_hi": "स्विस राष्ट्रपति गाय पार्मेलिन ने 5–7 अक्टूबर 2026 को भारत की यात्रा की; दोनों देशों ने पाँच समझौते किए और इंडो-स्विस रिसर्च फ्लैगशिप शुरू की।",
+      "content": "Swiss President Guy Parmelin made a three-day state visit to India from 5 to 7 October 2026 at PM Narendra Modi's invitation. He received a ceremonial Guard of Honour at Rashtrapati Bhavan and held talks with PM Modi at Hyderabad House.\n\nThe visit coincided with the 2nd India–EFTA Prosperity Summit at Bharat Mandapam, marking the first anniversary of the India–EFTA Trade and Economic Partnership Agreement (TEPA), which came into force on 1 October 2025. India and Switzerland signed five agreements on mobility, science and technology, and unveiled the Indo-Swiss Research Flagship (ISRF).\n\nFor IB ACIO: Visitor — Swiss President Guy Parmelin; Dates — 5–7 Oct 2026; Event — 2nd India–EFTA Prosperity Summit; TEPA in force — 1 Oct 2025; Agreements — 5; New initiative — Indo-Swiss Research Flagship.",
+      "content_hi": "स्विस राष्ट्रपति गाय पार्मेलिन ने प्रधानमंत्री नरेंद्र मोदी के निमंत्रण पर 5 से 7 अक्टूबर 2026 तक भारत की तीन दिवसीय राजकीय यात्रा की। राष्ट्रपति भवन में उन्हें गार्ड ऑफ ऑनर दिया गया और हैदराबाद हाउस में प्रधानमंत्री मोदी से वार्ता हुई।\n\nयह यात्रा भारत मंडपम में दूसरे भारत–EFTA प्रॉस्पेरिटी समिट के साथ हुई, जो 1 अक्टूबर 2025 से लागू भारत–EFTA व्यापार और आर्थिक साझेदारी समझौते (TEPA) की पहली वर्षगांठ थी। दोनों देशों ने गतिशीलता, विज्ञान और प्रौद्योगिकी पर पाँच समझौते किए और इंडो-स्विस रिसर्च फ्लैगशिप (ISRF) शुरू की।\n\nIB ACIO: गाय पार्मेलिन; TEPA लागू — 1 अक्टूबर 2025; 5 समझौते।",
+      "question": "The India–EFTA Trade and Economic Partnership Agreement (TEPA) came into force on which date?",
+      "question_hi": "भारत–EFTA व्यापार और आर्थिक साझेदारी समझौता (TEPA) किस तिथि को लागू हुआ?",
+      "options": [
+        "10 March 2024",
+        "1 October 2025",
+        "1 April 2026",
+        "20 October 2026"
+      ],
+      "options_hi": [
+        "10 मार्च 2024",
+        "1 अक्टूबर 2025",
+        "1 अप्रैल 2026",
+        "20 अक्टूबर 2026"
+      ],
+      "correctAnswer": 1,
+      "explanation": "TEPA was signed on 10 March 2024 and came into force on 1 October 2025 — so October 2026 marked its first anniversary. 20 October 2026 is a trap: that is when the India–New Zealand FTA came into force. Always separate 'signed' and 'in force' dates.",
+      "explanation_hi": "TEPA पर 10 मार्च 2024 को हस्ताक्षर हुए और यह 1 अक्टूबर 2025 को लागू हुआ — इसलिए अक्टूबर 2026 में इसकी पहली वर्षगांठ थी। 20 अक्टूबर 2026 गलत विकल्प है: उस दिन भारत–न्यूज़ीलैंड FTA लागू हुआ। हमेशा 'हस्ताक्षर' और 'लागू' तिथियों को अलग रखें।",
+      "moreInfo": "Switzerland: Capital — Bern; Currency — Swiss Franc. Switzerland follows a collegial system in which the President is elected for a one-year term from among the seven members of the Federal Council.",
+      "moreInfo_hi": "स्विट्ज़रलैंड: राजधानी — बर्न; मुद्रा — स्विस फ्रैंक। स्विट्ज़रलैंड में सामूहिक प्रणाली है, जिसमें राष्ट्रपति संघीय परिषद के सात सदस्यों में से एक वर्ष के लिए चुना जाता है।",
+      "relatedDate": "2026-10-13"
+    },
+    {
+      "id": "6",
+      "category": "Health",
+      "category_hi": "स्वास्थ्य",
+      "title": "J.P. Nadda Launches 'JOSH Teams' of MY Bharat Volunteers and NCC Cadets to Fight TB",
+      "title_hi": "जे.पी. नड्डा ने TB से लड़ने के लिए MY भारत स्वयंसेवकों और NCC कैडेटों की 'JOSH टीमें' शुरू कीं",
+      "image": null,
+      "summary": "Under the Pradhan Mantri TB Mukt Bharat Abhiyaan, JOSH Teams of 5 MY Bharat volunteers and 5 NCC cadets will spread awareness and help people get tested; phase one covers 55 districts.",
+      "summary_hi": "प्रधानमंत्री TB मुक्त भारत अभियान के तहत 5 MY भारत स्वयंसेवकों और 5 NCC कैडेटों की JOSH टीमें जागरूकता फैलाएँगी और लोगों की जाँच में मदद करेंगी; पहले चरण में 55 ज़िले शामिल हैं।",
+      "content": "Union Health Minister J.P. Nadda launched 'JOSH Teams' at Bharat Mandapam, New Delhi, under the Pradhan Mantri TB Mukt Bharat Abhiyaan, in partnership with the Ministries of Youth Affairs and Sports and Defence and the Delhi government.\n\nEach JOSH Team has five MY Bharat volunteers and five NCC cadets, led by a Class-I officer at the block or ward level. The teams will reach out to communities, identify people with TB symptoms, encourage testing and treatment adherence, and fight stigma and myths about the disease. The first phase covers 55 districts in 11 States and UTs.\n\nFor IB ACIO: Initiative — JOSH Teams; Campaign — PM TB Mukt Bharat Abhiyaan; Team — 5 MY Bharat volunteers + 5 NCC cadets; Phase 1 — 55 districts, 11 States/UTs; Launched by — J.P. Nadda.",
+      "content_hi": "केंद्रीय स्वास्थ्य मंत्री जे.पी. नड्डा ने युवा कार्यक्रम एवं खेल तथा रक्षा मंत्रालय और दिल्ली सरकार के सहयोग से प्रधानमंत्री TB मुक्त भारत अभियान के तहत नई दिल्ली के भारत मंडपम में 'JOSH टीमें' शुरू कीं।\n\nप्रत्येक JOSH टीम में पाँच MY भारत स्वयंसेवक और पाँच NCC कैडेट होंगे, जिनका नेतृत्व ब्लॉक या वार्ड स्तर पर प्रथम श्रेणी अधिकारी करेगा। टीमें समुदायों तक पहुंचेंगी, TB लक्षण वाले लोगों की पहचान करेंगी, जाँच व उपचार पालन को बढ़ावा देंगी और कलंक व मिथकों से लड़ेंगी। पहला चरण 11 राज्यों/UT के 55 ज़िलों में है।\n\nIB ACIO: JOSH टीमें; 5 MY भारत + 5 NCC; पहला चरण — 55 ज़िले।",
+      "question": "Each 'JOSH Team' launched under the PM TB Mukt Bharat Abhiyaan consists of MY Bharat volunteers and cadets from which organisation?",
+      "question_hi": "PM TB मुक्त भारत अभियान के तहत शुरू की गई प्रत्येक 'JOSH टीम' में MY भारत स्वयंसेवकों के साथ किस संगठन के कैडेट होते हैं?",
+      "options": [
+        "National Cadet Corps (NCC)",
+        "National Service Scheme (NSS)",
+        "Bharat Scouts and Guides",
+        "Nehru Yuva Kendra Sangathan"
+      ],
+      "options_hi": [
+        "राष्ट्रीय कैडेट कोर (NCC)",
+        "राष्ट्रीय सेवा योजना (NSS)",
+        "भारत स्काउट्स एंड गाइड्स",
+        "नेहरू युवा केंद्र संगठन"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Each JOSH Team has 5 MY Bharat volunteers and 5 NCC cadets. NCC works under the Ministry of Defence, which is why Defence is a partner ministry. NSS and NYKS are plausible traps because they are also youth bodies under the Youth Affairs Ministry.",
+      "explanation_hi": "प्रत्येक JOSH टीम में 5 MY भारत स्वयंसेवक और 5 NCC कैडेट होते हैं। NCC रक्षा मंत्रालय के अधीन है, इसलिए रक्षा मंत्रालय साझेदार है। NSS और NYKS भी युवा कार्यक्रम मंत्रालय के युवा निकाय हैं, इसलिए ये भ्रमित करने वाले विकल्प हैं।",
+      "moreInfo": "The NCC was established in 1948 under the NCC Act, 1948; its motto is 'Unity and Discipline'. MY Bharat (Mera Yuva Bharat) was launched on 31 October 2023. World TB Day is observed on 24 March.",
+      "moreInfo_hi": "NCC की स्थापना NCC अधिनियम, 1948 के तहत 1948 में हुई; इसका आदर्श वाक्य 'एकता और अनुशासन' है। MY भारत (मेरा युवा भारत) 31 अक्टूबर 2023 को शुरू हुआ। विश्व TB दिवस 24 मार्च को मनाया जाता है।",
+      "relatedDate": "2026-10-13"
+    },
+    {
+      "id": "7",
+      "category": "Science & Technology",
+      "category_hi": "विज्ञान एवं प्रौद्योगिकी",
+      "title": "MeitY Selects CoRover.ai to Build Unified Agentic AI Platform for Government Services; DigiLocker First",
+      "title_hi": "MeitY ने सरकारी सेवाओं हेतु एकीकृत एजेंटिक AI प्लेटफॉर्म के लिए CoRover.ai को चुना; पहला उपयोग डिजीलॉकर में",
+      "image": null,
+      "summary": "MeitY's National e-Governance Division awarded a ₹3.63 crore contract to Bengaluru-based CoRover.ai for a reusable agentic AI framework, to be first implemented on DigiLocker.",
+      "summary_hi": "MeitY के राष्ट्रीय ई-गवर्नेंस प्रभाग ने पुन: प्रयोज्य एजेंटिक AI ढांचे के लिए बेंगलुरु स्थित CoRover.ai को ₹3.63 करोड़ का अनुबंध दिया, जिसे सबसे पहले डिजीलॉकर पर लागू किया जाएगा।",
+      "content": "The Ministry of Electronics and Information Technology (MeitY), through its National e-Governance Division (NeGD), selected Bengaluru-based startup CoRover.ai on 8 October 2026 to build a unified agentic AI platform for government services, under a ₹3.63 crore contract.\n\nThe reusable framework will let government departments build AI assistants and bots without creating separate systems for each use case. It follows an 'ask, do and escalate' model with human oversight, activity monitoring and safeguards against prompt-injection and jailbreak attacks. The first implementation will be on DigiLocker, the platform for storing official documents digitally. Over 80 firms took part in the tender. CoRover also develops the BharatGPT platform.\n\nFor IB ACIO: By — MeitY (NeGD); Selected — CoRover.ai (Bengaluru); Contract — ₹3.63 crore; First use — DigiLocker; Model — ask, do, escalate; Safeguards — against prompt injection and jailbreaks.",
+      "content_hi": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय (MeitY) ने अपने राष्ट्रीय ई-गवर्नेंस प्रभाग (NeGD) के माध्यम से 8 अक्टूबर 2026 को सरकारी सेवाओं के लिए एकीकृत एजेंटिक AI प्लेटफॉर्म बनाने हेतु बेंगलुरु के स्टार्टअप CoRover.ai को ₹3.63 करोड़ के अनुबंध पर चुना।\n\nयह पुन: प्रयोज्य ढांचा विभागों को हर उपयोग के लिए अलग प्रणाली बनाए बिना AI सहायक और बॉट बनाने देगा। इसमें मानवीय निगरानी और प्रॉम्प्ट-इंजेक्शन व जेलब्रेक हमलों से सुरक्षा है। पहला उपयोग डिजीलॉकर पर होगा। CoRover भारतGPT प्लेटफॉर्म भी विकसित करता है।\n\nIB ACIO: MeitY (NeGD); CoRover.ai; ₹3.63 करोड़; पहला उपयोग — डिजीलॉकर।",
+      "question": "The unified agentic AI platform being built by CoRover.ai for MeitY will first be implemented on which government platform?",
+      "question_hi": "MeitY के लिए CoRover.ai द्वारा बनाया जा रहा एकीकृत एजेंटिक AI प्लेटफॉर्म सबसे पहले किस सरकारी प्लेटफॉर्म पर लागू होगा?",
+      "options": [
+        "UMANG",
+        "DigiLocker",
+        "CoWIN",
+        "e-Courts"
+      ],
+      "options_hi": [
+        "उमंग",
+        "डिजीलॉकर",
+        "कोविन",
+        "ई-कोर्ट्स"
+      ],
+      "correctAnswer": 1,
+      "explanation": "DigiLocker is the first platform to get the agentic AI assistant. 'Agentic AI' means AI that can not only answer questions but also complete tasks (do) and pass difficult cases to humans (escalate). Its built-in defences against prompt injection and jailbreaks show how cybersecurity is now central to e-governance.",
+      "explanation_hi": "डिजीलॉकर एजेंटिक AI सहायक पाने वाला पहला प्लेटफॉर्म है। 'एजेंटिक AI' का अर्थ ऐसा AI है जो केवल प्रश्नों का उत्तर ही नहीं देता बल्कि कार्य पूरे करता है और कठिन मामलों को मनुष्यों को सौंपता है। प्रॉम्प्ट इंजेक्शन और जेलब्रेक से सुरक्षा दर्शाती है कि साइबर सुरक्षा अब ई-गवर्नेंस का केंद्र है।",
+      "moreInfo": "DigiLocker was launched in 2015 under Digital India; documents issued in DigiLocker are legally valid under the IT Act, 2000. UMANG is the single mobile app for central and state government services. CERT-In is India's national agency for cybersecurity incidents.",
+      "moreInfo_hi": "डिजीलॉकर 2015 में डिजिटल इंडिया के तहत शुरू हुआ; इसमें जारी दस्तावेज़ IT अधिनियम, 2000 के तहत कानूनी रूप से मान्य हैं। उमंग केंद्र और राज्य सरकार की सेवाओं का एकल मोबाइल ऐप है। CERT-In साइबर सुरक्षा घटनाओं के लिए भारत की राष्ट्रीय एजेंसी है।",
+      "relatedDate": "2026-10-13"
+    },
+    {
+      "id": "8",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "GRSE Launches INS Shreyas, Third Next Generation Offshore Patrol Vessel for Indian Navy",
+      "title_hi": "GRSE ने भारतीय नौसेना के लिए तीसरा नेक्स्ट जेनरेशन ऑफशोर पेट्रोल वेसल INS श्रेयस लॉन्च किया",
+      "image": null,
+      "summary": "Garden Reach Shipbuilders and Engineers launched INS Shreyas, the third of four Next Generation Offshore Patrol Vessels it is building for the Indian Navy, in Kolkata.",
+      "summary_hi": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स ने कोलकाता में भारतीय नौसेना के लिए बनाए जा रहे चार नेक्स्ट जेनरेशन ऑफशोर पेट्रोल वेसल में से तीसरे INS श्रेयस को लॉन्च किया।",
+      "content": "Garden Reach Shipbuilders and Engineers (GRSE) launched INS Shreyas (Yard 3040), the third of four Next Generation Offshore Patrol Vessels (NGOPVs) it is building for the Indian Navy, at Kolkata in October 2026, in the presence of Vice Chief of the Naval Staff Vice Admiral Ajay Kochhar.\n\nThe vessel is about 113 m long, displaces around 3,000 tonnes, has a top speed of 23 knots and an endurance of 8,500 nautical miles. It is designed for maritime surveillance, protection of offshore assets such as oil rigs, maritime interdiction and Visit, Board, Search and Seizure (VBSS) operations. 'Shreyas' means 'best' or 'most excellent' in Sanskrit.\n\nFor IB ACIO: Ship — INS Shreyas (NGOPV, 3rd of 4 by GRSE); Builder — GRSE, Kolkata; Displacement — ~3,000 t; Endurance — 8,500 nm; Roles — surveillance, offshore asset protection, VBSS.",
+      "content_hi": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स (GRSE) ने अक्टूबर 2026 में कोलकाता में उप नौसेना प्रमुख वाइस एडमिरल अजय कोचर की उपस्थिति में भारतीय नौसेना के लिए बनाए जा रहे चार नेक्स्ट जेनरेशन ऑफशोर पेट्रोल वेसल (NGOPV) में से तीसरे INS श्रेयस (यार्ड 3040) को लॉन्च किया।\n\nपोत लगभग 113 मीटर लंबा है, लगभग 3,000 टन विस्थापन वाला है, अधिकतम गति 23 नॉट और सहनशक्ति 8,500 समुद्री मील है। यह समुद्री निगरानी, तेल रिग जैसी अपतटीय संपत्तियों की सुरक्षा और VBSS अभियानों के लिए बना है। 'श्रेयस' का संस्कृत में अर्थ 'सर्वश्रेष्ठ' है।\n\nIB ACIO: INS श्रेयस — NGOPV; निर्माता — GRSE, कोलकाता।",
+      "question": "INS Shreyas, the third Next Generation Offshore Patrol Vessel, was launched by which shipyard?",
+      "question_hi": "तीसरा नेक्स्ट जेनरेशन ऑफशोर पेट्रोल वेसल INS श्रेयस किस शिपयार्ड ने लॉन्च किया?",
+      "options": [
+        "Mazagon Dock Shipbuilders, Mumbai",
+        "Hindustan Shipyard Limited, Visakhapatnam",
+        "Goa Shipyard Limited",
+        "Garden Reach Shipbuilders and Engineers, Kolkata"
+      ],
+      "options_hi": [
+        "मझगांव डॉक शिपबिल्डर्स, मुंबई",
+        "हिंदुस्तान शिपयार्ड लिमिटेड, विशाखापत्तनम",
+        "गोवा शिपयार्ड लिमिटेड",
+        "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स, कोलकाता"
+      ],
+      "correctAnswer": 3,
+      "explanation": "INS Shreyas was launched by GRSE, Kolkata, which is building four of the Navy's NGOPVs; Goa Shipyard is building the other seven, making Goa Shipyard a tricky distractor. Remember: 'launch' means first entry into water; 'commissioning' is formal induction into the Navy later.",
+      "explanation_hi": "INS श्रेयस को GRSE, कोलकाता ने लॉन्च किया, जो नौसेना के चार NGOPV बना रहा है; शेष सात गोवा शिपयार्ड बना रहा है, इसलिए गोवा शिपयार्ड चालाक भ्रम है। याद रखें: 'लॉन्च' का अर्थ पहली बार पानी में उतरना है; 'कमीशनिंग' बाद में नौसेना में औपचारिक शामिल होना है।",
+      "moreInfo": "GRSE is a Miniratna defence PSU under the Ministry of Defence and was the first Indian shipyard to export a warship (CGS Barracuda to Mauritius, 2014). It is also building the Arnala-class ASW shallow water craft.",
+      "moreInfo_hi": "GRSE रक्षा मंत्रालय के अधीन मिनीरत्न रक्षा PSU है और युद्धपोत निर्यात करने वाला पहला भारतीय शिपयार्ड था (मॉरीशस को CGS बाराकुडा, 2014)। यह अर्नाला-श्रेणी के ASW उथले जल पोत भी बना रहा है।",
+      "relatedDate": "2026-10-13"
+    },
+    {
+      "id": "9",
+      "category": "International",
+      "category_hi": "अंतरराष्ट्रीय",
+      "title": "EAM Jaishankar Visits Ghana, Côte d'Ivoire and Ethiopia; Lays Wreath at Adwa Victory Monument",
+      "title_hi": "विदेश मंत्री जयशंकर की घाना, कोट डी आइवर और इथियोपिया यात्रा; अदवा विजय स्मारक पर श्रद्धांजलि",
+      "image": null,
+      "summary": "External Affairs Minister S. Jaishankar visited three African nations from 6 to 10 October 2026 to deepen ties in trade, investment, health and infrastructure.",
+      "summary_hi": "विदेश मंत्री एस. जयशंकर ने 6 से 10 अक्टूबर 2026 तक व्यापार, निवेश, स्वास्थ्य और अवसंरचना में संबंध गहरे करने हेतु तीन अफ्रीकी देशों की यात्रा की।",
+      "content": "External Affairs Minister S. Jaishankar made a five-day visit to Ghana, Côte d'Ivoire and Ethiopia from 6 to 10 October 2026.\n\nIn Ghana, he met Foreign Minister Samuel Okudzeto Ablakwa, and two MoUs were signed in agriculture and zoological research. In Abidjan, Côte d'Ivoire, he discussed trade, infrastructure, agriculture and healthcare. In Ethiopia, he visited the Ethiopian Artificial Intelligence Institute, toured the Adwa Victory Museum and laid a wreath at the Adwa Victory Monument. India announced it will hold its next Jaipur Foot (artificial limb) fitment camp in Ethiopia.\n\nFor IB ACIO: Visit — S. Jaishankar to Ghana, Côte d'Ivoire, Ethiopia (6–10 Oct 2026); Ghana — 2 MoUs; Ethiopia — Adwa Victory Monument, Jaipur Foot camp; Focus — India–Africa partnership.",
+      "content_hi": "विदेश मंत्री एस. जयशंकर ने 6 से 10 अक्टूबर 2026 तक घाना, कोट डी आइवर और इथियोपिया की पाँच दिवसीय यात्रा की।\n\nघाना में उन्होंने विदेश मंत्री सैमुअल ओकुद्ज़ेतो अब्लाक्वा से मुलाकात की और कृषि व प्राणी अनुसंधान में दो समझौते हुए। कोट डी आइवर के आबिदजान में व्यापार, अवसंरचना, कृषि और स्वास्थ्य पर चर्चा हुई। इथियोपिया में उन्होंने इथियोपियन आर्टिफिशियल इंटेलिजेंस इंस्टीट्यूट और अदवा विजय संग्रहालय देखा तथा अदवा विजय स्मारक पर पुष्पचक्र अर्पित किया। भारत ने इथियोपिया में अगला जयपुर फुट शिविर लगाने की घोषणा की।\n\nIB ACIO: जयशंकर — घाना, कोट डी आइवर, इथियोपिया; अदवा विजय स्मारक — इथियोपिया।",
+      "question": "The Adwa Victory Monument, where EAM Jaishankar laid a wreath, commemorates the 1896 victory of Ethiopia over which colonial power?",
+      "question_hi": "अदवा विजय स्मारक, जहाँ विदेश मंत्री जयशंकर ने पुष्पचक्र अर्पित किया, 1896 में इथियोपिया की किस औपनिवेशिक शक्ति पर विजय की स्मृति में है?",
+      "options": [
+        "Italy",
+        "France",
+        "Britain",
+        "Portugal"
+      ],
+      "options_hi": [
+        "इटली",
+        "फ्रांस",
+        "ब्रिटेन",
+        "पुर्तगाल"
+      ],
+      "correctAnswer": 0,
+      "explanation": "At the Battle of Adwa (1 March 1896), Ethiopian forces under Emperor Menelik II defeated Italy, which helped Ethiopia remain one of the few African nations never colonised. That is why Adwa is a powerful symbol of African resistance and independence.",
+      "explanation_hi": "अदवा की लड़ाई (1 मार्च 1896) में सम्राट मेनेलिक द्वितीय के नेतृत्व में इथियोपियाई सेना ने इटली को हराया, जिससे इथियोपिया उन गिने-चुने अफ्रीकी देशों में रहा जो कभी उपनिवेश नहीं बने। इसलिए अदवा अफ्रीकी प्रतिरोध और स्वतंत्रता का शक्तिशाली प्रतीक है।",
+      "moreInfo": "Ethiopia's capital Addis Ababa hosts the headquarters of the African Union. The AU became a permanent member of the G20 during India's G20 Presidency at the New Delhi Summit in September 2023. Jaipur Foot is run by Bhagwan Mahaveer Viklang Sahayata Samiti.",
+      "moreInfo_hi": "इथियोपिया की राजधानी अदीस अबाबा में अफ्रीकी संघ का मुख्यालय है। सितंबर 2023 में नई दिल्ली शिखर सम्मेलन में भारत की G20 अध्यक्षता के दौरान अफ्रीकी संघ G20 का स्थायी सदस्य बना। जयपुर फुट भगवान महावीर विकलांग सहायता समिति द्वारा संचालित है।",
+      "relatedDate": "2026-10-13"
+    },
+    {
+      "id": "10",
+      "category": "Banking & Finance",
+      "category_hi": "बैंकिंग एवं वित्त",
+      "title": "RBI Excludes Paytm Payments Bank from Second Schedule After Licence Cancellation",
+      "title_hi": "लाइसेंस रद्द होने के बाद RBI ने पेटीएम पेमेंट्स बैंक को दूसरी अनुसूची से बाहर किया",
+      "image": null,
+      "summary": "RBI issued a notification under Section 42(6)(b) of the RBI Act, 1934, removing Paytm Payments Bank Ltd from the list of scheduled banks.",
+      "summary_hi": "RBI ने RBI अधिनियम, 1934 की धारा 42(6)(b) के तहत अधिसूचना जारी कर पेटीएम पेमेंट्स बैंक लिमिटेड को अनुसूचित बैंकों की सूची से हटा दिया।",
+      "content": "The Reserve Bank of India excluded Paytm Payments Bank Limited (PPBL) from the Second Schedule of the RBI Act, 1934, through a notification under Section 42(6)(b). This means PPBL is no longer a scheduled bank.\n\nThe RBI had cancelled PPBL's licence on 24 April 2026 for regulatory non-compliance and conduct harmful to depositors' interests. In July 2026, the Delhi High Court ordered its winding up under the Banking Regulation Act, 1949 and the Companies Act, 2013, and appointed former SBI CGM Girikumar M. Nair as the Official Liquidator.\n\nFor IB ACIO: Entity — Paytm Payments Bank Ltd; Action — excluded from Second Schedule, RBI Act; Provision — Section 42(6)(b); Licence cancelled — 24 April 2026; Liquidator — Girikumar M. Nair.",
+      "content_hi": "भारतीय रिज़र्व बैंक ने धारा 42(6)(b) के तहत अधिसूचना जारी कर पेटीएम पेमेंट्स बैंक लिमिटेड (PPBL) को RBI अधिनियम, 1934 की दूसरी अनुसूची से बाहर कर दिया। अर्थात PPBL अब अनुसूचित बैंक नहीं है।\n\nRBI ने 24 अप्रैल 2026 को नियामक अनुपालन न करने और जमाकर्ताओं के हितों के विरुद्ध आचरण के कारण PPBL का लाइसेंस रद्द किया था। जुलाई 2026 में दिल्ली उच्च न्यायालय ने इसके परिसमापन का आदेश दिया और पूर्व SBI CGM गिरिकुमार एम. नायर को आधिकारिक परिसमापक नियुक्त किया।\n\nIB ACIO: PPBL — दूसरी अनुसूची से बाहर; धारा 42(6)(b); लाइसेंस रद्द — 24 अप्रैल 2026।",
+      "question": "Scheduled banks in India are those listed in which Schedule of the RBI Act, 1934?",
+      "question_hi": "भारत में अनुसूचित बैंक वे हैं जो RBI अधिनियम, 1934 की किस अनुसूची में सूचीबद्ध हैं?",
+      "options": [
+        "First Schedule",
+        "Second Schedule",
+        "Third Schedule",
+        "Fifth Schedule"
+      ],
+      "options_hi": [
+        "पहली अनुसूची",
+        "दूसरी अनुसूची",
+        "तीसरी अनुसूची",
+        "पाँचवीं अनुसूची"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Banks included in the Second Schedule of the RBI Act, 1934 are 'scheduled banks'. They can access RBI's refinance and liquidity facilities and must maintain CRR with the RBI. Removal from the Second Schedule follows PPBL's licence cancellation and winding-up.",
+      "explanation_hi": "RBI अधिनियम, 1934 की दूसरी अनुसूची में शामिल बैंक 'अनुसूचित बैंक' कहलाते हैं। इन्हें RBI की पुनर्वित्त और तरलता सुविधाएँ मिलती हैं और इन्हें RBI के पास CRR रखना होता है। PPBL के लाइसेंस रद्द होने और परिसमापन के बाद इसे दूसरी अनुसूची से हटाया गया।",
+      "moreInfo": "Payments banks were set up on the recommendations of the Nachiket Mor Committee (2014). They can accept deposits (up to ₹2 lakh per customer) but cannot lend. India Post Payments Bank and Airtel Payments Bank are examples.",
+      "moreInfo_hi": "पेमेंट्स बैंक नचिकेत मोर समिति (2014) की सिफारिशों पर बने। ये जमा स्वीकार कर सकते हैं (प्रति ग्राहक ₹2 लाख तक) पर ऋण नहीं दे सकते। इंडिया पोस्ट पेमेंट्स बैंक और एयरटेल पेमेंट्स बैंक इसके उदाहरण हैं।",
+      "relatedDate": "2026-10-13"
+    }
+  ]
+}
