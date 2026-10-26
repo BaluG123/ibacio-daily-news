@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-23",
+  "editionTitle": "IB ACIO Daily Current Affairs — 23 October 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 23 अक्टूबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "Defence Ministry Signs ₹770 Crore Contract with BEL for Improved Low-Level Light-Weight Radars to Counter Drones",
+      "title_hi": "रक्षा मंत्रालय ने ड्रोन से निपटने हेतु उन्नत लो-लेवल लाइट-वेट रडार के लिए BEL के साथ ₹770 करोड़ का अनुबंध किया",
+      "image": null,
+      "summary": "The Ministry of Defence signed a ₹770 crore contract with Bharat Electronics Limited on 21 October 2026 for the Improved Low-Level Light-Weight Radar (LLLR-I) for the Indian Army.",
+      "summary_hi": "रक्षा मंत्रालय ने 21 अक्टूबर 2026 को भारतीय सेना के लिए उन्नत लो-लेवल लाइट-वेट रडार (LLLR-I) हेतु भारत इलेक्ट्रॉनिक्स लिमिटेड के साथ ₹770 करोड़ का अनुबंध किया।",
+      "content": "The Ministry of Defence signed a contract worth about ₹770 crore with Bharat Electronics Limited (BEL) in New Delhi on 21 October 2026 for the Improved Low-Level Light-Weight Radar (LLLR-I) for the Indian Army, in the presence of Defence Secretary Rajesh Kumar Singh.\n\nThe LLLR-I is an upgraded version of the Aslesha radar, designed by DRDO's Electronics and Radar Development Establishment (LRDE) and built by BEL. It is a software-defined pulse-Doppler radar with four fixed GaN-based AESA panels that give 360-degree coverage. Using digital beamforming and 3D processing, it can detect small drones with a low radar cross-section, cruise missiles and low-flying aircraft — threats that became prominent in recent conflicts.\n\nFor IB ACIO: Contract — LLLR-I radar, ₹770 crore; Signed with — BEL; User — Indian Army; Designed by — LRDE (DRDO), Bengaluru; Based on — Aslesha radar; Purpose — counter-drone and low-level air defence.",
+      "content_hi": "रक्षा मंत्रालय ने 21 अक्टूबर 2026 को नई दिल्ली में रक्षा सचिव राजेश कुमार सिंह की उपस्थिति में भारतीय सेना के लिए उन्नत लो-लेवल लाइट-वेट रडार (LLLR-I) हेतु भारत इलेक्ट्रॉनिक्स लिमिटेड (BEL) के साथ लगभग ₹770 करोड़ का अनुबंध किया।\n\nLLLR-I, अश्लेषा रडार का उन्नत संस्करण है, जिसे DRDO के इलेक्ट्रॉनिक्स और रडार विकास प्रतिष्ठान (LRDE) ने डिज़ाइन किया और BEL ने बनाया है। यह सॉफ्टवेयर-परिभाषित पल्स-डॉप्लर रडार है, जिसमें चार स्थिर GaN-आधारित AESA पैनल 360-डिग्री कवरेज देते हैं। डिजिटल बीमफॉर्मिंग और 3D प्रोसेसिंग से यह छोटे ड्रोन, क्रूज़ मिसाइल और नीचे उड़ते विमानों का पता लगा सकता है।\n\nIB ACIO: LLLR-I रडार — ₹770 करोड़; BEL; भारतीय सेना; डिज़ाइन — LRDE (DRDO), बेंगलुरु; आधार — अश्लेषा रडार।",
+      "question": "The Electronics and Radar Development Establishment (LRDE), the DRDO lab that designed the LLLR-I radar, is located in which city?",
+      "question_hi": "LLLR-I रडार डिज़ाइन करने वाली DRDO प्रयोगशाला इलेक्ट्रॉनिक्स और रडार विकास प्रतिष्ठान (LRDE) किस शहर में स्थित है?",
+      "options": [
+        "Bengaluru",
+        "Hyderabad",
+        "Pune",
+        "Dehradun"
+      ],
+      "options_hi": [
+        "बेंगलुरु",
+        "हैदराबाद",
+        "पुणे",
+        "देहरादून"
+      ],
+      "correctAnswer": 0,
+      "explanation": "LRDE is DRDO's main radar laboratory and is based in Bengaluru, which is also BEL's headquarters city. Hyderabad hosts DRDO's missile complex (DRDL, RCI), Pune hosts ARDE and HEMRL, and Dehradun hosts IRDE (optics). Matching DRDO labs to cities is a favourite question in security-related exams.",
+      "explanation_hi": "LRDE, DRDO की प्रमुख रडार प्रयोगशाला है और बेंगलुरु में स्थित है, जहाँ BEL का मुख्यालय भी है। हैदराबाद में DRDO का मिसाइल परिसर (DRDL, RCI), पुणे में ARDE और HEMRL, तथा देहरादून में IRDE (ऑप्टिक्स) है। DRDO प्रयोगशालाओं का शहरों से मिलान सुरक्षा-संबंधी परीक्षाओं में पसंदीदा प्रश्न है।",
+      "moreInfo": "BEL is a Navratna defence PSU under the Ministry of Defence, set up in 1954 and headquartered in Bengaluru. AESA stands for Active Electronically Scanned Array; GaN (gallium nitride) technology gives radars higher power and better heat tolerance.",
+      "moreInfo_hi": "BEL रक्षा मंत्रालय के अधीन नवरत्न रक्षा PSU है, जिसकी स्थापना 1954 में हुई और मुख्यालय बेंगलुरु में है। AESA का अर्थ है एक्टिव इलेक्ट्रॉनिकली स्कैन्ड ऐरे; GaN (गैलियम नाइट्राइड) तकनीक रडार को अधिक शक्ति और बेहतर ताप सहनशीलता देती है।",
+      "relatedDate": "2026-10-23"
+    },
+    {
+      "id": "2",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "SIMBEX-26: 33rd Edition of Singapore–India Maritime Bilateral Exercise Begins at Visakhapatnam",
+      "title_hi": "सिम्बेक्स-26: सिंगापुर–भारत समुद्री द्विपक्षीय अभ्यास का 33वाँ संस्करण विशाखापत्तनम में शुरू",
+      "image": null,
+      "summary": "The Indian Navy and the Republic of Singapore Navy began the 33rd edition of SIMBEX at Visakhapatnam, running from 21 to 26 October 2026.",
+      "summary_hi": "भारतीय नौसेना और सिंगापुर गणराज्य नौसेना ने विशाखापत्तनम में सिम्बेक्स का 33वाँ संस्करण शुरू किया, जो 21 से 26 अक्टूबर 2026 तक चलेगा।",
+      "content": "The 33rd edition of the Singapore–India Maritime Bilateral Exercise (SIMBEX-26) began at Visakhapatnam, Andhra Pradesh, and runs from 21 to 26 October 2026. The opening ceremony was held aboard INS Nilgiri and INS Kamorta, and Singapore's Formidable-class stealth frigate RSS Supreme arrived on 21 October.\n\nThe exercise has a harbour phase with professional exchanges and a sea phase with anti-submarine, anti-air and surface warfare drills. SIMBEX began in 1994 and is one of the Indian Navy's longest continuous bilateral exercises with any foreign navy. It reflects close India–Singapore ties under India's Act East Policy and the shared goal of a free and open Indo-Pacific.\n\nFor IB ACIO: Exercise — SIMBEX-26 (33rd edition); Countries — India & Singapore; Venue — Visakhapatnam; Dates — 21–26 Oct 2026; Indian ships — INS Nilgiri, INS Kamorta; Singapore ship — RSS Supreme; Started — 1994.",
+      "content_hi": "सिंगापुर–भारत समुद्री द्विपक्षीय अभ्यास (सिम्बेक्स-26) का 33वाँ संस्करण विशाखापत्तनम, आंध्र प्रदेश में शुरू हुआ, जो 21 से 26 अक्टूबर 2026 तक चलेगा। उद्घाटन समारोह INS नीलगिरि और INS कमोर्टा पर हुआ, और सिंगापुर का फॉर्मिडेबल-श्रेणी स्टेल्थ फ्रिगेट RSS सुप्रीम 21 अक्टूबर को पहुँचा।\n\nअभ्यास में बंदरगाह चरण में पेशेवर आदान-प्रदान और समुद्री चरण में पनडुब्बी-रोधी, वायु-रोधी और सतही युद्ध अभ्यास होते हैं। सिम्बेक्स 1994 में शुरू हुआ और किसी विदेशी नौसेना के साथ भारतीय नौसेना के सबसे लंबे निरंतर द्विपक्षीय अभ्यासों में से एक है।\n\nIB ACIO: सिम्बेक्स-26 (33वाँ संस्करण) — भारत और सिंगापुर; विशाखापत्तनम; 21–26 अक्टूबर 2026; शुरुआत — 1994।",
+      "question": "SIMBEX is a bilateral maritime exercise between the Indian Navy and the navy of which country?",
+      "question_hi": "सिम्बेक्स भारतीय नौसेना और किस देश की नौसेना के बीच द्विपक्षीय समुद्री अभ्यास है?",
+      "options": [
+        "Sri Lanka",
+        "Singapore",
+        "Indonesia",
+        "Thailand"
+      ],
+      "options_hi": [
+        "श्रीलंका",
+        "सिंगापुर",
+        "इंडोनेशिया",
+        "थाईलैंड"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SIMBEX stands for Singapore–India Maritime Bilateral Exercise. The other options all have their own exercises with India: SLINEX (Sri Lanka), Samudra Shakti (Indonesia), and CORPAT patrols plus Ex Maitree (Thailand). The 'S' could suggest Sri Lanka, which is the trap.",
+      "explanation_hi": "सिम्बेक्स का अर्थ है सिंगापुर–भारत समुद्री द्विपक्षीय अभ्यास। अन्य सभी विकल्पों के भारत के साथ अपने अभ्यास हैं: स्लाइनेक्स (श्रीलंका), समुद्र शक्ति (इंडोनेशिया), और CORPAT गश्त व मैत्री अभ्यास (थाईलैंड)। 'S' से श्रीलंका का भ्रम हो सकता है।",
+      "moreInfo": "Visakhapatnam is the headquarters of the Indian Navy's Eastern Naval Command. INS Nilgiri is the lead ship of the Project 17A stealth frigates, commissioned in January 2025; INS Kamorta is an anti-submarine warfare corvette.",
+      "moreInfo_hi": "विशाखापत्तनम भारतीय नौसेना की पूर्वी नौसेना कमान का मुख्यालय है। INS नीलगिरि प्रोजेक्ट 17A स्टेल्थ फ्रिगेट का प्रमुख जहाज़ है, जो जनवरी 2025 में कमीशन हुआ; INS कमोर्टा पनडुब्बी-रोधी युद्धक कोर्वेट है।",
+      "relatedDate": "2026-10-23"
+    },
+    {
+      "id": "3",
+      "category": "Economy",
+      "category_hi": "अर्थव्यवस्था",
+      "title": "India and New Zealand Customs Sign Pact for Electronic Exchange of Origin Data under New FTA",
+      "title_hi": "भारत और न्यूज़ीलैंड सीमा शुल्क ने नए FTA के तहत उत्पत्ति डेटा के इलेक्ट्रॉनिक आदान-प्रदान हेतु समझौता किया",
+      "image": null,
+      "summary": "CBIC and the New Zealand Customs Service signed a Memorandum of Cooperation to exchange certificate-of-origin data electronically, so goods traded under the India–New Zealand FTA clear customs faster.",
+      "summary_hi": "CBIC और न्यूज़ीलैंड सीमा शुल्क सेवा ने उत्पत्ति प्रमाण पत्र डेटा के इलेक्ट्रॉनिक आदान-प्रदान हेतु सहयोग ज्ञापन पर हस्ताक्षर किए, ताकि भारत–न्यूज़ीलैंड FTA के तहत व्यापारित वस्तुएँ सीमा शुल्क से तेज़ी से निकलें।",
+      "content": "India and New Zealand signed a Memorandum of Cooperation (MoC) for the electronic exchange of origin data for goods traded under the India–New Zealand Free Trade Agreement, which came into force on 20 October 2026. It was signed by Vivek Chaturvedi, Chairman of the Central Board of Indirect Taxes and Customs (CBIC), and Christine Stevenson, Chief Executive and Comptroller of the New Zealand Customs Service.\n\nTo get the FTA's lower duty, an exporter must prove the goods were actually made in the partner country — this is shown by a certificate of origin. Sharing this data electronically, instead of on paper, reduces fraud, cuts clearance time and lowers costs. Indian textile and engineering exporters are expected to benefit the most.\n\nFor IB ACIO: Agreement — MoC on electronic origin data exchange; Parties — CBIC (India) and NZ Customs Service; Linked to — India–NZ FTA (in force 20 Oct 2026); CBIC Chairman — Vivek Chaturvedi.",
+      "content_hi": "भारत और न्यूज़ीलैंड ने 20 अक्टूबर 2026 से लागू भारत–न्यूज़ीलैंड मुक्त व्यापार समझौते के तहत व्यापारित वस्तुओं के उत्पत्ति डेटा के इलेक्ट्रॉनिक आदान-प्रदान हेतु सहयोग ज्ञापन (MoC) पर हस्ताक्षर किए। इस पर केंद्रीय अप्रत्यक्ष कर और सीमा शुल्क बोर्ड (CBIC) के अध्यक्ष विवेक चतुर्वेदी और न्यूज़ीलैंड सीमा शुल्क सेवा की मुख्य कार्यकारी क्रिस्टीन स्टीवेन्सन ने हस्ताक्षर किए।\n\nFTA का कम शुल्क पाने के लिए निर्यातक को साबित करना होता है कि वस्तु वास्तव में साझेदार देश में बनी है — यह उत्पत्ति प्रमाण पत्र से दिखाया जाता है। कागज़ के बजाय इलेक्ट्रॉनिक रूप से यह डेटा साझा करने से धोखाधड़ी घटती है, क्लीयरेंस समय और लागत कम होती है।\n\nIB ACIO: उत्पत्ति डेटा आदान-प्रदान MoC — CBIC और NZ सीमा शुल्क; भारत–NZ FTA; CBIC अध्यक्ष — विवेक चतुर्वेदी।",
+      "question": "The Central Board of Indirect Taxes and Customs (CBIC) functions under which department?",
+      "question_hi": "केंद्रीय अप्रत्यक्ष कर और सीमा शुल्क बोर्ड (CBIC) किस विभाग के अधीन कार्य करता है?",
+      "options": [
+        "Department of Commerce",
+        "Department of Economic Affairs",
+        "Department of Revenue, Ministry of Finance",
+        "Directorate General of Foreign Trade"
+      ],
+      "options_hi": [
+        "वाणिज्य विभाग",
+        "आर्थिक कार्य विभाग",
+        "राजस्व विभाग, वित्त मंत्रालय",
+        "विदेश व्यापार महानिदेशालय"
+      ],
+      "correctAnswer": 2,
+      "explanation": "CBIC is under the Department of Revenue, Ministry of Finance, and administers customs, GST and central excise. Its twin body CBDT handles direct taxes. The Department of Commerce and DGFT deal with trade policy and FTAs, which is why they are tempting, but customs collection is CBIC's job.",
+      "explanation_hi": "CBIC वित्त मंत्रालय के राजस्व विभाग के अधीन है और सीमा शुल्क, GST तथा केंद्रीय उत्पाद शुल्क का प्रशासन करता है। इसकी जुड़वाँ संस्था CBDT प्रत्यक्ष कर देखती है। वाणिज्य विभाग और DGFT व्यापार नीति व FTA देखते हैं, इसलिए वे आकर्षक भ्रम हैं, पर सीमा शुल्क वसूली CBIC का काम है।",
+      "moreInfo": "Both CBIC and CBDT were constituted under the Central Boards of Revenue Act, 1963. CBIC was earlier called the Central Board of Excise and Customs (CBEC) and was renamed in 2018 after GST was introduced.",
+      "moreInfo_hi": "CBIC और CBDT दोनों केंद्रीय राजस्व बोर्ड अधिनियम, 1963 के तहत गठित हुए। CBIC को पहले केंद्रीय उत्पाद और सीमा शुल्क बोर्ड (CBEC) कहा जाता था, और GST लागू होने के बाद 2018 में इसका नाम बदला गया।",
+      "relatedDate": "2026-10-23"
+    },
+    {
+      "id": "4",
+      "category": "Banking & Finance",
+      "category_hi": "बैंकिंग एवं वित्त",
+      "title": "Financial Services Department Launches Nationwide Financial Inclusion Saturation Campaign till 31 December",
+      "title_hi": "वित्तीय सेवा विभाग ने 31 दिसंबर तक देशव्यापी वित्तीय समावेशन संतृप्ति अभियान शुरू किया",
+      "image": null,
+      "summary": "The Department of Financial Services began a campaign from 21 October to 31 December 2026 across 2.70 lakh Gram Panchayats and urban local bodies to cover every eligible person under Jan Dhan, insurance and pension schemes.",
+      "summary_hi": "वित्तीय सेवा विभाग ने 21 अक्टूबर से 31 दिसंबर 2026 तक 2.70 लाख ग्राम पंचायतों और शहरी स्थानीय निकायों में हर पात्र व्यक्ति को जन धन, बीमा और पेंशन योजनाओं से जोड़ने हेतु अभियान शुरू किया।",
+      "content": "The Department of Financial Services (DFS), Ministry of Finance, launched a nationwide Financial Inclusion Saturation Campaign running from 21 October to 31 December 2026, covering about 2.70 lakh Gram Panchayats and Urban Local Bodies.\n\nCamps will open PM Jan Dhan Yojana accounts, complete re-KYC, update nominations and generate pending 14-digit CKYC identifiers. They will enrol people in PM Jeevan Jyoti Bima Yojana (life cover), PM Suraksha Bima Yojana (accident cover) and Atal Pension Yojana, and in PM Fasal Bima Yojana for Kisan Credit Card holders before the Rabi season. Awareness drives on cyber-fraud prevention and the 'Aapki Poonji, Aapka Adhikar' campaign on unclaimed deposits will also be held.\n\nFor IB ACIO: Campaign — Financial Inclusion Saturation Campaign; By — DFS, Ministry of Finance; Period — 21 Oct–31 Dec 2026; Coverage — 2.70 lakh GPs and ULBs; Schemes — PMJDY, PMJJBY, PMSBY, APY, PMFBY, KCC.",
+      "content_hi": "वित्त मंत्रालय के वित्तीय सेवा विभाग (DFS) ने 21 अक्टूबर से 31 दिसंबर 2026 तक लगभग 2.70 लाख ग्राम पंचायतों और शहरी स्थानीय निकायों को कवर करने वाला देशव्यापी वित्तीय समावेशन संतृप्ति अभियान शुरू किया।\n\nशिविरों में प्रधानमंत्री जन धन योजना खाते खोले जाएँगे, री-KYC पूरा होगा, नामांकन अपडेट होंगे और लंबित 14-अंकीय CKYC पहचान संख्या बनाई जाएगी। लोगों को प्रधानमंत्री जीवन ज्योति बीमा योजना (जीवन बीमा), प्रधानमंत्री सुरक्षा बीमा योजना (दुर्घटना बीमा), अटल पेंशन योजना और रबी सीज़न से पहले किसान क्रेडिट कार्ड धारकों को प्रधानमंत्री फसल बीमा योजना से जोड़ा जाएगा। साइबर-धोखाधड़ी रोकथाम और लावारिस जमा पर 'आपकी पूंजी, आपका अधिकार' अभियान पर जागरूकता भी होगी।\n\nIB ACIO: वित्तीय समावेशन संतृप्ति अभियान — DFS; 21 अक्टूबर–31 दिसंबर 2026; 2.70 लाख GP और ULB।",
+      "question": "Which government scheme provides accidental death and disability insurance cover for a small annual premium?",
+      "question_hi": "कौन सी सरकारी योजना कम वार्षिक प्रीमियम पर दुर्घटना मृत्यु और विकलांगता बीमा कवर देती है?",
+      "options": [
+        "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+        "Pradhan Mantri Jan Dhan Yojana",
+        "Atal Pension Yojana",
+        "Pradhan Mantri Suraksha Bima Yojana"
+      ],
+      "options_hi": [
+        "प्रधानमंत्री जीवन ज्योति बीमा योजना",
+        "प्रधानमंत्री जन धन योजना",
+        "अटल पेंशन योजना",
+        "प्रधानमंत्री सुरक्षा बीमा योजना"
+      ],
+      "correctAnswer": 3,
+      "explanation": "PM Suraksha Bima Yojana (PMSBY) gives ₹2 lakh accident cover for a premium of just ₹20 a year (ages 18–70). PMJJBY is the trap — it is life insurance covering death from any cause (₹2 lakh, ages 18–50). Easy memory trick: 'Suraksha' = safety from accidents, 'Jeevan Jyoti' = life. APY is a pension scheme and PMJDY opens bank accounts.",
+      "explanation_hi": "प्रधानमंत्री सुरक्षा बीमा योजना (PMSBY) केवल ₹20 वार्षिक प्रीमियम पर ₹2 लाख का दुर्घटना कवर देती है (आयु 18–70)। PMJJBY भ्रम है — यह किसी भी कारण से मृत्यु पर जीवन बीमा है (₹2 लाख, आयु 18–50)। याद रखने का तरीका: 'सुरक्षा' = दुर्घटना से सुरक्षा, 'जीवन ज्योति' = जीवन। APY पेंशन योजना है और PMJDY बैंक खाते खोलती है।",
+      "moreInfo": "PMJJBY, PMSBY and APY were all launched on 9 May 2015 in Kolkata. PM Jan Dhan Yojana began on 28 August 2014. CKYC records are maintained by CERSAI (Central Registry of Securitisation Asset Reconstruction and Security Interest of India).",
+      "moreInfo_hi": "PMJJBY, PMSBY और APY तीनों 9 मई 2015 को कोलकाता में शुरू हुईं। प्रधानमंत्री जन धन योजना 28 अगस्त 2014 को शुरू हुई। CKYC रिकॉर्ड CERSAI (भारतीय प्रतिभूतिकरण आस्ति पुनर्निर्माण और प्रतिभूति हित की केंद्रीय रजिस्ट्री) रखती है।",
+      "relatedDate": "2026-10-23"
+    },
+    {
+      "id": "5",
+      "category": "Science & Technology",
+      "category_hi": "विज्ञान एवं प्रौद्योगिकी",
+      "title": "BHASHINI and IISc Build Text-to-Speech Models for Sourashtra, a Digitally Underrepresented Language",
+      "title_hi": "भाषिणी और IISc ने डिजिटल रूप से कम प्रतिनिधित्व वाली सौराष्ट्र भाषा के लिए टेक्स्ट-टू-स्पीच मॉडल बनाए",
+      "image": null,
+      "summary": "MeitY's Digital India BHASHINI Division and IISc Bengaluru released four text-to-speech models that can read out Sourashtra in male and female voices.",
+      "summary_hi": "MeitY के डिजिटल इंडिया भाषिणी प्रभाग और IISc बेंगलुरु ने चार टेक्स्ट-टू-स्पीच मॉडल जारी किए, जो सौराष्ट्र भाषा को पुरुष और महिला आवाज़ों में पढ़ सकते हैं।",
+      "content": "The Digital India BHASHINI Division of the Ministry of Electronics and IT (MeitY) and the Indian Institute of Science (IISc), Bengaluru, developed four text-to-speech (TTS) models for Sourashtra. The models produce male and female voices from text written in both Tamil script and the Sourashtra script.\n\nThe speech corpus, created by IISc's SPIRE Lab, has over 28 hours of recordings with about 21,400 utterances. The models are available on the AIKosh platform. Sourashtra is an Indo-Aryan language spoken mainly in Tamil Nadu, especially around Madurai, by a community whose ancestors migrated from the Saurashtra region of Gujarat centuries ago. Such tools help preserve small languages and let their speakers use digital services in their own tongue.\n\nFor IB ACIO: Language — Sourashtra; Spoken mainly in — Tamil Nadu (Madurai); Developers — BHASHINI (MeitY) and IISc Bengaluru; Output — 4 TTS models; Platform — AIKosh.",
+      "content_hi": "इलेक्ट्रॉनिक्स और IT मंत्रालय (MeitY) के डिजिटल इंडिया भाषिणी प्रभाग और भारतीय विज्ञान संस्थान (IISc), बेंगलुरु ने सौराष्ट्र भाषा के लिए चार टेक्स्ट-टू-स्पीच (TTS) मॉडल विकसित किए। ये मॉडल तमिल लिपि और सौराष्ट्र लिपि दोनों में लिखे पाठ से पुरुष और महिला आवाज़ें बनाते हैं।\n\nIISc की SPIRE लैब द्वारा तैयार भाषण संग्रह में 28 घंटे से अधिक की रिकॉर्डिंग और लगभग 21,400 उच्चारण हैं। मॉडल AIKosh मंच पर उपलब्ध हैं। सौराष्ट्र एक इंडो-आर्यन भाषा है जो मुख्यतः तमिलनाडु, विशेषकर मदुरै के आसपास, ऐसे समुदाय द्वारा बोली जाती है जिसके पूर्वज सदियों पहले गुजरात के सौराष्ट्र क्षेत्र से आए थे।\n\nIB ACIO: सौराष्ट्र भाषा — मुख्यतः तमिलनाडु (मदुरै); भाषिणी (MeitY) और IISc; 4 TTS मॉडल।",
+      "question": "The Sourashtra language, for which BHASHINI built text-to-speech models, is spoken mainly in which state today?",
+      "question_hi": "सौराष्ट्र भाषा, जिसके लिए भाषिणी ने टेक्स्ट-टू-स्पीच मॉडल बनाए, आज मुख्यतः किस राज्य में बोली जाती है?",
+      "options": [
+        "Tamil Nadu",
+        "Gujarat",
+        "Maharashtra",
+        "Kerala"
+      ],
+      "options_hi": [
+        "तमिलनाडु",
+        "गुजरात",
+        "महाराष्ट्र",
+        "केरल"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sourashtra is spoken mainly in Tamil Nadu, especially Madurai, Thanjavur and Salem. Gujarat is the trap: the language is named after the Saurashtra region of Gujarat, from where the community's weaver ancestors migrated south centuries ago. The 2023 'Saurashtra Tamil Sangamam' celebrated this old link.",
+      "explanation_hi": "सौराष्ट्र भाषा मुख्यतः तमिलनाडु, विशेषकर मदुरै, तंजावुर और सेलम में बोली जाती है। गुजरात भ्रम है: भाषा का नाम गुजरात के सौराष्ट्र क्षेत्र पर है, जहाँ से समुदाय के बुनकर पूर्वज सदियों पहले दक्षिण आए थे। 2023 के 'सौराष्ट्र तमिल संगमम' ने इस पुराने संबंध का उत्सव मनाया।",
+      "moreInfo": "BHASHINI (BHASHa INterface for India) was launched in July 2022 under the National Language Translation Mission to make digital content available in all Indian languages. The Eighth Schedule of the Constitution lists 22 languages; Sourashtra is not among them.",
+      "moreInfo_hi": "भाषिणी (भारत के लिए भाषा इंटरफेस) जुलाई 2022 में राष्ट्रीय भाषा अनुवाद मिशन के तहत सभी भारतीय भाषाओं में डिजिटल सामग्री उपलब्ध कराने हेतु शुरू हुआ। संविधान की आठवीं अनुसूची में 22 भाषाएँ हैं; सौराष्ट्र उनमें शामिल नहीं है।",
+      "relatedDate": "2026-10-23"
+    },
+    {
+      "id": "6",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "DRDO's ARDE Shortlists Two Firms to Develop India's First Indigenous 20 mm Aviation Gun for Rudra and Prachand Helicopters",
+      "title_hi": "DRDO के ARDE ने रुद्र और प्रचंड हेलीकॉप्टरों हेतु भारत की पहली स्वदेशी 20 मिमी विमानन गन विकसित करने के लिए दो कंपनियाँ चुनीं",
+      "image": null,
+      "summary": "DRDO's Armament Research and Development Establishment shortlisted SSS Defence and the Kalyani Group as development-cum-production partners for a 20 mm aviation gun and turret for HAL's combat helicopters.",
+      "summary_hi": "DRDO के आयुध अनुसंधान और विकास प्रतिष्ठान ने HAL के लड़ाकू हेलीकॉप्टरों हेतु 20 मिमी विमानन गन और टरेट के लिए SSS डिफेंस और कल्याणी समूह को विकास-सह-उत्पादन साझेदार चुना।",
+      "content": "DRDO's Armament Research and Development Establishment (ARDE), Pune, shortlisted SSS Defence and the Kalyani Group as Development-cum-Production Partners to build India's first indigenous 20 mm aviation gun and turret system.\n\nThe gun is meant for HAL's armed Advanced Light Helicopter Mk-IV 'Rudra' and the Light Combat Helicopter 'Prachand', which currently use imported guns. Development is expected to take about two years. Under the model, the lowest bidder will receive 60% of production orders and the other firm 40%, which keeps two suppliers active. This supports the goal of reducing imports of critical weapons.\n\nFor IB ACIO: Project — first indigenous 20 mm aviation gun and turret; Lab — ARDE (DRDO), Pune; Partners — SSS Defence, Kalyani Group; Platforms — ALH Rudra, LCH Prachand (HAL); Order split — 60:40.",
+      "content_hi": "DRDO के आयुध अनुसंधान और विकास प्रतिष्ठान (ARDE), पुणे ने भारत की पहली स्वदेशी 20 मिमी विमानन गन और टरेट प्रणाली बनाने हेतु SSS डिफेंस और कल्याणी समूह को विकास-सह-उत्पादन साझेदार चुना।\n\nयह गन HAL के सशस्त्र उन्नत हल्के हेलीकॉप्टर Mk-IV 'रुद्र' और हल्के लड़ाकू हेलीकॉप्टर 'प्रचंड' के लिए है, जो अभी आयातित गन इस्तेमाल करते हैं। विकास में लगभग दो वर्ष लगेंगे। मॉडल के तहत सबसे कम बोली लगाने वाले को 60% और दूसरी कंपनी को 40% उत्पादन ऑर्डर मिलेंगे।\n\nIB ACIO: पहली स्वदेशी 20 मिमी विमानन गन; ARDE (DRDO), पुणे; SSS डिफेंस, कल्याणी समूह; रुद्र, प्रचंड (HAL); 60:40।",
+      "question": "The Armament Research and Development Establishment (ARDE) of DRDO is located in which city?",
+      "question_hi": "DRDO का आयुध अनुसंधान और विकास प्रतिष्ठान (ARDE) किस शहर में स्थित है?",
+      "options": [
+        "Chandigarh",
+        "Pune",
+        "Hyderabad",
+        "Bengaluru"
+      ],
+      "options_hi": [
+        "चंडीगढ़",
+        "पुणे",
+        "हैदराबाद",
+        "बेंगलुरु"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ARDE, set up in 1958, is in Pune and specialises in conventional weapons — artillery (including the ATAGS gun), rocket systems like Pinaka, small arms and warheads. Chandigarh hosts TBRL (terminal ballistics), Hyderabad the missile labs, and Bengaluru LRDE and ADE.",
+      "explanation_hi": "1958 में स्थापित ARDE पुणे में है और पारंपरिक हथियारों — तोपखाना (ATAGS सहित), पिनाका जैसी रॉकेट प्रणालियाँ, छोटे हथियार और वारहेड — में विशेषज्ञ है। चंडीगढ़ में TBRL, हैदराबाद में मिसाइल प्रयोगशालाएँ और बेंगलुरु में LRDE व ADE हैं।",
+      "moreInfo": "LCH Prachand is the world's only attack helicopter designed to land and take off at 5,000 metres, built for Siachen and Ladakh heights; it was inducted into the IAF in October 2022. HAL is headquartered in Bengaluru.",
+      "moreInfo_hi": "LCH प्रचंड दुनिया का एकमात्र हमलावर हेलीकॉप्टर है जो 5,000 मीटर पर उतरने और उड़ान भरने हेतु बना है, सियाचिन और लद्दाख की ऊँचाइयों के लिए; इसे अक्टूबर 2022 में वायुसेना में शामिल किया गया। HAL का मुख्यालय बेंगलुरु में है।",
+      "relatedDate": "2026-10-23"
+    },
+    {
+      "id": "7",
+      "category": "Science & Technology",
+      "category_hi": "विज्ञान एवं प्रौद्योगिकी",
+      "title": "NASA's Perseverance Rover Sets New Mars Driving Record; Indian Astronomer to Lead NASA's PUFFINS Mission",
+      "title_hi": "NASA के पर्सिवियरेंस रोवर ने मंगल पर ड्राइविंग का नया रिकॉर्ड बनाया; भारतीय खगोलशास्त्री NASA के PUFFINS मिशन का नेतृत्व करेंगी",
+      "image": null,
+      "summary": "Perseverance has now driven about 45.2 km on Mars, passing Opportunity's long-standing record, while NASA chose Indian astronomer Dr Ramya Manjunath Anche to lead its PUFFINS small-satellite mission.",
+      "summary_hi": "पर्सिवियरेंस अब मंगल पर लगभग 45.2 किमी चल चुका है और ऑपर्च्युनिटी का पुराना रिकॉर्ड पार कर गया है, जबकि NASA ने भारतीय खगोलशास्त्री डॉ. राम्या मंजुनाथ अंचे को अपने PUFFINS लघु-उपग्रह मिशन का नेतृत्व सौंपा।",
+      "content": "NASA said its Perseverance rover has driven about 45.2 km on Mars, surpassing the record of about 45.16 km (28.06 miles) set by the Opportunity rover, which worked from 2004 to 2018. Perseverance's AutoNav self-driving system lets it detect hazards and plan routes on its own, allowing longer daily drives.\n\nSeparately, NASA selected Indian astronomer Dr Ramya Manjunath Anche of the University of Arizona as Principal Investigator of PUFFINS, a small astrophysics mission with a budget of about USD 20 million (about ₹168 crore), targeted for launch around 2030. Indian institutions IUCAA Pune and the Indian Institute of Astrophysics, Bengaluru, are among the partners.\n\nFor IB ACIO: Rover — Perseverance (landed Feb 2021, Jezero Crater); Record — about 45.2 km driven on Mars; Previous record — Opportunity; PUFFINS PI — Dr Ramya Manjunath Anche; Indian partners — IUCAA, IIA.",
+      "content_hi": "NASA ने बताया कि उसका पर्सिवियरेंस रोवर मंगल पर लगभग 45.2 किमी चल चुका है, जिससे 2004 से 2018 तक काम करने वाले ऑपर्च्युनिटी रोवर का लगभग 45.16 किमी (28.06 मील) का रिकॉर्ड टूट गया। पर्सिवियरेंस की AutoNav स्व-चालित प्रणाली उसे खुद खतरों को पहचानने और रास्ता तय करने देती है।\n\nअलग से, NASA ने यूनिवर्सिटी ऑफ एरिज़ोना की भारतीय खगोलशास्त्री डॉ. राम्या मंजुनाथ अंचे को PUFFINS का प्रधान अन्वेषक चुना, जो लगभग 2 करोड़ डॉलर (लगभग ₹168 करोड़) बजट वाला लघु खगोलभौतिकी मिशन है और लगभग 2030 में प्रक्षेपण का लक्ष्य है। भारतीय संस्थान IUCAA पुणे और भारतीय खगोलभौतिकी संस्थान, बेंगलुरु साझेदारों में हैं।\n\nIB ACIO: पर्सिवियरेंस — जेज़ेरो क्रेटर (फरवरी 2021); लगभग 45.2 किमी; PUFFINS — डॉ. राम्या मंजुनाथ अंचे।",
+      "question": "NASA's Perseverance rover landed in February 2021 in which crater on Mars?",
+      "question_hi": "NASA का पर्सिवियरेंस रोवर फरवरी 2021 में मंगल के किस क्रेटर में उतरा?",
+      "options": [
+        "Gale Crater",
+        "Gusev Crater",
+        "Jezero Crater",
+        "Endeavour Crater"
+      ],
+      "options_hi": [
+        "गेल क्रेटर",
+        "गुसेव क्रेटर",
+        "जेज़ेरो क्रेटर",
+        "एंडेवर क्रेटर"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Perseverance landed in Jezero Crater, an ancient lake bed, to search for signs of past microbial life and collect rock samples for future return to Earth. Gale Crater is where Curiosity landed in 2012, Gusev Crater was Spirit's site, and Opportunity explored Meridiani Planum including Endeavour Crater.",
+      "explanation_hi": "पर्सिवियरेंस प्राचीन झील तल जेज़ेरो क्रेटर में उतरा, ताकि अतीत के सूक्ष्मजीव जीवन के संकेत खोजे और भविष्य में पृथ्वी पर लाने हेतु चट्टानों के नमूने एकत्र करे। गेल क्रेटर में क्यूरियोसिटी 2012 में उतरा, गुसेव क्रेटर स्पिरिट का स्थल था, और ऑपर्च्युनिटी ने एंडेवर क्रेटर सहित मेरिडियानी प्लैनम की खोज की।",
+      "moreInfo": "Perseverance carried Ingenuity, the first helicopter to fly on another planet (April 2021). IUCAA (Inter-University Centre for Astronomy and Astrophysics) is in Pune; the Indian Institute of Astrophysics (IIA) is in Bengaluru.",
+      "moreInfo_hi": "पर्सिवियरेंस अपने साथ इनजेन्युटी ले गया, जो किसी अन्य ग्रह पर उड़ने वाला पहला हेलीकॉप्टर (अप्रैल 2021) था। IUCAA (अंतर-विश्वविद्यालय खगोल विज्ञान और खगोलभौतिकी केंद्र) पुणे में और भारतीय खगोलभौतिकी संस्थान (IIA) बेंगलुरु में है।",
+      "relatedDate": "2026-10-23"
+    },
+    {
+      "id": "8",
+      "category": "Art & Culture",
+      "category_hi": "कला एवं संस्कृति",
+      "title": "Vummidi Ethiraj, Craftsman Who Made the Historic Sengol in 1947, Passes Away at 99",
+      "title_hi": "1947 में ऐतिहासिक सेंगोल बनाने वाले शिल्पकार वुम्मिडी एथिराज का 99 वर्ष की आयु में निधन",
+      "image": null,
+      "summary": "Chennai jeweller Vummidi Ethiraj, who as a young craftsman helped make the gold-plated silver Sengol presented to Jawaharlal Nehru in 1947, died aged 99.",
+      "summary_hi": "चेन्नई के जौहरी वुम्मिडी एथिराज, जिन्होंने युवा शिल्पकार के रूप में 1947 में जवाहरलाल नेहरू को भेंट किए गए सोने की परत वाले चाँदी के सेंगोल को बनाने में मदद की, का 99 वर्ष की आयु में निधन हो गया।",
+      "content": "Vummidi Ethiraj, the patriarch of Chennai's Vummidi family of jewellers, died at the age of 99. Born on 25 November 1926, he was associated with the over-125-year-old Vummidi Bangaru Jewellers.\n\nAt about 20, he was one of the craftsmen who made the Sengol — a gold-plated silver sceptre topped with a Nandi figure — which was presented to Jawaharlal Nehru on the eve of Independence in August 1947 by representatives of the Thiruvavaduthurai Adheenam, a Tamil Shaivite monastery, as a symbol of the transfer of power. For decades it was kept at a museum in Prayagraj (Allahabad). On 28 May 2023, PM Narendra Modi installed it in the new Parliament building next to the Lok Sabha Speaker's chair.\n\nFor IB ACIO: Person — Vummidi Ethiraj (1926–2026); Known for — crafting the Sengol (1947); Sengol — gold-plated silver sceptre with Nandi; Presented to — Nehru (Aug 1947); Installed — new Parliament, beside Lok Sabha Speaker's chair (28 May 2023).",
+      "content_hi": "चेन्नई के वुम्मिडी जौहरी परिवार के मुखिया वुम्मिडी एथिराज का 99 वर्ष की आयु में निधन हो गया। 25 नवंबर 1926 को जन्मे वे 125 वर्ष से अधिक पुराने वुम्मिडी बंगारू ज्वेलर्स से जुड़े थे।\n\nलगभग 20 वर्ष की आयु में वे उन शिल्पकारों में थे जिन्होंने सेंगोल बनाया — नंदी की आकृति वाला सोने की परत चढ़ा चाँदी का राजदंड — जिसे अगस्त 1947 में स्वतंत्रता की पूर्व संध्या पर तमिल शैव मठ थिरुवावडुथुरै आदीनम के प्रतिनिधियों ने सत्ता हस्तांतरण के प्रतीक के रूप में जवाहरलाल नेहरू को भेंट किया। दशकों तक यह प्रयागराज (इलाहाबाद) के संग्रहालय में रहा। 28 मई 2023 को प्रधानमंत्री नरेंद्र मोदी ने इसे नए संसद भवन में लोकसभा अध्यक्ष की कुर्सी के पास स्थापित किया।\n\nIB ACIO: वुम्मिडी एथिराज (1926–2026); सेंगोल (1947); नेहरू को भेंट; नए संसद भवन में लोकसभा अध्यक्ष की कुर्सी के पास (28 मई 2023)।",
+      "question": "Where was the historic Sengol installed by PM Modi on 28 May 2023?",
+      "question_hi": "प्रधानमंत्री मोदी ने 28 मई 2023 को ऐतिहासिक सेंगोल कहाँ स्थापित किया?",
+      "options": [
+        "In the Rajya Sabha, beside the Chairman's seat",
+        "In the Central Vista museum gallery",
+        "In the Durbar Hall of Rashtrapati Bhavan",
+        "In the Lok Sabha, beside the Speaker's chair"
+      ],
+      "options_hi": [
+        "राज्यसभा में सभापति के आसन के पास",
+        "सेंट्रल विस्टा संग्रहालय दीर्घा में",
+        "राष्ट्रपति भवन के दरबार हॉल में",
+        "लोकसभा में अध्यक्ष की कुर्सी के पास"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Sengol was installed in the Lok Sabha chamber of the new Parliament building, beside the Speaker's chair, on the day the building was inaugurated. 'Sengol' comes from the Tamil word 'semmai', meaning righteousness. Before 2023 it was displayed at a museum in Prayagraj, not in Delhi.",
+      "explanation_hi": "सेंगोल नए संसद भवन के लोकसभा कक्ष में अध्यक्ष की कुर्सी के पास उसी दिन स्थापित किया गया जिस दिन भवन का उद्घाटन हुआ। 'सेंगोल' तमिल शब्द 'सेम्मई' से बना है, जिसका अर्थ है धर्मपरायणता। 2023 से पहले यह दिल्ली में नहीं, बल्कि प्रयागराज के एक संग्रहालय में था।",
+      "moreInfo": "The new Parliament building has a triangular design; the Lok Sabha chamber follows a peacock (national bird) theme and the Rajya Sabha chamber a lotus (national flower) theme. It was designed by architect Bimal Patel.",
+      "moreInfo_hi": "नया संसद भवन त्रिकोणीय डिज़ाइन का है; लोकसभा कक्ष मोर (राष्ट्रीय पक्षी) और राज्यसभा कक्ष कमल (राष्ट्रीय पुष्प) की थीम पर है। इसे वास्तुकार बिमल पटेल ने डिज़ाइन किया।",
+      "relatedDate": "2026-10-23"
+    },
+    {
+      "id": "9",
+      "category": "Important Days",
+      "category_hi": "महत्वपूर्ण दिवस",
+      "title": "International Snow Leopard Day Observed on 23 October to Protect the 'Ghost of the Mountains'",
+      "title_hi": "'पहाड़ों के भूत' की रक्षा हेतु 23 अक्टूबर को अंतरराष्ट्रीय हिम तेंदुआ दिवस मनाया गया",
+      "image": null,
+      "summary": "International Snow Leopard Day on 23 October marks the 2013 Bishkek Declaration, when 12 snow leopard range countries pledged to protect the big cat and its mountain habitat.",
+      "summary_hi": "23 अक्टूबर को अंतरराष्ट्रीय हिम तेंदुआ दिवस 2013 की बिश्केक घोषणा का प्रतीक है, जब हिम तेंदुए वाले 12 देशों ने इस बड़ी बिल्ली और उसके पर्वतीय आवास की रक्षा का संकल्प लिया।",
+      "content": "International Snow Leopard Day was observed on 23 October 2026. It traces back to the Global Snow Leopard Conservation Forum held in Bishkek, Kyrgyzstan, in 2013, where 12 range countries, including India, adopted the Bishkek Declaration and launched the Global Snow Leopard and Ecosystem Protection Programme (GSLEP). The day was first observed in 2014, and the UN General Assembly formally proclaimed it in December 2024.\n\nThe snow leopard, called the 'ghost of the mountains' because it is so rarely seen, lives in the high Himalaya and Central Asian ranges and is listed as Vulnerable by the IUCN. India's first scientific count, the Snow Leopard Population Assessment in India (SPAI), released in January 2024, estimated 718 snow leopards, with Ladakh having the most (477).\n\nFor IB ACIO: Day — 23 October; Origin — Bishkek Declaration, Kyrgyzstan (2013); Range countries — 12; Programme — GSLEP; India's count — 718 (SPAI 2024); Highest — Ladakh; IUCN status — Vulnerable.",
+      "content_hi": "23 अक्टूबर 2026 को अंतरराष्ट्रीय हिम तेंदुआ दिवस मनाया गया। इसकी शुरुआत 2013 में बिश्केक, किर्गिस्तान में हुए वैश्विक हिम तेंदुआ संरक्षण मंच से हुई, जहाँ भारत सहित 12 देशों ने बिश्केक घोषणा अपनाई और वैश्विक हिम तेंदुआ और पारिस्थितिकी तंत्र संरक्षण कार्यक्रम (GSLEP) शुरू किया। यह दिवस पहली बार 2014 में मनाया गया और संयुक्त राष्ट्र महासभा ने दिसंबर 2024 में इसकी औपचारिक घोषणा की।\n\nहिम तेंदुआ, जिसे बहुत कम दिखने के कारण 'पहाड़ों का भूत' कहा जाता है, ऊँचे हिमालय और मध्य एशियाई पर्वतों में रहता है और IUCN में 'असुरक्षित' श्रेणी में है। भारत की पहली वैज्ञानिक गणना SPAI (जनवरी 2024) में 718 हिम तेंदुए आँके गए, जिनमें सबसे अधिक लद्दाख (477) में हैं।\n\nIB ACIO: 23 अक्टूबर; बिश्केक घोषणा (2013); 12 देश; GSLEP; भारत — 718; सबसे अधिक — लद्दाख।",
+      "question": "The 2013 Bishkek Declaration on snow leopard conservation was adopted in the capital of which country?",
+      "question_hi": "हिम तेंदुआ संरक्षण पर 2013 की बिश्केक घोषणा किस देश की राजधानी में अपनाई गई?",
+      "options": [
+        "Kyrgyzstan",
+        "Tajikistan",
+        "Kazakhstan",
+        "Uzbekistan"
+      ],
+      "options_hi": [
+        "किर्गिस्तान",
+        "ताजिकिस्तान",
+        "कज़ाखस्तान",
+        "उज़्बेकिस्तान"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bishkek is the capital of Kyrgyzstan. The other Central Asian capitals are common traps: Astana (Kazakhstan), Dushanbe (Tajikistan) and Tashkent (Uzbekistan). Remember that SCO's RATS is in Tashkent and the 25th SCO Heads of Government meeting was just held in Dushanbe.",
+      "explanation_hi": "बिश्केक किर्गिस्तान की राजधानी है। अन्य मध्य एशियाई राजधानियाँ आम भ्रम हैं: अस्ताना (कज़ाखस्तान), दुशांबे (ताजिकिस्तान) और ताशकंद (उज़्बेकिस्तान)। याद रखें SCO का RATS ताशकंद में है और 25वीं SCO शासनाध्यक्ष बैठक अभी दुशांबे में हुई।",
+      "moreInfo": "The snow leopard is the state animal of Himachal Pradesh and of Ladakh. India's snow leopard conservation is supported by Project Snow Leopard (2009) and the SECURE Himalaya project. It is listed in Schedule I of the Wildlife (Protection) Act, 1972.",
+      "moreInfo_hi": "हिम तेंदुआ हिमाचल प्रदेश और लद्दाख का राजकीय पशु है। भारत में इसके संरक्षण को प्रोजेक्ट स्नो लेपर्ड (2009) और SECURE हिमालय परियोजना का सहयोग है। यह वन्यजीव (संरक्षण) अधिनियम, 1972 की अनुसूची I में है।",
+      "relatedDate": "2026-10-23"
+    },
+    {
+      "id": "10",
+      "category": "Polity & Justice",
+      "category_hi": "राजव्यवस्था एवं न्याय",
+      "title": "Supreme Court: Any Citizen Can File Complaint against Candidates Who Give False Information in Nomination Papers",
+      "title_hi": "सर्वोच्च न्यायालय: नामांकन पत्रों में गलत जानकारी देने वाले उम्मीदवारों के विरुद्ध कोई भी नागरिक शिकायत दर्ज कर सकता है",
+      "image": null,
+      "summary": "The Supreme Court held that private citizens can file criminal complaints under Section 125A of the Representation of the People Act, 1951 against candidates who give false information or hide facts in their nomination affidavits.",
+      "summary_hi": "सर्वोच्च न्यायालय ने कहा कि निजी नागरिक जनप्रतिनिधित्व अधिनियम, 1951 की धारा 125A के तहत उन उम्मीदवारों के विरुद्ध आपराधिक शिकायत दर्ज कर सकते हैं जो नामांकन हलफनामों में गलत जानकारी देते हैं या तथ्य छिपाते हैं।",
+      "content": "A bench of the Supreme Court comprising Justices Dipankar Datta and Sheel Nagu held that any private citizen can file a criminal complaint against an election candidate who furnishes false information or conceals information in nomination papers and affidavits.\n\nThe offence falls under Section 125A of the Representation of the People Act, 1951. It is non-cognisable and bailable, and carries imprisonment of up to six months, a fine, or both. Candidates must disclose their criminal cases, assets, liabilities and educational qualifications in Form 26. The ruling strengthens voters' right to know about candidates, which the Supreme Court has linked to freedom of expression under Article 19(1)(a).\n\nFor IB ACIO: Ruling — private citizens can complain against false nomination disclosures; Law — Section 125A, RP Act 1951; Penalty — up to 6 months, fine or both; Nature — non-cognisable, bailable; Affidavit — Form 26.",
+      "content_hi": "न्यायमूर्ति दीपांकर दत्ता और शील नागू की सर्वोच्च न्यायालय पीठ ने कहा कि कोई भी निजी नागरिक उस चुनावी उम्मीदवार के विरुद्ध आपराधिक शिकायत दर्ज कर सकता है जो नामांकन पत्रों और हलफनामों में गलत जानकारी देता है या जानकारी छिपाता है।\n\nयह अपराध जनप्रतिनिधित्व अधिनियम, 1951 की धारा 125A के तहत आता है। यह असंज्ञेय और ज़मानती है, और इसमें छह महीने तक की कैद, जुर्माना या दोनों का प्रावधान है। उम्मीदवारों को फॉर्म 26 में अपने आपराधिक मामले, संपत्ति, देनदारियाँ और शैक्षिक योग्यता बतानी होती है। यह निर्णय उम्मीदवारों के बारे में जानने के मतदाताओं के अधिकार को मज़बूत करता है।\n\nIB ACIO: धारा 125A, जनप्रतिनिधित्व अधिनियम 1951 — झूठा हलफनामा; 6 महीने तक कैद/जुर्माना; असंज्ञेय, ज़मानती; फॉर्म 26।",
+      "question": "Section 125A of the Representation of the People Act, 1951 deals with which offence?",
+      "question_hi": "जनप्रतिनिधित्व अधिनियम, 1951 की धारा 125A किस अपराध से संबंधित है?",
+      "options": [
+        "Booth capturing",
+        "Filing false information or concealing information in nomination affidavits",
+        "Disqualification on conviction for certain offences",
+        "Bribery of voters as a corrupt practice"
+      ],
+      "options_hi": [
+        "बूथ कैप्चरिंग",
+        "नामांकन हलफनामों में गलत जानकारी देना या जानकारी छिपाना",
+        "कुछ अपराधों में दोषसिद्धि पर अयोग्यता",
+        "भ्रष्ट आचरण के रूप में मतदाताओं को रिश्वत"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Section 125A penalises filing a false affidavit or hiding information in nomination papers. The other options sit in different sections: booth capturing is Section 135A, disqualification on conviction is Section 8, and bribery is listed as a corrupt practice under Section 123. Knowing section numbers of the RP Act is useful for polity questions.",
+      "explanation_hi": "धारा 125A नामांकन पत्रों में झूठा हलफनामा देने या जानकारी छिपाने को दंडित करती है। अन्य विकल्प अलग धाराओं में हैं: बूथ कैप्चरिंग धारा 135A, दोषसिद्धि पर अयोग्यता धारा 8, और रिश्वत धारा 123 के तहत भ्रष्ट आचरण है।",
+      "moreInfo": "In Lily Thomas v. Union of India (2013), the Supreme Court struck down Section 8(4) of the RP Act, so sitting MPs and MLAs are disqualified immediately on conviction with a sentence of two years or more. The RP Act, 1950 deals with voter rolls and seat allocation; the RP Act, 1951 deals with conduct of elections.",
+      "moreInfo_hi": "लिली थॉमस बनाम भारत संघ (2013) में सर्वोच्च न्यायालय ने जनप्रतिनिधित्व अधिनियम की धारा 8(4) रद्द की, इसलिए वर्तमान सांसद और विधायक दो वर्ष या अधिक की सज़ा पर तुरंत अयोग्य होते हैं। RP अधिनियम, 1950 मतदाता सूची और सीट आवंटन से, जबकि RP अधिनियम, 1951 चुनाव संचालन से संबंधित है।",
+      "relatedDate": "2026-10-23"
+    }
+  ]
+}
