@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-29",
+  "editionTitle": "IB ACIO Daily Current Affairs — 29 October 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 29 अक्टूबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Infrastructure & Energy",
+      "category_hi": "अवसंरचना एवं ऊर्जा",
+      "title": "Road Ministry Allows E100 Ethanol in Flex-Fuel Vehicles, Opening Way for 100% Ethanol Cars",
+      "title_hi": "सड़क परिवहन मंत्रालय ने फ्लेक्स-फ्यूल वाहनों में E100 एथेनॉल की अनुमति दी, 100% एथेनॉल कारों का रास्ता खुला",
+      "image": null,
+      "summary": "MoRTH amended the Central Motor Vehicles Rules, 1989, to allow fuel with up to 100% ethanol (E100) in vehicles designed as flexible-fuel vehicles, to cut oil imports and support farmers.",
+      "summary_hi": "सड़क परिवहन और राजमार्ग मंत्रालय ने केंद्रीय मोटर वाहन नियम, 1989 में संशोधन कर फ्लेक्सिबल-फ्यूल वाहनों के रूप में बने वाहनों में 100% तक एथेनॉल (E100) ईंधन की अनुमति दी, ताकि तेल आयात घटे और किसानों को सहारा मिले।",
+      "content": "The Ministry of Road Transport and Highways (MoRTH) amended the Central Motor Vehicles Rules, 1989, to permit fuel with up to 100% ethanol (E100) in vehicles designed for flexible fuel. This gives carmakers a clear legal route to launch Flex-Fuel Vehicles (FFVs) that can run on E100 or E85.\n\nE100 and E85 may be used only in vehicles that manufacturers design as FFVs; owners of existing vehicles running on E10 or E20 do not need to change anything. The rules also widen the use of B100 biodiesel and hydrogen-enriched CNG (HCNG) for heavy vehicles. Ethanol is made mainly from sugarcane, molasses and grains, so higher blending saves foreign exchange on crude oil and raises farm incomes.\n\nFor IB ACIO: Rule — E100 allowed in Flex-Fuel Vehicles; Ministry — MoRTH; Law amended — Central Motor Vehicles Rules, 1989; Also — B100 biodiesel, HCNG; India's blending — E20 achieved in 2025.",
+      "content_hi": "सड़क परिवहन और राजमार्ग मंत्रालय (MoRTH) ने केंद्रीय मोटर वाहन नियम, 1989 में संशोधन कर फ्लेक्सिबल फ्यूल के लिए बने वाहनों में 100% तक एथेनॉल (E100) ईंधन की अनुमति दी। इससे कार निर्माताओं को E100 या E85 पर चलने वाले फ्लेक्स-फ्यूल वाहन (FFV) लाने का स्पष्ट कानूनी रास्ता मिला।\n\nE100 और E85 का उपयोग केवल निर्माताओं द्वारा FFV के रूप में बनाए गए वाहनों में होगा; E10 या E20 पर चलने वाले मौजूदा वाहनों के मालिकों को कुछ बदलने की ज़रूरत नहीं। नियम भारी वाहनों के लिए B100 बायोडीज़ल और हाइड्रोजन-मिश्रित CNG (HCNG) का उपयोग भी बढ़ाते हैं। एथेनॉल मुख्यतः गन्ने, शीरे और अनाज से बनता है, इसलिए अधिक मिश्रण कच्चे तेल पर विदेशी मुद्रा बचाता है और किसानों की आय बढ़ाता है।\n\nIB ACIO: फ्लेक्स-फ्यूल वाहनों में E100 की अनुमति — MoRTH; केंद्रीय मोटर वाहन नियम, 1989; भारत ने 2025 में E20 हासिल किया।",
+      "question": "What is a Flexible-Fuel Vehicle (FFV), for which E100 has now been allowed?",
+      "question_hi": "फ्लेक्सिबल-फ्यूल वाहन (FFV), जिसके लिए अब E100 की अनुमति दी गई है, क्या है?",
+      "options": [
+        "A vehicle that runs only on CNG",
+        "A hybrid vehicle that runs on battery and diesel",
+        "A vehicle whose engine can run on petrol or on high blends of ethanol, up to pure ethanol",
+        "A vehicle powered only by hydrogen fuel cells"
+      ],
+      "options_hi": [
+        "केवल CNG पर चलने वाला वाहन",
+        "बैटरी और डीज़ल पर चलने वाला हाइब्रिड वाहन",
+        "ऐसा वाहन जिसका इंजन पेट्रोल या शुद्ध एथेनॉल तक के उच्च एथेनॉल मिश्रण पर चल सकता है",
+        "केवल हाइड्रोजन ईंधन सेल से चलने वाला वाहन"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An FFV has an engine and fuel system built to run on any mix of petrol and ethanol, up to E100, because ethanol is more corrosive and burns differently. Brazil has used such vehicles widely for decades. CNG vehicles, diesel hybrids and hydrogen fuel-cell cars are different clean-mobility technologies.",
+      "explanation_hi": "FFV का इंजन और ईंधन प्रणाली पेट्रोल और एथेनॉल के किसी भी मिश्रण, E100 तक, पर चलने के लिए बनी होती है, क्योंकि एथेनॉल अधिक संक्षारक है और अलग तरह से जलता है। ब्राज़ील दशकों से ऐसे वाहनों का व्यापक उपयोग करता है। CNG, डीज़ल हाइब्रिड और हाइड्रोजन फ्यूल-सेल कारें अलग स्वच्छ परिवहन तकनीकें हैं।",
+      "moreInfo": "India's National Policy on Biofuels was notified in 2018 and amended in 2022, advancing the 20% ethanol blending target from 2030 to 2025-26. India launched the Global Biofuels Alliance during its G20 presidency in September 2023.",
+      "moreInfo_hi": "भारत की राष्ट्रीय जैव ईंधन नीति 2018 में अधिसूचित और 2022 में संशोधित हुई, जिससे 20% एथेनॉल मिश्रण का लक्ष्य 2030 से पहले 2025-26 कर दिया गया। भारत ने सितंबर 2023 में G20 अध्यक्षता के दौरान वैश्विक जैव ईंधन गठबंधन शुरू किया।",
+      "relatedDate": "2026-10-29"
+    },
+    {
+      "id": "2",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "HQ Integrated Defence Staff Signs Five-Year Pact with Sarvam AI for Indigenous Military AI Applications",
+      "title_hi": "एकीकृत रक्षा स्टाफ मुख्यालय ने स्वदेशी सैन्य AI अनुप्रयोगों हेतु सर्वम AI के साथ पाँच वर्षीय समझौता किया",
+      "image": null,
+      "summary": "Headquarters Integrated Defence Staff signed an MoU with Bengaluru-based Sarvam AI to build secure, indigenous AI tools for the Army, Navy and Air Force using its 105-billion-parameter model.",
+      "summary_hi": "एकीकृत रक्षा स्टाफ मुख्यालय ने बेंगलुरु स्थित सर्वम AI के साथ समझौता किया, ताकि उसके 105-अरब-पैरामीटर मॉडल से थल सेना, नौसेना और वायुसेना के लिए सुरक्षित, स्वदेशी AI उपकरण बनें।",
+      "content": "Headquarters Integrated Defence Staff (HQ IDS), Ministry of Defence, signed a five-year MoU with Indian AI company Sarvam AI to develop and deploy indigenous artificial intelligence applications for the armed forces. Sarvam will build, deploy and maintain the applications, while HQ IDS will coordinate use across the three services.\n\nThe work will use Sarvam 105B, a Mixture-of-Experts model that supports 22 Indian languages, and will focus on on-premises and air-gapped systems — computers not connected to the internet — so that sensitive data stays secure. Uses include decision support, target acquisition, data fusion, training and knowledge management. Using a home-grown model reduces dependence on foreign AI for military tasks.\n\nFor IB ACIO: MoU — HQ IDS and Sarvam AI (5 years); Model — Sarvam 105B (22 Indian languages); Focus — air-gapped, on-premises defence AI; Uses — decision support, target acquisition, data fusion.",
+      "content_hi": "रक्षा मंत्रालय के एकीकृत रक्षा स्टाफ मुख्यालय (HQ IDS) ने सशस्त्र बलों के लिए स्वदेशी कृत्रिम बुद्धिमत्ता अनुप्रयोग विकसित और तैनात करने हेतु भारतीय AI कंपनी सर्वम AI के साथ पाँच वर्षीय समझौता किया। सर्वम अनुप्रयोग बनाएगी, तैनात करेगी और रखरखाव करेगी, जबकि HQ IDS तीनों सेनाओं में उपयोग का समन्वय करेगा।\n\nकाम में सर्वम 105B का उपयोग होगा, जो 22 भारतीय भाषाओं को समर्थन देने वाला मिक्सचर-ऑफ-एक्सपर्ट्स मॉडल है, और ध्यान ऑन-प्रिमाइसेस तथा एयर-गैप्ड प्रणालियों — इंटरनेट से न जुड़े कंप्यूटर — पर होगा ताकि संवेदनशील डेटा सुरक्षित रहे। उपयोगों में निर्णय सहायता, लक्ष्य पहचान, डेटा संलयन और प्रशिक्षण शामिल हैं।\n\nIB ACIO: HQ IDS और सर्वम AI — 5 वर्ष; सर्वम 105B (22 भारतीय भाषाएँ); एयर-गैप्ड रक्षा AI।",
+      "question": "In 2025, Sarvam AI became the first startup selected under which national mission to build India's own sovereign foundation AI model?",
+      "question_hi": "2025 में सर्वम AI भारत का अपना संप्रभु फाउंडेशन AI मॉडल बनाने हेतु किस राष्ट्रीय मिशन के तहत चुना गया पहला स्टार्टअप बना?",
+      "options": [
+        "National Quantum Mission",
+        "Semicon India Programme",
+        "Digital India BHASHINI",
+        "IndiaAI Mission"
+      ],
+      "options_hi": [
+        "राष्ट्रीय क्वांटम मिशन",
+        "सेमीकॉन इंडिया कार्यक्रम",
+        "डिजिटल इंडिया भाषिणी",
+        "इंडियाAI मिशन"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In April 2025, Sarvam AI was chosen under the IndiaAI Mission (approved in 2024 with an outlay of over ₹10,300 crore) to build India's first sovereign large language model, with access to government-subsidised GPU computing. BHASHINI deals with language translation tools, while the Quantum and Semicon missions cover quantum technology and chip-making.",
+      "explanation_hi": "अप्रैल 2025 में सर्वम AI को इंडियाAI मिशन (2024 में ₹10,300 करोड़ से अधिक के परिव्यय के साथ स्वीकृत) के तहत भारत का पहला संप्रभु लार्ज लैंग्वेज मॉडल बनाने के लिए चुना गया, जिसे सरकारी सब्सिडी वाली GPU कंप्यूटिंग मिली। भाषिणी भाषा अनुवाद उपकरण देखता है, जबकि क्वांटम और सेमीकॉन मिशन क्वांटम तकनीक और चिप निर्माण से संबंधित हैं।",
+      "moreInfo": "HQ Integrated Defence Staff was created in 2001 on the recommendation of the Group of Ministers after the Kargil war; it supports the Chief of Defence Staff and promotes jointness among the three services. India's first CDS, General Bipin Rawat, took office on 1 January 2020.",
+      "moreInfo_hi": "एकीकृत रक्षा स्टाफ मुख्यालय कारगिल युद्ध के बाद मंत्रियों के समूह की सिफारिश पर 2001 में बना; यह चीफ़ ऑफ़ डिफेंस स्टाफ को सहायता देता है और तीनों सेनाओं में संयुक्तता बढ़ाता है। भारत के पहले CDS जनरल बिपिन रावत ने 1 जनवरी 2020 को पदभार संभाला।",
+      "relatedDate": "2026-10-29"
+    },
+    {
+      "id": "3",
+      "category": "Infrastructure & Energy",
+      "category_hi": "अवसंरचना एवं ऊर्जा",
+      "title": "Annual Concessional Toll Pass for Locals Living within 20 km of National Highway Plazas",
+      "title_hi": "राष्ट्रीय राजमार्ग टोल प्लाज़ा के 20 किमी के भीतर रहने वाले स्थानीय लोगों के लिए वार्षिक रियायती टोल पास",
+      "image": null,
+      "summary": "Non-commercial vehicle owners living within 20 km of a National Highway toll plaza can buy an annual local pass for ₹1,500 or ₹3,000, available at plazas from 1 November 2026.",
+      "summary_hi": "राष्ट्रीय राजमार्ग टोल प्लाज़ा के 20 किमी के भीतर रहने वाले गैर-व्यावसायिक वाहन मालिक ₹1,500 या ₹3,000 में वार्षिक स्थानीय पास खरीद सकते हैं, जो 1 नवंबर 2026 से प्लाज़ा पर उपलब्ध है।",
+      "content": "The Ministry of Road Transport and Highways introduced an annual concessional local pass for owners of non-commercial vehicles who live within 20 km of a National Highway fee plaza. It costs ₹1,500 a year for plazas outside municipal limits and ₹3,000 for plazas within them, compared with the existing monthly pass of ₹360 (₹4,320 a year).\n\nThe pass is valid only at that specific plaza and cannot be transferred. It will be available at eligible plazas from 1 November 2026 and on the Rajmargyatra app from 1 December 2026. It was notified under the National Highways Fee (Determination of Rates and Collection) Rules, made under the National Highways Act, 1956. Over 13 crore FASTags have been issued in India.\n\nFor IB ACIO: Scheme — annual local toll pass; Eligibility — non-commercial vehicles within 20 km of plaza; Fee — ₹1,500 (outside town limits) / ₹3,000 (within); Available — 1 Nov 2026 (plazas), 1 Dec 2026 (Rajmargyatra app); Law — National Highways Act, 1956.",
+      "content_hi": "सड़क परिवहन और राजमार्ग मंत्रालय ने राष्ट्रीय राजमार्ग शुल्क प्लाज़ा के 20 किमी के भीतर रहने वाले गैर-व्यावसायिक वाहन मालिकों के लिए वार्षिक रियायती स्थानीय पास शुरू किया। यह नगर सीमा के बाहर के प्लाज़ा के लिए ₹1,500 और सीमा के भीतर के प्लाज़ा के लिए ₹3,000 प्रति वर्ष है, जबकि मौजूदा मासिक पास ₹360 (₹4,320 प्रति वर्ष) है।\n\nपास केवल उसी प्लाज़ा पर मान्य है और हस्तांतरणीय नहीं है। यह 1 नवंबर 2026 से पात्र प्लाज़ा पर और 1 दिसंबर 2026 से राजमार्गयात्रा ऐप पर उपलब्ध होगा। इसे राष्ट्रीय राजमार्ग अधिनियम, 1956 के तहत बने शुल्क नियमों में अधिसूचित किया गया। भारत में 13 करोड़ से अधिक FASTag जारी हो चुके हैं।\n\nIB ACIO: वार्षिक स्थानीय टोल पास — 20 किमी के भीतर गैर-व्यावसायिक वाहन; ₹1,500 / ₹3,000; 1 नवंबर 2026 से; राष्ट्रीय राजमार्ग अधिनियम, 1956।",
+      "question": "FASTag, used for electronic toll payment on National Highways, works on which technology?",
+      "question_hi": "राष्ट्रीय राजमार्गों पर इलेक्ट्रॉनिक टोल भुगतान के लिए प्रयुक्त FASTag किस तकनीक पर काम करता है?",
+      "options": [
+        "Radio Frequency Identification (RFID)",
+        "Bluetooth Low Energy",
+        "Near Field Communication (NFC)",
+        "Global Positioning System (GPS)"
+      ],
+      "options_hi": [
+        "रेडियो फ्रीक्वेंसी आइडेंटिफिकेशन (RFID)",
+        "ब्लूटूथ लो एनर्जी",
+        "नियर फील्ड कम्युनिकेशन (NFC)",
+        "ग्लोबल पोज़िशनिंग सिस्टम (GPS)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "FASTag is a sticker with an RFID chip linked to a bank account or wallet; readers at the toll plaza scan it as the vehicle passes, without stopping. It runs on NPCI's National Electronic Toll Collection (NETC) system. GPS is the trap — satellite-based tolling, which charges by distance travelled, is a newer system being introduced on some highways.",
+      "explanation_hi": "FASTag बैंक खाते या वॉलेट से जुड़ा RFID चिप वाला स्टिकर है; टोल प्लाज़ा पर रीडर वाहन के गुज़रते ही बिना रुके इसे स्कैन करते हैं। यह NPCI की राष्ट्रीय इलेक्ट्रॉनिक टोल संग्रह (NETC) प्रणाली पर चलता है। GPS भ्रम है — उपग्रह-आधारित टोलिंग, जो तय दूरी के अनुसार शुल्क लेती है, कुछ राजमार्गों पर लाई जा रही नई प्रणाली है।",
+      "moreInfo": "FASTag became mandatory for all vehicles from 15 February 2021. A FASTag Annual Pass for private cars (₹3,000 for 200 trips or one year) was introduced from 15 August 2025. NHAI was set up under the NHAI Act, 1988.",
+      "moreInfo_hi": "15 फरवरी 2021 से सभी वाहनों के लिए FASTag अनिवार्य हुआ। निजी कारों के लिए FASTag वार्षिक पास (200 यात्राओं या एक वर्ष के लिए ₹3,000) 15 अगस्त 2025 से शुरू हुआ। NHAI का गठन NHAI अधिनियम, 1988 के तहत हुआ।",
+      "relatedDate": "2026-10-29"
+    },
+    {
+      "id": "4",
+      "category": "Reports & Indices",
+      "category_hi": "रिपोर्ट एवं सूचकांक",
+      "title": "WJP Rule of Law Index 2026: India Ranked 88th of 143 Countries; Denmark Tops",
+      "title_hi": "WJP विधि का शासन सूचकांक 2026: भारत 143 देशों में 88वें स्थान पर; डेनमार्क शीर्ष पर",
+      "image": null,
+      "summary": "The World Justice Project's Rule of Law Index 2026 placed India 88th out of 143 countries with a score of 0.48, down two places from 2025, as the rule of law declined worldwide for the ninth straight year.",
+      "summary_hi": "वर्ल्ड जस्टिस प्रोजेक्ट के विधि का शासन सूचकांक 2026 में भारत 0.48 अंक के साथ 143 देशों में 88वें स्थान पर रहा, जो 2025 से दो स्थान नीचे है; विश्व में लगातार नौवें वर्ष विधि का शासन कमज़ोर हुआ।",
+      "content": "The World Justice Project (WJP) released its Rule of Law Index 2026, ranking India 88th out of 143 countries with a score of 0.48, down from 86th in 2025. Denmark topped the index with a score of 0.90, followed by Norway and Finland, while Venezuela was at the bottom.\n\nThe index measures how the rule of law is experienced by ordinary people across eight factors: constraints on government powers, absence of corruption, open government, fundamental rights, order and security, regulatory enforcement, civil justice and criminal justice. Globally, scores fell in 62% of countries — the ninth consecutive year of decline — with sharp drops in freedom of expression, assembly and civic participation.\n\nFor IB ACIO: Index — WJP Rule of Law Index 2026; India — 88th of 143 (score 0.48); Top — Denmark (0.90); Bottom — Venezuela; Factors — 8; Publisher — World Justice Project (Washington, D.C.).",
+      "content_hi": "वर्ल्ड जस्टिस प्रोजेक्ट (WJP) ने विधि का शासन सूचकांक 2026 जारी किया, जिसमें भारत 0.48 अंक के साथ 143 देशों में 88वें स्थान पर रहा, जो 2025 के 86वें स्थान से नीचे है। डेनमार्क 0.90 अंक के साथ शीर्ष पर रहा, उसके बाद नॉर्वे और फ़िनलैंड, जबकि वेनेज़ुएला सबसे नीचे रहा।\n\nसूचकांक आठ कारकों पर आम लोगों के अनुभव से विधि के शासन को मापता है: सरकारी शक्तियों पर अंकुश, भ्रष्टाचार का अभाव, खुली सरकार, मौलिक अधिकार, व्यवस्था और सुरक्षा, नियामक प्रवर्तन, दीवानी न्याय और आपराधिक न्याय। विश्व स्तर पर 62% देशों में अंक घटे — लगातार नौवें वर्ष गिरावट।\n\nIB ACIO: WJP विधि का शासन सूचकांक 2026 — भारत 88वाँ (143 में); शीर्ष — डेनमार्क; सबसे नीचे — वेनेज़ुएला; 8 कारक।",
+      "question": "Which country topped the WJP Rule of Law Index 2026?",
+      "question_hi": "WJP विधि का शासन सूचकांक 2026 में कौन सा देश शीर्ष पर रहा?",
+      "options": [
+        "Norway",
+        "Denmark",
+        "Finland",
+        "New Zealand"
+      ],
+      "options_hi": [
+        "नॉर्वे",
+        "डेनमार्क",
+        "फ़िनलैंड",
+        "न्यूज़ीलैंड"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Denmark ranked first with a score of 0.90, followed by Norway (2nd) and Finland (3rd) — so Norway and Finland are close traps. Nordic countries regularly top governance indices; Denmark also usually leads Transparency International's Corruption Perceptions Index.",
+      "explanation_hi": "डेनमार्क 0.90 अंक के साथ पहले स्थान पर रहा, उसके बाद नॉर्वे (दूसरा) और फ़िनलैंड (तीसरा) — इसलिए नॉर्वे और फ़िनलैंड निकट भ्रम हैं। नॉर्डिक देश नियमित रूप से शासन सूचकांकों में शीर्ष पर रहते हैं; डेनमार्क आमतौर पर ट्रांसपेरेंसी इंटरनेशनल के भ्रष्टाचार धारणा सूचकांक में भी अग्रणी रहता है।",
+      "moreInfo": "The World Justice Project is an independent organisation based in Washington, D.C. Transparency International (Berlin) publishes the Corruption Perceptions Index, and Freedom House publishes 'Freedom in the World'.",
+      "moreInfo_hi": "वर्ल्ड जस्टिस प्रोजेक्ट वाशिंगटन डी.सी. स्थित स्वतंत्र संगठन है। ट्रांसपेरेंसी इंटरनेशनल (बर्लिन) भ्रष्टाचार धारणा सूचकांक और फ्रीडम हाउस 'फ्रीडम इन द वर्ल्ड' प्रकाशित करता है।",
+      "relatedDate": "2026-10-29"
+    },
+    {
+      "id": "5",
+      "category": "Environment",
+      "category_hi": "पर्यावरण",
+      "title": "IUCN: 96% of Assessed Coral Reef Ecosystems Critically Endangered, at Risk of Collapse by 2075",
+      "title_hi": "IUCN: आकलित प्रवाल भित्ति पारिस्थितिकी तंत्रों में 96% गंभीर रूप से संकटग्रस्त, 2075 तक ढहने का खतरा",
+      "image": null,
+      "summary": "The IUCN's first global assessment of coral reefs under its Red List of Ecosystems, released at CBD COP17 in Yerevan, found 96% of assessed shallow-water reef ecosystems Critically Endangered.",
+      "summary_hi": "यरेवान में CBD COP17 में जारी IUCN के पारिस्थितिकी तंत्रों की लाल सूची के तहत प्रवाल भित्तियों के पहले वैश्विक आकलन में 96% आकलित उथले पानी की भित्ति पारिस्थितिकी तंत्र गंभीर रूप से संकटग्रस्त पाए गए।",
+      "content": "The International Union for Conservation of Nature (IUCN) released its first global assessment of coral reefs under its Red List of Ecosystems at the 17th Conference of the Parties (COP17) to the Convention on Biological Diversity, held in Yerevan, Armenia. It found that 96% of assessed shallow-water reef ecosystems are Critically Endangered and could collapse by 2075.\n\nThe study covered 127 tropical and subtropical ecoregions, over 1.88 lakh sq km of reefs in more than 80 countries. The Great Barrier Reef, the Coral Triangle, the Mesoamerican Reef and Red Sea reefs are among the most threatened. Warming seas cause coral bleaching, in which stressed corals expel the algae that feed them and turn white. Reefs cover under 1% of the ocean floor but support about a quarter of marine species.\n\nFor IB ACIO: Report — IUCN Red List of Ecosystems: first global coral reef assessment; Finding — 96% of assessed reefs Critically Endangered; Collapse risk — by 2075; Released at — CBD COP17, Yerevan (Armenia); Main threat — warming and bleaching.",
+      "content_hi": "प्रकृति संरक्षण के लिए अंतरराष्ट्रीय संघ (IUCN) ने यरेवान, आर्मेनिया में हुए जैव विविधता अभिसमय के 17वें पक्षकार सम्मेलन (COP17) में पारिस्थितिकी तंत्रों की लाल सूची के तहत प्रवाल भित्तियों का पहला वैश्विक आकलन जारी किया। इसमें पाया गया कि 96% आकलित उथले पानी के भित्ति पारिस्थितिकी तंत्र गंभीर रूप से संकटग्रस्त हैं और 2075 तक ढह सकते हैं।\n\nअध्ययन में 80 से अधिक देशों के 127 उष्णकटिबंधीय और उपोष्णकटिबंधीय पारिस्थितिक क्षेत्र शामिल थे। ग्रेट बैरियर रीफ, कोरल ट्राइएंगल, मेसोअमेरिकन रीफ और लाल सागर की भित्तियाँ सबसे संकटग्रस्त हैं। गर्म होते समुद्र प्रवाल विरंजन करते हैं, जिसमें तनावग्रस्त प्रवाल उन्हें भोजन देने वाले शैवाल को निकाल देते हैं और सफेद हो जाते हैं।\n\nIB ACIO: IUCN — पहला वैश्विक प्रवाल भित्ति आकलन; 96% गंभीर रूप से संकटग्रस्त; 2075 तक ढहने का खतरा; CBD COP17, यरेवान।",
+      "question": "COP17 of the Convention on Biological Diversity (CBD), where the IUCN coral reef assessment was released, was held in which city?",
+      "question_hi": "जैव विविधता अभिसमय (CBD) का COP17, जहाँ IUCN का प्रवाल भित्ति आकलन जारी हुआ, किस शहर में हुआ?",
+      "options": [
+        "Cali",
+        "Montreal",
+        "Yerevan",
+        "Belém"
+      ],
+      "options_hi": [
+        "काली",
+        "मॉन्ट्रियल",
+        "यरेवान",
+        "बेलेम"
+      ],
+      "correctAnswer": 2,
+      "explanation": "CBD COP17 was held in Yerevan, Armenia. The traps are earlier meetings: COP16 was held in Cali, Colombia (2024), and COP15 concluded in Montreal (2022), where the Kunming–Montreal Global Biodiversity Framework with its '30x30' target was adopted. Belém hosted COP30 of the UNFCCC — the climate convention, not the biodiversity convention.",
+      "explanation_hi": "CBD COP17 यरेवान, आर्मेनिया में हुआ। भ्रम पिछली बैठकें हैं: COP16 काली, कोलंबिया (2024) में हुआ, और COP15 मॉन्ट्रियल (2022) में संपन्न हुआ, जहाँ '30x30' लक्ष्य वाला कुनमिंग–मॉन्ट्रियल वैश्विक जैव विविधता ढांचा अपनाया गया। बेलेम ने UNFCCC के COP30 की मेज़बानी की — जलवायु अभिसमय, न कि जैव विविधता अभिसमय।",
+      "moreInfo": "India's major coral reef areas are the Gulf of Mannar, Gulf of Kutch, Andaman and Nicobar Islands and Lakshadweep. IUCN was founded in 1948 and is headquartered in Gland, Switzerland.",
+      "moreInfo_hi": "भारत के प्रमुख प्रवाल भित्ति क्षेत्र मन्नार की खाड़ी, कच्छ की खाड़ी, अंडमान और निकोबार द्वीप समूह तथा लक्षद्वीप हैं। IUCN की स्थापना 1948 में हुई और मुख्यालय ग्लैंड, स्विट्ज़रलैंड में है।",
+      "relatedDate": "2026-10-29"
+    },
+    {
+      "id": "6",
+      "category": "Defence",
+      "category_hi": "रक्षा",
+      "title": "India–Indonesia Special Forces Exercise 'Garuda Shakti 2026' Begins at Banyuwangi",
+      "title_hi": "भारत–इंडोनेशिया विशेष बल अभ्यास 'गरुड़ शक्ति 2026' बन्युवांगी में शुरू",
+      "image": null,
+      "summary": "The 11th edition of Garuda Shakti, a joint special forces exercise between India and Indonesia, is being held at Banyuwangi, Indonesia, from 27 October to 6 November 2026.",
+      "summary_hi": "भारत और इंडोनेशिया के बीच संयुक्त विशेष बल अभ्यास गरुड़ शक्ति का 11वाँ संस्करण 27 अक्टूबर से 6 नवंबर 2026 तक बन्युवांगी, इंडोनेशिया में हो रहा है।",
+      "content": "The 11th edition of the India–Indonesia joint special forces exercise 'Garuda Shakti 2026' began at Banyuwangi in East Java, Indonesia, and runs from 27 October to 6 November 2026. The Indian contingent is drawn from the Parachute Regiment (Special Forces), and Indonesia is represented by its special forces.\n\nThe exercise focuses on special operations in jungle terrain, including raids, hostage rescue and counter-terrorism drills, and aims to improve mutual understanding and interoperability. India and Indonesia are maritime neighbours separated by the Andaman Sea, and their defence ties are part of India's Act East Policy.\n\nFor IB ACIO: Exercise — Garuda Shakti 2026 (11th edition); Countries — India and Indonesia; Type — special forces; Venue — Banyuwangi, Indonesia; Dates — 27 Oct–6 Nov 2026; Indian unit — Parachute Regiment (Special Forces).",
+      "content_hi": "भारत–इंडोनेशिया संयुक्त विशेष बल अभ्यास 'गरुड़ शक्ति 2026' का 11वाँ संस्करण पूर्वी जावा, इंडोनेशिया के बन्युवांगी में शुरू हुआ और 27 अक्टूबर से 6 नवंबर 2026 तक चलेगा। भारतीय दल पैराशूट रेजिमेंट (विशेष बल) से है और इंडोनेशिया का प्रतिनिधित्व उसके विशेष बल कर रहे हैं।\n\nअभ्यास जंगल क्षेत्र में विशेष अभियानों — छापे, बंधक मुक्ति और आतंकवाद-रोधी अभ्यास — पर केंद्रित है और आपसी समझ व अंतर-संचालनीयता बढ़ाने का लक्ष्य रखता है। भारत और इंडोनेशिया अंडमान सागर से अलग समुद्री पड़ोसी हैं, और उनके रक्षा संबंध भारत की एक्ट ईस्ट नीति का हिस्सा हैं।\n\nIB ACIO: गरुड़ शक्ति 2026 (11वाँ संस्करण) — भारत और इंडोनेशिया; विशेष बल; बन्युवांगी; पैराशूट रेजिमेंट (SF)।",
+      "question": "Garuda Shakti is a joint special forces exercise between India and which country?",
+      "question_hi": "गरुड़ शक्ति भारत और किस देश के बीच संयुक्त विशेष बल अभ्यास है?",
+      "options": [
+        "Malaysia",
+        "Vietnam",
+        "Thailand",
+        "Indonesia"
+      ],
+      "options_hi": [
+        "मलेशिया",
+        "वियतनाम",
+        "थाईलैंड",
+        "इंडोनेशिया"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Garuda Shakti is held with Indonesia — Garuda is Indonesia's national emblem and the name of its airline. Malaysia is the trap: India's army exercise with Malaysia is 'Harimau Shakti'. With Thailand India holds 'Maitree', and with Vietnam 'VINBAX'. India's naval exercise with Indonesia is 'Samudra Shakti'.",
+      "explanation_hi": "गरुड़ शक्ति इंडोनेशिया के साथ होता है — गरुड़ इंडोनेशिया का राष्ट्रीय प्रतीक और उसकी एयरलाइन का नाम है। मलेशिया भ्रम है: मलेशिया के साथ भारत का सेना अभ्यास 'हरिमाउ शक्ति' है। थाईलैंड के साथ 'मैत्री' और वियतनाम के साथ 'VINBAX' होता है। इंडोनेशिया के साथ भारत का नौसैनिक अभ्यास 'समुद्र शक्ति' है।",
+      "moreInfo": "Indonesia: Capital — Jakarta (a new capital, Nusantara, is being built in Borneo); Currency — Rupiah. Indonesia's President Prabowo Subianto was the Chief Guest at India's Republic Day in 2025.",
+      "moreInfo_hi": "इंडोनेशिया: राजधानी — जकार्ता (बोर्नियो में नई राजधानी नुसंतारा बन रही है); मुद्रा — रुपिया। इंडोनेशिया के राष्ट्रपति प्रबोवो सुबियांतो 2025 में भारत के गणतंत्र दिवस के मुख्य अतिथि थे।",
+      "relatedDate": "2026-10-29"
+    },
+    {
+      "id": "7",
+      "category": "Art & Culture",
+      "category_hi": "कला एवं संस्कृति",
+      "title": "Culture Ministry Signs MoU with France's National Library to Digitise Indian Manuscripts under Gyan Bharatam Mission",
+      "title_hi": "संस्कृति मंत्रालय ने ज्ञान भारतम मिशन के तहत भारतीय पांडुलिपियों के डिजिटलीकरण हेतु फ्रांस के राष्ट्रीय पुस्तकालय से समझौता किया",
+      "image": null,
+      "summary": "India's Ministry of Culture and the Bibliothèque nationale de France signed an MoU in Paris to digitise Indic manuscripts held in France and share them through India's National Digital Repository.",
+      "summary_hi": "भारत के संस्कृति मंत्रालय और फ्रांस के राष्ट्रीय पुस्तकालय (BnF) ने पेरिस में फ्रांस में रखी भारतीय पांडुलिपियों के डिजिटलीकरण और भारत के राष्ट्रीय डिजिटल भंडार से साझा करने हेतु समझौता किया।",
+      "content": "On 26 October 2026 in Paris, Culture Secretary Vivek Aggarwal and Gilles Pécout, President of the Bibliothèque nationale de France (BnF), signed an MoU under India's Gyan Bharatam Mission. India's partners are the National Archives of India (New Delhi) and the National Library of India (Kolkata).\n\nThe BnF holds many manuscripts of Indian origin collected over centuries. They will be digitised and shared through India's National Digital Repository. The MoU also covers conservation, cataloguing standards, OCR and handwritten-text recognition for Indian scripts, exhibitions and scholar exchanges. Gyan Bharatam is the Culture Ministry's flagship mission to document, conserve, digitise and translate India's manuscript heritage.\n\nFor IB ACIO: MoU — Ministry of Culture and Bibliothèque nationale de France; Mission — Gyan Bharatam; Indian partners — National Archives (New Delhi), National Library (Kolkata); Purpose — digitising Indic manuscripts held in France.",
+      "content_hi": "26 अक्टूबर 2026 को पेरिस में संस्कृति सचिव विवेक अग्रवाल और बिब्लियोथेक नेशनल दे फ्रांस (BnF) के अध्यक्ष जिल पेकू ने भारत के ज्ञान भारतम मिशन के तहत समझौते पर हस्ताक्षर किए। भारत के साझेदार भारतीय राष्ट्रीय अभिलेखागार (नई दिल्ली) और भारतीय राष्ट्रीय पुस्तकालय (कोलकाता) हैं।\n\nBnF के पास सदियों में एकत्र भारतीय मूल की कई पांडुलिपियाँ हैं। इन्हें डिजिटल कर भारत के राष्ट्रीय डिजिटल भंडार से साझा किया जाएगा। समझौते में संरक्षण, सूचीकरण मानक, भारतीय लिपियों के लिए OCR और हस्तलिखित-पाठ पहचान, प्रदर्शनियाँ और विद्वान आदान-प्रदान भी शामिल हैं।\n\nIB ACIO: संस्कृति मंत्रालय और फ्रांस का राष्ट्रीय पुस्तकालय; ज्ञान भारतम मिशन; राष्ट्रीय अभिलेखागार (नई दिल्ली), राष्ट्रीय पुस्तकालय (कोलकाता)।",
+      "question": "The National Library of India, a partner in this MoU, is located in which city?",
+      "question_hi": "इस समझौते में साझेदार भारतीय राष्ट्रीय पुस्तकालय किस शहर में स्थित है?",
+      "options": [
+        "Kolkata",
+        "New Delhi",
+        "Mumbai",
+        "Chennai"
+      ],
+      "options_hi": [
+        "कोलकाता",
+        "नई दिल्ली",
+        "मुंबई",
+        "चेन्नई"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The National Library of India is in Kolkata, housed at the Belvedere Estate; it grew out of the Imperial Library founded in 1903 and is the largest library in India by volume. New Delhi is the trap, because the National Archives of India — the other partner in this MoU — is located there.",
+      "explanation_hi": "भारतीय राष्ट्रीय पुस्तकालय कोलकाता में बेल्वेडियर एस्टेट में स्थित है; यह 1903 में स्थापित इंपीरियल लाइब्रेरी से विकसित हुआ और खंडों की संख्या के हिसाब से भारत का सबसे बड़ा पुस्तकालय है। नई दिल्ली भ्रम है, क्योंकि इस समझौते का दूसरा साझेदार भारतीय राष्ट्रीय अभिलेखागार वहीं है।",
+      "moreInfo": "The National Archives of India was set up in 1891 in Calcutta as the Imperial Record Department and later moved to New Delhi after the capital shifted there. Under the Delivery of Books and Newspapers Act, 1954, publishers must send copies of every book to the National Library and three other public libraries.",
+      "moreInfo_hi": "भारतीय राष्ट्रीय अभिलेखागार 1891 में कलकत्ता में इंपीरियल रिकॉर्ड विभाग के रूप में बना और राजधानी बदलने के बाद नई दिल्ली आया। पुस्तक और समाचार पत्र वितरण अधिनियम, 1954 के तहत प्रकाशकों को हर पुस्तक की प्रतियाँ राष्ट्रीय पुस्तकालय और तीन अन्य सार्वजनिक पुस्तकालयों को भेजनी होती हैं।",
+      "relatedDate": "2026-10-29"
+    },
+    {
+      "id": "8",
+      "category": "Banking & Finance",
+      "category_hi": "बैंकिंग एवं वित्त",
+      "title": "SBI Launches 'CyRIS' Cybersecurity Centre of Excellence in Mumbai",
+      "title_hi": "SBI ने मुंबई में 'CyRIS' साइबर सुरक्षा उत्कृष्टता केंद्र शुरू किया",
+      "image": null,
+      "summary": "State Bank of India launched CyRIS, a cybersecurity Centre of Excellence in Mumbai, to strengthen threat intelligence, digital forensics and cyber resilience across the financial sector.",
+      "summary_hi": "भारतीय स्टेट बैंक ने वित्तीय क्षेत्र में खतरा खुफिया, डिजिटल फोरेंसिक और साइबर लचीलापन मज़बूत करने हेतु मुंबई में साइबर सुरक्षा उत्कृष्टता केंद्र CyRIS शुरू किया।",
+      "content": "State Bank of India (SBI) launched CyRIS, a Cybersecurity Centre of Excellence in Mumbai, inaugurated by Department of Financial Services Secretary Sanjay Lohiya in the presence of SBI Chairman C.S. Setty.\n\nCyRIS works on three pillars — THINK (policy, talent and awareness), INNOVATE (research and benchmarking) and DEFEND (threat detection, incident response and resilience). Focus areas include digital forensics, malware analysis, ethical hacking, fraud analytics, AI security and quantum-safe technology. As digital banking grows, banks face rising phishing, ransomware and fraud attacks; in FY26, about 1.81 lakh of SBI's 2.45 lakh employees completed mandatory cybersecurity training.\n\nFor IB ACIO: Centre — CyRIS (Cybersecurity Centre of Excellence); Bank — SBI; Location — Mumbai; Inaugurated by — DFS Secretary Sanjay Lohiya; Pillars — Think, Innovate, Defend.",
+      "content_hi": "भारतीय स्टेट बैंक (SBI) ने मुंबई में साइबर सुरक्षा उत्कृष्टता केंद्र CyRIS शुरू किया, जिसका उद्घाटन वित्तीय सेवा विभाग के सचिव संजय लोहिया ने SBI अध्यक्ष सी.एस. सेट्टी की उपस्थिति में किया।\n\nCyRIS तीन स्तंभों पर काम करता है — THINK (नीति, प्रतिभा और जागरूकता), INNOVATE (अनुसंधान) और DEFEND (खतरा पहचान, घटना प्रतिक्रिया और लचीलापन)। ध्यान डिजिटल फोरेंसिक, मैलवेयर विश्लेषण, एथिकल हैकिंग, धोखाधड़ी विश्लेषण, AI सुरक्षा और क्वांटम-सुरक्षित तकनीक पर है। डिजिटल बैंकिंग बढ़ने के साथ बैंकों पर फ़िशिंग, रैनसमवेयर और धोखाधड़ी हमले बढ़ रहे हैं।\n\nIB ACIO: CyRIS — SBI का साइबर सुरक्षा उत्कृष्टता केंद्र; मुंबई; DFS सचिव संजय लोहिया; Think, Innovate, Defend।",
+      "question": "Which agency is India's national nodal agency for responding to cyber security incidents?",
+      "question_hi": "साइबर सुरक्षा घटनाओं पर प्रतिक्रिया के लिए भारत की राष्ट्रीय नोडल एजेंसी कौन सी है?",
+      "options": [
+        "National Investigation Agency (NIA)",
+        "Indian Computer Emergency Response Team (CERT-In)",
+        "Central Bureau of Investigation (CBI)",
+        "National Critical Information Infrastructure Protection Centre (NCIIPC)"
+      ],
+      "options_hi": [
+        "राष्ट्रीय अन्वेषण अभिकरण (NIA)",
+        "भारतीय कंप्यूटर आपातकालीन प्रतिक्रिया दल (CERT-In)",
+        "केंद्रीय अन्वेषण ब्यूरो (CBI)",
+        "राष्ट्रीय महत्वपूर्ण सूचना अवसंरचना संरक्षण केंद्र (NCIIPC)"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CERT-In, under MeitY, is the national nodal agency for cyber incident response under Section 70B of the IT Act, 2000; organisations must report cyber incidents to it within six hours. NCIIPC is the close trap — it protects 'critical information infrastructure' such as power grids and banking systems, under Section 70A, and works under the NTRO.",
+      "explanation_hi": "MeitY के अधीन CERT-In, IT अधिनियम, 2000 की धारा 70B के तहत साइबर घटना प्रतिक्रिया की राष्ट्रीय नोडल एजेंसी है; संगठनों को साइबर घटनाएँ छह घंटे में इसे बतानी होती हैं। NCIIPC निकट भ्रम है — यह धारा 70A के तहत बिजली ग्रिड और बैंकिंग प्रणाली जैसे 'महत्वपूर्ण सूचना अवसंरचना' की रक्षा करता है और NTRO के अधीन है।",
+      "moreInfo": "The Indian Cyber Crime Coordination Centre (I4C) under the MHA runs the national cybercrime helpline 1930 and the portal cybercrime.gov.in. CERT-In was set up in 2004.",
+      "moreInfo_hi": "गृह मंत्रालय के अधीन भारतीय साइबर अपराध समन्वय केंद्र (I4C) राष्ट्रीय साइबर अपराध हेल्पलाइन 1930 और पोर्टल cybercrime.gov.in चलाता है। CERT-In 2004 में स्थापित हुआ।",
+      "relatedDate": "2026-10-29"
+    },
+    {
+      "id": "9",
+      "category": "Environment",
+      "category_hi": "पर्यावरण",
+      "title": "New Flowering Shrub 'Osbeckia assamensis' Discovered in Assam's Manas National Park",
+      "title_hi": "असम के मानस राष्ट्रीय उद्यान में नया फूलदार झाड़ी 'ओस्बेकिया असमेंसिस' खोजा गया",
+      "image": null,
+      "summary": "Researchers from Gauhati University and Pragjyotish College described a new pink-flowered shrub species, Osbeckia assamensis, from Manas National Park, published in the journal Phytotaxa.",
+      "summary_hi": "गुवाहाटी विश्वविद्यालय और प्राग्ज्योतिष कॉलेज के शोधकर्ताओं ने मानस राष्ट्रीय उद्यान से गुलाबी फूलों वाली नई झाड़ी प्रजाति ओस्बेकिया असमेंसिस का वर्णन किया, जो फाइटोटैक्सा पत्रिका में प्रकाशित हुआ।",
+      "content": "Namita Nath of Gauhati University and Barnali Das of Pragjyotish College documented a new flowering plant, Osbeckia assamensis, in Manas National Park, Assam, based on surveys from 2021 to 2025. The discovery was published in the peer-reviewed journal Phytotaxa.\n\nThe plant belongs to the family Melastomataceae. It is a perennial shrub 2–2.5 m tall with pink flowers 3–3.5 cm wide, carrying 30–35 flowers in each cluster — far more than related species. New species from Manas show how rich and still under-explored the biodiversity of the Eastern Himalayan foothills is.\n\nFor IB ACIO: Species — Osbeckia assamensis (new flowering shrub); Family — Melastomataceae; Found in — Manas National Park, Assam; Journal — Phytotaxa; Researchers — Gauhati University, Pragjyotish College.",
+      "content_hi": "गुवाहाटी विश्वविद्यालय की नमिता नाथ और प्राग्ज्योतिष कॉलेज की बर्नाली दास ने 2021 से 2025 के सर्वेक्षणों के आधार पर असम के मानस राष्ट्रीय उद्यान में नए फूलदार पौधे ओस्बेकिया असमेंसिस का दस्तावेज़ीकरण किया। खोज सहकर्मी-समीक्षित पत्रिका फाइटोटैक्सा में प्रकाशित हुई।\n\nपौधा मेलास्टोमाटेसी कुल का है। यह 2–2.5 मीटर ऊँची बहुवर्षीय झाड़ी है, जिसमें 3–3.5 सेमी चौड़े गुलाबी फूल हैं और प्रत्येक गुच्छे में 30–35 फूल होते हैं — संबंधित प्रजातियों से कहीं अधिक। मानस से नई प्रजातियाँ दिखाती हैं कि पूर्वी हिमालयी तलहटी की जैव विविधता कितनी समृद्ध और अभी भी कम खोजी गई है।\n\nIB ACIO: ओस्बेकिया असमेंसिस — नई फूलदार झाड़ी; मेलास्टोमाटेसी; मानस राष्ट्रीय उद्यान, असम; फाइटोटैक्सा।",
+      "question": "Manas National Park in Assam shares a border with which country, where it continues as Royal Manas National Park?",
+      "question_hi": "असम का मानस राष्ट्रीय उद्यान किस देश की सीमा से लगा है, जहाँ यह रॉयल मानस राष्ट्रीय उद्यान के रूप में जारी रहता है?",
+      "options": [
+        "Nepal",
+        "Bangladesh",
+        "Bhutan",
+        "Myanmar"
+      ],
+      "options_hi": [
+        "नेपाल",
+        "बांग्लादेश",
+        "भूटान",
+        "म्यांमार"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Manas National Park lies on the India–Bhutan border and adjoins Bhutan's Royal Manas National Park, forming a large transboundary protected area along the Manas river. It is a UNESCO World Heritage Site (1985), a tiger reserve, an elephant reserve and a biosphere reserve, and is home to rare species like the pygmy hog and golden langur.",
+      "explanation_hi": "मानस राष्ट्रीय उद्यान भारत–भूटान सीमा पर स्थित है और भूटान के रॉयल मानस राष्ट्रीय उद्यान से सटा है, जिससे मानस नदी के किनारे बड़ा सीमा-पार संरक्षित क्षेत्र बनता है। यह UNESCO विश्व धरोहर स्थल (1985), बाघ अभयारण्य, हाथी अभयारण्य और जैवमंडल अभयारण्य है, और पिग्मी हॉग तथा सुनहरे लंगूर जैसी दुर्लभ प्रजातियों का घर है।",
+      "moreInfo": "Assam has two natural UNESCO World Heritage Sites — Kaziranga and Manas National Parks — and one cultural site, the Charaideo Moidams of the Ahom dynasty (2024).",
+      "moreInfo_hi": "असम में दो प्राकृतिक UNESCO विश्व धरोहर स्थल — काज़ीरंगा और मानस राष्ट्रीय उद्यान — और एक सांस्कृतिक स्थल, अहोम राजवंश के चराईदेव मोइदाम (2024) हैं।",
+      "relatedDate": "2026-10-29"
+    },
+    {
+      "id": "10",
+      "category": "States",
+      "category_hi": "राज्य",
+      "title": "Uttarakhand Presents ₹7,844 Crore Supplementary Budget in Assembly Session at Gairsain",
+      "title_hi": "उत्तराखंड ने गैरसैंण में विधानसभा सत्र में ₹7,844 करोड़ का अनुपूरक बजट पेश किया",
+      "image": null,
+      "summary": "Chief Minister Pushkar Singh Dhami presented a supplementary budget of ₹7,844.18 crore for 2026-27 at Bhararisain, Gairsain, raising the state's total budget to about ₹1.19 lakh crore.",
+      "summary_hi": "मुख्यमंत्री पुष्कर सिंह धामी ने भराड़ीसैंण, गैरसैंण में 2026-27 के लिए ₹7,844.18 करोड़ का अनुपूरक बजट पेश किया, जिससे राज्य का कुल बजट लगभग ₹1.19 लाख करोड़ हो गया।",
+      "content": "Uttarakhand Chief Minister Pushkar Singh Dhami, who also holds the Finance portfolio, presented a supplementary budget of ₹7,844.18 crore for 2026-27 in the Assembly session at Bhararisain, Gairsain. It raises the state's total budget from about ₹1.12 lakh crore to about ₹1.19 lakh crore.\n\nOf the amount, ₹4,164.32 crore is for capital expenditure and ₹3,679.86 crore for revenue spending. On the 6th State Finance Commission's advice, local bodies' share of state tax revenue rises from 10.5% to 12.5%. A supplementary budget asks the legislature for extra money during the year when the original allocation is not enough.\n\nFor IB ACIO: State — Uttarakhand; Supplementary budget — ₹7,844.18 crore (2026-27); Presented by — CM Pushkar Singh Dhami; Venue — Bhararisain, Gairsain; Local bodies' share — up to 12.5%.",
+      "content_hi": "उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी, जो वित्त विभाग भी संभालते हैं, ने भराड़ीसैंण, गैरसैंण में विधानसभा सत्र में 2026-27 के लिए ₹7,844.18 करोड़ का अनुपूरक बजट पेश किया। इससे राज्य का कुल बजट लगभग ₹1.12 लाख करोड़ से बढ़कर लगभग ₹1.19 लाख करोड़ हो गया।\n\nइसमें ₹4,164.32 करोड़ पूंजीगत व्यय और ₹3,679.86 करोड़ राजस्व व्यय के लिए है। 6वें राज्य वित्त आयोग की सलाह पर स्थानीय निकायों का राज्य कर राजस्व में हिस्सा 10.5% से बढ़कर 12.5% हुआ। अनुपूरक बजट वर्ष के दौरान मूल आवंटन अपर्याप्त होने पर विधायिका से अतिरिक्त धन माँगता है।\n\nIB ACIO: उत्तराखंड — अनुपूरक बजट ₹7,844.18 करोड़; मुख्यमंत्री पुष्कर सिंह धामी; भराड़ीसैंण, गैरसैंण।",
+      "question": "Gairsain, where the Uttarakhand Assembly session was held, has been declared the state's what?",
+      "question_hi": "गैरसैंण, जहाँ उत्तराखंड विधानसभा सत्र हुआ, को राज्य का क्या घोषित किया गया है?",
+      "options": [
+        "Winter capital",
+        "Financial capital",
+        "Seat of the High Court",
+        "Summer capital"
+      ],
+      "options_hi": [
+        "शीतकालीन राजधानी",
+        "वित्तीय राजधानी",
+        "उच्च न्यायालय का आसन",
+        "ग्रीष्मकालीन राजधानी"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Gairsain (Bhararisain) in Chamoli district was declared Uttarakhand's summer capital in 2020; Dehradun serves as the main (winter/interim) capital. The High Court of Uttarakhand sits in Nainital. A similar dual-capital pattern exists in Himachal Pradesh (Dharamshala as winter capital) and was followed in Jammu and Kashmir.",
+      "explanation_hi": "चमोली ज़िले में गैरसैंण (भराड़ीसैंण) को 2020 में उत्तराखंड की ग्रीष्मकालीन राजधानी घोषित किया गया; देहरादून मुख्य (शीतकालीन/अंतरिम) राजधानी है। उत्तराखंड उच्च न्यायालय नैनीताल में है। ऐसी द्वि-राजधानी व्यवस्था हिमाचल प्रदेश (धर्मशाला शीतकालीन राजधानी) में भी है।",
+      "moreInfo": "Uttarakhand was carved out of Uttar Pradesh on 9 November 2000 as India's 27th state. Article 243-I requires every state to set up a State Finance Commission every five years to review the finances of Panchayats.",
+      "moreInfo_hi": "उत्तराखंड 9 नवंबर 2000 को उत्तर प्रदेश से अलग होकर भारत का 27वाँ राज्य बना। अनुच्छेद 243-I के तहत हर राज्य को पंचायतों के वित्त की समीक्षा हेतु हर पाँच वर्ष में राज्य वित्त आयोग बनाना होता है।",
+      "relatedDate": "2026-10-29"
+    }
+  ]
+}
