@@ -1,0 +1,263 @@
+{
+  "date": "2026-11-06",
+  "editionTitle": "IB ACIO Daily Current Affairs — 6 November 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 6 नवंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "Governance & Schemes",
+      "category_hi": "शासन एवं योजनाएँ",
+      "title": "Cabinet Approves ₹4,371 Crore VISTAR Scheme to Modernise Statistics; 8th Economic Census Included",
+      "title_hi": "कैबिनेट ने सांख्यिकी के आधुनिकीकरण हेतु ₹4,371 करोड़ की VISTAR योजना को मंज़ूरी दी; 8वीं आर्थिक जनगणना शामिल",
+      "image": null,
+      "summary": "The Union Cabinet approved VISTAR, a ₹4,371.10 crore Central Sector Scheme for FY27–FY31 to modernise MoSPI's data systems, which also funds the Eighth Economic Census.",
+      "summary_hi": "केंद्रीय मंत्रिमंडल ने वित्त वर्ष 27–31 के लिए ₹4,371.10 करोड़ की केंद्रीय क्षेत्र योजना VISTAR को मंज़ूरी दी, जो MoSPI की डेटा प्रणालियों का आधुनिकीकरण करेगी और आठवीं आर्थिक जनगणना का खर्च भी उठाएगी।",
+      "content": "The Union Cabinet, chaired by Prime Minister Narendra Modi, approved the Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR) — a Central Sector Scheme with an outlay of ₹4,371.10 crore for five years (FY27 to FY31), aligned with the 16th Finance Commission cycle.\n\nVISTAR aims to give the Ministry of Statistics and Programme Implementation (MoSPI) real-time, AI-ready and interoperable datasets in line with Viksit Bharat 2047. It has three components: comprehensive statistical operations and strengthening of the ecosystem, Support for Statistical Strengthening (SSS 2.0) for states, and the Eighth Economic Census. MoSPI plans 59 national surveys in this cycle, up from 43 major surveys earlier. The Economic Census counts all establishments engaged in economic activity (except crop production and plantation), giving the base frame for later enterprise surveys.\n\nFor IB ACIO: Scheme — VISTAR; Outlay — ₹4,371.10 crore (FY27–FY31); Type — Central Sector Scheme; Ministry — MoSPI; Includes — 8th Economic Census and SSS 2.0; Surveys planned — 59.",
+      "content_hi": "प्रधानमंत्री नरेंद्र मोदी की अध्यक्षता में केंद्रीय मंत्रिमंडल ने सांख्यिकीय परिवर्तन, विश्लेषण और अनुसंधान हेतु विकसित भारत पहल (VISTAR) को मंज़ूरी दी — 16वें वित्त आयोग चक्र के अनुरूप पाँच वर्षों (वित्त वर्ष 27 से 31) के लिए ₹4,371.10 करोड़ परिव्यय वाली केंद्रीय क्षेत्र योजना।\n\nVISTAR का उद्देश्य सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय (MoSPI) को विकसित भारत 2047 के अनुरूप वास्तविक-समय, AI-तैयार और अंतर-संचालनीय डेटासेट देना है। इसके तीन घटक हैं: व्यापक सांख्यिकीय संचालन और तंत्र का सुदृढ़ीकरण, राज्यों के लिए सांख्यिकीय सुदृढ़ीकरण सहायता (SSS 2.0), और आठवीं आर्थिक जनगणना। MoSPI इस चक्र में 59 राष्ट्रीय सर्वेक्षण करेगा, जो पहले 43 थे। आर्थिक जनगणना आर्थिक गतिविधि में लगे सभी प्रतिष्ठानों (फसल उत्पादन और बागान को छोड़कर) की गणना करती है।\n\nIB ACIO: VISTAR — ₹4,371.10 करोड़ (वित्त वर्ष 27–31); केंद्रीय क्षेत्र योजना; MoSPI; 8वीं आर्थिक जनगणना शामिल; 59 सर्वेक्षण।",
+      "question": "The Economic Census, whose eighth round is funded under VISTAR, is conducted by which ministry?",
+      "question_hi": "आर्थिक जनगणना, जिसका आठवाँ दौर VISTAR के तहत वित्तपोषित है, किस मंत्रालय द्वारा कराई जाती है?",
+      "options": [
+        "Ministry of Home Affairs (Registrar General of India)",
+        "Ministry of Statistics and Programme Implementation",
+        "Ministry of Finance",
+        "Ministry of Commerce and Industry"
+      ],
+      "options_hi": [
+        "गृह मंत्रालय (भारत के महापंजीयक)",
+        "सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय",
+        "वित्त मंत्रालय",
+        "वाणिज्य और उद्योग मंत्रालय"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Economic Census is conducted by MoSPI; the first was held in 1977 and the seventh in 2019. The Home Ministry option is the classic trap: the Office of the Registrar General and Census Commissioner, under the MHA, conducts the Population Census, not the Economic Census. Finance and Commerce use the data but do not run the census.",
+      "explanation_hi": "आर्थिक जनगणना MoSPI कराता है; पहली 1977 में और सातवीं 2019 में हुई। गृह मंत्रालय वाला विकल्प क्लासिक भ्रम है: गृह मंत्रालय के अधीन भारत के महापंजीयक और जनगणना आयुक्त का कार्यालय जनसंख्या जनगणना कराता है, आर्थिक जनगणना नहीं। वित्त और वाणिज्य मंत्रालय डेटा का उपयोग करते हैं, पर जनगणना नहीं कराते।",
+      "moreInfo": "MoSPI was formed in 1999 by merging the Department of Statistics and the Department of Programme Implementation. The National Statistics Office (NSO) under it releases GDP estimates, the PLFS and the CPI.",
+      "moreInfo_hi": "MoSPI का गठन 1999 में सांख्यिकी विभाग और कार्यक्रम कार्यान्वयन विभाग को मिलाकर हुआ। इसके अधीन राष्ट्रीय सांख्यिकी कार्यालय (NSO) GDP अनुमान, PLFS और CPI जारी करता है।",
+      "relatedDate": "2026-11-06"
+    },
+    {
+      "id": "2",
+      "category": "Infrastructure & Energy",
+      "category_hi": "अवसंरचना एवं ऊर्जा",
+      "title": "Cabinet Clears ₹14,500 Crore VGF for 92 GWh Grid-Scale Energy Storage and ₹2,814 Crore for Critical Mineral Processing",
+      "title_hi": "कैबिनेट ने 92 GWh ग्रिड-स्तरीय ऊर्जा भंडारण हेतु ₹14,500 करोड़ VGF और महत्वपूर्ण खनिज प्रसंस्करण हेतु ₹2,814 करोड़ मंज़ूर किए",
+      "image": null,
+      "summary": "A ₹14,500 crore Viability Gap Funding scheme will support 92 GWh of new grid-scale storage — mostly pumped storage — while a ₹2,814 crore capex scheme will back domestic processing of critical minerals like lithium and nickel.",
+      "summary_hi": "₹14,500 करोड़ की व्यवहार्यता अंतर निधि योजना 92 GWh नए ग्रिड-स्तरीय भंडारण — अधिकतर पंप्ड स्टोरेज — का समर्थन करेगी, जबकि ₹2,814 करोड़ की पूँजीगत योजना लिथियम और निकल जैसे महत्वपूर्ण खनिजों के घरेलू प्रसंस्करण को बढ़ावा देगी।",
+      "content": "The Union Cabinet approved a Viability Gap Funding (VGF) scheme of ₹14,500 crore for grid-scale Energy Storage Systems for FY27 to FY31. It targets 92 GWh of new storage: 60 GWh from Pumped Storage Projects (PSPs), 30 GWh from Battery Energy Storage Systems (BESS) and 2 GWh from alternative technologies, attracting an estimated ₹97,600 crore of investment. The new capacity equals about 170% of today's grid-scale storage and helps meet the estimated 411 GWh needed by FY32.\n\nStorage is essential because solar and wind power are variable — they must be stored when output is high and released at night or when demand peaks. VGF bridges part of the gap between a project's cost and what it can earn, making it viable for developers. The Cabinet also approved a ₹2,814 crore Capex Support Scheme to promote domestic processing of critical minerals, including lithium and nickel, offering a 30% capital subsidy for four processing units.\n\nFor IB ACIO: VGF — ₹14,500 crore (FY27–FY31); Target — 92 GWh (60 GWh pumped storage, 30 GWh BESS, 2 GWh others); Critical minerals capex scheme — ₹2,814 crore, 30% capital subsidy, 4 units.",
+      "content_hi": "केंद्रीय मंत्रिमंडल ने वित्त वर्ष 27 से 31 के लिए ग्रिड-स्तरीय ऊर्जा भंडारण प्रणालियों हेतु ₹14,500 करोड़ की व्यवहार्यता अंतर निधि (VGF) योजना को मंज़ूरी दी। इसका लक्ष्य 92 GWh नया भंडारण है: पंप्ड स्टोरेज परियोजनाओं से 60 GWh, बैटरी ऊर्जा भंडारण प्रणालियों (BESS) से 30 GWh और वैकल्पिक तकनीकों से 2 GWh, जिससे लगभग ₹97,600 करोड़ का निवेश आएगा।\n\nभंडारण आवश्यक है क्योंकि सौर और पवन ऊर्जा परिवर्तनशील हैं — उत्पादन अधिक होने पर इसे संग्रहीत करके रात या अधिकतम माँग के समय उपयोग करना होता है। VGF परियोजना की लागत और उसकी कमाई के बीच के अंतर का हिस्सा भरता है। मंत्रिमंडल ने लिथियम और निकल सहित महत्वपूर्ण खनिजों के घरेलू प्रसंस्करण हेतु ₹2,814 करोड़ की पूँजीगत सहायता योजना भी मंज़ूर की, जिसमें चार इकाइयों को 30% पूँजी सब्सिडी मिलेगी।\n\nIB ACIO: VGF — ₹14,500 करोड़; लक्ष्य — 92 GWh (60 पंप्ड स्टोरेज, 30 BESS, 2 अन्य); महत्वपूर्ण खनिज योजना — ₹2,814 करोड़।",
+      "question": "Under the new VGF scheme for 92 GWh of energy storage, which technology has the largest share of the target?",
+      "question_hi": "92 GWh ऊर्जा भंडारण की नई VGF योजना में लक्ष्य का सबसे बड़ा हिस्सा किस तकनीक का है?",
+      "options": [
+        "Battery Energy Storage Systems",
+        "Green hydrogen storage",
+        "Pumped Storage Projects",
+        "Compressed air energy storage"
+      ],
+      "options_hi": [
+        "बैटरी ऊर्जा भंडारण प्रणालियाँ",
+        "हरित हाइड्रोजन भंडारण",
+        "पंप्ड स्टोरेज परियोजनाएँ",
+        "संपीड़ित वायु ऊर्जा भंडारण"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pumped storage accounts for 60 of the 92 GWh. A pumped storage plant pumps water to an upper reservoir when power is cheap and surplus, then releases it through turbines when demand is high — like a giant water battery. BESS is the close trap at 30 GWh; green hydrogen and compressed air fall within the small 2 GWh 'alternative technologies' slice at most.",
+      "explanation_hi": "92 में से 60 GWh पंप्ड स्टोरेज का है। पंप्ड स्टोरेज संयंत्र सस्ती और अतिरिक्त बिजली होने पर पानी को ऊपरी जलाशय में पंप करता है और अधिक माँग पर टर्बाइनों से छोड़ता है — एक विशाल जल बैटरी की तरह। 30 GWh के साथ BESS निकट भ्रम है; हरित हाइड्रोजन और संपीड़ित वायु अधिक से अधिक 2 GWh के 'वैकल्पिक तकनीक' हिस्से में आते हैं।",
+      "moreInfo": "The National Critical Mineral Mission was approved in January 2025 to secure supplies of minerals such as lithium, cobalt and rare earths. India's first major lithium find was reported in Reasi district of Jammu and Kashmir in 2023.",
+      "moreInfo_hi": "लिथियम, कोबाल्ट और दुर्लभ मृदा जैसे खनिजों की आपूर्ति सुरक्षित करने हेतु राष्ट्रीय महत्वपूर्ण खनिज मिशन जनवरी 2025 में मंज़ूर हुआ। भारत में लिथियम की पहली बड़ी खोज 2023 में जम्मू-कश्मीर के रियासी ज़िले में बताई गई।",
+      "relatedDate": "2026-11-06"
+    },
+    {
+      "id": "3",
+      "category": "Polity & Justice",
+      "category_hi": "राजव्यवस्था एवं न्याय",
+      "title": "Cabinet Continues Fast Track Special Courts Scheme Till 2031 with ₹3,788 Crore",
+      "title_hi": "कैबिनेट ने ₹3,788 करोड़ के साथ फास्ट ट्रैक विशेष न्यायालय योजना को 2031 तक जारी रखा",
+      "image": null,
+      "summary": "The Centrally Sponsored Scheme for Fast Track Special Courts, including exclusive POCSO courts, will continue from April 2026 to March 2031 with ₹3,788.04 crore; functional courts will rise from 779 to 850.",
+      "summary_hi": "विशेष POCSO न्यायालयों सहित फास्ट ट्रैक विशेष न्यायालयों की केंद्र प्रायोजित योजना ₹3,788.04 करोड़ के साथ अप्रैल 2026 से मार्च 2031 तक जारी रहेगी; कार्यरत न्यायालय 779 से बढ़कर 850 होंगे।",
+      "content": "The Union Cabinet approved the continuation of the Centrally Sponsored Scheme for Fast Track Special Courts (FTSCs), including exclusive POCSO courts, from 1 April 2026 to 31 March 2031, with a total outlay of ₹3,788.04 crore. The Centre will provide ₹2,353.15 crore from the Nirbhaya Fund and the States/UTs ₹1,434.89 crore.\n\nThe number of functional FTSCs will rise from 779 to 850, based on case pendency. The courts aim at time-bound trials of rape and POCSO (Protection of Children from Sexual Offences) cases, reducing pendency and improving access to justice for women and children. The scheme was first launched in 2019, following the Criminal Law (Amendment) Act, 2018, which set strict timelines for such trials.\n\nFor IB ACIO: Scheme — Fast Track Special Courts (incl. exclusive POCSO courts); Period — 1 Apr 2026 to 31 Mar 2031; Outlay — ₹3,788.04 crore; Centre's share — ₹2,353.15 crore from the Nirbhaya Fund; Courts — 779 → 850.",
+      "content_hi": "केंद्रीय मंत्रिमंडल ने विशेष POCSO न्यायालयों सहित फास्ट ट्रैक विशेष न्यायालयों (FTSC) की केंद्र प्रायोजित योजना को 1 अप्रैल 2026 से 31 मार्च 2031 तक ₹3,788.04 करोड़ के कुल परिव्यय के साथ जारी रखने की मंज़ूरी दी। केंद्र निर्भया कोष से ₹2,353.15 करोड़ और राज्य/केंद्रशासित प्रदेश ₹1,434.89 करोड़ देंगे।\n\nलंबित मामलों के आधार पर कार्यरत FTSC की संख्या 779 से बढ़कर 850 होगी। इन न्यायालयों का लक्ष्य बलात्कार और POCSO (यौन अपराधों से बच्चों का संरक्षण) मामलों की समयबद्ध सुनवाई, लंबित मामलों में कमी और महिलाओं व बच्चों को न्याय तक बेहतर पहुँच है। योजना पहली बार 2019 में दंड विधि (संशोधन) अधिनियम, 2018 के बाद शुरू हुई थी।\n\nIB ACIO: FTSC योजना — 2026 से 2031; ₹3,788.04 करोड़; केंद्र का हिस्सा निर्भया कोष से; न्यायालय — 779 से 850।",
+      "question": "The Centre's share of the Fast Track Special Courts scheme is met from which fund?",
+      "question_hi": "फास्ट ट्रैक विशेष न्यायालय योजना में केंद्र का हिस्सा किस कोष से दिया जाता है?",
+      "options": [
+        "PM CARES Fund",
+        "Contingency Fund of India",
+        "National Disaster Response Fund",
+        "Nirbhaya Fund"
+      ],
+      "options_hi": [
+        "पीएम केयर्स फंड",
+        "भारत की आकस्मिकता निधि",
+        "राष्ट्रीय आपदा प्रतिक्रिया कोष",
+        "निर्भया कोष"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Nirbhaya Fund was created in 2013, after the December 2012 Delhi gang-rape case, to finance schemes for the safety and security of women; the Ministry of Women and Child Development is the nodal ministry for appraising projects. PM CARES is a public charitable trust for emergencies, the NDRF finances disaster relief, and the Contingency Fund (Article 267) meets urgent unforeseen expenditure.",
+      "explanation_hi": "निर्भया कोष दिसंबर 2012 के दिल्ली सामूहिक बलात्कार मामले के बाद 2013 में महिलाओं की सुरक्षा की योजनाओं के वित्तपोषण हेतु बनाया गया; परियोजनाओं के मूल्यांकन हेतु महिला एवं बाल विकास मंत्रालय नोडल मंत्रालय है। पीएम केयर्स आपात स्थितियों हेतु सार्वजनिक धर्मार्थ ट्रस्ट है, राष्ट्रीय आपदा प्रतिक्रिया कोष आपदा राहत देता है, और आकस्मिकता निधि (अनुच्छेद 267) तात्कालिक अप्रत्याशित खर्च पूरा करती है।",
+      "moreInfo": "The POCSO Act, 2012 defines a child as anyone below 18 years and requires special courts for child sexual abuse cases. The Department of Justice under the Ministry of Law and Justice implements the FTSC scheme.",
+      "moreInfo_hi": "POCSO अधिनियम, 2012 बच्चे को 18 वर्ष से कम आयु के व्यक्ति के रूप में परिभाषित करता है और बाल यौन शोषण मामलों हेतु विशेष न्यायालय अनिवार्य करता है। विधि एवं न्याय मंत्रालय का न्याय विभाग FTSC योजना लागू करता है।",
+      "relatedDate": "2026-11-06"
+    },
+    {
+      "id": "4",
+      "category": "Agriculture",
+      "category_hi": "कृषि",
+      "title": "First International Maize Conference in Hyderabad Sets 75 Million Tonne Target",
+      "title_hi": "हैदराबाद में पहले अंतरराष्ट्रीय मक्का सम्मेलन में 75 मिलियन टन का लक्ष्य",
+      "image": null,
+      "summary": "The 1st International Maize Conference (2–4 November 2026, Hyderabad) set a goal of raising India's maize output from about 55 million tonnes to 75 million tonnes in a decade.",
+      "summary_hi": "पहले अंतरराष्ट्रीय मक्का सम्मेलन (2–4 नवंबर 2026, हैदराबाद) ने एक दशक में भारत के मक्का उत्पादन को लगभग 55 मिलियन टन से 75 मिलियन टन तक बढ़ाने का लक्ष्य रखा।",
+      "content": "The 1st International Maize Conference 2026 was held from 2 to 4 November 2026 at Hyderabad, Telangana, on the theme 'Maize Revolution for Food, Feed, Fodder, Fuel and Sustainability in the Changing World'. It was organised by the Maize Technologists Association of India with PJTAU, ICAR, TAAS, CIMMYT and the ICAR-Indian Institute of Maize Research.\n\nIndia produces about 55 million tonnes of maize; the conference set a target of 75 million tonnes over the next decade through a 1.5-fold rise in productivity. Maize demand is rising fast because it is used as poultry feed, in starch industries and now for ethanol blending in petrol. The traditional '4F' framework — Food, Feed, Fodder, Fuel — was expanded to '5F' by adding Farmers.\n\nFor IB ACIO: Event — 1st International Maize Conference; Venue — Hyderabad (2–4 Nov 2026); Output — about 55 MT now, target 75 MT; Framework — 5F (Food, Feed, Fodder, Fuel, Farmers); Partner — CIMMYT.",
+      "content_hi": "पहला अंतरराष्ट्रीय मक्का सम्मेलन 2026, 2 से 4 नवंबर 2026 तक हैदराबाद, तेलंगाना में 'बदलती दुनिया में भोजन, चारा, पशु आहार, ईंधन और स्थिरता हेतु मक्का क्रांति' थीम पर हुआ। इसे भारतीय मक्का प्रौद्योगिकीविद संघ ने PJTAU, ICAR, TAAS, CIMMYT और ICAR-भारतीय मक्का अनुसंधान संस्थान के साथ आयोजित किया।\n\nभारत लगभग 55 मिलियन टन मक्का पैदा करता है; सम्मेलन ने उत्पादकता में 1.5 गुना वृद्धि से अगले दशक में 75 मिलियन टन का लक्ष्य रखा। मक्का की माँग तेज़ी से बढ़ रही है क्योंकि इसका उपयोग मुर्गी आहार, स्टार्च उद्योग और अब पेट्रोल में इथेनॉल मिश्रण हेतु होता है। पारंपरिक '4F' ढांचे को किसानों (Farmers) को जोड़कर '5F' बनाया गया।\n\nIB ACIO: पहला अंतरराष्ट्रीय मक्का सम्मेलन — हैदराबाद; उत्पादन — लगभग 55 MT, लक्ष्य 75 MT; 5F ढांचा।",
+      "question": "The ICAR-Indian Institute of Maize Research, a co-organiser of the conference, is headquartered in which city?",
+      "question_hi": "सम्मेलन का सह-आयोजक ICAR-भारतीय मक्का अनुसंधान संस्थान किस शहर में मुख्यालय रखता है?",
+      "options": [
+        "Ludhiana",
+        "Hyderabad",
+        "Karnal",
+        "Cuttack"
+      ],
+      "options_hi": [
+        "लुधियाना",
+        "हैदराबाद",
+        "करनाल",
+        "कटक"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ICAR-IIMR is at Ludhiana, Punjab (it moved there from New Delhi in 2015). Hyderabad is a smart trap: the ICAR-Indian Institute of Millets Research there shares the same 'IIMR' abbreviation. Karnal hosts the Indian Institute of Wheat and Barley Research and the National Dairy Research Institute, while Cuttack hosts the National Rice Research Institute.",
+      "explanation_hi": "ICAR-IIMR लुधियाना, पंजाब में है (यह 2015 में नई दिल्ली से वहाँ स्थानांतरित हुआ)। हैदराबाद चालाक भ्रम है: वहाँ का ICAR-भारतीय कदन्न (मिलेट्स) अनुसंधान संस्थान भी 'IIMR' संक्षिप्त नाम रखता है। करनाल में भारतीय गेहूँ एवं जौ अनुसंधान संस्थान और राष्ट्रीय डेयरी अनुसंधान संस्थान हैं, जबकि कटक में राष्ट्रीय चावल अनुसंधान संस्थान है।",
+      "moreInfo": "CIMMYT, the International Maize and Wheat Improvement Center, is headquartered in Mexico; Norman Borlaug's work there laid the foundation of India's Green Revolution. Karnataka and Madhya Pradesh are among India's top maize-producing states.",
+      "moreInfo_hi": "अंतरराष्ट्रीय मक्का एवं गेहूँ सुधार केंद्र CIMMYT का मुख्यालय मेक्सिको में है; वहाँ नॉर्मन बोरलॉग के कार्य ने भारत की हरित क्रांति की नींव रखी। कर्नाटक और मध्य प्रदेश भारत के शीर्ष मक्का उत्पादक राज्यों में हैं।",
+      "relatedDate": "2026-11-06"
+    },
+    {
+      "id": "5",
+      "category": "Science & Technology",
+      "category_hi": "विज्ञान एवं प्रौद्योगिकी",
+      "title": "IndiaAI Mission Releases EKA-1 Model Covering All 22 Scheduled Languages, Plus Compact Dhīr Models",
+      "title_hi": "IndiaAI मिशन ने सभी 22 अनुसूचित भाषाओं वाला EKA-1 मॉडल और कॉम्पैक्ट धीर मॉडल जारी किए",
+      "image": null,
+      "summary": "Under the IndiaAI Mission, Soket Labs and ZenteiQ AiTech released EKA-1, a 26.3-billion-parameter open model supporting all 22 Scheduled Indian languages and English, and the compact Dhīr 2B and 5B models.",
+      "summary_hi": "IndiaAI मिशन के तहत सॉकेट लैब्स और ज़ेंटीक्यू एआईटेक ने सभी 22 अनुसूचित भारतीय भाषाओं और अंग्रेज़ी को समर्थन देने वाला 26.3 अरब पैरामीटर का खुला मॉडल EKA-1 तथा कॉम्पैक्ट धीर 2B और 5B मॉडल जारी किए।",
+      "content": "The IndiaAI Mission under the Ministry of Electronics and Information Technology (MeitY) released three indigenous AI models in New Delhi under its Foundation Models pillar: EKA-1, Dhīr 2B and Dhīr 5B. They were developed by Soket Labs and ZenteiQ AiTech Innovations using subsidised national AI compute and the AIKosh dataset platform.\n\nEKA-1 is an open sparse hybrid language model with 26.3 billion parameters, trained on 7.5 trillion tokens. It supports all 22 Scheduled Indian languages and English, with strengths in mathematics, coding, reasoning and agentic tasks. Dhīr 2B and 5B are compact open-source models for English and 10 Indian languages, designed to run securely offline or on-premise — useful for government offices that cannot send sensitive documents to foreign cloud servers.\n\nFor IB ACIO: Models — EKA-1, Dhīr 2B, Dhīr 5B; Mission — IndiaAI (MeitY); Developers — Soket Labs, ZenteiQ AiTech; EKA-1 — 26.3 billion parameters, 22 Scheduled languages + English; Data platform — AIKosh.",
+      "content_hi": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय (MeitY) के अधीन IndiaAI मिशन ने अपने फाउंडेशन मॉडल स्तंभ के तहत नई दिल्ली में तीन स्वदेशी AI मॉडल जारी किए: EKA-1, धीर 2B और धीर 5B। इन्हें सॉकेट लैब्स और ज़ेंटीक्यू एआईटेक इनोवेशन्स ने सब्सिडी वाले राष्ट्रीय AI कंप्यूट और AIKosh डेटासेट प्लेटफ़ॉर्म की मदद से विकसित किया।\n\nEKA-1 26.3 अरब पैरामीटर वाला खुला विरल हाइब्रिड भाषा मॉडल है, जिसे 7.5 ट्रिलियन टोकन पर प्रशिक्षित किया गया। यह सभी 22 अनुसूचित भारतीय भाषाओं और अंग्रेज़ी का समर्थन करता है। धीर 2B और 5B अंग्रेज़ी और 10 भारतीय भाषाओं हेतु कॉम्पैक्ट ओपन-सोर्स मॉडल हैं, जो सुरक्षित रूप से ऑफ़लाइन या ऑन-प्रिमाइस चल सकते हैं — उन सरकारी कार्यालयों के लिए उपयोगी जो संवेदनशील दस्तावेज़ विदेशी क्लाउड पर नहीं भेज सकते।\n\nIB ACIO: EKA-1, धीर 2B, धीर 5B — IndiaAI मिशन (MeitY); EKA-1 — 26.3 अरब पैरामीटर, 22 अनुसूचित भाषाएँ।",
+      "question": "The 22 'Scheduled' Indian languages supported by EKA-1 are listed in which Schedule of the Constitution?",
+      "question_hi": "EKA-1 द्वारा समर्थित 22 'अनुसूचित' भारतीय भाषाएँ संविधान की किस अनुसूची में सूचीबद्ध हैं?",
+      "options": [
+        "Seventh Schedule",
+        "Eighth Schedule",
+        "Tenth Schedule",
+        "Twelfth Schedule"
+      ],
+      "options_hi": [
+        "सातवीं अनुसूची",
+        "आठवीं अनुसूची",
+        "दसवीं अनुसूची",
+        "बारहवीं अनुसूची"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Eighth Schedule lists 22 languages; it began with 14, and the last four — Bodo, Dogri, Maithili and Santhali — were added by the 92nd Amendment in 2003. The Seventh Schedule contains the Union, State and Concurrent Lists, the Tenth deals with anti-defection, and the Twelfth lists the functions of municipalities.",
+      "explanation_hi": "आठवीं अनुसूची में 22 भाषाएँ हैं; शुरुआत में 14 थीं, और अंतिम चार — बोडो, डोगरी, मैथिली और संथाली — 2003 में 92वें संशोधन से जोड़ी गईं। सातवीं अनुसूची में संघ, राज्य और समवर्ती सूचियाँ हैं, दसवीं दल-बदल विरोधी प्रावधानों से संबंधित है, और बारहवीं में नगरपालिकाओं के कार्य हैं।",
+      "moreInfo": "The IndiaAI Mission was approved in March 2024 with an outlay of about ₹10,372 crore. Its seven pillars include compute capacity, foundation models, datasets (AIKosh), application development and safe and trusted AI.",
+      "moreInfo_hi": "IndiaAI मिशन मार्च 2024 में लगभग ₹10,372 करोड़ के परिव्यय के साथ मंज़ूर हुआ। इसके सात स्तंभों में कंप्यूट क्षमता, फाउंडेशन मॉडल, डेटासेट (AIKosh), अनुप्रयोग विकास और सुरक्षित व विश्वसनीय AI शामिल हैं।",
+      "relatedDate": "2026-11-06"
+    },
+    {
+      "id": "6",
+      "category": "Science & Technology",
+      "category_hi": "विज्ञान एवं प्रौद्योगिकी",
+      "title": "TRAI Launches 'Network Anubhav' Dashboard to Compare Mobile Network Quality",
+      "title_hi": "TRAI ने मोबाइल नेटवर्क गुणवत्ता की तुलना हेतु 'नेटवर्क अनुभव' डैशबोर्ड शुरू किया",
+      "image": null,
+      "summary": "TRAI launched Network Anubhav on 4 November 2026, a geospatial dashboard that lets users compare coverage, internet speed and call quality across locations and operators.",
+      "summary_hi": "TRAI ने 4 नवंबर 2026 को नेटवर्क अनुभव शुरू किया, एक भू-स्थानिक डैशबोर्ड जिससे उपयोगकर्ता विभिन्न स्थानों और ऑपरेटरों में कवरेज, इंटरनेट गति और कॉल गुणवत्ता की तुलना कर सकते हैं।",
+      "content": "The Telecom Regulatory Authority of India (TRAI) launched 'Network Anubhav' on 4 November 2026 — a geospatial dashboard that combines crowdsourced data from its MySpeed and MyCall apps with results of TRAI's Independent Drive Tests. A web interface for Do Not Disturb (DND) services was also launched.\n\nUsers can compare network coverage, internet speeds and call quality across locations and telecom operators, filter results and download reports. A MySpeed SDK lets third-party apps add speed-testing. Publishing quality data openly puts pressure on operators to fix weak spots, and helps consumers choose a better network.\n\nFor IB ACIO: Platform — Network Anubhav (geospatial dashboard); Launched by — TRAI (4 Nov 2026); Data sources — MySpeed, MyCall apps and Independent Drive Tests; TRAI — est. 20 Feb 1997, HQ New Delhi.",
+      "content_hi": "भारतीय दूरसंचार विनियामक प्राधिकरण (TRAI) ने 4 नवंबर 2026 को 'नेटवर्क अनुभव' शुरू किया — एक भू-स्थानिक डैशबोर्ड जो इसके MySpeed और MyCall ऐप के जन-स्रोत डेटा को TRAI के स्वतंत्र ड्राइव टेस्ट परिणामों से जोड़ता है। डू नॉट डिस्टर्ब (DND) सेवाओं हेतु वेब इंटरफ़ेस भी शुरू हुआ।\n\nउपयोगकर्ता स्थानों और दूरसंचार ऑपरेटरों के बीच नेटवर्क कवरेज, इंटरनेट गति और कॉल गुणवत्ता की तुलना कर सकते हैं, परिणाम छाँट सकते हैं और रिपोर्ट डाउनलोड कर सकते हैं। MySpeed SDK से तीसरे पक्ष के ऐप स्पीड-टेस्ट जोड़ सकते हैं। गुणवत्ता डेटा खुलकर प्रकाशित करने से ऑपरेटरों पर कमज़ोर क्षेत्र सुधारने का दबाव बनता है।\n\nIB ACIO: नेटवर्क अनुभव — TRAI (4 नवंबर 2026); MySpeed, MyCall और ड्राइव टेस्ट डेटा; TRAI — स्थापना 20 फरवरी 1997।",
+      "question": "TRAI, which launched Network Anubhav, was established under which law?",
+      "question_hi": "नेटवर्क अनुभव शुरू करने वाला TRAI किस कानून के तहत स्थापित हुआ?",
+      "options": [
+        "Indian Telegraph Act, 1885",
+        "Telecommunications Act, 2023",
+        "Telecom Regulatory Authority of India Act, 1997",
+        "Information Technology Act, 2000"
+      ],
+      "options_hi": [
+        "भारतीय तार अधिनियम, 1885",
+        "दूरसंचार अधिनियम, 2023",
+        "भारतीय दूरसंचार विनियामक प्राधिकरण अधिनियम, 1997",
+        "सूचना प्रौद्योगिकी अधिनियम, 2000"
+      ],
+      "correctAnswer": 2,
+      "explanation": "TRAI was set up on 20 February 1997 under the TRAI Act, 1997; a 2000 amendment created the TDSAT to hear telecom disputes and appeals. The Telecommunications Act, 2023 replaced the colonial Indian Telegraph Act, 1885 (and the Wireless Telegraphy Act, 1933) but did not create TRAI. The IT Act, 2000 deals with cyber law and electronic records.",
+      "explanation_hi": "TRAI 20 फरवरी 1997 को TRAI अधिनियम, 1997 के तहत बना; 2000 के संशोधन ने दूरसंचार विवाद और अपील सुनने हेतु TDSAT बनाया। दूरसंचार अधिनियम, 2023 ने औपनिवेशिक भारतीय तार अधिनियम, 1885 (और बेतार तार अधिनियम, 1933) की जगह ली, पर TRAI नहीं बनाया। IT अधिनियम, 2000 साइबर कानून और इलेक्ट्रॉनिक अभिलेखों से संबंधित है।",
+      "moreInfo": "TRAI works under the Ministry of Communications; its chairman is Anil Kumar Lahoti. The Department of Telecommunications (DoT) issues licences, while TRAI recommends policy and regulates tariffs and service quality.",
+      "moreInfo_hi": "TRAI संचार मंत्रालय के अधीन कार्य करता है; इसके अध्यक्ष अनिल कुमार लाहोटी हैं। दूरसंचार विभाग (DoT) लाइसेंस जारी करता है, जबकि TRAI नीति की सिफारिश करता है और शुल्क व सेवा गुणवत्ता नियंत्रित करता है।",
+      "relatedDate": "2026-11-06"
+    },
+    {
+      "id": "7",
+      "category": "International",
+      "category_hi": "अंतरराष्ट्रीय",
+      "title": "The Bahamas Joins International Solar Alliance as 116th Member",
+      "title_hi": "बहामास अंतरराष्ट्रीय सौर गठबंधन का 116वाँ सदस्य बना",
+      "image": null,
+      "summary": "The Commonwealth of The Bahamas became the 116th member of the International Solar Alliance on 4 November 2026, during the 9th ISA Assembly in New Delhi.",
+      "summary_hi": "बहामास राष्ट्रमंडल 4 नवंबर 2026 को नई दिल्ली में ISA की 9वीं सभा के दौरान अंतरराष्ट्रीय सौर गठबंधन का 116वाँ सदस्य बना।",
+      "content": "On 4 November 2026, the Commonwealth of The Bahamas joined the International Solar Alliance (ISA) as its 116th member during the 9th Session of the ISA Assembly in New Delhi. The Instrument of Accession was handed over by the Bahamas High Commissioner to India's Ministry of External Affairs, which acts as the depository of the ISA Framework Agreement.\n\nThe ISA helps member countries deploy solar energy through knowledge-sharing, technical help and investment facilitation, with a special focus on Least Developed Countries and Small Island Developing States (SIDS). Island nations like The Bahamas, a Caribbean archipelago, depend heavily on imported diesel for electricity and face severe climate risks, so solar power improves both energy security and resilience.\n\nFor IB ACIO: New member — The Bahamas (116th); Date — 4 Nov 2026; Occasion — 9th ISA Assembly, New Delhi; Depository — India (MEA); ISA HQ — Gurugram, Haryana.",
+      "content_hi": "4 नवंबर 2026 को नई दिल्ली में ISA सभा के 9वें सत्र के दौरान बहामास राष्ट्रमंडल अंतरराष्ट्रीय सौर गठबंधन (ISA) का 116वाँ सदस्य बना। परिग्रहण का दस्तावेज़ बहामास के उच्चायुक्त ने भारत के विदेश मंत्रालय को सौंपा, जो ISA फ्रेमवर्क समझौते का निक्षेपागार है।\n\nISA ज्ञान-साझेदारी, तकनीकी सहायता और निवेश सुविधा के माध्यम से सदस्य देशों में सौर ऊर्जा के प्रसार में मदद करता है, विशेषकर अल्पविकसित देशों और लघु द्वीपीय विकासशील देशों (SIDS) पर ध्यान देते हुए। बहामास जैसे द्वीपीय देश बिजली हेतु आयातित डीज़ल पर निर्भर हैं और गंभीर जलवायु जोखिम झेलते हैं, इसलिए सौर ऊर्जा ऊर्जा सुरक्षा और लचीलापन दोनों बढ़ाती है।\n\nIB ACIO: बहामास — ISA का 116वाँ सदस्य (4 नवंबर 2026); 9वीं ISA सभा, नई दिल्ली; मुख्यालय — गुरुग्राम।",
+      "question": "The International Solar Alliance was jointly launched by India and which country?",
+      "question_hi": "अंतरराष्ट्रीय सौर गठबंधन भारत और किस देश ने संयुक्त रूप से शुरू किया?",
+      "options": [
+        "United Kingdom",
+        "Japan",
+        "Germany",
+        "France"
+      ],
+      "options_hi": [
+        "यूनाइटेड किंगडम",
+        "जापान",
+        "जर्मनी",
+        "फ्रांस"
+      ],
+      "correctAnswer": 3,
+      "explanation": "India and France launched the ISA on 30 November 2015 at COP21 in Paris, the same summit that produced the Paris Agreement. The UK partnered with India on the Green Grids Initiative under 'One Sun One World One Grid' at COP26, which makes it a tempting trap, but it was not a co-founder of the ISA.",
+      "explanation_hi": "भारत और फ्रांस ने 30 नवंबर 2015 को पेरिस में COP21 के दौरान ISA शुरू किया, उसी सम्मेलन में पेरिस समझौता भी हुआ। ब्रिटेन ने COP26 में 'वन सन वन वर्ल्ड वन ग्रिड' के तहत ग्रीन ग्रिड्स पहल पर भारत के साथ साझेदारी की, इसलिए यह आकर्षक भ्रम है, पर वह ISA का सह-संस्थापक नहीं है।",
+      "moreInfo": "The ISA is the first treaty-based international intergovernmental organisation headquartered in India. Its membership was opened to all UN member states through a 2020 amendment to its Framework Agreement.",
+      "moreInfo_hi": "ISA भारत में मुख्यालय वाला पहला संधि-आधारित अंतरराष्ट्रीय अंतर-सरकारी संगठन है। 2020 में फ्रेमवर्क समझौते में संशोधन से इसकी सदस्यता सभी UN सदस्य देशों के लिए खोली गई।",
+      "relatedDate": "2026-11-06"
+    },
+    {
+      "id": "8",
+      "category": "States",
+      "category_hi": "राज्य",
+      "title": "Odisha Signs Three-Year MoU with J-PAL South Asia for Evidence-Based Policymaking",
+      "title_hi": "ओडिशा ने साक्ष्य-आधारित नीति निर्माण हेतु J-PAL दक्षिण एशिया के साथ तीन वर्षीय समझौता किया",
+      "image": null,
+      "summary": "Odisha's Planning & Convergence Department signed a three-year MoU with J-PAL South Asia to use rigorous evidence in governance, supporting the state's Vision 2036 and Vision 2047 goals.",
+      "summary_hi": "ओडिशा के योजना एवं अभिसरण विभाग ने शासन में ठोस साक्ष्यों के उपयोग हेतु J-PAL दक्षिण एशिया के साथ तीन वर्षीय समझौता किया, जो राज्य के विज़न 2036 और विज़न 2047 लक्ष्यों का समर्थन करता है।",
+      "content": "The Government of Odisha signed a three-year MoU with J-PAL South Asia to strengthen evidence-based policymaking and governance, supporting Odisha Vision 2036 (Samruddha Odisha) and Vision 2047 (Viksit Odisha). The MoU was signed by the Planning & Convergence Department and J-PAL South Asia's Executive Director, Shobhini Mukerji.\n\nA Steering Committee led by the Chief Secretary will review projects every six months, with nodal officers in each department. J-PAL already supports 'Barnali', a gender-equity curriculum taught in about 23,000 government schools of Odisha with the School & Mass Education Department and Breakthrough Trust. J-PAL is known for randomised controlled trials (RCTs), which test a policy on one group and compare it with a similar group that did not receive it.\n\nFor IB ACIO: Agreement — Odisha–J-PAL South Asia MoU (3 years); Goals — Vision 2036 and 2047; Review — Chief Secretary-led committee every 6 months; J-PAL — founded 2003 at MIT, USA; J-PAL South Asia — based at IFMR, Chennai.",
+      "content_hi": "ओडिशा सरकार ने साक्ष्य-आधारित नीति निर्माण और शासन को मज़बूत करने हेतु J-PAL दक्षिण एशिया के साथ तीन वर्षीय समझौता किया, जो ओडिशा विज़न 2036 (समृद्ध ओडिशा) और विज़न 2047 (विकसित ओडिशा) का समर्थन करता है। समझौते पर योजना एवं अभिसरण विभाग और J-PAL दक्षिण एशिया की कार्यकारी निदेशक शोभिनी मुखर्जी ने हस्ताक्षर किए।\n\nमुख्य सचिव के नेतृत्व वाली संचालन समिति हर छह महीने में परियोजनाओं की समीक्षा करेगी। J-PAL पहले से 'बरनाली' का समर्थन करता है, जो स्कूल एवं जन शिक्षा विभाग और ब्रेकथ्रू ट्रस्ट के साथ ओडिशा के लगभग 23,000 सरकारी स्कूलों में पढ़ाया जाने वाला लैंगिक-समानता पाठ्यक्रम है। J-PAL यादृच्छिक नियंत्रित परीक्षणों (RCT) के लिए जाना जाता है, जिनमें किसी नीति को एक समूह पर परखकर समान दूसरे समूह से तुलना की जाती है।\n\nIB ACIO: ओडिशा–J-PAL दक्षिण एशिया समझौता (3 वर्ष); विज़न 2036 और 2047; J-PAL — 2003, MIT।",
+      "question": "J-PAL co-founders Abhijit Banerjee and Esther Duflo shared the 2019 Nobel Prize in Economic Sciences with whom?",
+      "question_hi": "J-PAL के सह-संस्थापक अभिजीत बनर्जी और एस्थर डुफ्लो ने 2019 का अर्थशास्त्र नोबेल किसके साथ साझा किया?",
+      "options": [
+        "Michael Kremer",
+        "Paul Romer",
+        "Richard Thaler",
+        "Angus Deaton"
+      ],
+      "options_hi": [
+        "माइकल क्रेमर",
+        "पॉल रोमर",
+        "रिचर्ड थेलर",
+        "एंगस डीटन"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Banerjee, Duflo and Michael Kremer won the 2019 prize 'for their experimental approach to alleviating global poverty' — the RCT method J-PAL champions. The traps are other recent laureates: Paul Romer (2018, with William Nordhaus), Richard Thaler (2017, behavioural economics) and Angus Deaton (2015, consumption and poverty).",
+      "explanation_hi": "बनर्जी, डुफ्लो और माइकल क्रेमर ने 2019 का पुरस्कार 'वैश्विक गरीबी कम करने के प्रयोगात्मक दृष्टिकोण' हेतु जीता — वही RCT पद्धति जिसे J-PAL बढ़ावा देता है। भ्रम विकल्प अन्य हालिया विजेता हैं: पॉल रोमर (2018, विलियम नॉर्डहॉस के साथ), रिचर्ड थेलर (2017, व्यवहारिक अर्थशास्त्र) और एंगस डीटन (2015, उपभोग और गरीबी)।",
+      "moreInfo": "Abhijit Banerjee is the second Indian-born economist to win the Economics Nobel after Amartya Sen (1998). J-PAL stands for the Abdul Latif Jameel Poverty Action Lab.",
+      "moreInfo_hi": "अभिजीत बनर्जी अमर्त्य सेन (1998) के बाद अर्थशास्त्र नोबेल जीतने वाले दूसरे भारत में जन्मे अर्थशास्त्री हैं। J-PAL का पूरा नाम अब्दुल लतीफ़ जमील पॉवर्टी एक्शन लैब है।",
+      "relatedDate": "2026-11-06"
+    }
+  ]
+}
