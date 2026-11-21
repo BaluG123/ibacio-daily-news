@@ -1,0 +1,29 @@
+name: Notify new current affairs
+on:
+  push:
+    branches: [main]
+    paths: ['20*.json']          # daily edition files like 2026-11-21.json
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Find newly added edition
+        id: new
+        run: |
+          FILE=$(git diff --name-only --diff-filter=A HEAD~1 HEAD -- '20*.json' | sort | tail -n 1)
+          echo "file=$FILE" >> "$GITHUB_OUTPUT"
+      - uses: actions/setup-node@v4
+        if: steps.new.outputs.file != ''
+        with:
+          node-version: 20
+      - name: Send push notification
+        if: steps.new.outputs.file != ''
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          EDITION_FILE: ${{ steps.new.outputs.file }}
+        run: |
+          npm install --no-save google-auth-library@9
+          node .github/scripts/notify.js
