@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-24",
+  "editionTitle": "IB ACIO Daily Current Affairs — 24 November 2026",
+  "editionTitle_hi": "आईबी एसीआईओ दैनिक करेंट अफेयर्स — 24 नवंबर 2026",
+  "articles": [
+    {
+      "id": "1",
+      "category": "International",
+      "category_hi": "अंतरराष्ट्रीय",
+      "title": "Nepal PM's First Bilateral Visit to India; New Ayodhya–Janakpur 'Saryu Kamala Express' from 28 November",
+      "title_hi": "नेपाल के प्रधानमंत्री की पहली द्विपक्षीय भारत यात्रा; 28 नवंबर से नई अयोध्या–जनकपुर 'सरयू कमला एक्सप्रेस'",
+      "image": null,
+      "summary": "Nepal's Prime Minister Balendra Shah held talks with PM Modi in New Delhi on 23 November 2026 during his first bilateral visit to India; India announced an offshore IIT campus and a development package for Nepal, and a weekly Ayodhya–Janakpur train will start on 28 November.",
+      "summary_hi": "नेपाल के प्रधानमंत्री बालेंद्र शाह ने 23 नवंबर 2026 को अपनी पहली द्विपक्षीय भारत यात्रा में नई दिल्ली में प्रधानमंत्री मोदी से वार्ता की; भारत ने नेपाल हेतु अपतटीय IIT परिसर और विकास पैकेज घोषित किया, और 28 नवंबर से साप्ताहिक अयोध्या–जनकपुर ट्रेन शुरू होगी।",
+      "content": "Nepal's Prime Minister Balendra Shah arrived in New Delhi on 22 November 2026 on his first bilateral visit to India since taking office, and held talks with PM Narendra Modi on 23 November on development cooperation, education, infrastructure and trade. Under an India–Nepal Joint Vision Document, India announced an offshore IIT campus, a startup incubator and an innovation hub in Nepal, along with a development cooperation package of 24,000 crore Nepali rupees.\n\nFrom 28 November 2026, the weekly 'Saryu Kamala Express' will directly link Ayodhya in Uttar Pradesh with Janakpur Dham in Nepal, covering about 604 km in around 19 hours. The Ramayana link between the two cities — Ayodhya as Lord Rama's birthplace and Janakpur as Sita's — makes the route important for religious tourism and people-to-people ties under India's Neighbourhood First policy.\n\nFor IB ACIO: Visit — Nepal PM Balendra Shah (22–23 Nov 2026, first bilateral visit); Announcements — offshore IIT campus, startup incubator, NPR 24,000 crore package; Train — Saryu Kamala Express, Ayodhya–Janakpur (from 28 Nov 2026, ~604 km); Policy — Neighbourhood First.",
+      "content_hi": "नेपाल के प्रधानमंत्री बालेंद्र शाह पद संभालने के बाद अपनी पहली द्विपक्षीय भारत यात्रा पर 22 नवंबर 2026 को नई दिल्ली पहुँचे, और 23 नवंबर को प्रधानमंत्री नरेंद्र मोदी से विकास सहयोग, शिक्षा, अवसंरचना और व्यापार पर वार्ता की। भारत–नेपाल संयुक्त विज़न दस्तावेज़ के तहत भारत ने नेपाल में अपतटीय IIT परिसर, स्टार्टअप इनक्यूबेटर और नवाचार केंद्र, साथ ही 24,000 करोड़ नेपाली रुपये के विकास सहयोग पैकेज की घोषणा की।\n\n28 नवंबर 2026 से साप्ताहिक 'सरयू कमला एक्सप्रेस' उत्तर प्रदेश के अयोध्या को नेपाल के जनकपुर धाम से सीधे जोड़ेगी, जो लगभग 604 किमी लगभग 19 घंटे में तय करेगी। दोनों शहरों का रामायण संबंध — अयोध्या भगवान राम की और जनकपुर सीता की जन्मभूमि — पड़ोसी प्रथम नीति के तहत इस मार्ग को धार्मिक पर्यटन और जन-से-जन संबंधों हेतु महत्वपूर्ण बनाता है।\n\nIB ACIO: नेपाल के प्रधानमंत्री बालेंद्र शाह (22–23 नवंबर 2026, पहली द्विपक्षीय यात्रा); अपतटीय IIT परिसर, 24,000 करोड़ नेपाली रुपये पैकेज; सरयू कमला एक्सप्रेस — अयोध्या–जनकपुर (28 नवंबर 2026 से)।",
+      "question": "Janakpur Dham in Nepal, now linked to Ayodhya by the Saryu Kamala Express, is traditionally regarded as the birthplace of whom?",
+      "question_hi": "नेपाल का जनकपुर धाम, जो अब सरयू कमला एक्सप्रेस से अयोध्या से जुड़ा है, परंपरागत रूप से किसकी जन्मभूमि माना जाता है?",
+      "options": [
+        "Sita",
+        "Gautama Buddha",
+        "Mahavira",
+        "Guru Gorakhnath"
+      ],
+      "options_hi": [
+        "सीता",
+        "गौतम बुद्ध",
+        "महावीर",
+        "गुरु गोरखनाथ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Janakpur, the capital of King Janaka's ancient Mithila kingdom, is revered as the birthplace of Sita and the site of her marriage to Rama. Gautama Buddha was born at Lumbini, also in Nepal, which makes it the main trap; Mahavira was born near Vaishali in Bihar; and Guru Gorakhnath is linked with Gorakhpur.",
+      "explanation_hi": "राजा जनक के प्राचीन मिथिला राज्य की राजधानी जनकपुर सीता की जन्मभूमि और राम से उनके विवाह के स्थल के रूप में पूजनीय है। गौतम बुद्ध का जन्म नेपाल के ही लुंबिनी में हुआ, इसलिए यह मुख्य भ्रम है; महावीर का जन्म बिहार के वैशाली के पास हुआ; और गुरु गोरखनाथ गोरखपुर से जुड़े हैं।",
+      "moreInfo": "India and Nepal signed the Treaty of Peace and Friendship in 1950, which allows an open border. India and Nepal are also linked by the Jaynagar–Kurtha cross-border passenger rail service, started in 2022.",
+      "moreInfo_hi": "भारत और नेपाल ने 1950 में शांति और मैत्री संधि की, जो खुली सीमा की अनुमति देती है। भारत और नेपाल 2022 में शुरू जयनगर–कुर्था सीमा-पार यात्री रेल सेवा से भी जुड़े हैं।",
+      "relatedDate": "2026-11-24"
+    },
+    {
+      "id": "2",
+      "category": "Environment",
+      "category_hi": "पर्यावरण",
+      "title": "COP31 in Antalya Ends Without Overarching Deal; India Ranks 28th in Climate Change Performance Index",
+      "title_hi": "अंताल्या में COP31 बिना व्यापक समझौते के समाप्त; जलवायु परिवर्तन प्रदर्शन सूचकांक में भारत 28वें स्थान पर",
+      "image": null,
+      "summary": "COP31, the UN climate summit in Antalya, Türkiye (9–21 November 2026), adopted a Climate Finance Work Programme but ended without an overarching agreement; India was ranked 28th in the CCPI 2027 and 10th in the Climate Risk Index.",
+      "summary_hi": "अंताल्या, तुर्किये में संयुक्त राष्ट्र जलवायु शिखर सम्मेलन COP31 (9–21 नवंबर 2026) ने जलवायु वित्त कार्य कार्यक्रम अपनाया पर बिना व्यापक समझौते के समाप्त हुआ; CCPI 2027 में भारत 28वें और जलवायु जोखिम सूचकांक में 10वें स्थान पर रहा।",
+      "content": "COP31, the 31st Conference of the Parties to the UN Framework Convention on Climate Change, was held from 9 to 21 November 2026 at Antalya, Türkiye, with Australia's Chris Bowen as President of Negotiations. India's delegation was led by Union Environment Minister Bhupender Yadav. Parties adopted a two-year Climate Finance Work Programme, but the summit ended without an overarching deal as talks stalled over references to fossil fuels and finance.\n\nIn the Climate Change Performance Index (CCPI) 2027 by Germanwatch, NewClimate Institute and Climate Action Network, India ranked 28th with a score of 60.85. In Germanwatch's Climate Risk Index 2027, India ranked 10th among countries worst hit by extreme weather from 1996 to 2025, with about 78,000 deaths and over USD 170 billion in losses. The WMO said 2026 is set to be among the four warmest years on record.\n\nFor IB ACIO: Summit — COP31 (Antalya, Türkiye, 9–21 Nov 2026); Outcome — Climate Finance Work Programme, no overarching deal; India's delegation — Bhupender Yadav; CCPI 2027 — India 28th; Climate Risk Index 2027 — India 10th.",
+      "content_hi": "संयुक्त राष्ट्र जलवायु परिवर्तन रूपरेखा अभिसमय के पक्षकारों का 31वाँ सम्मेलन COP31, 9 से 21 नवंबर 2026 तक अंताल्या, तुर्किये में हुआ, जिसमें ऑस्ट्रेलिया के क्रिस बोवेन वार्ता अध्यक्ष थे। भारतीय प्रतिनिधिमंडल का नेतृत्व केंद्रीय पर्यावरण मंत्री भूपेंद्र यादव ने किया। पक्षकारों ने दो वर्षीय जलवायु वित्त कार्य कार्यक्रम अपनाया, पर जीवाश्म ईंधन और वित्त के उल्लेख पर वार्ता अटकने से सम्मेलन बिना व्यापक समझौते के समाप्त हुआ।\n\nजर्मनवॉच, न्यूक्लाइमेट इंस्टीट्यूट और क्लाइमेट एक्शन नेटवर्क के जलवायु परिवर्तन प्रदर्शन सूचकांक (CCPI) 2027 में भारत 60.85 अंक के साथ 28वें स्थान पर रहा। जर्मनवॉच के जलवायु जोखिम सूचकांक 2027 में भारत 1996 से 2025 तक चरम मौसम से सबसे अधिक प्रभावित देशों में 10वें स्थान पर रहा, जहाँ लगभग 78,000 मौतें और 170 अरब डॉलर से अधिक की हानि हुई। WMO ने कहा कि 2026 रिकॉर्ड के चार सबसे गर्म वर्षों में होगा।\n\nIB ACIO: COP31 (अंताल्या, तुर्किये, 9–21 नवंबर 2026); जलवायु वित्त कार्य कार्यक्रम, व्यापक समझौता नहीं; भारतीय प्रतिनिधिमंडल — भूपेंद्र यादव; CCPI 2027 — भारत 28वाँ; जलवायु जोखिम सूचकांक — भारत 10वाँ।",
+      "question": "COP30, the climate summit held before COP31 in November 2025, was hosted in which city?",
+      "question_hi": "COP31 से पहले नवंबर 2025 में हुआ जलवायु शिखर सम्मेलन COP30 किस शहर में आयोजित हुआ?",
+      "options": [
+        "Baku, Azerbaijan",
+        "Belém, Brazil",
+        "Dubai, UAE",
+        "Sharm el-Sheikh, Egypt"
+      ],
+      "options_hi": [
+        "बाकू, अज़रबैजान",
+        "बेलेम, ब्राज़ील",
+        "दुबई, UAE",
+        "शर्म अल-शेख, मिस्र"
+      ],
+      "correctAnswer": 1,
+      "explanation": "COP30 was held in Belém, Brazil, at the edge of the Amazon, in November 2025; its 'Global Mutirão' decision launched the finance work programme adopted at COP31. The traps are the previous hosts: COP29 in Baku (2024), COP28 in Dubai (2023) and COP27 in Sharm el-Sheikh (2022).",
+      "explanation_hi": "COP30 नवंबर 2025 में अमेज़न के किनारे बेलेम, ब्राज़ील में हुआ; इसके 'ग्लोबल मुतिराओ' निर्णय से वह वित्त कार्य कार्यक्रम शुरू हुआ जिसे COP31 में अपनाया गया। भ्रम विकल्प पिछले मेज़बान हैं: बाकू में COP29 (2024), दुबई में COP28 (2023) और शर्म अल-शेख में COP27 (2022)।",
+      "moreInfo": "The UNFCCC was adopted at the 1992 Rio Earth Summit and its secretariat is in Bonn, Germany. India has offered to host COP33 in 2028.",
+      "moreInfo_hi": "UNFCCC 1992 के रियो पृथ्वी शिखर सम्मेलन में अपनाया गया और इसका सचिवालय बॉन, जर्मनी में है। भारत ने 2028 में COP33 की मेज़बानी की पेशकश की है।",
+      "relatedDate": "2026-11-24"
+    },
+    {
+      "id": "3",
+      "category": "Agriculture",
+      "category_hi": "कृषि",
+      "title": "India's First Indigenous Inactivated H5N1 Bird Flu Vaccine for Chickens Dedicated at ICAR-NIHSAD, Bhopal",
+      "title_hi": "मुर्गियों हेतु भारत का पहला स्वदेशी निष्क्रिय H5N1 बर्ड फ़्लू टीका ICAR-NIHSAD, भोपाल में समर्पित",
+      "image": null,
+      "summary": "Agriculture Minister Shivraj Singh Chouhan dedicated India's first indigenous inactivated H5N1 bird flu vaccine for chickens at ICAR-NIHSAD, Bhopal, on 20 November 2026, and announced a ₹300 crore BSL-4 laboratory there.",
+      "summary_hi": "कृषि मंत्री शिवराज सिंह चौहान ने 20 नवंबर 2026 को ICAR-NIHSAD, भोपाल में मुर्गियों हेतु भारत का पहला स्वदेशी निष्क्रिय H5N1 बर्ड फ़्लू टीका समर्पित किया, और वहाँ ₹300 करोड़ की BSL-4 प्रयोगशाला की घोषणा की।",
+      "content": "Union Agriculture Minister Shivraj Singh Chouhan dedicated India's first indigenous inactivated vaccine against H5N1 (clade 2.3.2.1a) Highly Pathogenic Avian Influenza for chickens on 20 November 2026 at the ICAR–National Institute of High Security Animal Diseases (NIHSAD), Bhopal. It was developed by a team of eight scientists led by Dr S. Nagarajan.\n\nThe vaccine costs just ₹1–2 per dose, gives immunity for up to six months with a booster 21 days after the first dose, and is aimed mainly at laying hens and breeder flocks. Bird flu outbreaks force mass culling of poultry and can jump to humans, so a cheap domestic vaccine protects farmers' incomes and public health. Chouhan also announced a Biosafety Level-4 (BSL-4) laboratory at NIHSAD at an estimated ₹300 crore.\n\nFor IB ACIO: Vaccine — India's first indigenous inactivated H5N1 bird flu vaccine (chickens); Institute — ICAR-NIHSAD, Bhopal; Dedicated — 20 Nov 2026 by Shivraj Singh Chouhan; Cost — ₹1–2 per dose; New facility — BSL-4 lab (~₹300 crore).",
+      "content_hi": "केंद्रीय कृषि मंत्री शिवराज सिंह चौहान ने 20 नवंबर 2026 को ICAR–राष्ट्रीय उच्च सुरक्षा पशु रोग संस्थान (NIHSAD), भोपाल में मुर्गियों हेतु H5N1 (क्लेड 2.3.2.1a) अत्यधिक रोगजनक एवियन इन्फ़्लुएंज़ा के विरुद्ध भारत का पहला स्वदेशी निष्क्रिय टीका समर्पित किया। इसे डॉ एस नागराजन के नेतृत्व में आठ वैज्ञानिकों की टीम ने विकसित किया।\n\nटीके की कीमत केवल ₹1–2 प्रति खुराक है, यह पहली खुराक के 21 दिन बाद बूस्टर के साथ छह महीने तक प्रतिरक्षा देता है, और मुख्यतः अंडे देने वाली मुर्गियों और प्रजनक झुंडों हेतु है। बर्ड फ़्लू प्रकोप से मुर्गियों को बड़े पैमाने पर मारना पड़ता है और यह मनुष्यों तक फैल सकता है, इसलिए सस्ता घरेलू टीका किसानों की आय और जन स्वास्थ्य दोनों की रक्षा करता है। चौहान ने NIHSAD में लगभग ₹300 करोड़ की जैव सुरक्षा स्तर-4 (BSL-4) प्रयोगशाला की घोषणा भी की।\n\nIB ACIO: भारत का पहला स्वदेशी निष्क्रिय H5N1 बर्ड फ़्लू टीका (मुर्गियाँ); ICAR-NIHSAD, भोपाल; 20 नवंबर 2026; ₹1–2 प्रति खुराक; BSL-4 प्रयोगशाला।",
+      "question": "The ICAR–National Institute of High Security Animal Diseases (NIHSAD), which developed the bird flu vaccine, is located in which city?",
+      "question_hi": "बर्ड फ़्लू टीका विकसित करने वाला ICAR–राष्ट्रीय उच्च सुरक्षा पशु रोग संस्थान (NIHSAD) किस शहर में स्थित है?",
+      "options": [
+        "Izatnagar",
+        "Pune",
+        "Bhopal",
+        "Hisar"
+      ],
+      "options_hi": [
+        "इज़्ज़तनगर",
+        "पुणे",
+        "भोपाल",
+        "हिसार"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ICAR-NIHSAD is in Bhopal, Madhya Pradesh, and is India's main high-containment lab for dangerous animal diseases such as bird flu. Izatnagar (Bareilly) hosts the Indian Veterinary Research Institute, Pune hosts ICMR's National Institute of Virology (for human viruses), and Hisar hosts the ICAR-National Research Centre on Equines — all plausible traps.",
+      "explanation_hi": "ICAR-NIHSAD भोपाल, मध्य प्रदेश में है और बर्ड फ़्लू जैसे खतरनाक पशु रोगों हेतु भारत की मुख्य उच्च-सुरक्षा प्रयोगशाला है। इज़्ज़तनगर (बरेली) में भारतीय पशु चिकित्सा अनुसंधान संस्थान, पुणे में ICMR का राष्ट्रीय विषाणु विज्ञान संस्थान (मानव विषाणुओं हेतु), और हिसार में ICAR-राष्ट्रीय अश्व अनुसंधान केंद्र है — सभी विश्वसनीय भ्रम।",
+      "moreInfo": "Biosafety levels range from BSL-1 to BSL-4; BSL-4 labs handle the most dangerous pathogens. India's first BSL-4 facility for human pathogens is at NIV Pune.",
+      "moreInfo_hi": "जैव सुरक्षा स्तर BSL-1 से BSL-4 तक होते हैं; BSL-4 प्रयोगशालाएँ सबसे खतरनाक रोगाणुओं को संभालती हैं। मानव रोगाणुओं हेतु भारत की पहली BSL-4 सुविधा NIV पुणे में है।",
+      "relatedDate": "2026-11-24"
+    },
+    {
+      "id": "4",
+      "category": "Environment",
+      "category_hi": "पर्यावरण",
+      "title": "MoRTH Revises PUC Certificate Validity: Longer for New BS-VI Vehicles, Shorter for Older Ones",
+      "title_hi": "सड़क परिवहन मंत्रालय ने PUC प्रमाणपत्र की वैधता बदली: नए BS-VI वाहनों हेतु लंबी, पुराने वाहनों हेतु छोटी",
+      "image": null,
+      "summary": "The Road Transport Ministry amended the Central Motor Vehicles Rules to set uniform PUC certificate validity by emission norm and age: as little as 3 months for BS-I to BS-III vehicles and up to 3 years for new BS-VI private vehicles.",
+      "summary_hi": "सड़क परिवहन मंत्रालय ने केंद्रीय मोटर वाहन नियमों में संशोधन कर उत्सर्जन मानक और आयु के आधार पर PUC प्रमाणपत्र की समान वैधता तय की: BS-I से BS-III वाहनों हेतु केवल 3 महीने और नए BS-VI निजी वाहनों हेतु 3 वर्ष तक।",
+      "content": "The Ministry of Road Transport and Highways (MoRTH) issued the Central Motor Vehicles (Sixteenth Amendment) Rules, 2026, revising the validity of Pollution Under Control (PUC) certificates under Rule 115 of the Central Motor Vehicles Rules, 1989. BS-I, BS-II and BS-III vehicles now need a check every 3 months and BS-IV vehicles every 6 months.\n\nFor BS-VI vehicles up to 6 years old, a PUC is valid for 3 years (private) or 2 years (transport); for BS-VI vehicles aged 6–10 years, 1 year; and above 10 years, 6 months. Renewal within 10 days before expiry counts from the old expiry date. The aim is to test older, more polluting vehicles more often while reducing the burden on cleaner new ones, with one uniform rule across India.\n\nFor IB ACIO: Rules — Central Motor Vehicles (Sixteenth Amendment) Rules, 2026 (MoRTH); Subject — PUC validity; BS-I to BS-III — 3 months; BS-IV — 6 months; New BS-VI (≤6 years) — 3 years private, 2 years transport; Parent law — Motor Vehicles Act, 1988.",
+      "content_hi": "सड़क परिवहन और राजमार्ग मंत्रालय (MoRTH) ने केंद्रीय मोटर वाहन (सोलहवाँ संशोधन) नियम, 2026 जारी किए, जिसमें केंद्रीय मोटर वाहन नियम, 1989 के नियम 115 के तहत प्रदूषण नियंत्रण में (PUC) प्रमाणपत्रों की वैधता संशोधित की गई। BS-I, BS-II और BS-III वाहनों की अब हर 3 महीने और BS-IV वाहनों की हर 6 महीने जाँच होगी।\n\n6 वर्ष तक पुराने BS-VI वाहनों हेतु PUC 3 वर्ष (निजी) या 2 वर्ष (परिवहन) तक मान्य है; 6–10 वर्ष के BS-VI वाहनों हेतु 1 वर्ष; और 10 वर्ष से अधिक हेतु 6 महीने। समाप्ति से 10 दिन पहले नवीनीकरण पुरानी समाप्ति तिथि से गिना जाएगा। उद्देश्य पुराने, अधिक प्रदूषण वाले वाहनों की अधिक बार जाँच और स्वच्छ नए वाहनों पर बोझ घटाना है, पूरे भारत में एक समान नियम के साथ।\n\nIB ACIO: केंद्रीय मोटर वाहन (सोलहवाँ संशोधन) नियम, 2026 (MoRTH); PUC वैधता; BS-I से BS-III — 3 महीने; BS-IV — 6 महीने; नए BS-VI — 3 वर्ष निजी, 2 वर्ष परिवहन; मूल कानून — मोटर वाहन अधिनियम, 1988।",
+      "question": "When India moved to Bharat Stage VI emission norms nationwide from 1 April 2020, which stage did it skip?",
+      "question_hi": "जब भारत ने 1 अप्रैल 2020 से देशभर में भारत स्टेज VI उत्सर्जन मानक अपनाए, तो किस स्टेज को छोड़ दिया गया?",
+      "options": [
+        "BS-III",
+        "None — every stage was implemented",
+        "BS-IV",
+        "BS-V"
+      ],
+      "options_hi": [
+        "BS-III",
+        "कोई नहीं — हर स्टेज लागू हुआ",
+        "BS-IV",
+        "BS-V"
+      ],
+      "correctAnswer": 3,
+      "explanation": "India leapfrogged directly from BS-IV to BS-VI on 1 April 2020, skipping BS-V to cut vehicle pollution faster. BS-IV was the stage in force just before, and BS-III had been in force earlier, so neither was skipped. Bharat Stage norms are modelled on European (Euro) emission standards.",
+      "explanation_hi": "भारत ने वाहन प्रदूषण तेज़ी से घटाने हेतु 1 अप्रैल 2020 को BS-V छोड़कर सीधे BS-IV से BS-VI अपनाया। BS-IV ठीक पहले लागू था, और BS-III उससे पहले लागू हो चुका था, इसलिए इनमें से कोई नहीं छोड़ा गया। भारत स्टेज मानक यूरोपीय (यूरो) उत्सर्जन मानकों पर आधारित हैं।",
+      "moreInfo": "India's first emission norms (BS-I, called 'India 2000') were introduced in 2000. The National Clean Air Programme (NCAP), launched in 2019, targets lower particulate pollution in over 130 cities.",
+      "moreInfo_hi": "भारत के पहले उत्सर्जन मानक (BS-I, जिसे 'इंडिया 2000' कहा गया) 2000 में लागू हुए। 2019 में शुरू राष्ट्रीय स्वच्छ वायु कार्यक्रम (NCAP) 130 से अधिक शहरों में कणीय प्रदूषण घटाने का लक्ष्य रखता है।",
+      "relatedDate": "2026-11-24"
+    },
+    {
+      "id": "5",
+      "category": "Infrastructure & Energy",
+      "category_hi": "अवसंरचना एवं ऊर्जा",
+      "title": "India Achieves 19.99% Ethanol Blending in Petrol in Ethanol Supply Year 2025–26",
+      "title_hi": "इथेनॉल आपूर्ति वर्ष 2025–26 में भारत ने पेट्रोल में 19.99% इथेनॉल मिश्रण हासिल किया",
+      "image": null,
+      "summary": "India reached 19.99% ethanol blending in petrol in Ethanol Supply Year 2025–26 against a 20% target, according to provisional data reported by the All India Distillers' Association; grains, led by maize, supplied about 73.5% of the ethanol.",
+      "summary_hi": "अखिल भारतीय डिस्टिलर्स संघ द्वारा बताए गए अनंतिम आँकड़ों के अनुसार भारत ने इथेनॉल आपूर्ति वर्ष 2025–26 में 20% लक्ष्य के मुकाबले पेट्रोल में 19.99% इथेनॉल मिश्रण हासिल किया; मक्का के नेतृत्व में अनाज से लगभग 73.5% इथेनॉल आया।",
+      "content": "India achieved 19.99% ethanol blending in petrol in Ethanol Supply Year (ESY) 2025–26, against the target of 20% (E20), according to provisional data as of 31 October 2026 reported by the All India Distillers' Association. Oil marketing companies blended 1,134.36 crore litres of ethanol.\n\nGrain-based feedstocks supplied about 800.53 crore litres (73.52%), with maize alone making up nearly 46% of total supplies, while sugar-based feedstocks such as cane juice and B-heavy molasses supplied 26.48%. About 32.45 lakh tonnes of sugar was diverted to ethanol. Blending cuts crude oil imports, saves foreign exchange, reduces emissions and gives farmers an extra market — though heavy use of maize has raised concerns about feed prices for poultry.\n\nFor IB ACIO: Achievement — 19.99% ethanol blending (ESY 2025–26); Target — 20% (E20); Ethanol blended — 1,134.36 crore litres; Grain share — 73.52% (maize ~46%); Sugar-based share — 26.48%; Source — All India Distillers' Association.",
+      "content_hi": "अखिल भारतीय डिस्टिलर्स संघ द्वारा बताए गए 31 अक्टूबर 2026 तक के अनंतिम आँकड़ों के अनुसार भारत ने इथेनॉल आपूर्ति वर्ष (ESY) 2025–26 में 20% (E20) लक्ष्य के मुकाबले पेट्रोल में 19.99% इथेनॉल मिश्रण हासिल किया। तेल विपणन कंपनियों ने 1,134.36 करोड़ लीटर इथेनॉल मिलाया।\n\nअनाज-आधारित कच्चे माल से लगभग 800.53 करोड़ लीटर (73.52%) आया, जिसमें अकेले मक्का कुल आपूर्ति का लगभग 46% था, जबकि गन्ने के रस और बी-हेवी शीरे जैसे चीनी-आधारित कच्चे माल से 26.48% आया। लगभग 32.45 लाख टन चीनी इथेनॉल में लगाई गई। मिश्रण से कच्चे तेल का आयात घटता है, विदेशी मुद्रा बचती है, उत्सर्जन कम होता है और किसानों को अतिरिक्त बाज़ार मिलता है — हालाँकि मक्का के भारी उपयोग से मुर्गी आहार की कीमतों पर चिंता बढ़ी है।\n\nIB ACIO: 19.99% इथेनॉल मिश्रण (ESY 2025–26); लक्ष्य — 20% (E20); 1,134.36 करोड़ लीटर; अनाज हिस्सा — 73.52% (मक्का ~46%); चीनी-आधारित — 26.48%।",
+      "question": "India's Ethanol Supply Year (ESY), used to measure blending targets, runs during which period?",
+      "question_hi": "मिश्रण लक्ष्य मापने हेतु उपयोग होने वाला भारत का इथेनॉल आपूर्ति वर्ष (ESY) किस अवधि में चलता है?",
+      "options": [
+        "1 April to 31 March",
+        "1 November to 31 October",
+        "1 January to 31 December",
+        "1 July to 30 June"
+      ],
+      "options_hi": [
+        "1 अप्रैल से 31 मार्च",
+        "1 नवंबर से 31 अक्टूबर",
+        "1 जनवरी से 31 दिसंबर",
+        "1 जुलाई से 30 जून"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The ESY runs from 1 November to 31 October, matching the sugar season, which is why ESY 2025–26 data was counted up to 31 October 2026. April–March is the financial year, January–December the calendar year, and July–June the agricultural year used for some farm statistics.",
+      "explanation_hi": "ESY चीनी सत्र के अनुरूप 1 नवंबर से 31 अक्टूबर तक चलता है, इसीलिए ESY 2025–26 के आँकड़े 31 अक्टूबर 2026 तक गिने गए। अप्रैल–मार्च वित्तीय वर्ष, जनवरी–दिसंबर कैलेंडर वर्ष, और जुलाई–जून कुछ कृषि आँकड़ों हेतु प्रयुक्त कृषि वर्ष है।",
+      "moreInfo": "The National Policy on Biofuels, 2018 (amended 2022) brought the E20 target forward from 2030 to ESY 2025–26. Ethanol blending is administered by the Ministry of Petroleum and Natural Gas.",
+      "moreInfo_hi": "जैव ईंधन पर राष्ट्रीय नीति, 2018 (2022 में संशोधित) ने E20 लक्ष्य 2030 से आगे बढ़ाकर ESY 2025–26 कर दिया। इथेनॉल मिश्रण पेट्रोलियम और प्राकृतिक गैस मंत्रालय द्वारा प्रशासित है।",
+      "relatedDate": "2026-11-24"
+    },
+    {
+      "id": "6",
+      "category": "Environment",
+      "category_hi": "पर्यावरण",
+      "title": "Maharashtra's Lonar Lake Named Among IUGS Geological Heritage Sites",
+      "title_hi": "महाराष्ट्र की लोनार झील IUGS भूवैज्ञानिक धरोहर स्थलों में शामिल",
+      "image": null,
+      "summary": "Lonar Lake in Buldhana district, Maharashtra, was included in the International Union of Geological Sciences' Third 100 List of Geological Heritage Sites in 2026.",
+      "summary_hi": "महाराष्ट्र के बुलढाणा ज़िले की लोनार झील 2026 में अंतरराष्ट्रीय भूवैज्ञानिक विज्ञान संघ की भूवैज्ञानिक धरोहर स्थलों की तीसरी 100 सूची में शामिल हुई।",
+      "content": "Lonar Lake in Buldhana district, Maharashtra, was included in the 'Third 100 List of Geological Heritage Sites' released by the International Union of Geological Sciences (IUGS) in 2026. The list recognises sites of outstanding scientific value for understanding Earth's history.\n\nLonar is a crater lake formed when a meteorite struck the Deccan Traps basalt, making it one of the very few known impact craters in basaltic rock anywhere in the world. Its water is both saline and alkaline, which supports unusual microbes, and it is studied as an analogue for craters on the Moon and Mars. The lake was also declared a Ramsar wetland of international importance in 2020.\n\nFor IB ACIO: Site — Lonar Lake (Buldhana, Maharashtra); Recognition — IUGS Third 100 Geological Heritage Sites (2026); Origin — meteorite impact in Deccan basalt; Water — saline and alkaline; Also — Ramsar site (2020).",
+      "content_hi": "महाराष्ट्र के बुलढाणा ज़िले की लोनार झील 2026 में अंतरराष्ट्रीय भूवैज्ञानिक विज्ञान संघ (IUGS) द्वारा जारी 'भूवैज्ञानिक धरोहर स्थलों की तीसरी 100 सूची' में शामिल हुई। यह सूची पृथ्वी के इतिहास को समझने हेतु असाधारण वैज्ञानिक मूल्य वाले स्थलों को मान्यता देती है।\n\nलोनार एक क्रेटर झील है जो दक्कन ट्रैप के बेसाल्ट पर उल्कापिंड के टकराने से बनी, जिससे यह विश्व में बेसाल्टी चट्टान में बने गिने-चुने ज्ञात प्रभाव क्रेटरों में से एक है। इसका पानी खारा और क्षारीय दोनों है, जो असामान्य सूक्ष्मजीवों को सहारा देता है, और चंद्रमा व मंगल के क्रेटरों के अनुरूप के रूप में इसका अध्ययन होता है। झील को 2020 में अंतरराष्ट्रीय महत्व की रामसर आर्द्रभूमि भी घोषित किया गया।\n\nIB ACIO: लोनार झील (बुलढाणा, महाराष्ट्र); IUGS तीसरी 100 भूवैज्ञानिक धरोहर सूची (2026); उत्पत्ति — दक्कन बेसाल्ट में उल्कापिंड प्रभाव; रामसर स्थल (2020)।",
+      "question": "How was Lonar Lake in Maharashtra formed?",
+      "question_hi": "महाराष्ट्र की लोनार झील कैसे बनी?",
+      "options": [
+        "By a meteorite impact",
+        "By a volcanic caldera collapse",
+        "By glacial erosion",
+        "By a tectonic rift"
+      ],
+      "options_hi": [
+        "उल्कापिंड के टकराने से",
+        "ज्वालामुखी काल्डेरा के धँसने से",
+        "हिमनदीय अपरदन से",
+        "विवर्तनिक दरार से"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lonar is an impact crater lake, created when a meteorite hit the basalt rock of the Deccan Traps. The volcanic option is a smart trap, because the Deccan basalt itself came from ancient volcanic eruptions — but the crater was made by the impact. Glacial lakes (like those in the Himalaya) and rift lakes (like Lake Baikal) form in very different ways.",
+      "explanation_hi": "लोनार एक प्रभाव क्रेटर झील है, जो दक्कन ट्रैप की बेसाल्ट चट्टान पर उल्कापिंड के टकराने से बनी। ज्वालामुखी विकल्प चालाक भ्रम है, क्योंकि दक्कन बेसाल्ट स्वयं प्राचीन ज्वालामुखी विस्फोटों से बना — पर क्रेटर टक्कर से बना। हिमनदीय झीलें (जैसे हिमालय की) और दरार झीलें (जैसे बैकाल झील) बिल्कुल अलग तरीके से बनती हैं।",
+      "moreInfo": "Lonar is a notified wildlife sanctuary as well as a Ramsar site. The Deccan Traps were formed by massive lava eruptions about 66 million years ago, around the time the dinosaurs died out.",
+      "moreInfo_hi": "लोनार अधिसूचित वन्यजीव अभयारण्य और रामसर स्थल दोनों है। दक्कन ट्रैप लगभग 6.6 करोड़ वर्ष पहले विशाल लावा विस्फोटों से बने, लगभग उसी समय जब डायनासोर विलुप्त हुए।",
+      "relatedDate": "2026-11-24"
+    },
+    {
+      "id": "7",
+      "category": "Reports & Indices",
+      "category_hi": "रिपोर्ट एवं सूचकांक",
+      "title": "Lowy Institute Asia Power Index 2026: India Ranks Third Behind the US and China",
+      "title_hi": "लोवी इंस्टीट्यूट एशिया पावर इंडेक्स 2026: भारत अमेरिका और चीन के बाद तीसरे स्थान पर",
+      "image": null,
+      "summary": "India ranked third among 27 countries and territories in the Lowy Institute's Asia Power Index 2026 with 40.5 points, behind the United States and China and ahead of Japan; its strongest measure was diplomatic influence.",
+      "summary_hi": "लोवी इंस्टीट्यूट के एशिया पावर इंडेक्स 2026 में भारत 40.5 अंकों के साथ 27 देशों और क्षेत्रों में अमेरिका और चीन के बाद और जापान से आगे तीसरे स्थान पर रहा; उसका सबसे मज़बूत माप राजनयिक प्रभाव रहा।",
+      "content": "The Lowy Institute's Asia Power Index 2026 ranked India third among 27 countries and territories in the Asia-Pacific, with a score of 40.5, behind the United States (1st) and China (2nd) and ahead of Japan (4th). India's best score was in Diplomatic Influence (70.3 points).\n\nThe index measures power through eight measures, including economic capability, military capability, resilience, future resources, economic relationships, defence networks, diplomatic influence and cultural influence. India's large population and growing economy boost its future resources, while analysts note that its defence networks and economic relationships in the region still lag behind its potential.\n\nFor IB ACIO: Index — Asia Power Index 2026; Publisher — Lowy Institute (Sydney, Australia); India — 3rd (40.5 points); Top two — USA, China; 4th — Japan; India's best measure — Diplomatic Influence (70.3).",
+      "content_hi": "लोवी इंस्टीट्यूट के एशिया पावर इंडेक्स 2026 ने एशिया-प्रशांत के 27 देशों और क्षेत्रों में भारत को 40.5 अंकों के साथ अमेरिका (पहला) और चीन (दूसरा) के बाद और जापान (चौथा) से आगे तीसरा स्थान दिया। भारत का सबसे अच्छा अंक राजनयिक प्रभाव (70.3) में रहा।\n\nसूचकांक आठ मापों से शक्ति मापता है, जिनमें आर्थिक क्षमता, सैन्य क्षमता, लचीलापन, भविष्य के संसाधन, आर्थिक संबंध, रक्षा नेटवर्क, राजनयिक प्रभाव और सांस्कृतिक प्रभाव शामिल हैं। भारत की बड़ी आबादी और बढ़ती अर्थव्यवस्था उसके भविष्य के संसाधन बढ़ाती है, जबकि विश्लेषक मानते हैं कि क्षेत्र में उसके रक्षा नेटवर्क और आर्थिक संबंध अभी उसकी क्षमता से पीछे हैं।\n\nIB ACIO: एशिया पावर इंडेक्स 2026; प्रकाशक — लोवी इंस्टीट्यूट (सिडनी, ऑस्ट्रेलिया); भारत — तीसरा (40.5 अंक); शीर्ष दो — अमेरिका, चीन; चौथा — जापान।",
+      "question": "The Lowy Institute, which publishes the Asia Power Index, is a think tank based in which country?",
+      "question_hi": "एशिया पावर इंडेक्स प्रकाशित करने वाला लोवी इंस्टीट्यूट किस देश का थिंक टैंक है?",
+      "options": [
+        "United States",
+        "Singapore",
+        "Australia",
+        "United Kingdom"
+      ],
+      "options_hi": [
+        "संयुक्त राज्य अमेरिका",
+        "सिंगापुर",
+        "ऑस्ट्रेलिया",
+        "यूनाइटेड किंगडम"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Lowy Institute is an independent think tank in Sydney, Australia, and has published the Asia Power Index since 2018. The USA and UK host many famous think tanks (such as Brookings and Chatham House), and Singapore hosts the IISS Shangri-La Dialogue, which makes them believable traps.",
+      "explanation_hi": "लोवी इंस्टीट्यूट सिडनी, ऑस्ट्रेलिया का स्वतंत्र थिंक टैंक है और 2018 से एशिया पावर इंडेक्स प्रकाशित करता है। अमेरिका और ब्रिटेन में कई प्रसिद्ध थिंक टैंक (जैसे ब्रुकिंग्स और चैथम हाउस) हैं, और सिंगापुर में IISS शांगरी-ला संवाद होता है, इसलिए वे विश्वसनीय भ्रम हैं।",
+      "moreInfo": "The Global Firepower index ranks military strength, and SIPRI (Stockholm) publishes data on arms trade and military spending. India is the world's second-largest arms importer according to SIPRI.",
+      "moreInfo_hi": "ग्लोबल फ़ायरपावर सूचकांक सैन्य शक्ति को रैंक करता है, और SIPRI (स्टॉकहोम) हथियार व्यापार और सैन्य खर्च के आँकड़े प्रकाशित करता है। SIPRI के अनुसार भारत विश्व का दूसरा सबसे बड़ा हथियार आयातक है।",
+      "relatedDate": "2026-11-24"
+    },
+    {
+      "id": "8",
+      "category": "Science & Technology",
+      "category_hi": "विज्ञान एवं प्रौद्योगिकी",
+      "title": "Centre Considers 'PANI' Undersea Cable from Puri to Boost Internet in Andaman and Nicobar Islands",
+      "title_hi": "केंद्र अंडमान और निकोबार द्वीपसमूह में इंटरनेट बढ़ाने हेतु पुरी से 'PANI' समुद्री केबल पर विचार कर रहा है",
+      "image": null,
+      "summary": "The Centre is considering the Port Alternative Network for Islands (PANI) project — a submarine optical fibre cable from Puri, Odisha, connecting eight islands — to make internet in the Andaman and Nicobar Islands more reliable.",
+      "summary_hi": "केंद्र अंडमान और निकोबार द्वीपसमूह में इंटरनेट अधिक विश्वसनीय बनाने हेतु पोर्ट अल्टरनेटिव नेटवर्क फ़ॉर आइलैंड्स (PANI) परियोजना — पुरी, ओडिशा से आठ द्वीपों को जोड़ने वाली समुद्री ऑप्टिकल फ़ाइबर केबल — पर विचार कर रहा है।",
+      "content": "The Union Government is considering the Port Alternative Network for Islands (PANI) project to improve digital connectivity in the Andaman and Nicobar Islands. A submarine optical fibre cable would run from Puri in Odisha and connect eight islands.\n\nThe islands currently depend mainly on a single undersea cable from Chennai, so any cut can isolate them. A second, separate route would provide redundancy — a backup path — for internet, banking, telemedicine and emergency communication. The islands host India's only tri-service command and sit near the Malacca Strait, so reliable, secure communication there is also a national-security priority.\n\nFor IB ACIO: Project — PANI (Port Alternative Network for Islands), under consideration; Route — submarine cable from Puri, Odisha; Coverage — 8 islands of Andaman & Nicobar; Purpose — redundancy and reliable connectivity; Existing link — CANI cable from Chennai (2020).",
+      "content_hi": "केंद्र सरकार अंडमान और निकोबार द्वीपसमूह में डिजिटल संपर्क सुधारने हेतु पोर्ट अल्टरनेटिव नेटवर्क फ़ॉर आइलैंड्स (PANI) परियोजना पर विचार कर रही है। एक समुद्री ऑप्टिकल फ़ाइबर केबल पुरी, ओडिशा से चलकर आठ द्वीपों को जोड़ेगी।\n\nद्वीप अभी मुख्यतः चेन्नई से एक ही समुद्री केबल पर निर्भर हैं, इसलिए कोई भी कटाव उन्हें अलग-थलग कर सकता है। दूसरा, अलग मार्ग इंटरनेट, बैंकिंग, टेलीमेडिसिन और आपात संचार हेतु अतिरेक — एक बैकअप रास्ता — देगा। द्वीपों में भारत की एकमात्र त्रि-सेवा कमान है और वे मलक्का जलडमरूमध्य के पास हैं, इसलिए वहाँ विश्वसनीय, सुरक्षित संचार राष्ट्रीय सुरक्षा की भी प्राथमिकता है।\n\nIB ACIO: PANI (पोर्ट अल्टरनेटिव नेटवर्क फ़ॉर आइलैंड्स), विचाराधीन; पुरी, ओडिशा से समुद्री केबल; अंडमान और निकोबार के 8 द्वीप; मौजूदा — चेन्नई से CANI केबल (2020)।",
+      "question": "The existing submarine optical fibre cable that connects the Andaman and Nicobar Islands to the mainland, inaugurated in 2020, starts from which city?",
+      "question_hi": "2020 में उद्घाटित वह मौजूदा समुद्री ऑप्टिकल फ़ाइबर केबल, जो अंडमान और निकोबार द्वीपसमूह को मुख्य भूमि से जोड़ती है, किस शहर से शुरू होती है?",
+      "options": [
+        "Visakhapatnam",
+        "Kochi",
+        "Kolkata",
+        "Chennai"
+      ],
+      "options_hi": [
+        "विशाखापत्तनम",
+        "कोच्चि",
+        "कोलकाता",
+        "चेन्नई"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The Chennai–Andaman and Nicobar Islands (CANI) cable, about 2,300 km long, was inaugurated in August 2020 and links Chennai with Port Blair and several other islands. Kochi is the trap because a similar cable (KLI) links Kochi with Lakshadweep, completed in 2024; Visakhapatnam and Kolkata are other east-coast ports but not the CANI landing point.",
+      "explanation_hi": "लगभग 2,300 किमी लंबी चेन्नई–अंडमान और निकोबार द्वीपसमूह (CANI) केबल अगस्त 2020 में उद्घाटित हुई और चेन्नई को पोर्ट ब्लेयर और कई अन्य द्वीपों से जोड़ती है। कोच्चि भ्रम है क्योंकि इसी तरह की केबल (KLI) कोच्चि को लक्षद्वीप से जोड़ती है, जो 2024 में पूरी हुई; विशाखापत्तनम और कोलकाता पूर्वी तट के अन्य बंदरगाह हैं पर CANI का उतरने का बिंदु नहीं।",
+      "moreInfo": "The Andaman and Nicobar Command, set up in 2001 at Port Blair, is India's first and only theatre-level tri-service command. The CANI project was funded through the Universal Service Obligation Fund (now Digital Bharat Nidhi).",
+      "moreInfo_hi": "2001 में पोर्ट ब्लेयर में स्थापित अंडमान और निकोबार कमान भारत की पहली और एकमात्र थिएटर-स्तरीय त्रि-सेवा कमान है। CANI परियोजना सार्वभौमिक सेवा दायित्व कोष (अब डिजिटल भारत निधि) से वित्तपोषित थी।",
+      "relatedDate": "2026-11-24"
+    },
+    {
+      "id": "9",
+      "category": "Governance & Schemes",
+      "category_hi": "शासन एवं योजनाएँ",
+      "title": "Rural Development Ministry to Launch 'Nayi Chetna 5.0' Gender Campaign Under DAY-NRLM on 25 November",
+      "title_hi": "ग्रामीण विकास मंत्रालय 25 नवंबर को DAY-NRLM के तहत 'नई चेतना 5.0' लैंगिक अभियान शुरू करेगा",
+      "image": null,
+      "summary": "The Ministry of Rural Development will launch the fifth edition of the 'Nayi Chetna – Pahal Badlav Ki' campaign on 25 November 2026 under DAY-NRLM, running until 23 December, to promote women's empowerment, safety and equal opportunities.",
+      "summary_hi": "ग्रामीण विकास मंत्रालय 25 नवंबर 2026 को DAY-NRLM के तहत 'नई चेतना – पहल बदलाव की' अभियान का पाँचवाँ संस्करण शुरू करेगा, जो 23 दिसंबर तक चलेगा और महिला सशक्तिकरण, सुरक्षा और समान अवसरों को बढ़ावा देगा।",
+      "content": "The Ministry of Rural Development will launch 'Nayi Chetna 5.0 – Pahal Badlav Ki' on 25 November 2026, running until 23 December 2026, through the Deendayal Antyodaya Yojana–National Rural Livelihoods Mission (DAY-NRLM). The theme is 'From Access to Agency: Empowering Women through Livelihoods and Equal Opportunities for a Viksit Bharat'.\n\nThe nationwide campaign works through women's self-help groups to raise awareness against gender-based violence, promote women's economic participation and safety, and change social attitudes. Its start on 25 November coincides with the International Day for the Elimination of Violence against Women, which begins the UN's '16 Days of Activism'. DAY-NRLM has mobilised about 10 crore rural women into SHGs.\n\nFor IB ACIO: Campaign — Nayi Chetna 5.0 ('Pahal Badlav Ki'); Dates — 25 Nov–23 Dec 2026; Ministry — Rural Development; Implemented through — DAY-NRLM; Theme — 'From Access to Agency'; Coincides with — International Day for the Elimination of Violence against Women (25 Nov).",
+      "content_hi": "ग्रामीण विकास मंत्रालय 25 नवंबर 2026 को दीनदयाल अंत्योदय योजना–राष्ट्रीय ग्रामीण आजीविका मिशन (DAY-NRLM) के माध्यम से 'नई चेतना 5.0 – पहल बदलाव की' शुरू करेगा, जो 23 दिसंबर 2026 तक चलेगा। थीम है 'पहुँच से अधिकार तक: विकसित भारत हेतु आजीविका और समान अवसरों से महिलाओं का सशक्तिकरण'।\n\nयह राष्ट्रव्यापी अभियान महिला स्वयं सहायता समूहों के माध्यम से लैंगिक हिंसा के विरुद्ध जागरूकता, महिलाओं की आर्थिक भागीदारी और सुरक्षा, और सामाजिक दृष्टिकोण में बदलाव को बढ़ावा देता है। 25 नवंबर को इसकी शुरुआत महिलाओं के विरुद्ध हिंसा उन्मूलन के अंतरराष्ट्रीय दिवस से मेल खाती है, जिससे संयुक्त राष्ट्र का '16 दिन का सक्रियता अभियान' शुरू होता है। DAY-NRLM ने लगभग 10 करोड़ ग्रामीण महिलाओं को SHG से जोड़ा है।\n\nIB ACIO: नई चेतना 5.0 ('पहल बदलाव की'); 25 नवंबर–23 दिसंबर 2026; ग्रामीण विकास मंत्रालय; DAY-NRLM; महिलाओं के विरुद्ध हिंसा उन्मूलन का अंतरराष्ट्रीय दिवस (25 नवंबर)।",
+      "question": "DAY-NRLM, through which the Nayi Chetna campaign is run, was originally launched in 2011 under which name?",
+      "question_hi": "DAY-NRLM, जिसके माध्यम से नई चेतना अभियान चलता है, मूल रूप से 2011 में किस नाम से शुरू हुआ था?",
+      "options": [
+        "Aajeevika",
+        "Swarnjayanti Gram Swarozgar Yojana",
+        "Integrated Rural Development Programme",
+        "DAY-NULM"
+      ],
+      "options_hi": [
+        "आजीविका",
+        "स्वर्णजयंती ग्राम स्वरोज़गार योजना",
+        "एकीकृत ग्रामीण विकास कार्यक्रम",
+        "DAY-NULM"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The National Rural Livelihoods Mission was launched in June 2011 as 'Aajeevika' and later renamed DAY-NRLM. It replaced the Swarnjayanti Gram Swarozgar Yojana (1999), which in turn had replaced the IRDP (1978–80) — so both are tempting traps. DAY-NULM is the urban counterpart, under the Housing and Urban Affairs ministry.",
+      "explanation_hi": "राष्ट्रीय ग्रामीण आजीविका मिशन जून 2011 में 'आजीविका' के रूप में शुरू हुआ और बाद में इसका नाम DAY-NRLM हुआ। इसने स्वर्णजयंती ग्राम स्वरोज़गार योजना (1999) की जगह ली, जिसने स्वयं IRDP (1978–80) की जगह ली थी — इसलिए दोनों आकर्षक भ्रम हैं। DAY-NULM आवासन और शहरी कार्य मंत्रालय के अधीन इसका शहरी समकक्ष है।",
+      "moreInfo": "The 'Lakhpati Didi' initiative under DAY-NRLM aims to help 3 crore SHG women earn at least ₹1 lakh a year. The Nayi Chetna campaign was first launched in 2022.",
+      "moreInfo_hi": "DAY-NRLM के तहत 'लखपति दीदी' पहल का लक्ष्य 3 करोड़ SHG महिलाओं को कम से कम ₹1 लाख प्रति वर्ष कमाने में मदद करना है। नई चेतना अभियान पहली बार 2022 में शुरू हुआ।",
+      "relatedDate": "2026-11-24"
+    },
+    {
+      "id": "10",
+      "category": "Sports",
+      "category_hi": "खेल",
+      "title": "KL Rahul and Rishabh Pant Complete Test Centuries in All Four SENA Countries at Wellington",
+      "title_hi": "केएल राहुल और ऋषभ पंत ने वेलिंगटन में चारों SENA देशों में टेस्ट शतक पूरे किए",
+      "image": null,
+      "summary": "During the Wellington Test against New Zealand, KL Rahul became the first Indian opener and Rishabh Pant the first Indian wicketkeeper-batter to score Test centuries in all four SENA countries.",
+      "summary_hi": "न्यूज़ीलैंड के विरुद्ध वेलिंगटन टेस्ट में केएल राहुल चारों SENA देशों में टेस्ट शतक बनाने वाले पहले भारतीय सलामी बल्लेबाज़ और ऋषभ पंत पहले भारतीय विकेटकीपर-बल्लेबाज़ बने।",
+      "content": "In the first Test against New Zealand at the Basin Reserve, Wellington, KL Rahul became the first Indian opening batter to score Test centuries in all four SENA countries — South Africa, England, New Zealand and Australia — with his 13th Test hundred. Rishabh Pant, in the same Test on 22 November 2026, became the first Indian wicketkeeper-batter to achieve the feat.\n\nScoring hundreds in SENA countries is considered a true test of a batter's skill, because their pitches offer far more pace, bounce and swing than conditions in Asia. Pant was reported to be the sixth Indian batter overall with centuries in all four SENA nations.\n\nFor IB ACIO: Venue — Basin Reserve, Wellington (India vs New Zealand); KL Rahul — first Indian opener with Test 100s in all 4 SENA countries (13th Test century); Rishabh Pant — first Indian wicketkeeper with the feat (22 Nov 2026); SENA — South Africa, England, New Zealand, Australia.",
+      "content_hi": "वेलिंगटन के बेसिन रिज़र्व में न्यूज़ीलैंड के विरुद्ध पहले टेस्ट में केएल राहुल अपने 13वें टेस्ट शतक के साथ चारों SENA देशों — दक्षिण अफ़्रीका, इंग्लैंड, न्यूज़ीलैंड और ऑस्ट्रेलिया — में टेस्ट शतक बनाने वाले पहले भारतीय सलामी बल्लेबाज़ बने। उसी टेस्ट में 22 नवंबर 2026 को ऋषभ पंत यह उपलब्धि पाने वाले पहले भारतीय विकेटकीपर-बल्लेबाज़ बने।\n\nSENA देशों में शतक बनाना बल्लेबाज़ के कौशल की असली परीक्षा माना जाता है, क्योंकि वहाँ की पिचें एशिया की तुलना में कहीं अधिक गति, उछाल और स्विंग देती हैं। बताया गया कि पंत चारों SENA देशों में शतक बनाने वाले कुल छठे भारतीय बल्लेबाज़ हैं।\n\nIB ACIO: बेसिन रिज़र्व, वेलिंगटन (भारत बनाम न्यूज़ीलैंड); केएल राहुल — चारों SENA देशों में टेस्ट शतक वाले पहले भारतीय सलामी बल्लेबाज़; ऋषभ पंत — पहले भारतीय विकेटकीपर (22 नवंबर 2026)।",
+      "question": "Which of the following countries is NOT one of the 'SENA' countries in cricket?",
+      "question_hi": "निम्न में से कौन सा देश क्रिकेट के 'SENA' देशों में से नहीं है?",
+      "options": [
+        "South Africa",
+        "Sri Lanka",
+        "New Zealand",
+        "Australia"
+      ],
+      "options_hi": [
+        "दक्षिण अफ़्रीका",
+        "श्रीलंका",
+        "न्यूज़ीलैंड",
+        "ऑस्ट्रेलिया"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SENA stands for South Africa, England, New Zealand and Australia — countries whose fast, bouncy pitches are hardest for Asian batters. Sri Lanka is the trap because its name also starts with 'S', but its spin-friendly conditions are closer to India's.",
+      "explanation_hi": "SENA का अर्थ है दक्षिण अफ़्रीका, इंग्लैंड, न्यूज़ीलैंड और ऑस्ट्रेलिया — ऐसे देश जिनकी तेज़, उछाल भरी पिचें एशियाई बल्लेबाज़ों के लिए सबसे कठिन हैं। श्रीलंका भ्रम है क्योंकि इसका नाम भी 'S' से शुरू होता है, पर इसकी स्पिन-अनुकूल परिस्थितियाँ भारत के करीब हैं।",
+      "moreInfo": "Sachin Tendulkar holds the record for the most Test centuries (51). The Basin Reserve in Wellington is New Zealand's oldest Test ground.",
+      "moreInfo_hi": "सबसे अधिक टेस्ट शतकों (51) का रिकॉर्ड सचिन तेंदुलकर के नाम है। वेलिंगटन का बेसिन रिज़र्व न्यूज़ीलैंड का सबसे पुराना टेस्ट मैदान है।",
+      "relatedDate": "2026-11-24"
+    }
+  ]
+}
